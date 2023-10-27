@@ -5,7 +5,7 @@
     {
       "active": true,
       "connectionType": "Non Metered",
-      "billingCycle": "quarterly",
+      "billingCycle": "annualy",
       "demandEndDateMillis": 2592000000,
       "demandExpiryDate": 2592000000,
       "taxPeriodFrom": 1680287400000,
