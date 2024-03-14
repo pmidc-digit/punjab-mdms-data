@@ -20,6 +20,11 @@
       "name": "Below Poverty Line",
       "code": "BPL",
       "active": true
+    },
+     {
+      "name": "Regularized",
+      "code": "REGULARIZED",
+      "active": true
     }
   ]
 }
