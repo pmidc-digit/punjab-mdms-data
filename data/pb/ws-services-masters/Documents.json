@@ -98,7 +98,7 @@
       "code": "ownership_details_registry",
       "documentType": "ownership_details_registry",
       "active": true,
-      "required": true,
+      "required":false,
       "hasDropdown": true,
       "dropdownData": [
         {
