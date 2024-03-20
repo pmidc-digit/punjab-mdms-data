@@ -3,6 +3,11 @@
   "moduleName": "ws-services-masters",
   "connectionCategory": [
     {
+      "name": "Regularized Connection",
+      "code": "REGULARIZED",
+      "active": true
+    },
+    {
       "name": "General",
       "code": "GEN",
       "active": true
