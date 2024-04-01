@@ -426,11 +426,38 @@
       "isClosed": false,
       "transferClosingBalance": false,
       "module": "SW"  
-
     },
-  {	  
-
+	 {
       "id": "31",
+      "tenantId": "pb",
+      "finYearRange": "2024-25",
+      "name": "2024-25",
+      "code": "2024-25",
+      "startingDate": 1711929600000,
+      "endingDate": 1743445799000,
+      "active": true,
+      "isActiveForPosting": true,
+      "isClosed": false,
+      "transferClosingBalance": false,
+      "module": "WS"  
+       
+    },
+    {
+      "id": "32",
+      "tenantId": "pb",
+      "finYearRange": "2024-25",
+      "name": "2024-25",
+      "code": "2024-25",
+      "startingDate": 1711929600000,
+      "endingDate": 1743445799000,
+      "active": true,
+      "isActiveForPosting": true,
+      "isClosed": false,
+      "transferClosingBalance": false,
+      "module": "SW"  
+    },
+    {
+      "id": "33",
       "tenantId": "pb",
       "finYearRange": "2024-25",
       "name": "2024-25",
@@ -441,9 +468,7 @@
       "isActiveForPosting": true,
       "isClosed": false,
       "transferClosingBalance": false,
-      "module": "PT"  
-
-	    
+      "module": "PT" 
     }
   ]
 }
