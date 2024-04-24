@@ -17,7 +17,7 @@
           "charge": 3.8,
           "meterCharge": 50,
           "effectiveFrom":1522584000000,
-          "effectiveTo":1703994720000
+          "effectiveTo":1711909799000
            
         }
       ]
@@ -37,7 +37,7 @@
           "charge": 7.6,
           "meterCharge": 50,
           "effectiveFrom":1522584000000,
-          "effectiveTo":1703994720000
+          "effectiveTo":1711909799000
         }
       ]
      },
@@ -75,35 +75,35 @@
                "to":125,
                "charge":0,
                "effectiveFrom":1522584000000,
-               "effectiveTo":1632983399000
+               "effectiveTo":1711909799000
             },
            {
                "from":0,
                "to":125,
                "charge":0,
                "effectiveFrom":1633089600000,
-               "effectiveTo":1738064071000
+               "effectiveTo":1711909799000
             },
             {
                "from":126,
                "to":250,
                "charge":315,
                "effectiveFrom":1522584000000,
-               "effectiveTo":1632983399000
+               "effectiveTo":1711909799000
             },
             {
                "from":126,
                "to":1000000000,
                "charge":150,
                "effectiveFrom":1633089600000,
-               "effectiveTo":1738064071000
+               "effectiveTo":1711909799000
             },
             {
                "from":251,
                "to":1000000000,
                "charge":420,
                "effectiveFrom":1522584000000,
-               "effectiveTo":1632983399000
+               "effectiveTo":1711909799000
             }
          ]
       },
@@ -120,14 +120,14 @@
                "to":100000000,
                "charge":900,
                "effectiveFrom":1522584000000,
-               "effectiveTo":1735636928000
+               "effectiveTo":1711909799000
             },
             {
                "from":0,
                "to":100000000,
                "charge":900,
                "effectiveFrom":1633089600000,
-               "effectiveTo":1735636928000
+               "effectiveTo":1711909799000
             }
          ]
       },
@@ -144,14 +144,14 @@
                "to":10000000,
                "charge":900,
                "effectiveFrom":1522584000000,
-               "effectiveTo":1632983399000
+               "effectiveTo":1711909799000
             },
             {
                "from":0,
                "to":100000000,
                "charge":900,
                "effectiveFrom":1633089600000,
-               "effectiveTo":1735636928000
+               "effectiveTo":1711909799000
             }
          ]
       }
