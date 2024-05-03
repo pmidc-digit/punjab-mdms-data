@@ -8,6 +8,12 @@
       "parentUsageType": "RESIDENTIAL",
       "active": true
     },
+      {
+      "code": "USAGE_DOM_LA",
+      "name": "DOMESTIC-LEASE",
+      "parentUsageType": "RESIDENTIAL",
+      "active": true
+    },
     {
       "code": "USAGE_COMM_NA",
       "name": "COMMERCIAL",
