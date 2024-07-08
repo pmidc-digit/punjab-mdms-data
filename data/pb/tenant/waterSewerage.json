@@ -4,87 +4,113 @@
 "waterSewerage": [
     {
           "code": "pb.fazilka",
-          "name": "Fazilka"
+          "name": "Fazilka",
+      "isautodemand": "false"
         },
   {
          "code": "pb.itpatiala",
-          "name": "Improvement Trust Patiala"
+          "name": "Improvement Trust Patiala",
+      "isautodemand": "false"
+        },
+  {
+         "code": "pb.amritsar",
+      "name": "Amritsar",
+      "isautodemand": "true"
         },
         {
           "code": "pb.bassipathana",
-           "name": "Bassipathana"
+           "name": "Bassipathana",
+      "isautodemand": "false"
          },
     {
           "code": "pb.sahnewal",
-           "name": "Sahnewal"
+           "name": "Sahnewal",
+      "isautodemand": "false"
          },
     {
           "code": "pb.shahkot",
-           "name": "Shahkot"
+           "name": "Shahkot",
+      "isautodemand": "false"
          },
   {
           "code": "pb.amargarh",
-           "name": "Amargarh"
+           "name": "Amargarh",
+      "isautodemand": "false"
          },
     {
           "code": "pb.boha",
-           "name": "Boha"
+           "name": "Boha",
+      "isautodemand": "false"
          },
   {
           "code": "pb.zira",
-           "name": "Zira"
+           "name": "Zira",
+      "isautodemand": "false"
          },
   {
           "code": "pb.dhariwal",
-           "name": "Dhariwal"
+           "name": "Dhariwal",
+      "isautodemand": "false"
          },
   {
           "code": "pb.adampur",
-           "name": "Adampur"
+           "name": "Adampur",
+      "isautodemand": "false"
          },
   {
           "code": "pb.jalalabad",
-           "name": "Jalalabad"
+           "name": "Jalalabad",
+      "isautodemand": "false"
          },
   {
           "code": "pb.kartarpur",
-           "name": "Kartarpur"
+           "name": "Kartarpur",
+      "isautodemand": "false"
          },
   {
           "code": "pb.tarntaran",
-           "name": "Tarntaran"
+           "name": "Tarntaran",
+      "isautodemand": "false"
          },
   {
           "code": "pb.begowal",
-           "name": "Begowal"
+           "name": "Begowal",
+      "isautodemand": "false"
          },
   {
           "code": "pb.samrala",
-           "name": "Samrala"
+           "name": "Samrala",
+      "isautodemand": "false"
          },
   {
           "code": "pb.raikot",
-           "name": "Raikot"
+           "name": "Raikot",
+      "isautodemand": "false"
          },
   {
           "code": "pb.ajnala",
-           "name": "Ajnala"
+           "name": "Ajnala",
+      "isautodemand": "false"
          },
   {
           "code": "pb.nihalsinghwala",
-           "name": "Nihalsinghwala"
+           "name": "Nihalsinghwala",
+      "isautodemand": "false"
          },
   {
           "code": "pb.sultanpurlodhi",
-           "name": "Sultanpurlodhi"
+           "name": "Sultanpurlodhi",
+      "isautodemand": "false"
          },
    {
           "code": "pb.mudki",
-           "name": "Mudki"
+           "name": "Mudki",
+      "isautodemand": "false"
          },
   {
           "code": "pb.kharar",
-           "name": "Kharar"
+           "name": "Kharar",
+      "isautodemand": "false"
          }
 ]
 }
