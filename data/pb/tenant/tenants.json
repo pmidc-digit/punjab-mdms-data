@@ -4287,7 +4287,7 @@
         "regionCode": "5",
         "municipalityName": "Morinda",
         "ddrName": "Ludhiana-DDR",
-        "pwssb": true,
+        "pwssb": false,
         "pwssbGrade": "Punjab Water Supply and Sewerage Board"
       },
       "address": "Ward 13 Kainour Bajar Morinda",
