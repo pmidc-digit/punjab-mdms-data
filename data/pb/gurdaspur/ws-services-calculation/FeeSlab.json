@@ -9,31 +9,31 @@
         {
           "fromPlotSize":"0",
           "toPlotSize":"125",
-          "securityCharge":"500",
+          "securityCharge":"100",
           "usageType":"DOMESTIC"
         },
         {
           "fromPlotSize":"126",
           "toPlotSize":"250",
-          "securityCharge":"1000",
+          "securityCharge":"250",
           "usageType":"DOMESTIC"
         },
         {
           "fromPlotSize":"251",
           "toPlotSize":"100000",
-          "securityCharge":"1000",
+          "securityCharge":"500",
           "usageType":"DOMESTIC"
         },
         {
           "fromPlotSize":"0",
           "toPlotSize":"125",
-          "securityCharge":"1000",
+          "securityCharge":"200",
           "usageType":"COMMERCIAL"
         },
         {
           "fromPlotSize":"126",
           "toPlotSize":"10000",
-          "securityCharge":"1500",
+          "securityCharge":"500",
           "usageType":"COMMERCIAL"
         },
         {
@@ -45,7 +45,7 @@
         {
           "fromPlotSize":"126",
           "toPlotSize":"100000",
-          "securityCharge":"1500",
+          "securityCharge":"1000",
           "usageType":"INDUSTRIAL"
         },
         {
@@ -57,7 +57,7 @@
         {
           "fromPlotSize":"126",
           "toPlotSize":"100000",
-          "securityCharge":"1500",
+          "securityCharge":"1000",
           "usageType":"INSTITUTIONAL"
         }
       ],
