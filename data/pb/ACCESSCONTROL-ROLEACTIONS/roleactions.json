@@ -9368,12 +9368,6 @@
         "actionid": 699,
         "actioncode": "",
         "tenantId": "pb"
-    },
-    {
-      "rolecode": "SURVEY_ADMIN",
-      "actionid": 890031,
-      "actioncode": "",
-      "tenantid": "pb"
     }
   ]
 }
