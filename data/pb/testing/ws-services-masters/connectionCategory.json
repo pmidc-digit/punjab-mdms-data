@@ -8,6 +8,11 @@
       "active": true
     },
     {
+      "name": "Legacy Connection",
+      "code": "LEGACY",
+      "active": true
+    },
+    {
       "name": "General",
       "code": "GEN",
       "active": true
