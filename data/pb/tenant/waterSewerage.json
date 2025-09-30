@@ -125,7 +125,7 @@
     {
       "code": "pb.batala",
       "name": "Batala",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.bhadson",
@@ -195,6 +195,11 @@
     {
       "code": "pb.fazilka",
       "name": "Fazilka",
+      "isautodemand": "false"
+    },
+    {
+      "code": "pb.ferozepur",
+      "name": "Ferozepur",
       "isautodemand": "false"
     },
     {
@@ -395,7 +400,7 @@
     {
       "code": "pb.tapa",
       "name": "Tapa",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.tarntaran",
@@ -420,7 +425,7 @@
     {
       "code": "pb.nurmahal",
       "name": "Nurmahal",
-      "isautodemand": "true"
+      "isautodemand": "false"
     }
   ]
 }
