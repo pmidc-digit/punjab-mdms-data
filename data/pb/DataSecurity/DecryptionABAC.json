@@ -38,19 +38,19 @@
           "attributeAccessList": [
             {
               "attribute": {
-                "jsonPath": "*/Applicant_Name"
+                "jsonPath": "*/applicant_mobile_no"
               },
               "accessType": "PLAIN"
             },
             {
               "attribute": {
-                "jsonPath": "*/Applicant_Mobileno"
+                "jsonPath": "*/applicant_email_id"
               },
               "accessType": "PLAIN"
             },
             {
               "attribute": {
-                "jsonPath": "*/Applicant_EmailId"
+                "jsonPath": "*/applicant_name"
               },
               "accessType": "PLAIN"
             }
