@@ -31,6 +31,34 @@
       ]
     },
     {
+      "key": "CHBREPORTS",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "CHB REPORTS",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/Applicant Name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/Applicant Mobileno"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/Applicant EmailId"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "key": "NDCAPPLICATION",
       "roleAttributeAccessList": [
         {
