@@ -2571,7 +2571,18 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": false,
       "isActive": true
+    },
+    {
+      "businessService": "GC.ONE_TIME_FEE",
+      "code": "GC.ONE_TIME_FEE",
+      "collectionModesNotAllowed": [
+        ""
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "cancelReceipt": true
     }
-
   ]
 }
