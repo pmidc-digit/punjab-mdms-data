@@ -89,7 +89,7 @@
     {
       "code": "APPLICANT.DISCOUNTPROOF",
       "documentType": "APPLICANT.DISCOUNTPROOF",
-      "required": true,
+      "required": false,
       "active": true,
       "hasDropdown": true,
       "additionalDetails": {
