@@ -89,8 +89,27 @@
     {
       "code": "APPLICANT.DISCOUNTPROOF",
       "documentType": "APPLICANT.DISCOUNTPROOF",
-      "required": false,
+      "required": true,
       "active": true,
+      "hasDropdown": true,
+      "additionalDetails": {
+        "enabledActions": {
+          "update": {
+            "disableUpload": true,
+            "disableDropdown": true
+          },
+          "create": {
+            "disableUpload": false,
+            "disableDropdown": false
+          }
+        }
+      },
+      "dropdownData": [
+        {
+          "code": "APPLICANT.DISCOUNTPROOF.APPROVAL",
+          "active": true
+        }
+      ],
       "description": "APPLICANT.DISCOUNTPROOF_DESCRIPTION"
     }
   ]
