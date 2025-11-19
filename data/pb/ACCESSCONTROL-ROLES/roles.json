@@ -624,6 +624,11 @@
       "description": "For NOC Card Display in Dashboard"
     },
     {
+      "code": "VIEW_CLU_CARD",
+      "name": "View CLU Card",
+      "description": "For CLU Card Display in Dashboard"
+    },
+    {
       "code": "VIEW_PT_CARD",
       "name": "View PT Card",
       "description": "For PT Card Display in Dashboard"
@@ -802,6 +807,11 @@
       "code": "VIEW_BPA_STAKEHOLDER_CARD",
       "name": "VIEW BPA Stakeholder Card",
       "description": "For Stakeholder Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_LAYOUT_CARD",
+      "name": "VIEW Layout Card",
+      "description": "For Layout Card Display in Dashboard"
     },
     {
       "code": "Testing",
@@ -986,6 +996,56 @@
       "code": "STP(HQ)",
       "name": "STP(HQ)",
       "description": "BPA Stakeholder workflow Approver"
+    },
+    {
+      "code": "BPA_LEVEL1_VERIFIER",
+      "name": "BPA Level 1 Verifier",
+      "description": "BPA Level 1 workflow Verifier"
+    },
+    {
+      "code": "BPA_LEVEL2_VERIFIER",
+      "name": "BPA Level 2 Verifier",
+      "description": "BPA Level 2 workflow Verifier"
+    },
+    {
+      "code": "BPA_LEVEL3_VERIFIER",
+      "name": "BPA Level 3 Verifier",
+      "description": "BPA Level 3 workflow Verifier"
+    },
+    {
+      "code": "BPA_STP_APPROVER",
+      "name": "BPA STP  Approver",
+      "description": "BPA STP workflow Approver"
+    },
+    {
+      "code": "BPA_ATPHQ_APPROVER",
+      "name": "BPA ATP HQ Approver",
+      "description": "BPA ATP HQ workflow Approver"
+    },
+    {
+      "code": "BPA_MTPHQ_APPROVER",
+      "name": "BPA MTP HQ Approver",
+      "description": "BPA MTP HQ workflow Approver"
+    },
+    {
+      "code": "BPA_STPHQ_APPROVER",
+      "name": "BPA STP HQ Approver",
+      "description": "BPA STP HQ workflow Approver"
+    },
+    {
+      "code": "BPA_JC_APPROVER",
+      "name": "BPA JC Approver",
+      "description": "BPA JC workflow Approver"
+    },
+    {
+      "code": "BPA_EO_APPROVER",
+      "name": "BPA EO Approver",
+      "description": "BPA EO workflow Approver"
+    },
+    {
+      "code": "BPA_MC_APPROVER",
+      "name": "BPA MC Approver",
+      "description": "BPA MC workflow Approver"
     }
 
 
