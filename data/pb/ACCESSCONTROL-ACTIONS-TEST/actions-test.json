@@ -24528,6 +24528,17 @@
       "serviceCode": "ADVREPORTS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 8900945,
+      "name": "Clu Collection Search Reciept",
+      "url": "/collection-services/payments/clu/_search",
+      "displayName": "Search Payment",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
     }
   ]
 }
