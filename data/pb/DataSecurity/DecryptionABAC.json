@@ -3,6 +3,34 @@
   "moduleName": "DataSecurity",
   "DecryptionABAC": [
     {
+      "key": "ADVREPORTS",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "ADV REPORTS",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/applicant_mobile_no"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/applicant_email_id"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/applicant_name"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "key": "PETREPORTS",
       "roleAttributeAccessList": [
         {
@@ -38,19 +66,19 @@
           "attributeAccessList": [
             {
               "attribute": {
-                "jsonPath": "*/Applicant Name"
+                "jsonPath": "*/applicant_mobile_no"
               },
               "accessType": "PLAIN"
             },
             {
               "attribute": {
-                "jsonPath": "*/Applicant Mobileno"
+                "jsonPath": "*/applicant_email_id"
               },
               "accessType": "PLAIN"
             },
             {
               "attribute": {
-                "jsonPath": "*/Applicant EmailId"
+                "jsonPath": "*/applicant_name"
               },
               "accessType": "PLAIN"
             }
