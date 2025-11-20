@@ -1653,5 +1653,14 @@
         "EVENT"
       ]
     }
+    ,
+    {
+      "businessService": "chb-services",
+      "module": "CHB",
+      "action": "INITIATE",
+      "channelNames": [
+        "SMS"
+      ]
+    }
   ]
 }
