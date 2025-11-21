@@ -24539,6 +24539,42 @@
       "serviceCode": "COLLECTION",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 8900946,
+      "name": "My Applications",
+      "url": "digit-ui-card",
+      "displayName": "Garbage Collection",
+      "orderNumber": 1,
+      "parentModule": "GarbageCollection",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/garbage-collection/my-application",
+      "leftIcon": "MCollectIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/garbage-collection-home"
+    },
+    {
+      "id": 8900947,
+      "name": "Create Application",
+      "url": "digit-ui-card",
+      "displayName": "Garbage Collection",
+      "orderNumber": 1,
+      "parentModule": "GarbageCollection",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/garbage-collection/create-application",
+      "leftIcon": "MCollectIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/garbage-collection-home"
     }
   ]
 }
