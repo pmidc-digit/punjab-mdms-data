@@ -24543,7 +24543,7 @@
     {
       "id": 8900946,
       "name": "My Applications",
-      "url": "digit-ui-card",
+      "url": "url",
       "i18nKey": "My Applications",
       "displayName": "My Applications",
       "orderNumber": 1,
@@ -24562,7 +24562,7 @@
     {
       "id": 8900947,
       "name": "Create Application",
-      "url": "digit-ui-card",
+      "url": "url",
       "i18nKey": "Create Application",
       "displayName": "Create Application",
       "orderNumber": 2,
