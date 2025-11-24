@@ -24565,7 +24565,7 @@
       "url": "digit-ui-card",
       "i18nKey": "Create Application",
       "displayName": "Garbage Collection",
-      "orderNumber": 1,
+      "orderNumber": 2,
       "parentModule": "GarbageCollection",
       "enabled": true,
       "serviceCode": "GarbageCollection",
