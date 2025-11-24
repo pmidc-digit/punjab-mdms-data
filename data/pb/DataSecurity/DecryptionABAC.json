@@ -115,6 +115,12 @@
                 "jsonPath": "*/employee_name"
               },
               "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/assignee_employee"
+              },
+              "accessType": "PLAIN"
             }
           ]
         }
