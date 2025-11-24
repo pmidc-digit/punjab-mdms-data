@@ -136,7 +136,7 @@
             "name": "Garbage Collection",
             "label": "ACTION_TEST_GARBAGE_COLLECTION",
             "enabled": true,
-            "navigationUrl": "/digit-ui/citizen/garbage-collection-home"
+            "navigationUrl": "/digit-ui/citizen/garbagecollection-home"
           }
         ]
       },

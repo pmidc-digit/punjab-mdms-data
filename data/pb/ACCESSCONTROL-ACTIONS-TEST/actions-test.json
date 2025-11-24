@@ -24552,12 +24552,12 @@
       "serviceCode": "GarbageCollection",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/citizen/garbage-collection/my-application",
+      "navigationURL": "/digit-ui/citizen/garbagecollection/my-application",
       "leftIcon": "MCollectIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/garbage-collection-home"
+      "sidebarURL": "/digit-ui/citizen/garbagecollection-home"
     },
     {
       "id": 8900947,
@@ -24571,12 +24571,12 @@
       "serviceCode": "GarbageCollection",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/citizen/garbage-collection/create-application",
+      "navigationURL": "/digit-ui/citizen/garbagecollection/create-application",
       "leftIcon": "MCollectIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/garbage-collection-home"
+      "sidebarURL": "/digit-ui/citizen/garbagecollection-home"
     }
   ]
 }
