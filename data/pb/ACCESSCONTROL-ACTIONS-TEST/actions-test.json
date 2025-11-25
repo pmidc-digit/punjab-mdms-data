@@ -24577,6 +24577,43 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/garbagecollection-home"
+    },
+    {
+      "id": 8900950,
+      "name": "Receipt Register NDC",
+      "url": "url",
+      "displayName": "Receipt Register NDC",
+      "orderNumber": 4,
+      "queryParams": "",
+      "parentModule": "NDC REPORTS",
+      "enabled": true,
+      "serviceCode": "NDCREPORTS",
+      "path": "NDC Reports.Receipt Register NDC",
+      "navigationURL": "report/rainmaker-ndc/ReceiptRegisterNDC",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900949,
+      "name": "Receipt Register NDC",
+      "url": "/report/rainmaker-ndc/ReceiptRegisterNDC/metadata/_get",
+      "displayName": "Receipt Register NDC",
+      "orderNumber": 4,
+      "enabled": true,
+      "serviceCode": "NDCREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900948,
+      "name": "Receipt Register NDC",
+      "url": "/report/rainmaker-ndc/ReceiptRegisterNDC/_get",
+      "displayName": "Receipt Register NDC",
+      "orderNumber": 4,
+      "enabled": true,
+      "serviceCode": "NDCREPORTS",
+      "code": "null",
+      "path": ""
     }
   ]
 }
