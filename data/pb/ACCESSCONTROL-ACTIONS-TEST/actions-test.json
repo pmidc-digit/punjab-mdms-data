@@ -24614,6 +24614,43 @@
       "serviceCode": "NDCREPORTS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 8900951,
+      "name": "Receipt Register PET",
+      "url": "url",
+      "displayName": "Receipt Register PET",
+      "orderNumber": 4,
+      "queryParams": "",
+      "parentModule": "PET REPORTS",
+      "enabled": true,
+      "serviceCode": "PETREPORTS",
+      "path": "PET Reports.Receipt Register PET",
+      "navigationURL": "report/rainmaker-ptr/ReceiptRegisterPET",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900952,
+      "name": "Receipt Register PET",
+      "url": "/report/rainmaker-ptr/Receipt Register PET/metadata/_get",
+      "displayName": "Receipt Register PET",
+      "orderNumber": 4,
+      "enabled": true,
+      "serviceCode": "PETREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900953,
+      "name": "Receipt Register PET",
+      "url": "/report/rainmaker-ptr/ReceiptRegisterPET/_get",
+      "displayName": "Receipt Register PET",
+      "orderNumber": 4,
+      "enabled": true,
+      "serviceCode": "PETREPORTS",
+      "code": "null",
+      "path": ""
     }
   ]
 }
