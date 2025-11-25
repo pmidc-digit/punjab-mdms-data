@@ -238,6 +238,24 @@
     },
     {
       "rolecode": "NDC REPORTS",
+      "actionid": 8900948,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC REPORTS",
+      "actionid": 8900949,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC REPORTS",
+      "actionid": 8900950,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC REPORTS",
       "actionid": 23395,
       "actioncode": "",
       "tenantId": "pb"
