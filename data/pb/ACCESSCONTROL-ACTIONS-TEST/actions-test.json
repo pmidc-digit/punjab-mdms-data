@@ -24667,6 +24667,43 @@
       "navigationURL": "/digit-ui/employee/garbagecollection/inbox",
       "leftIcon": "custom:open-NDCMODULE",
       "rightIcon": ""
+    },
+    {
+      "id": 8900955,
+      "name": "Receipt Register CHB",
+      "url": "url",
+      "displayName": "Receipt Register CHB",
+      "orderNumber": 4,
+      "queryParams": "",
+      "parentModule": "CHB REPORTS",
+      "enabled": true,
+      "serviceCode": "CHBREPORTS",
+      "path": "CHB Reports.Receipt Register CHB",
+      "navigationURL": "report/rainmaker-chb/ReceiptRegisterCHB",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900957,
+      "name": "Receipt Register CHB",
+      "url": "/report/rainmaker-chb/ReceiptRegisterCHB/metadata/_get",
+      "displayName": "Receipt Register CHB",
+      "orderNumber": 4,
+      "enabled": true,
+      "serviceCode": "CHBREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900956,
+      "name": "Receipt Register CHB",
+      "url": "/report/rainmaker-chb/ReceiptRegisterCHB/_get",
+      "displayName": "Receipt Register CHB",
+      "orderNumber": 4,
+      "enabled": true,
+      "serviceCode": "CHBREPORTS",
+      "code": "null",
+      "path": ""
     }
   ]
 }
