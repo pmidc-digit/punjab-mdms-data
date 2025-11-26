@@ -1045,6 +1045,11 @@
 			"isStateLevel": false,
 			"uniqueKeys": []
 		},
+		"DisconnectionFee": {
+			"masterName": "DisconnectionFee",
+			"isStateLevel": true,
+			"uniqueKeys": []
+		}, 
 		"CalculationAttribute": {
 			"masterName": "CalculationAttribute",
 			"isStateLevel": false,

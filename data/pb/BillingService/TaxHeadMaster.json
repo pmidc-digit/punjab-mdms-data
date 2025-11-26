@@ -6139,6 +6139,16 @@
       "order": "12",
       "service": "WS.ONE_TIME_FEE"
     },
+     {
+      "category": "FEE",
+      "code": "WS_DISCONNECTION_FEE",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Water Disconnection fee",
+      "order": "13",
+      "service": "WS_DISCONNECTION_FEE"
+    },  
     {
       "category": "TAX",
       "service": "ADVT.Composition_Fees",
