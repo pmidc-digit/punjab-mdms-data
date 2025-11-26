@@ -22895,6 +22895,24 @@
       "sidebarURL": "/digit-ui/citizen/challangeneration-home"
     },
     {
+      "id": 23382,
+      "name": "UC_MY_CHALLANS",
+      "url": "digit-ui-card",
+      "displayName": "Garbage Collection",
+      "orderNumber": 1,
+      "parentModule": "GarbageCollection",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/garbagecollection/My-Challans",
+      "leftIcon": "MCollectIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/garbagecollection-home"
+    },
+    {
       "id": 23383,
       "name": "UC_MY_CHALLANS",
       "url": "digit-ui-card",
@@ -24540,44 +24558,7 @@
       "code": "null",
       "path": ""
     },
-    {
-      "id": 8900946,
-      "name": "My Applications",
-      "url": "digit-ui-card",
-      "i18nKey": "My Applications",
-      "displayName": "My Applications",
-      "orderNumber": 1,
-      "parentModule": "GarbageCollection",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "",
-      "path": "",
-      "navigationURL": "/digit-ui/citizen/garbagecollection/my-application",
-      "leftIcon": "MCollectIcon",
-      "rightIcon": "",
-      "queryParams": "",
-      "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/garbagecollection-home"
-    },
-    {
-      "id": 8900947,
-      "name": "Create Application",
-      "url": "digit-ui-card",
-      "i18nKey": "Create Application",
-      "displayName": "Create Application",
-      "orderNumber": 2,
-      "parentModule": "GarbageCollection",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "",
-      "path": "",
-      "navigationURL": "/digit-ui/citizen/garbagecollection/create-application",
-      "leftIcon": "MCollectIcon",
-      "rightIcon": "",
-      "queryParams": "",
-      "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/garbagecollection-home"
-    },
+
     {
       "id": 8900950,
       "name": "Receipt Register NDC",
@@ -24651,22 +24632,6 @@
       "serviceCode": "PETREPORTS",
       "code": "null",
       "path": ""
-    },
-    {
-      "id": 8900954,
-      "name": "Garbage Collection Inbox",
-      "url": "url",
-      "displayName": "Search Garbage Application",
-      "orderNumber": 1,
-      "queryParams": "",
-      "parentModule": "GarbageCollection",
-      "enabled": true,
-      "serviceCode": "GarbageCollection",
-      "code": "null",
-      "path": "GarbageCollection.GarbageCollection Reports.HRMSEmployee wise Report",
-      "navigationURL": "/digit-ui/employee/garbagecollection/inbox",
-      "leftIcon": "custom:open-NDCMODULE",
-      "rightIcon": ""
     }
   ]
 }
