@@ -64372,7 +64372,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-   {
+    {
       "rolecode": "BPA_ARCHITECT",
       "actionid": 8900902,
       "actioncode": "",
@@ -64498,7 +64498,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
 
     {
       "rolecode": "JE",
@@ -64585,9 +64584,6 @@
       "tenantId": "pb"
     },
 
-
-
-
     {
       "rolecode": "JE",
       "actionid": 8900912,
@@ -64672,15 +64668,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
-
-
-
-
-
-
-
-
 
     {
       "rolecode": "JE",
@@ -64891,9 +64878,7 @@
       "actionid": 8900913,
       "actioncode": "",
       "tenantId": "pb"
-    }
-    ,
-
+    },
     {
       "rolecode": "JE",
       "actionid": 8900803,
@@ -65164,7 +65149,7 @@
       "actionid": 8900925,
       "actioncode": "",
       "tenantId": "pb"
-    },   
+    },
     {
       "rolecode": "CITIZEN",
       "actionid": 8900926,
@@ -65176,7 +65161,7 @@
       "actionid": 8900927,
       "actioncode": "",
       "tenantId": "pb"
-    },   
+    },
     {
       "rolecode": "CITIZEN",
       "actionid": 8900928,
@@ -65291,8 +65276,7 @@
       "actionid": 3005,
       "actioncode": "",
       "tenantId": "pb"
-    }
-    ,
+    },
     {
       "rolecode": "JE",
       "actionid": 1782,
@@ -65423,6 +65407,12 @@
     {
       "rolecode": "CITIZEN",
       "actionid": 8900804,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 8900954,
       "actioncode": "",
       "tenantId": "pb"
     }

@@ -24651,6 +24651,22 @@
       "serviceCode": "PETREPORTS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 8900954,
+      "name": "Garbage Collection Inbox",
+      "url": "url",
+      "displayName": "Search Garbage Application",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "GarbageCollection",
+      "enabled": true,
+      "serviceCode": "GarbageCollection",
+      "code": "null",
+      "path": "GarbageCollection.GarbageCollection Reports.HRMSEmployee wise Report",
+      "navigationURL": "/digit-ui/employee/garbagecollection/inbox",
+      "leftIcon": "custom:open-NDCMODULE",
+      "rightIcon": ""
     }
   ]
 }
