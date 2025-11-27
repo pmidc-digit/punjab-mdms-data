@@ -6146,7 +6146,7 @@
       "isDebit": false,
       "isRequired": false,
       "name": "Water Disconnection fee",
-      "order": "13",
+      "order": "15",
       "service": "WS_DISCONNECTION_FEE"
     },  
     {
@@ -7394,6 +7394,16 @@
       "order": "14",
       "service": "SW.ONE_TIME_FEE"
     },
+         {
+      "category": "FEE",
+      "code": "SW_DISCONNECTION_FEE",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Sewerage Disconnection fee",
+      "order": "15",
+      "service": "SW_DISCONNECTION_FEE"
+    },  
     {
       "category": "FEE",
       "service": "pet-services",
