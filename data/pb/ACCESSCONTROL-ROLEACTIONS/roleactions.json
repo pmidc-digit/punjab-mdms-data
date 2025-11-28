@@ -118,6 +118,24 @@
     },
     {
       "rolecode": "PET REPORTS",
+      "actionid": 8900951,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PET REPORTS",
+      "actionid": 8900952,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PET REPORTS",
+      "actionid": 8900953,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PET REPORTS",
       "actionid": 5560,
       "actioncode": "",
       "tenantId": "pb"
@@ -235,6 +253,24 @@
       "actionid": 23451581,
       "actioncode": "",
       "tenantid": "pb"
+    },
+    {
+      "rolecode": "NDC REPORTS",
+      "actionid": 8900948,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC REPORTS",
+      "actionid": 8900949,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC REPORTS",
+      "actionid": 8900950,
+      "actioncode": "",
+      "tenantId": "pb"
     },
     {
       "rolecode": "NDC REPORTS",
