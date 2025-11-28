@@ -1,0 +1,12 @@
+{
+  "tenantId": "pb",
+  "moduleName": "tenant",
+  "garbage": [
+    {
+      "code": "pb.testing",
+      "name": "Testing",
+      "isautodemand": "true"
+    }
+
+  ]
+}

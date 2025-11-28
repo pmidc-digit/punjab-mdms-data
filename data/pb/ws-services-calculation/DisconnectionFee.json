@@ -1,0 +1,10 @@
+{
+  "tenantId": "pb",
+  "moduleName": "ws-services-calculation",
+  "DisconnectionFee": [
+    {
+      "disconnectionFee": 100,
+      "isActive": true
+    }
+  ]
+}
