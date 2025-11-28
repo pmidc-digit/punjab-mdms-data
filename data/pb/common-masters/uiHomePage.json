@@ -134,7 +134,7 @@
           {
             "code": "CITIZEN_SERVICE_GARBAGECOLLECTION",
             "name": "Garbage Collection",
-            "label": "ACTION_TEST_GARBAGE_COLLECTION",
+            "label": "ACTION_TEST_GARBAGECOLLECTION",
             "enabled": true,
             "navigationUrl": "/digit-ui/citizen/garbagecollection-home"
           }
