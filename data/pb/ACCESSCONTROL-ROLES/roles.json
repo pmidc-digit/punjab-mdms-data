@@ -1057,6 +1057,31 @@
       "code": "VIEW_GARBAGE_COLLECTION_CARD",
       "name": "Garbage Collection",
       "description": "Garbage Collection"
+    },
+    {
+      "code": "GC_CEMP",
+      "name": "GC_CEMP",
+      "description": "Garbage connection Counter employee"
+    },
+    {
+      "code": "GC_DOC_VERIFIER",
+      "name": "GC_DOC_VERIFIER",
+      "description": "Garbage connection doc verifier employee"
+    },
+    {
+      "code": "GC_FIELD_INSPECTOR",
+      "name": "GC_FIELD_INSPECTOR",
+      "description": "Garbage connection fiels inspector verifier employee"
+    },
+    {
+      "code": "GC_APPROVER",
+      "name": "GC_APPROVER",
+      "description": "Garbage connection approver employee"
+    },
+    {
+      "code": "GC_CLERK",
+      "name": "GC_CLERK",
+      "description": "Garbage connection clerk employee"
     }
   ]
 }

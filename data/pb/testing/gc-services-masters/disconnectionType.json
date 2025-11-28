@@ -1,5 +1,5 @@
 {
-    "tenantId": "pb.fazilka",
+    "tenantId": "pb.testing",
     "moduleName": "gc-services-masters",
     "disconnectionType": [
       {

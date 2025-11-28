@@ -3,8 +3,8 @@
   "moduleName": "tenant",
   "garbage": [
     {
-      "code": "pb.fazilka",
-      "name": "Fazilka",
+      "code": "pb.testing",
+      "name": "Testing",
       "isautodemand": "true"
     }
 
