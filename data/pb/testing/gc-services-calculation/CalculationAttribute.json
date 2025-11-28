@@ -1,20 +1,17 @@
 {
-  "tenantId": "pb.fazilka",
-  "moduleName": "gc-services-masters",
-  "connectionType": [
+  "tenantId": "pb.testing",
+  "moduleName": "gc-services-calculation",
+  "CalculationAttribute": [
     {
       "name": "Metered",
       "code": "Metered",
+      "attribute": "PLOT_BASED",
       "active": true
     },
     {
       "name": "Non Metered",
       "code": "Non Metered",
-      "active": true
-    },
-    {
-      "name": "Bulk-supply",
-      "code": "Bulk-supply",
+      "attribute": "PLOT_BASED",
       "active": true
     }
   ]

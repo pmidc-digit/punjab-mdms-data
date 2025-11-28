@@ -1099,6 +1099,20 @@
         "$.code"
       ]
     },
+    "GarbageCollectionFrequency": {
+      "masterName": "GarbageCollectionFrequency",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "TypeOfWaste": {
+      "masterName": "TypeOfWaste",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
     "ModifyConnectionDocuments": {
       "masterName": "ModifyConnectionDocuments",
       "isStateLevel": true,
