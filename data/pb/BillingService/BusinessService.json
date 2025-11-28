@@ -1823,6 +1823,20 @@
       "cancelReceipt": true
     },
     {
+      "businessService": "gc-services-calculation",
+      "code": "GC",
+      "collectionModesNotAllowed": [
+        ""
+      ],
+      "partPaymentAllowed": true,
+      "isAdvanceAllowed": true,
+      "demandUpdateTime": 86400000,
+      "isVoucherCreationEnabled": false,
+      "billGineiURL": "egov-searcher/bill-genie/garbagebills/_get",
+      "isBillAmendmentEnabled": true,
+      "cancelReceipt": true
+    },
+    {
       "businessService": "sw-services-calculation",
       "code": "SW",
       "collectionModesNotAllowed": [
@@ -2571,7 +2585,18 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": false,
       "isActive": true
+    },
+    {
+      "businessService": "GC.ONE_TIME_FEE",
+      "code": "GC.ONE_TIME_FEE",
+      "collectionModesNotAllowed": [
+        ""
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "cancelReceipt": true
     }
-
   ]
 }
