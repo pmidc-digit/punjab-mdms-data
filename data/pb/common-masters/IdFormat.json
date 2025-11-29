@@ -860,7 +860,7 @@
     },
     {
       "format": "GC/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_GC_RECEIPT_ID]",
-      "idname": "gc.receipt.id"
+      "idname": "gc.one_time_fee.receipt.id"
     }
   ]
 }
