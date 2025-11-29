@@ -857,6 +857,10 @@
     {
       "format": "GC_AP/[CITY.CODE]/[fy:yyyy-yy]/[DC_SEQ_GC_APP_ID]",
       "idname": "garbageservice.disconnection.id"
+    },
+    {
+      "format": "GC/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_GC_RECEIPT_ID]",
+      "idname": "gc.receipt.id"
     }
   ]
 }
