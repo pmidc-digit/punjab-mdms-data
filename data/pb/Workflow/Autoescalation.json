@@ -1,61 +1,85 @@
 {
-    "tenantId": "pb",
-    "moduleName": "Workflow",
-    "AutoEscalation": [
-       {
-        "businessService": "NewTL",
-        "module": "tl-services",
-        "state": "APPLIED",
-        "action": "FORWARD",
-        "active": "true",
-        "stateSLA": 2.0,
-        "businessSLA": null,
-        "topic": "tl-auto-escalation"
-      },
-         {
-        "businessService": "NewTL",
-        "module": "tl-services",
-        "state": "FIELDINSPECTION",
-        "action": "FORWARD",
-        "active": "true",
-        "stateSLA": 2.0,
-        "businessSLA": null,
-        "topic": "tl-auto-escalation"
-      },
-      
-        {
-        "businessService": "NewTL",
-        "module": "tl-services",
-        "state": "PENDINGAPPROVAL",
-        "action": "APPROVE",
-        "active": "true",
-        "stateSLA": 2.0,
-        "businessSLA": null,
-        "topic": "tl-auto-escalation"
-      },
-      {
-        "businessService": "BPA_LOW",
-        "module": "bpa-service",
-		"startSlaState": "DOC_VERIFICATION_PENDING",
-        "state": "INSPECTION_PENDING",
-        "action": "SENDFORAPPROVAL",
-        "active": "true",
-        "stateSLA": 86400000,
-        "businessSLA": null,
-        "topic" : "bpa-auto-escalation",
-		"comment": "Auto Send For Verification."
-      },
-	  {
-	    "businessService": "BPA_LOW",
-	    "module": "bpa-service",
-	    "startSlaState": "DOC_VERIFICATION_PENDING",
-	    "state": "DOC_VERIFICATION_PENDING,PENDINGAPPROVAL,PULLED_BACK",
-	    "action": "VERIFY",
-	    "active": "true",
-	    "stateSLA": 172800000,
-	    "businessSLA": null,
-	    "topic" : "bpa-auto-escalation",
-		"comment": "Auto Verified."
-	  }
-    ]
-  }
+  "tenantId": "pb",
+  "moduleName": "Workflow",
+  "AutoEscalation": [
+    {
+      "businessService": "NewTL",
+      "module": "tl-services",
+      "state": "APPLIED",
+      "action": "FORWARD",
+      "active": "true",
+      "stateSLA": 2.0,
+      "businessSLA": null,
+      "topic": "tl-auto-escalation"
+    },
+    {
+      "businessService": "NewTL",
+      "module": "tl-services",
+      "state": "FIELDINSPECTION",
+      "action": "FORWARD",
+      "active": "true",
+      "stateSLA": 2.0,
+      "businessSLA": null,
+      "topic": "tl-auto-escalation"
+    },
+    {
+      "businessService": "NewTL",
+      "module": "tl-services",
+      "state": "PENDINGAPPROVAL",
+      "action": "APPROVE",
+      "active": "true",
+      "stateSLA": 2.0,
+      "businessSLA": null,
+      "topic": "tl-auto-escalation"
+    },
+    {
+      "businessService": "BPA_LOW",
+      "module": "bpa-service",
+      "startSlaState": "DOC_VERIFICATION_PENDING",
+      "state": "INSPECTION_PENDING",
+      "action": "SENDFORAPPROVAL",
+      "active": "false",
+      "stateSLA": 86400000,
+      "businessSLA": null,
+      "topic": "bpa-auto-escalation",
+      "comment": "Auto Send For Verification."
+    },
+    {
+      "businessService": "BPA_LOW",
+      "module": "bpa-service",
+      "startSlaState": "DOC_VERIFICATION_PENDING",
+      "state": "DOC_VERIFICATION_PENDING,PENDINGAPPROVAL,PULLED_BACK",
+      "action": "VERIFY",
+      "active": "false",
+      "stateSLA": 172800000,
+      "businessSLA": null,
+      "topic": "bpa-auto-escalation",
+      "comment": "Auto Verified."
+    },
+    {
+      "businessService": "BPAREG",
+      "module": "BPAREG",
+      "startSlaState": "INITIATED",
+      "state": "APPROVED",
+      "action": "EXPIRY",
+      "active": "true",
+      "stateSLA": 0,
+      "businessSLA": null,
+      "topic": "update-tl-tradelicense",
+      "comment": "Auto Expried."
+    },
+    {
+      "businessService": "BPAREG",
+      "module": "BPAREG",
+      "startSlaState": "INITIATED",
+      "state": "APPROVED",
+      "action": "REMINDER",
+      "active": "false",
+      "reminderPeriod": 1296000000,
+      "stateSLA": 0,
+      "businessSLA": null,
+      "topic": "update-tl-tradelicense",
+      "comment": "Auto Expried."
+    }
+  ]
+}
