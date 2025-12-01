@@ -863,8 +863,8 @@
       "idname": "gc.one_time_fee.receipt.id"
     },
     {
-      "format": "PB-RL-[cy:yyyy-MM-dd]-[SEQ_EG_RL_APPLICATION]",
-      "idname": "rl.application.number"
+      "format": "PB-RL-[fy:yyyy-yy]-[SEQ_EG_RL_APPLICATION_NUMBER]",
+      "idname": "rl.applicationnumber"
     }
   ]
 }
