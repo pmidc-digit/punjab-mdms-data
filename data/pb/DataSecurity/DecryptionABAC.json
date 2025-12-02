@@ -10,6 +10,18 @@
           "attributeAccessList": [
             {
               "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/mobilenumber"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
                 "jsonPath": "*/collectorname"
               },
               "accessType": "PLAIN"
