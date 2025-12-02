@@ -10,13 +10,25 @@
           "attributeAccessList": [
             {
               "attribute": {
-                "jsonPath": "*/applicant_mobile_no"
+                "jsonPath": "*/collectorname"
               },
               "accessType": "PLAIN"
             },
             {
               "attribute": {
-                "jsonPath": "*/applicant_email_id"
+                "jsonPath": "*/payername"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/ownername1"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/applicant_mobile_no"
               },
               "accessType": "PLAIN"
             },
