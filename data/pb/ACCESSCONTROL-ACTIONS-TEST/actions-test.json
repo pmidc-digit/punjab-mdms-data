@@ -24732,18 +24732,6 @@
       "code": "null",
       "path": ""
     },
-    {
-      "id": 8900876,
-      "name": "GC Calculator",
-      "url": "/gc-calculator/garbageCalculator/_estimate",
-      "parentModule": "",
-      "displayName": "GC Estimation",
-      "orderNumber": 0,
-      "enabled": false,
-      "serviceCode": "gc-calculator",
-      "code": "null",
-      "path": ""
-    },
 
     {
       "id": 8900955,

@@ -65530,42 +65530,6 @@
       "actionid": 8900956,
       "actioncode": "",
       "tenantId": "pb"
-    },
-    {
-      "rolecode": "GC_CLERK",
-      "actionid": 8900876,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 8900876,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "GC_APPROVER",
-      "actionid": 8900876,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "GC_FIELD_INSPECTOR",
-      "actionid": 8900876,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "GC_DOC_VERIFIER",
-      "actionid": 8900876,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "GC_CEMP",
-      "actionid": 8900876,
-      "actioncode": "",
-      "tenantId": "pb"
     }
   ]
 }
