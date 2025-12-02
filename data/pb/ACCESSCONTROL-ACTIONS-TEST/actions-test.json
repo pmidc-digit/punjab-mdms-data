@@ -22930,7 +22930,7 @@
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/rentandlease-home"
     },
-     {
+    {
       "id": 8900909,
       "name": "Rent And Lease Inbox",
       "url": "url",
@@ -24609,6 +24609,23 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/garbagecollection-home"
+    },
+
+    {
+      "id": 89008923,
+      "name": "GarbageCollection Inbox",
+      "url": "url",
+      "displayName": "Garbage Collection Inbox",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "rainmaker-hrms",
+      "enabled": true,
+      "serviceCode": "GarbageCollection",
+      "code": "null",
+      "path": "GarbageCollection.GarbageCollection Reports.HRMSEmployee wise Report",
+      "navigationURL": "/digit-ui/employee/garbagecollection/inbox",
+      "leftIcon": "custom:open-NDCMODULE",
+      "rightIcon": ""
     },
     {
       "id": 8900950,
