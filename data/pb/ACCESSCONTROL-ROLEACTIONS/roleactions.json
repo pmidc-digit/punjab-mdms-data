@@ -4,6 +4,24 @@
   "roleactions": [
     {
       "rolecode": "ADV REPORTS",
+      "actionid": 8900965,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ADV REPORTS",
+      "actionid": 8900964,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ADV REPORTS",
+      "actionid": 8900963,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ADV REPORTS",
       "actionid": 882480,
       "actioncode": "",
       "tenantId": "pb"
@@ -137,6 +155,24 @@
     {
       "rolecode": "PET REPORTS",
       "actionid": 8900951,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PET REPORTS",
+      "actionid": 8900962,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PET REPORTS",
+      "actionid": 8900961,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PET REPORTS",
+      "actionid": 8900960,
       "actioncode": "",
       "tenantId": "pb"
     },
