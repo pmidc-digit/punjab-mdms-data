@@ -38,7 +38,7 @@
 				"I"
 			],
 			"minArea": 0,
-			"maxArea": 500,
+			"maxArea": 500.0,
 			"businessService": "BPA_NP"
 		},
 		{
@@ -87,7 +87,8 @@
 			"occupancyTypes": [
 				"J",
 				"K",
-				"L"
+				"L",
+				"A-AF"
 			],
 			"minArea": 0.0,
 			"maxArea": 9999999.0,
@@ -101,7 +102,8 @@
 			"occupancyTypes": [
 				"J",
 				"K",
-				"L"
+				"L",
+				"A-AF"
 			],
 			"minArea": 0.0,
 			"maxArea": 9999999.0,
