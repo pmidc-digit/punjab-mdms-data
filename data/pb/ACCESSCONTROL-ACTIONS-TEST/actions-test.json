@@ -24916,7 +24916,7 @@
       "path": ""
     },
     {
-      "id": 8900966,
+      "id": 8900969,
       "name": "CreateClsure",
       "url": "/rl-services/clsure/_create",
       "displayName": "Create clsure",
@@ -24927,7 +24927,7 @@
       "path": ""
     },
     {
-      "id": 8900967,
+      "id": 8900970,
       "name": "UpdateClsure",
       "url": "/rl-services/clsure/_update",
       "displayName": "Update Clsure",
@@ -24938,7 +24938,7 @@
       "path": ""
     },
     {
-      "id": 8900968,
+      "id": 8900971,
       "name": "SearchClsure",
       "url": "/rl-services/clsure/_search",
       "displayName": "Search Clsure",
@@ -24949,7 +24949,7 @@
       "path": ""
     },
     {
-      "id": 8900969,
+      "id": 8900972,
       "name": "PropertyReport",
       "url": "/rl-services/property/_report",
       "displayName": "Property Report",
