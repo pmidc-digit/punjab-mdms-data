@@ -24881,6 +24881,83 @@
       "serviceCode": "ADVREPORTS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 8900966,
+      "name": "CreateAllotment",
+      "url": "/rl-services/allotment/_create",
+      "displayName": "Create Allotment",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "RENT_N_LEASE",
+      "code": "RNL",
+      "path": ""
+    },
+    {
+      "id": 8900967,
+      "name": "UpdateAllotment",
+      "url": "/rl-services/allotment/_update",
+      "displayName": "Update Allotment",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "RENT_N_LEASE",
+      "code": "RNL",
+      "path": ""
+    },
+    {
+      "id": 8900968,
+      "name": "searchAllotment",
+      "url": "/rl-services/allotment/_search",
+      "displayName": "search Allotment",
+      "orderNumber": 3,
+      "enabled": false,
+      "serviceCode": "RENT_N_LEASE",
+      "code": "RNL",
+      "path": ""
+    },
+    {
+      "id": 8900966,
+      "name": "CreateClsure",
+      "url": "/rl-services/clsure/_create",
+      "displayName": "Create clsure",
+      "orderNumber": 4,
+      "enabled": false,
+      "serviceCode": "RENT_N_LEASE",
+      "code": "RNL",
+      "path": ""
+    },
+    {
+      "id": 8900967,
+      "name": "UpdateClsure",
+      "url": "/rl-services/clsure/_update",
+      "displayName": "Update Clsure",
+      "orderNumber": 5,
+      "enabled": false,
+      "serviceCode": "RENT_N_LEASE",
+      "code": "RNL",
+      "path": ""
+    },
+    {
+      "id": 8900968,
+      "name": "SearchClsure",
+      "url": "/rl-services/clsure/_search",
+      "displayName": "Search Clsure",
+      "orderNumber": 6,
+      "enabled": false,
+      "serviceCode": "RENT_N_LEASE",
+      "code": "RNL",
+      "path": ""
+    },,
+    {
+      "id": 8900969,
+      "name": "PropertyReport",
+      "url": "/rl-services/property/_report",
+      "displayName": "Property Report",
+      "orderNumber": 7,
+      "enabled": false,
+      "serviceCode": "RENT_N_LEASE",
+      "code": "RNL",
+      "path": ""
     }
   ]
 }
