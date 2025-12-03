@@ -48,10 +48,7 @@
                 "helpline": 
                 { 
                   "contactOne": "7018742016"
-                },
-              "serviceCenter": "India Habitat Centre, Lodhi Road, New Delhi – 110003",
-              "validity": "1",
-              "viewMapLocation": "https://www.google.com/maps/place/India+Habitat+Centre/@28.5896808,77.2255602,17z/data=!3m1!4b1!4m6!3m5!1s0x390ce2ed9be678c1:0x73a4fc8f2e1087a6!8m2!3d28.5896808!4d77.2255602!16zL20vMDg0aGd6?entry=ttu&g_ep=EgoyMDI1MDkxMC4wIKXMDSoASAFQAw%3D%3D"
+                }              
         },
         "WS" : {
           "payViaWhatsApp": "https://api.whatsapp.com/send?phone=918744060444&text=mSeva",
