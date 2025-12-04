@@ -3,6 +3,11 @@
   "moduleName": "ACCESSCONTROL-ROLES",
   "roles": [
     {
+      "code": "OBPAS REPORTS",
+      "name": "OBPAS REPORTS",
+      "description": "Access to all OBPAS Reports"
+    },    
+    {
       "code": "ADV REPORTS",
       "name": "ADV REPORTS",
       "description": "Access to all Advertisement And Hoarding Reports"
