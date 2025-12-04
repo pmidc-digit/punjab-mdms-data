@@ -15,10 +15,8 @@
       "locationType": "Prime",
       "baseRent": "2500",
       "securityDeposit": "1500",
-      "tax_applicable": true,
-      "refund_applicable_on_discontinuation": true,
-      "penaltyType": "Daily",
-      "latePayment": "2%",
+      "taxApplicable": true,
+      "refundApplicableOnDiscontinuation": true,
       "cowCessApplicable": true
     },
     {
@@ -33,10 +31,8 @@
       "locationType": "Non-Prime",
       "baseRent": "3000",
       "securityDeposit": "1800",
-      "tax_applicable": true,
-      "refund_applicable_on_discontinuation": true,
-      "penaltyType": "Monthly",
-      "latePayment": "2%",
+      "taxApplicable": true,
+      "refundApplicableOnDiscontinuation": true,
       "cowCessApplicable": true
     },
     {
@@ -51,10 +47,8 @@
       "locationType": "Prime",
       "baseRent": "3200",
       "securityDeposit": "2000",
-      "tax_applicable": true,
-      "refund_applicable_on_discontinuation": true,
-      "penaltyType": "Onetime",
-      "latePayment": "2%",
+      "taxApplicable": true,
+      "refundApplicableOnDiscontinuation": true,
       "cowCessApplicable": true
     },
     {
@@ -69,10 +63,8 @@
       "locationType": "Prime",
       "baseRent": "3500",
       "securityDeposit": "2200",
-      "tax_applicable": true,
-      "refund_applicable_on_discontinuation": true,
-      "penaltyType": "Daily",
-      "latePayment": "3%",
+      "taxApplicable": true,
+      "refundApplicableOnDiscontinuation": true,
       "cowCessApplicable": true
     },
     {
@@ -87,10 +79,8 @@
       "locationType": "Non-Prime",
       "baseRent": "3700",
       "securityDeposit": "2300",
-      "tax_applicable": true,
-      "refund_applicable_on_discontinuation": true,
-      "penaltyType": "Monthly",
-      "latePayment": "2%",
+      "taxApplicable": true,
+      "refundApplicableOnDiscontinuation": true,
       "cowCessApplicable": true
     },
     {
@@ -105,10 +95,8 @@
       "locationType": "Prime",
       "baseRent": "4000",
       "securityDeposit": "2500",
-      "tax_applicable": true,
-      "refund_applicable_on_discontinuation": true,
-      "penaltyType": "Onetime",
-      "latePayment": "2%",
+      "taxApplicable": true,
+      "refundApplicableOnDiscontinuation": true,
       "cowCessApplicable": true
     },
     {
@@ -123,10 +111,8 @@
       "locationType": "Prime",
       "baseRent": "4200",
       "securityDeposit": "2600",
-      "tax_applicable": true,
-      "refund_applicable_on_discontinuation": true,
-      "penaltyType": "Daily",
-      "latePayment": "2%",
+      "taxApplicable": true,
+      "refundApplicableOnDiscontinuation": true,
       "cowCessApplicable": true
     },
     {
@@ -141,10 +127,8 @@
       "locationType": "Prime",
       "baseRent": "4500",
       "securityDeposit": "2800",
-      "tax_applicable": true,
-      "refund_applicable_on_discontinuation": true,
-      "penaltyType": "Daily",
-      "latePayment": "2%",
+      "taxApplicable": true,
+      "refundApplicableOnDiscontinuation": true,
       "cowCessApplicable": true
     },
     {
@@ -159,10 +143,8 @@
       "locationType": "Prime",
       "baseRent": "4700",
       "securityDeposit": "3000",
-      "tax_applicable": true,
-      "refund_applicable_on_discontinuation": true,
-      "penaltyType": "Onetime",
-      "latePayment": "2%",
+      "taxApplicable": true,
+      "refundApplicableOnDiscontinuation": true,
       "cowCessApplicable": true
     },
     {
@@ -177,10 +159,8 @@
       "locationType": "Non-Prime",
       "baseRent": "5000",
       "securityDeposit": "3200",
-      "tax_applicable": true,
-      "refund_applicable_on_discontinuation": true,
-      "penaltyType": "Daily",
-      "latePayment": "2%",
+      "taxApplicable": true,
+      "refundApplicableOnDiscontinuation": true,
       "cowCessApplicable": true
     },
     {
@@ -195,10 +175,8 @@
       "locationType": "Prime",
       "baseRent": "5200",
       "securityDeposit": "3400",
-      "tax_applicable": true,
-      "refund_applicable_on_discontinuation": true,
-      "penaltyType": "Monthly",
-      "latePayment": "2%",
+      "taxApplicable": true,
+      "refundApplicableOnDiscontinuation": true,
       "cowCessApplicable": true
     },
     {
@@ -213,10 +191,8 @@
       "locationType": "Prime",
       "baseRent": "5500",
       "securityDeposit": "3600",
-      "tax_applicable": true,
-      "refund_applicable_on_discontinuation": true,
-      "penaltyType": "Onetime",
-      "latePayment": "2%",
+      "taxApplicable": true,
+      "refundApplicableOnDiscontinuation": true,
       "cowCessApplicable": true
     },
     {
@@ -231,10 +207,8 @@
       "locationType": "Prime",
       "baseRent": "5800",
       "securityDeposit": "3800",
-      "tax_applicable": true,
-      "refund_applicable_on_discontinuation": true,
-      "penaltyType": "Daily",
-      "latePayment": "2%",
+      "taxApplicable": true,
+      "refundApplicableOnDiscontinuation": true,
       "cowCessApplicable": true
     },
     {
@@ -249,10 +223,8 @@
       "locationType": "Non-Prime",
       "baseRent": "6000",
       "securityDeposit": "4000",
-      "tax_applicable": true,
-      "refund_applicable_on_discontinuation": true,
-      "penaltyType": "Monthly",
-      "latePayment": "2%",
+      "taxApplicable": true,
+      "refundApplicableOnDiscontinuation": true,
       "cowCessApplicable": true
     },
     {
@@ -267,10 +239,8 @@
       "locationType": "Prime",
       "baseRent": "6200",
       "securityDeposit": "4200",
-      "tax_applicable": true,
-      "refund_applicable_on_discontinuation": true,
-      "penaltyType": "Onetime",
-      "latePayment": "2%",
+      "taxApplicable": true,
+      "refundApplicableOnDiscontinuation": true,
       "cowCessApplicable": true
     },
     {
@@ -285,10 +255,8 @@
       "locationType": "Prime",
       "baseRent": "6500",
       "securityDeposit": "4400",
-      "tax_applicable": true,
-      "refund_applicable_on_discontinuation": true,
-      "penaltyType": "Daily",
-      "latePayment": "2%",
+      "taxApplicable": true,
+      "refundApplicableOnDiscontinuation": true,
       "cowCessApplicable": true
     },
     {
@@ -303,10 +271,8 @@
       "locationType": "Prime",
       "baseRent": "6700",
       "securityDeposit": "4600",
-      "tax_applicable": true,
-      "refund_applicable_on_discontinuation": true,
-      "penaltyType": "Monthly",
-      "latePayment": "2%",
+      "taxApplicable": true,
+      "refundApplicableOnDiscontinuation": true,
       "cowCessApplicable": true
     },
     {
@@ -321,10 +287,8 @@
       "locationType": "Non-Prime",
       "baseRent": "7000",
       "securityDeposit": "4800",
-      "tax_applicable": true,
-      "refund_applicable_on_discontinuation": true,
-      "penaltyType": "Onetime",
-      "latePayment": "2%",
+      "taxApplicable": true,
+      "refundApplicableOnDiscontinuation": true,
       "cowCessApplicable": true
     },
     {
@@ -339,10 +303,8 @@
       "locationType": "Prime",
       "baseRent": "7200",
       "securityDeposit": "5000",
-      "tax_applicable": true,
-      "refund_applicable_on_discontinuation": true,
-      "penaltyType": "Daily",
-      "latePayment": "2%",
+      "taxApplicable": true,
+      "refundApplicableOnDiscontinuation": true,
       "cowCessApplicable": true
     },
     {
@@ -357,10 +319,8 @@
       "locationType": "Prime",
       "baseRent": "7200",
       "securityDeposit": "5000",
-      "tax_applicable": true,
-      "refund_applicable_on_discontinuation": true,
-      "penaltyType": "Daily",
-      "latePayment": "2%",
+      "taxApplicable": true,
+      "refundApplicableOnDiscontinuation": true,
       "cowCessApplicable": true
     }
   ]
