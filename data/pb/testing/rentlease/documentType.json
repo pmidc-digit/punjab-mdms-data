@@ -4,22 +4,18 @@
   "docName": [
     {
      "id":"1",
-     "name":"Govt Document"
+     "name":"Allotment Letter"
     },
     {
      "id":"2",
-     "name":"Auction Copy"
+     "name":"AadharCard Proof"
     },
     {
      "id":"3",
-     "name":"Identity Proof"
+     "name":"PAN Crad Proof"
     },
     {
      "id":"4",
-     "name":"Address proof"
-    },
-    {
-     "id":"5",
      "name":"Self Declaration"
     }
   ]

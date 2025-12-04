@@ -6,7 +6,7 @@
     {
       "propertyId": "PB-RL-PT2025000001",
       "propertyName": "GreenVille Residency",
-      "usageCategory": "rent",
+      "allotmentType": "rent",
       "propertySizeOrArea": "12000",
       "address": "1st Floor, Unit No. A101, Elante Offices",
       "geoLocation": { "latitude": "1234567.100", "longitude": "1234568.100" },
@@ -22,7 +22,7 @@
     {
       "propertyId": "PB-RL-PT2025000002",
       "propertyName": "Sunrise Towers",
-      "usageCategory": "lease",
+      "allotmentType": "lease",
       "propertySizeOrArea": "13000",
       "address": "2nd Floor, Unit No. A202, Elante Offices",
       "geoLocation": { "latitude": "1234567.200", "longitude": "1234568.200" },
@@ -38,7 +38,7 @@
     {
       "propertyId": "PB-RL-PT2025000003",
       "propertyName": "BlueSky Apartments",
-      "usageCategory": "release",
+      "allotmentType": "lease",
       "propertySizeOrArea": "14000",
       "address": "3rd Floor, Unit No. A303, Elante Offices",
       "geoLocation": { "latitude": "1234567.300", "longitude": "1234568.300" },
@@ -54,7 +54,7 @@
     {
       "propertyId": "PB-RL-PT2025000004",
       "propertyName": "Royal Heights",
-      "usageCategory": "rent",
+      "allotmentType": "rent",
       "propertySizeOrArea": "15000",
       "address": "4th Floor, Unit No. A404, Elante Offices",
       "geoLocation": { "latitude": "1234567.400", "longitude": "1234568.400" },
@@ -70,7 +70,7 @@
     {
       "propertyId": "PB-RL-PT2025000005",
       "propertyName": "Emerald Plaza",
-      "usageCategory": "lease",
+      "allotmentType": "lease",
       "propertySizeOrArea": "16000",
       "address": "5th Floor, Unit No. A505, Elante Offices",
       "geoLocation": { "latitude": "1234567.500", "longitude": "1234568.500" },
@@ -86,7 +86,7 @@
     {
       "propertyId": "PB-RL-PT2025000006",
       "propertyName": "Silver Residency",
-      "usageCategory": "release",
+      "allotmentType": "lease",
       "propertySizeOrArea": "17000",
       "address": "6th Floor, Unit No. A606, Elante Offices",
       "geoLocation": { "latitude": "1234567.600", "longitude": "1234568.600" },
@@ -102,7 +102,7 @@
     {
       "propertyId": "PB-RL-PT2025000007",
       "propertyName": "Golden Tower",
-      "usageCategory": "rent",
+      "allotmentType": "rent",
       "propertySizeOrArea": "18000",
       "address": "7th Floor, Unit No. A707, Elante Offices",
       "geoLocation": { "latitude": "1234567.700", "longitude": "1234568.700" },
@@ -118,7 +118,7 @@
     {
       "propertyId": "PB-RL-PT2025000008",
       "propertyName": "Crystal Homes",
-      "usageCategory": "lease",
+      "allotmentType": "lease",
       "propertySizeOrArea": "19000",
       "address": "8th Floor, Unit No. A808, Elante Offices",
       "geoLocation": { "latitude": "1234567.800", "longitude": "1234568.800" },
@@ -134,7 +134,7 @@
     {
       "propertyId": "PB-RL-PT2025000009",
       "propertyName": "Pearl Residency",
-      "usageCategory": "release",
+      "allotmentType": "lease",
       "propertySizeOrArea": "20000",
       "address": "9th Floor, Unit No. A909, Elante Offices",
       "geoLocation": { "latitude": "1234567.900", "longitude": "1234568.900" },
@@ -150,7 +150,7 @@
     {
       "propertyId": "PB-RL-PT2025000010",
       "propertyName": "Opal Heights",
-      "usageCategory": "rent",
+      "allotmentType": "rent",
       "propertySizeOrArea": "21000",
       "address": "10th Floor, Unit No. A1010, Elante Offices",
       "geoLocation": { "latitude": "1234568.000", "longitude": "1234569.000" },
@@ -166,7 +166,7 @@
     {
       "propertyId": "PB-RL-PT2025000011",
       "propertyName": "Ruby Plaza",
-      "usageCategory": "lease",
+      "allotmentType": "lease",
       "propertySizeOrArea": "22000",
       "address": "11th Floor, Unit No. A1111, Elante Offices",
       "geoLocation": { "latitude": "1234568.100", "longitude": "1234569.100" },
@@ -182,7 +182,7 @@
     {
       "propertyId": "PB-RL-PT2025000012",
       "propertyName": "Sapphire Residency",
-      "usageCategory": "release",
+      "allotmentType": "lease",
       "propertySizeOrArea": "23000",
       "address": "12th Floor, Unit No. A1212, Elante Offices",
       "geoLocation": { "latitude": "1234568.200", "longitude": "1234569.200" },
@@ -198,7 +198,7 @@
     {
       "propertyId": "PB-RL-PT2025000013",
       "propertyName": "Diamond Towers",
-      "usageCategory": "rent",
+      "allotmentType": "rent",
       "propertySizeOrArea": "24000",
       "address": "13th Floor, Unit No. A1313, Elante Offices",
       "geoLocation": { "latitude": "1234568.300", "longitude": "1234569.300" },
@@ -214,7 +214,7 @@
     {
       "propertyId": "PB-RL-PT2025000014",
       "propertyName": "Amber Heights",
-      "usageCategory": "lease",
+      "allotmentType": "lease",
       "propertySizeOrArea": "25000",
       "address": "14th Floor, Unit No. A1414, Elante Offices",
       "geoLocation": { "latitude": "1234568.400", "longitude": "1234569.400" },
@@ -230,7 +230,7 @@
     {
       "propertyId": "PB-RL-PT2025000015",
       "propertyName": "Topaz Residency",
-      "usageCategory": "release",
+      "allotmentType": "lease",
       "propertySizeOrArea": "26000",
       "address": "15th Floor, Unit No. A1515, Elante Offices",
       "geoLocation": { "latitude": "1234568.500", "longitude": "1234569.500" },
@@ -246,7 +246,7 @@
     {
       "propertyId": "PB-RL-PT2025000016",
       "propertyName": "Coral View",
-      "usageCategory": "rent",
+      "allotmentType": "rent",
       "propertySizeOrArea": "27000",
       "address": "16th Floor, Unit No. A1616, Elante Offices",
       "geoLocation": { "latitude": "1234568.600", "longitude": "1234569.600" },
@@ -262,7 +262,7 @@
     {
       "propertyId": "PB-RL-PT2025000017",
       "propertyName": "Jade Residency",
-      "usageCategory": "lease",
+      "allotmentType": "lease",
       "propertySizeOrArea": "28000",
       "address": "17th Floor, Unit No. A1717, Elante Offices",
       "geoLocation": { "latitude": "1234568.700", "longitude": "1234569.700" },
@@ -278,7 +278,7 @@
     {
       "propertyId": "PB-RL-PT2025000018",
       "propertyName": "Quartz Heights",
-      "usageCategory": "release",
+      "allotmentType": "lease",
       "propertySizeOrArea": "29000",
       "address": "18th Floor, Unit No. A1818, Elante Offices",
       "geoLocation": { "latitude": "1234568.800", "longitude": "1234569.800" },
@@ -294,7 +294,7 @@
     {
       "propertyId": "PB-RL-PT2025000019",
       "propertyName": "Garnet Plaza",
-      "usageCategory": "rent",
+      "allotmentType": "rent",
       "propertySizeOrArea": "30000",
       "address": "19th Floor, Unit No. A1919, Elante Offices",
       "geoLocation": { "latitude": "1234568.900", "longitude": "1234569.900" },
@@ -310,7 +310,7 @@
     {
       "propertyId": "PB-RL-PT2025000020",
       "propertyName": "Garnet Plaza",
-      "usageCategory": "rent",
+      "allotmentType": "rent",
       "propertySizeOrArea": "30000",
       "address": "19th Floor, Unit No. A1919, Elante Offices",
       "geoLocation": { "latitude": "1234568.900", "longitude": "1234569.900" },

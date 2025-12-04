@@ -1,0 +1,14 @@
+{
+  "tenantId": "pb.testing",
+  "moduleName": "propertyType",
+  "propertyType": [
+    {
+     "id":"1",
+     "name":"prime"
+    },
+    {
+     "id":"2",
+     "name":"Non Prime"
+    }
+  ]
+}

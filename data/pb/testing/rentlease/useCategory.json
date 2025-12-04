@@ -1,0 +1,14 @@
+{
+  "tenantId": "pb.testing",
+  "moduleName": "useCategory",
+  "useCategory": [
+    {
+     "id":"1",
+     "name":"rent"
+    },
+    {
+     "id":"2",
+     "name":"lease"
+    }
+  ]
+}
