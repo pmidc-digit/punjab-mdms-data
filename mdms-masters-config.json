@@ -98,7 +98,7 @@
     "roleGroups": {
       "masterName": "roleGroups",
       "isStateLevel": true,
-      "uniqueKeys": ["$.code"]
+      "uniqueKeys": []
     }
   },
   "ACCESSCONTROL-ROLEACTIONS": {
