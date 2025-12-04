@@ -3,93 +3,58 @@
   "moduleName": "BPA",
   "Category": [
     {
-      "categoryId": 1,
+      "categoryId": "A",
       "categoryName": "Residential",
       "active": true
     },
     {
-      "categoryId": 2,
-      "categoryName": "Farm House",
+      "categoryId": "B",
+      "categoryName": "Educational",
       "active": true
     },
     {
-      "categoryId": 3,
-      "categoryName": "Commercial",
+      "categoryId": "C",
+      "categoryName": "Medical/Hospital",
       "active": true
     },
     {
-      "categoryId": 4,
-      "categoryName": "Miniplex",
+      "categoryId": "D",
+      "categoryName": "Assembly",
       "active": true
     },
     {
-      "categoryId": 5,
-      "categoryName": "Multiplex",
+      "categoryId": "E",
+      "categoryName": "Office/Business",
       "active": true
     },
     {
-      "categoryId": 6,
-      "categoryName": "Hotel or Motel",
+      "categoryId": "F",
+      "categoryName": "Mercantile / Commercial",
       "active": true
     },
     {
-      "categoryId": 7,
-      "categoryName": "Mix Land Use",
-      "active": true
-    },
-    {
-      "categoryId": 8,
-      "categoryName": "Club / Community center",
-      "active": true
-    },
-    {
-      "categoryId": 9,
-      "categoryName": "Guest house / Lodging & Boarding / Service Apartments",
-      "active": true
-    },
-    {
-      "categoryId": 10,
-      "categoryName": "Dhaba",
-      "active": true
-    },
-    {
-      "categoryId": 11,
-      "categoryName": "Petrol Pumps",
-      "active": true
-    },
-    {
-      "categoryId": 12,
-      "categoryName": "Wholesale Trade/ Ware house/ Integrated Freight Complex (Standalone)",
-      "active": true
-    },
-    {
-      "categoryId": 13,
+      "categoryId": "G",
       "categoryName": "Industrial",
       "active": true
     },
     {
-      "categoryId": 14,
-      "categoryName": "Educational Buildings",
+      "categoryId": "H",
+      "categoryName": "Storage",
       "active": true
     },
     {
-      "categoryId": 15,
-      "categoryName": "Institutional",
+      "categoryId": "I",
+      "categoryName": "Hazardous",
       "active": true
     },
     {
-      "categoryId": 16,
-      "categoryName": "Public Building",
+      "categoryId": "M",
+      "categoryName": "Medical Facilities",
       "active": true
     },
     {
-      "categoryId": 17,
-      "categoryName": "Marriage Palace",
-      "active": true
-    },
-    {
-      "categoryId": 18,
-      "categoryName": "Multi level Car Parking (Standalone)",
+      "categoryId": "S",
+      "categoryName": "Social/Cultural",
       "active": true
     }
   ]

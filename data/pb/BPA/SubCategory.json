@@ -3,285 +3,393 @@
   "moduleName": "BPA",
   "SubCategory": [
     {
-      "subCategoryId": 1,
-      "subCategoryName": "Residential Plotted",
-      "categoryId": 1,
+      "subCategoryId": "A-R",
+      "subCategoryName": "Single family Residential",
+      "categoryId": "A",
       "active": true
     },
     {
-      "subCategoryId": 2,
-      "subCategoryName": "Group Housing, Multi-storeyed building & Apartments",
-      "categoryId": 1,
+      "subCategoryId": "A-AF",
+      "subCategoryName": "Apartment/Flat",
+      "categoryId": "A",
       "active": true
     },
     {
-      "subCategoryId": 3,
-      "subCategoryName": "Independent Floors",
-      "categoryId": 1,
+      "subCategoryId": "A-FH",
+      "subCategoryName": "Farm House",
+      "categoryId": "A",
       "active": true
     },
     {
-      "subCategoryId": 4,
-      "subCategoryName": "Shopping Complex/Center",
-      "categoryId": 3,
+      "subCategoryId": "A-SR",
+      "subCategoryName": "Special Residential",
+      "categoryId": "A",
       "active": true
     },
     {
-      "subCategoryId": 5,
-      "subCategoryName": "Retail Shops",
-      "categoryId": 3,
+      "subCategoryId": "A-HE",
+      "subCategoryName": "Hostel Educational",
+      "categoryId": "A",
       "active": true
     },
     {
-      "subCategoryId": 6,
-      "subCategoryName": "Restaurants",
-      "categoryId": 3,
+      "subCategoryId": "A-SA",
+      "subCategoryName": "Service Apartment",
+      "categoryId": "A",
       "active": true
     },
     {
-      "subCategoryId": 7,
-      "subCategoryName": "Food Plazas",
-      "categoryId": 3,
+      "subCategoryId": "A-PO",
+      "subCategoryName": "Professional Office",
+      "categoryId": "A",
       "active": true
     },
     {
-      "subCategoryId": 8,
-      "subCategoryName": "Fitness Center ",
-      "categoryId": 3,
+      "subCategoryId": "A2",
+      "subCategoryName": "Old Age Home",
+      "categoryId": "A",
       "active": true
     },
     {
-      "subCategoryId": 9,
-      "subCategoryName": "Call center",
-      "categoryId": 3,
+      "subCategoryId": "B-PS",
+      "subCategoryName": "Primary school",
+      "categoryId": "B",
       "active": true
     },
     {
-      "subCategoryId": 10,
-      "subCategoryName": "Corporate Offices",
-      "categoryId": 3,
+      "subCategoryId": "B2",
+      "subCategoryName": "Educational HighSchool",
+      "categoryId": "B",
       "active": true
     },
     {
-      "subCategoryId": 11,
-      "subCategoryName": "Bank",
-      "categoryId": 3,
+      "subCategoryId": "B-HEI",
+      "subCategoryName": "Higher Educational Institute",
+      "categoryId": "B",
       "active": true
     },
     {
-      "subCategoryId": 12,
-      "subCategoryName": "Departmental Store",
-      "categoryId": 3,
+      "subCategoryId": "C-MA",
+      "subCategoryName": "Medical Admin",
+      "categoryId": "C",
       "active": true
     },
     {
-      "subCategoryId": 13,
-      "subCategoryName": "Bank Services",
-      "categoryId": 3,
+      "subCategoryId": "C-MIP",
+      "subCategoryName": "Medical IP",
+      "categoryId": "C",
       "active": true
     },
     {
-      "subCategoryId": 14,
-      "subCategoryName": "Business Office",
-      "categoryId": 3,
+      "subCategoryId": "C-MOP",
+      "subCategoryName": "Medical OP",
+      "categoryId": "C",
       "active": true
     },
     {
-      "subCategoryId": 15,
-      "subCategoryName": "IT office",
-      "categoryId": 3,
+      "subCategoryId": "D-A",
+      "subCategoryName": "Religious",
+      "categoryId": "D",
       "active": true
     },
     {
-      "subCategoryId": 16,
-      "subCategoryName": "Office",
-      "categoryId": 3,
+      "subCategoryId": "D-AW",
+      "subCategoryName": "Assembly Worship",
+      "categoryId": "D",
       "active": true
     },
     {
-      "subCategoryId": 17,
-      "subCategoryName": "Shop",
-      "categoryId": 3,
+      "subCategoryId": "D-B",
+      "subCategoryName": "At sub city level in urban extension",
+      "categoryId": "D",
       "active": true
     },
     {
-      "subCategoryId": 18,
-      "subCategoryName": "Super Market",
-      "categoryId": 3,
+      "subCategoryId": "D-C",
+      "subCategoryName": "Anganwari",
+      "categoryId": "D",
       "active": true
     },
     {
-      "subCategoryId": 19,
-      "subCategoryName": "Wholesale Stores",
-      "categoryId": 3,
+      "subCategoryId": "D-BT",
+      "subCategoryName": "Bus Terminal",
+      "categoryId": "D",
       "active": true
     },
     {
-      "subCategoryId": 20,
-      "subCategoryName": "Mercantile",
-      "categoryId": 3,
-      "active": true
-    },
-    {
-      "subCategoryId": 21,
-      "subCategoryName": "Showroom",
-      "categoryId": 3,
-      "active": true
-    },
-    {
-      "subCategoryId": 22,
-      "subCategoryName": "SCO/SCF",
-      "categoryId": 3,
-      "active": true
-    },
-    {
-      "subCategoryId": 23,
-      "subCategoryName": "Booth",
-      "categoryId": 3,
-      "active": true
-    },
-    {
-      "subCategoryId": 24,
-      "subCategoryName": "Double storey Booth",
-      "categoryId": 3,
-      "active": true
-    },
-    {
-      "subCategoryId": 25,
-      "subCategoryName": "Shops (1/2/3 Storey)",
-      "categoryId": 3,
-      "active": true
-    },
-    {
-      "subCategoryId": 26,
-      "subCategoryName": "Goods Booking Agencies",
-      "categoryId": 3,
-      "active": true
-    },
-    {
-      "subCategoryId": 27,
-      "subCategoryName": "Scheme Commercial",
-      "categoryId": 3,
-      "active": true
-    },
-    {
-      "subCategoryId": 28,
-      "subCategoryName": "Only filling Station",
-      "categoryId": 11,
-      "active": true
-    },
-    {
-      "subCategoryId": 29,
-      "subCategoryName": "For two-three Wheelers",
-      "categoryId": 11,
-      "active": true
-    },
-    {
-      "subCategoryId": 30,
-      "subCategoryName": "Filling-cum-service station",
-      "categoryId": 11,
-      "active": true
-    },
-    {
-      "subCategoryId": 31,
-      "subCategoryName": "CNG Mother Station",
-      "categoryId": 11,
-      "active": true
-    },
-    {
-      "subCategoryId": 32,
-      "subCategoryName": "CNG Daughter Station",
-      "categoryId": 11,
-      "active": true
-    },
-    {
-      "subCategoryId": 33,
-      "subCategoryName": "Industrial Plotted",
-      "categoryId": 13,
-      "active": true
-    },
-    {
-      "subCategoryId": 34,
-      "subCategoryName": "Industrial Flatted",
-      "categoryId": 13,
-      "active": true
-    },
-    {
-      "subCategoryId": 35,
-      "subCategoryName": "Creche / Day Care facilities",
-      "categoryId": 14,
-      "active": true
-    },
-    {
-      "subCategoryId": 36,
-      "subCategoryName": "Pre Nursery/ Nursery School",
-      "categoryId": 14,
-      "active": true
-    },
-    {
-      "subCategoryId": 37,
+      "subCategoryId": "E-PS",
       "subCategoryName": "Primary School",
-      "categoryId": 14,
+      "categoryId": "E",
       "active": true
     },
     {
-      "subCategoryId": 38,
-      "subCategoryName": "Higher Secondary School/College",
-      "categoryId": 14,
+      "subCategoryId": "E-SFMC",
+      "subCategoryName": "School for Mentally Challenged",
+      "categoryId": "E",
       "active": true
     },
     {
-      "subCategoryId": 39,
-      "subCategoryName": "Education and Research Centre",
-      "categoryId": 14,
+      "subCategoryId": "E-SFDAP",
+      "subCategoryName": "School for differently abled persons",
+      "categoryId": "E",
       "active": true
     },
     {
-      "subCategoryId": 40,
-      "subCategoryName": "Medical College/Nursing College with Hospital, Hostel",
-      "categoryId": 14,
+      "subCategoryId": "E-EARC",
+      "subCategoryName": "Academic, including administration",
+      "categoryId": "E",
       "active": true
     },
     {
-      "subCategoryId": 41,
-      "subCategoryName": "Nursing home/Hospital",
-      "categoryId": 15,
+      "subCategoryId": "E-NS",
+      "subCategoryName": "Nursury Schools",
+      "categoryId": "E",
       "active": true
     },
     {
-      "subCategoryId": 42,
-      "subCategoryName": "Orphanage Home, Old Age Home, Children's Centre / Care Centre / School /\nInstitute for Mentally challenged or Physically Handicapped Person/Hostel",
-      "categoryId": 15,
+      "subCategoryId": "E-CLG",
+      "subCategoryName": "College",
+      "categoryId": "E",
       "active": true
     },
     {
-      "subCategoryId": 43,
-      "subCategoryName": "Public Concert Hall or Auditorium, Museum, Gymnasium or Public Exhibition",
-      "categoryId": 16,
+      "subCategoryId": "E-SACA",
+      "subCategoryName": "Sports and Cultural Activities",
+      "categoryId": "E",
       "active": true
     },
     {
-      "subCategoryId": 44,
-      "subCategoryName": "Public Offices",
-      "categoryId": 16,
+      "subCategoryId": "F-H",
+      "subCategoryName": "Hotels",
+      "categoryId": "F",
       "active": true
     },
     {
-      "subCategoryId": 45,
-      "subCategoryName": "Religious Buildings",
-      "categoryId": 16,
+      "subCategoryId": "F-K",
+      "subCategoryName": "Kiosk",
+      "categoryId": "F",
       "active": true
     },
     {
-      "subCategoryId": 46,
-      "subCategoryName": "Convention Centre",
-      "categoryId": 16,
+      "subCategoryId": "F-PA",
+      "subCategoryName": "Parking Appurtenant",
+      "categoryId": "F",
       "active": true
     },
     {
-      "subCategoryId": 47,
-      "subCategoryName": "Meetings, Incentives, Conferences, and Exhibitions (MICE)",
-      "categoryId": 16,
+      "subCategoryId": "F-PP",
+      "subCategoryName": "Parking Plaza",
+      "categoryId": "F",
+      "active": true
+    },
+    {
+      "subCategoryId": "F-RT",
+      "subCategoryName": "Restaurants",
+      "categoryId": "F",
+      "active": true
+    },
+    {
+      "subCategoryId": "F-LD",
+      "subCategoryName": "Lodges",
+      "categoryId": "F",
+      "active": true
+    },
+    {
+      "subCategoryId": "F-CB",
+      "subCategoryName": "Commercial Building",
+      "categoryId": "F",
+      "active": true
+    },
+    {
+      "subCategoryId": "F-IT",
+      "subCategoryName": "IT / ITES Buildings",
+      "categoryId": "F",
+      "active": true
+    },
+    {
+      "subCategoryId": "G-LI",
+      "subCategoryName": "Large Industrial",
+      "categoryId": "G",
+      "active": true
+    },
+    {
+      "subCategoryId": "G-SI",
+      "subCategoryName": "Small Industrial",
+      "categoryId": "G",
+      "active": true
+    },
+    {
+      "subCategoryId": "G-PHI",
+      "subCategoryName": "Polluting and hazardous industries",
+      "categoryId": "G",
+      "active": true
+    },
+    {
+      "subCategoryId": "G-NPHI",
+      "subCategoryName": "Non-polluting and household industries",
+      "categoryId": "G",
+      "active": true
+    },
+    {
+      "subCategoryId": "G-SP",
+      "subCategoryName": "Sports Industry",
+      "categoryId": "G",
+      "active": true
+    },
+    {
+      "subCategoryId": "G-RS",
+      "subCategoryName": "Retail Service Industry",
+      "categoryId": "G",
+      "active": true
+    },
+    {
+      "subCategoryId": "G-H",
+      "subCategoryName": "Hazard Industries",
+      "categoryId": "G",
+      "active": true
+    },
+    {
+      "subCategoryId": "G-S",
+      "subCategoryName": "Storage",
+      "categoryId": "G",
+      "active": true
+    },
+    {
+      "subCategoryId": "G-F",
+      "subCategoryName": "Factory",
+      "categoryId": "G",
+      "active": true
+    },
+    {
+      "subCategoryId": "G-I",
+      "subCategoryName": "Industrial",
+      "categoryId": "G",
+      "active": true
+    },
+    {
+      "subCategoryId": "G-K",
+      "subCategoryName": "Knitwear Industry",
+      "categoryId": "G",
+      "active": true
+    },
+    {
+      "subCategoryId": "G-T",
+      "subCategoryName": "Textile Industry",
+      "categoryId": "G",
+      "active": true
+    },
+    {
+      "subCategoryId": "G-IT",
+      "subCategoryName": "Information Technology",
+      "categoryId": "G",
+      "active": true
+    },
+    {
+      "subCategoryId": "G-GI",
+      "subCategoryName": "General Industry",
+      "categoryId": "G",
+      "active": true
+    },
+    {
+      "subCategoryId": "G-W",
+      "subCategoryName": "Warehouse",
+      "categoryId": "G",
+      "active": true
+    },
+    {
+      "subCategoryId": "H-PP",
+      "subCategoryName": "Petrol Pump",
+      "categoryId": "H",
+      "active": true
+    },
+    {
+      "subCategoryId": "I-1",
+      "subCategoryName": "Hazardous (I1)",
+      "categoryId": "I",
+      "active": true
+    },
+    {
+      "subCategoryId": "I-2",
+      "subCategoryName": "Hazardous (I2)",
+      "categoryId": "I",
+      "active": true
+    },
+    {
+      "subCategoryId": "M-DFPAB",
+      "subCategoryName": "Dispensary for pet animals and birds",
+      "categoryId": "M",
+      "active": true
+    },
+    {
+      "subCategoryId": "M-OHF",
+      "subCategoryName": "Other Health Facilities",
+      "categoryId": "M",
+      "active": true
+    },
+    {
+      "subCategoryId": "M-VH",
+      "subCategoryName": "Veterinary Hospital for pet animals and birds",
+      "categoryId": "M",
+      "active": true
+    },
+    {
+      "subCategoryId": "M-NAPI",
+      "subCategoryName": "Nursing and Paramedic Institute",
+      "categoryId": "M",
+      "active": true
+    },
+    {
+      "subCategoryId": "M-HOTHC",
+      "subCategoryName": "Hospital/Teritary Health care Centre",
+      "categoryId": "M",
+      "active": true
+    },
+    {
+      "subCategoryId": "S-MCH",
+      "subCategoryName": "Multipurpose Community Hall",
+      "categoryId": "S",
+      "active": true
+    },
+    {
+      "subCategoryId": "S-BH",
+      "subCategoryName": "Banquet hall",
+      "categoryId": "S",
+      "active": true
+    },
+    {
+      "subCategoryId": "S-CRC",
+      "subCategoryName": "Community Recreational Club",
+      "categoryId": "S",
+      "active": true
+    },
+    {
+      "subCategoryId": "S-CA",
+      "subCategoryName": "Cultural activities",
+      "categoryId": "S",
+      "active": true
+    },
+    {
+      "subCategoryId": "S-SC",
+      "subCategoryName": "Science centre",
+      "categoryId": "S",
+      "active": true
+    },
+    {
+      "subCategoryId": "S-ECFG",
+      "subCategoryName": "Exhibition cum Fair Ground",
+      "categoryId": "S",
+      "active": true
+    },
+    {
+      "subCategoryId": "S-SAS",
+      "subCategoryName": "Sports and amenity structures",
+      "categoryId": "S",
+      "active": true
+    },
+    {
+      "subCategoryId": "S-ICC",
+      "subCategoryName": "International Convention Centre",
+      "categoryId": "S",
       "active": true
     }
   ]
