@@ -63,6 +63,16 @@
       "masterName": "ApplicationFees",
       "isStateLevel": true,
       "uniqueKeys": []
+    },
+    "Category": {
+      "masterName": "Category",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    },
+    "SubCategory": {
+      "masterName": "SubCategory",
+      "isStateLevel": true,
+      "uniqueKeys": []
     }
   },
   "StakeholderRegistraition": {
@@ -82,6 +92,11 @@
   "ACCESSCONTROL-ROLES": {
     "roles": {
       "masterName": "roles",
+      "isStateLevel": true,
+      "uniqueKeys": ["$.code"]
+    },
+    "roleGroups": {
+      "masterName": "roleGroups",
       "isStateLevel": true,
       "uniqueKeys": ["$.code"]
     }

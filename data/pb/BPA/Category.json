@@ -1,0 +1,96 @@
+{
+  "tenantId": "pb",
+  "moduleName": "BPA",
+  "Category": [
+    {
+      "categoryId": 1,
+      "categoryName": "Residential",
+      "active": true
+    },
+    {
+      "categoryId": 2,
+      "categoryName": "Farm House",
+      "active": true
+    },
+    {
+      "categoryId": 3,
+      "categoryName": "Commercial",
+      "active": true
+    },
+    {
+      "categoryId": 4,
+      "categoryName": "Miniplex",
+      "active": true
+    },
+    {
+      "categoryId": 5,
+      "categoryName": "Multiplex",
+      "active": true
+    },
+    {
+      "categoryId": 6,
+      "categoryName": "Hotel or Motel",
+      "active": true
+    },
+    {
+      "categoryId": 7,
+      "categoryName": "Mix Land Use",
+      "active": true
+    },
+    {
+      "categoryId": 8,
+      "categoryName": "Club / Community center",
+      "active": true
+    },
+    {
+      "categoryId": 9,
+      "categoryName": "Guest house / Lodging & Boarding / Service Apartments",
+      "active": true
+    },
+    {
+      "categoryId": 10,
+      "categoryName": "Dhaba",
+      "active": true
+    },
+    {
+      "categoryId": 11,
+      "categoryName": "Petrol Pumps",
+      "active": true
+    },
+    {
+      "categoryId": 12,
+      "categoryName": "Wholesale Trade/ Ware house/ Integrated Freight Complex (Standalone)",
+      "active": true
+    },
+    {
+      "categoryId": 13,
+      "categoryName": "Industrial",
+      "active": true
+    },
+    {
+      "categoryId": 14,
+      "categoryName": "Educational Buildings",
+      "active": true
+    },
+    {
+      "categoryId": 15,
+      "categoryName": "Institutional",
+      "active": true
+    },
+    {
+      "categoryId": 16,
+      "categoryName": "Public Building",
+      "active": true
+    },
+    {
+      "categoryId": 17,
+      "categoryName": "Marriage Palace",
+      "active": true
+    },
+    {
+      "categoryId": 18,
+      "categoryName": "Multi level Car Parking (Standalone)",
+      "active": true
+    }
+  ]
+}
