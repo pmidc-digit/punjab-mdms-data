@@ -3763,6 +3763,27 @@
                     "name": "Zone"
                 }
             ]
+        },
+        {
+            "tanentId": "pb.testing",
+            "zones": [
+                {
+                    "code": "Zone101",
+                    "name": "Zone101"
+                },
+                {
+                    "code": "Zone102",
+                    "name": "Zone102"
+                },
+                {
+                    "code": "Zone103",
+                    "name": "Zone103"
+                },
+                {
+                    "code": "Zone104",
+                    "name": "Zone104"
+                }
+            ]
         }
     ]
 }
