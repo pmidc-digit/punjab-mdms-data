@@ -23,10 +23,11 @@
 					"maxRoad": 18,
 					"minHeight": 0,
 					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
+					"frontSetBack": 1.54,
+					"rearSetBack": 3.0,
+					"sideSetBack1": 2.0,
+					"sideSetBack2": 2.0,
+					"siteCoverage": 90
 				},
 				{
 					"OccupancyType": "A",
@@ -40,10 +41,11 @@
 					"maxRoad": 18,
 					"minHeight": 0,
 					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
+					"frontSetBack": 1.8,
+					"rearSetBack": 3.0,
+					"sideSetBack1": 2.0,
+					"sideSetBack2": 2.0,
+					"siteCoverage": 90
 				},
 				{
 					"OccupancyType": "A",
@@ -57,10 +59,11 @@
 					"maxRoad": 18,
 					"minHeight": 0,
 					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
+					"frontSetBack": 2.16,
+					"rearSetBack": 3.0,
+					"sideSetBack1": 2.0,
+					"sideSetBack2": 2.0,
+					"siteCoverage": 70
 				},
 				{
 					"OccupancyType": "A",
@@ -74,10 +77,11 @@
 					"maxRoad": 18,
 					"minHeight": 0,
 					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
+					"frontSetBack": 3.0,
+					"rearSetBack": 3.0,
+					"sideSetBack1": 2.0,
+					"sideSetBack2": 2.0,
+					"siteCoverage": 65
 				},
 				{
 					"OccupancyType": "A",
@@ -91,10 +95,11 @@
 					"maxRoad": 18,
 					"minHeight": 0,
 					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
+					"frontSetBack": 4.6,
+					"rearSetBack": 3.0,
+					"sideSetBack1": 2.0,
+					"sideSetBack2": 2.0,
+					"siteCoverage": 60
 				},
 				{
 					"OccupancyType": "A",
@@ -108,10 +113,11 @@
 					"maxRoad": 18,
 					"minHeight": 0,
 					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
+					"frontSetBack": 6.17,
+					"rearSetBack": 3.0,
+					"sideSetBack1": 2.0,
+					"sideSetBack2": 2.0,
+					"siteCoverage": 50
 				},
 				{
 					"OccupancyType": "A",
@@ -125,10 +131,225 @@
 					"maxRoad": 18,
 					"minHeight": 0,
 					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
+					"frontSetBack": 6.17,
+					"rearSetBack": 3.0,
+					"sideSetBack1": 2.0,
+					"sideSetBack2": 2.0,
+					"siteCoverage": 40
+				},
+				{
+					"OccupancyType": "A-AF",
+					"OccupancyName": "Apartment/Flat",
+					"minPlotArea": 2000,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": 1.2,
+					"PurchasableFAR": 1.0,
+					"isActive": true,
+					"minRoad": 18,
+					"maxRoad": 2147483647,
+					"minHeight": 10,
+					"maxHeight": 2147483647,
+					"frontSetBack": [
+						{
+							"height": 10,
+							"setback": 3
+						},
+						{
+							"height": 15,
+							"setback": 5
+						},
+						{
+							"height": 18,
+							"setback": 6
+						},
+						{
+							"height": 21,
+							"setback": 7
+						},
+						{
+							"height": 24,
+							"setback": 8
+						},
+						{
+							"height": 27,
+							"setback": 9
+						},
+						{
+							"height": 30,
+							"setback": 10
+						},
+						{
+							"height": 35,
+							"setback": 11
+						},
+						{
+							"height": 40,
+							"setback": 12
+						},
+						{
+							"height": 45,
+							"setback": 13
+						},
+						{
+							"height": 50,
+							"setback": 14
+						},
+						{
+							"height": 55,
+							"setback": 16
+						}
+					],
+					"rearSetBack": [
+						{
+							"height": 10,
+							"setback": 3
+						},
+						{
+							"height": 15,
+							"setback": 5
+						},
+						{
+							"height": 18,
+							"setback": 6
+						},
+						{
+							"height": 21,
+							"setback": 7
+						},
+						{
+							"height": 24,
+							"setback": 8
+						},
+						{
+							"height": 27,
+							"setback": 9
+						},
+						{
+							"height": 30,
+							"setback": 10
+						},
+						{
+							"height": 35,
+							"setback": 11
+						},
+						{
+							"height": 40,
+							"setback": 12
+						},
+						{
+							"height": 45,
+							"setback": 13
+						},
+						{
+							"height": 50,
+							"setback": 14
+						},
+						{
+							"height": 55,
+							"setback": 16
+						}
+					],
+					"sideSetBack1": [
+						{
+							"height": 10,
+							"setback": 3
+						},
+						{
+							"height": 15,
+							"setback": 5
+						},
+						{
+							"height": 18,
+							"setback": 6
+						},
+						{
+							"height": 21,
+							"setback": 7
+						},
+						{
+							"height": 24,
+							"setback": 8
+						},
+						{
+							"height": 27,
+							"setback": 9
+						},
+						{
+							"height": 30,
+							"setback": 10
+						},
+						{
+							"height": 35,
+							"setback": 11
+						},
+						{
+							"height": 40,
+							"setback": 12
+						},
+						{
+							"height": 45,
+							"setback": 13
+						},
+						{
+							"height": 50,
+							"setback": 14
+						},
+						{
+							"height": 55,
+							"setback": 16
+						}
+					],
+					"sideSetBack2": [
+						{
+							"height": 10,
+							"setback": 3
+						},
+						{
+							"height": 15,
+							"setback": 5
+						},
+						{
+							"height": 18,
+							"setback": 6
+						},
+						{
+							"height": 21,
+							"setback": 7
+						},
+						{
+							"height": 24,
+							"setback": 8
+						},
+						{
+							"height": 27,
+							"setback": 9
+						},
+						{
+							"height": 30,
+							"setback": 10
+						},
+						{
+							"height": 35,
+							"setback": 11
+						},
+						{
+							"height": 40,
+							"setback": 12
+						},
+						{
+							"height": 45,
+							"setback": 13
+						},
+						{
+							"height": 50,
+							"setback": 14
+						},
+						{
+							"height": 55,
+							"setback": 16
+						}
+					],
+					"siteCoverage": 35
 				},
 				{
 					"OccupancyType": "F",
@@ -142,10 +363,11 @@
 					"maxRoad": 18,
 					"minHeight": 0,
 					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
+					"frontSetBack": 3.0,
+					"rearSetBack": 1.5,
+					"sideSetBack1": 1.5,
+					"sideSetBack2": 1.5,
+					"siteCoverage": 40
 				},
 				{
 					"OccupancyType": "F",
@@ -159,10 +381,11 @@
 					"maxRoad": 18,
 					"minHeight": 0,
 					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
+					"frontSetBack": 3.0,
+					"rearSetBack": 1.5,
+					"sideSetBack1": 1.5,
+					"sideSetBack2": 1.5,
+					"siteCoverage": 40
 				},
 				{
 					"OccupancyType": "F",
@@ -176,10 +399,11 @@
 					"maxRoad": 18,
 					"minHeight": 0,
 					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
+					"frontSetBack": 3.0,
+					"rearSetBack": 1.5,
+					"sideSetBack1": 1.5,
+					"sideSetBack2": 1.5,
+					"siteCoverage": 40
 				},
 				{
 					"OccupancyType": "F",
@@ -193,10 +417,11 @@
 					"maxRoad": 18,
 					"minHeight": 0,
 					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
+					"frontSetBack": 3.0,
+					"rearSetBack": 1.5,
+					"sideSetBack1": 1.5,
+					"sideSetBack2": 1.5,
+					"siteCoverage": 40
 				},
 				{
 					"OccupancyType": "F",
@@ -210,10 +435,11 @@
 					"maxRoad": 18,
 					"minHeight": 0,
 					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
+					"frontSetBack": 3.0,
+					"rearSetBack": 1.5,
+					"sideSetBack1": 1.5,
+					"sideSetBack2": 1.5,
+					"siteCoverage": 40
 				},
 				{
 					"OccupancyType": "F",
@@ -227,10 +453,11 @@
 					"maxRoad": 18,
 					"minHeight": 0,
 					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
+					"frontSetBack": 3.0,
+					"rearSetBack": 1.5,
+					"sideSetBack1": 1.5,
+					"sideSetBack2": 1.5,
+					"siteCoverage": 40
 				},
 				{
 					"OccupancyType": "F",
@@ -244,10 +471,11 @@
 					"maxRoad": 18,
 					"minHeight": 0,
 					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
+					"frontSetBack": 3.0,
+					"rearSetBack": 1.5,
+					"sideSetBack1": 1.5,
+					"sideSetBack2": 1.5,
+					"siteCoverage": 40
 				},
 				{
 					"OccupancyType": "G",
@@ -261,10 +489,11 @@
 					"maxRoad": 18,
 					"minHeight": 0,
 					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
+					"frontSetBack": 3.0,
+					"rearSetBack": 1.5,
+					"sideSetBack1": 1.5,
+					"sideSetBack2": 1.5,
+					"siteCoverage": 40
 				}
 			]
 		},
@@ -289,10 +518,11 @@
 					"maxRoad": 18,
 					"minHeight": 0,
 					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
+					"frontSetBack": 3.0,
+					"rearSetBack": 1.5,
+					"sideSetBack1": 1.5,
+					"sideSetBack2": 1.5,
+					"siteCoverage": 40
 				},
 				{
 					"OccupancyType": "A",
@@ -306,10 +536,11 @@
 					"maxRoad": 18,
 					"minHeight": 0,
 					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
+					"frontSetBack": 3.0,
+					"rearSetBack": 1.5,
+					"sideSetBack1": 1.5,
+					"sideSetBack2": 1.5,
+					"siteCoverage": 40
 				},
 				{
 					"OccupancyType": "A",
@@ -323,10 +554,11 @@
 					"maxRoad": 18,
 					"minHeight": 0,
 					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
+					"frontSetBack": 3.0,
+					"rearSetBack": 1.5,
+					"sideSetBack1": 1.5,
+					"sideSetBack2": 1.5,
+					"siteCoverage": 40
 				},
 				{
 					"OccupancyType": "A",
@@ -340,10 +572,11 @@
 					"maxRoad": 18,
 					"minHeight": 0,
 					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
+					"frontSetBack": 3.0,
+					"rearSetBack": 1.5,
+					"sideSetBack1": 1.5,
+					"sideSetBack2": 1.5,
+					"siteCoverage": 40
 				},
 				{
 					"OccupancyType": "A",
@@ -357,10 +590,11 @@
 					"maxRoad": 18,
 					"minHeight": 0,
 					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
+					"frontSetBack": 3.0,
+					"rearSetBack": 1.5,
+					"sideSetBack1": 1.5,
+					"sideSetBack2": 1.5,
+					"siteCoverage": 40
 				},
 				{
 					"OccupancyType": "A",
@@ -374,10 +608,11 @@
 					"maxRoad": 18,
 					"minHeight": 0,
 					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
+					"frontSetBack": 3.0,
+					"rearSetBack": 1.5,
+					"sideSetBack1": 1.5,
+					"sideSetBack2": 1.5,
+					"siteCoverage": 40
 				},
 				{
 					"OccupancyType": "A",
@@ -391,10 +626,11 @@
 					"maxRoad": 18,
 					"minHeight": 0,
 					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
+					"frontSetBack": 3.0,
+					"rearSetBack": 1.5,
+					"sideSetBack1": 1.5,
+					"sideSetBack2": 1.5,
+					"siteCoverage": 40
 				},
 				{
 					"OccupancyType": "F",
@@ -408,10 +644,11 @@
 					"maxRoad": 18,
 					"minHeight": 0,
 					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
+					"frontSetBack": 3.0,
+					"rearSetBack": 1.5,
+					"sideSetBack1": 1.5,
+					"sideSetBack2": 1.5,
+					"siteCoverage": 40
 				},
 				{
 					"OccupancyType": "F",
@@ -425,10 +662,11 @@
 					"maxRoad": 18,
 					"minHeight": 0,
 					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
+					"frontSetBack": 3.0,
+					"rearSetBack": 1.5,
+					"sideSetBack1": 1.5,
+					"sideSetBack2": 1.5,
+					"siteCoverage": 40
 				},
 				{
 					"OccupancyType": "F",
@@ -442,10 +680,11 @@
 					"maxRoad": 18,
 					"minHeight": 0,
 					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
+					"frontSetBack": 3.0,
+					"rearSetBack": 1.5,
+					"sideSetBack1": 1.5,
+					"sideSetBack2": 1.5,
+					"siteCoverage": 40
 				},
 				{
 					"OccupancyType": "F",
@@ -459,10 +698,11 @@
 					"maxRoad": 18,
 					"minHeight": 0,
 					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
+					"frontSetBack": 3.0,
+					"rearSetBack": 1.5,
+					"sideSetBack1": 1.5,
+					"sideSetBack2": 1.5,
+					"siteCoverage": 40
 				},
 				{
 					"OccupancyType": "F",
@@ -476,10 +716,11 @@
 					"maxRoad": 18,
 					"minHeight": 0,
 					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
+					"frontSetBack": 3.0,
+					"rearSetBack": 1.5,
+					"sideSetBack1": 1.5,
+					"sideSetBack2": 1.5,
+					"siteCoverage": 40
 				},
 				{
 					"OccupancyType": "F",
@@ -493,10 +734,11 @@
 					"maxRoad": 18,
 					"minHeight": 0,
 					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
+					"frontSetBack": 3.0,
+					"rearSetBack": 1.5,
+					"sideSetBack1": 1.5,
+					"sideSetBack2": 1.5,
+					"siteCoverage": 40
 				},
 				{
 					"OccupancyType": "F",
@@ -510,10 +752,11 @@
 					"maxRoad": 18,
 					"minHeight": 0,
 					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
+					"frontSetBack": 3.0,
+					"rearSetBack": 1.5,
+					"sideSetBack1": 1.5,
+					"sideSetBack2": 1.5,
+					"siteCoverage": 40
 				}
 			]
 		}
