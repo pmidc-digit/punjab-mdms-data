@@ -1,7 +1,7 @@
 {
   "tenantId": "pb",
   "moduleName": "tenant",
-  "ZoneMaster": [
+  "ZoneWardMaster": [
     {
       "tenantId": "pb.abohar",
       "zones": [
