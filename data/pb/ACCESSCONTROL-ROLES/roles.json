@@ -3,6 +3,24 @@
   "moduleName": "ACCESSCONTROL-ROLES",
   "roles": [
     {
+      "code": "Joint Commissioner",
+      "name": "Joint Commissioner",
+      "description": "Joint Commissioner",
+      "groupId": "025"
+    },
+    {
+      "code": "Senior Fire Officer",
+      "name": "Senior Fire Officer",
+      "description": "Senior Fire Officer",
+      "groupId": "025"
+    },
+    {
+      "code": "Senior Town Planner Field",
+      "name": "Senior Town Planner Field",
+      "description": "Senior Town Planner Field",
+      "groupId": "025"
+    },
+    {
       "code": "OBPAS REPORTS",
       "name": "OBPAS REPORTS",
       "description": "Access to all OBPAS Reports",
