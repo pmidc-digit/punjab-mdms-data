@@ -1,7 +1,7 @@
 {
   "tenantId": "pb.testing",
-  "moduleName": "docuementName",
-  "docName": [
+  "moduleName": "documentType",
+  "docsName": [
     {
      "id":"1",
      "name":"Allotment Letter"
