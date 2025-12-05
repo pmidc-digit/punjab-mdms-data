@@ -1372,6 +1372,12 @@
       "groupId": "032"
     },
     {
+      "code": "RL_FIELD_INSPECTOR",
+      "name": "RL Field Inspector",
+      "description": "Access to Rent And Lease",
+      "groupId": "032"
+    },
+    {
       "code": "RL_APPROVER",
       "name": "RL Application Approver",
       "description": "Access to Rent And Lease",
