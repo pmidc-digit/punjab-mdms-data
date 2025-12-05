@@ -25674,6 +25674,80 @@
       "serviceCode": "OBPASBPAREPORTS",
       "code": "null",
       "path": ""
-    }            
+    },
+    {
+      "id": 8900029,
+      "name": "Beyond Time Line Pending Files Summary",
+      "url": "url",
+      "displayName": "Beyond Time Line Pending Files Summary",
+      "orderNumber": 5,
+      "queryParams": "",
+      "parentModule": "BUILDING PLAN REPORTS",
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "path": "BUILDING PLAN REPORTS.Beyond Time Line Pending Files Summary",
+      "navigationURL": "report/rainmaker-obpas_bpa/Pending_Files_Summary",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900030,
+      "name": "Beyond Time Line Pending Files Summary",
+      "url": "/report/rainmaker-obpas_bpa/Pending_Files_Summary/metadata/_get",
+      "displayName": "Beyond Time Line Pending Files Summary",
+      "orderNumber": 5,
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900031,
+      "name": "Beyond Time Line Pending Files Summary",
+      "url": "/report/rainmaker-obpas_bpa/Pending_Files_Summary/_get",
+      "displayName": "Beyond Time Line Pending Files Summary",
+      "orderNumber": 5,
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "code": "null",
+      "path": ""
+    } ,
+     {
+      "id": 8900032,
+      "name": "Detailed File List",
+      "url": "url",
+      "displayName": "Detailed File List",
+      "orderNumber": 6,
+      "queryParams": "",
+      "parentModule": "BUILDING PLAN REPORTS",
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "path": "BUILDING PLAN REPORTS.Detailed File List",
+      "navigationURL": "report/rainmaker-obpas_bpa/Detailed_File_List",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900033,
+      "name": "Detailed File List",
+      "url": "/report/rainmaker-obpas_bpa/Detailed_File_List/metadata/_get",
+      "displayName": "Detailed File List",
+      "orderNumber": 6,
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900034,
+      "name": "Detailed File List",
+      "url": "/report/rainmaker-obpas_bpa/Detailed_File_List/_get",
+      "displayName": "Detailed File List",
+      "orderNumber": 6,
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "code": "null",
+      "path": ""
+    }    
   ]
 }
