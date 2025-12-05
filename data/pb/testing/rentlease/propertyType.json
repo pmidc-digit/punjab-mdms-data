@@ -1,6 +1,6 @@
 {
   "tenantId": "pb.testing",
-  "moduleName": "propertyType",
+  "moduleName": "rentAndLease",
   "propertyType": [
     {
      "id":"1",

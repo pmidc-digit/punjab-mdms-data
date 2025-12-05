@@ -1,7 +1,7 @@
 {
   "tenantId": "pb.testing",
-  "moduleName": "useCategory",
-  "useCategory": [
+  "moduleName": "rentAndLease",
+  "allotmentName": [
     {
      "id":"1",
      "name":"rent"
