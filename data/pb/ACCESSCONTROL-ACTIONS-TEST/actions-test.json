@@ -25748,6 +25748,17 @@
       "serviceCode": "OBPASBPAREPORTS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 8900035,
+      "name": "searchListAllotment",
+      "url": "/rl-services/allotment/v1/_search",
+      "displayName": "search List Allotment",
+      "orderNumber": 3,
+      "enabled": false,
+      "serviceCode": "RENT_N_LEASE",
+      "code": "RNL",
+      "path": ""
     }    
   ]
 }
