@@ -1378,8 +1378,8 @@
       "groupId": "014"
     },
     {
-      "code": "RL_ALLOTMENT_EMPLOYEE",   
-      "name": "RL Allotment Employee",
+      "code": "RL_APPLY_EMPLOYEE",   
+      "name": "RL Apply Employee",
       "description": "Access to Rent And Lease",
       "groupId": "032"
     },
@@ -1398,12 +1398,6 @@
     {
       "code": "RL_APPROVER",
       "name": "RL Application Approver",
-      "description": "Access to Rent And Lease",
-      "groupId": "032"
-    },
-    {
-      "code": "RL_COLLECTOR",
-      "name": "RL Payment Collector",
       "description": "Access to Rent And Lease",
       "groupId": "032"
     },
