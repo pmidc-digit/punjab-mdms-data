@@ -24,9 +24,16 @@
             "id": "4",  
             "taxType": "Penalty",
             "type":"%",
-            "amount": 2
+            "amount": 2,
+            "description": "penalaty on base rent"
+
+          },
+          {
+            "id": "5",  
+            "taxType": "Penalty",
+            "type":"value",
+            "amount": 200,
+            "description": "penalaty on base rent"
           }
-
-
     ]
   }
