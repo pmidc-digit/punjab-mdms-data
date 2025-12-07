@@ -3158,6 +3158,30 @@
       "service": "GC",
       "code": "GC-2025-26-Q4",
       "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1704047400000,
+      "toDate": 1830277799000,
+      "periodCycle": "ANNUAL",
+      "service": "rl-services",
+      "code": "RL-2024-27-Q4",
+      "financialYear": "2024-27"
+    },
+    {
+      "fromDate": 1704047400000,
+      "toDate": 1830277799000,
+      "periodCycle": "BIANNUAL",
+      "service": "rl-services",
+      "code": "RL-2024-27-Q4",
+      "financialYear": "2024-27"
+    },
+    {
+      "fromDate": 1704047400000,
+      "toDate": 1830277799000,
+      "periodCycle": "QUATERLY",
+      "service": "rl-services",
+      "code": "RL-2024-27-Q4",
+      "financialYear": "2024-27"
     }
   ]
 }

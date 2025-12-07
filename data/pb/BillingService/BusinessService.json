@@ -3,6 +3,18 @@
   "moduleName": "BillingService",
   "BusinessService": [
     {
+      "businessService": "RentLeaseTax",
+      "code": "RL",
+      "collectionModesNotAllowed": [
+        ""
+      ],
+      "partPaymentAllowed": true,
+      "isAdvanceAllowed": false,
+      "demandUpdateTime": 86400000,
+      "isVoucherCreationEnabled": true,
+      "cancelReceipt": true
+    },
+    {
       "businessService": "PropertyTax",
       "code": "PT",
       "collectionModesNotAllowed": [
