@@ -6147,7 +6147,7 @@
       "isRequired": false,
       "name": "Water Disconnection fee",
       "order": "15",
-      "service": "WS_DISCONNECTION_FEE"
+      "service": "WS.ONE_TIME_FEE"
     },  
     {
       "category": "TAX",
@@ -7402,7 +7402,7 @@
       "isRequired": false,
       "name": "Sewerage Disconnection fee",
       "order": "15",
-      "service": "SW_DISCONNECTION_FEE"
+      "service": "SW.ONE_TIME_FEE"
     },  
     {
       "category": "FEE",
