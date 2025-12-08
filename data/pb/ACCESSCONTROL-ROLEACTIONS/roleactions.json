@@ -4,6 +4,42 @@
   "roleactions": [
     {
       "rolecode": "OBPAS REPORTS",
+      "actionid": 8900036,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8900037,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8900038,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8900039,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8900040,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8900041,
+      "actioncode": "",
+      "tenantId": "pb"
+    },	  
+    {
+      "rolecode": "OBPAS REPORTS",
       "actionid": 8900029,
       "actioncode": "",
       "tenantId": "pb"
