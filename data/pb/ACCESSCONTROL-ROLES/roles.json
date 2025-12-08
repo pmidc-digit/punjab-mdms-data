@@ -1406,6 +1406,12 @@
       "name": "RL Allotment Closed",
       "description": "Access to Rent And Lease",
       "groupId": "032"
+    },
+    {
+      "code": "CLERK",
+      "name": "Clerk",
+      "description": "Clerk",
+      "groupId": "025"
     }
 
   ]
