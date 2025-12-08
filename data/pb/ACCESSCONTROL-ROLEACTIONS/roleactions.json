@@ -66135,37 +66135,37 @@
       "rolecode": "RL_APPLY_EMPLOYEE",
       "actionid": 8900966,
       "actioncode": "RNL",
-      "tenantId": "pb.testing"
+      "tenantId": "pb"
     },
     {
       "rolecode": "RL_APPLY_EMPLOYEE",
       "actionid": 8900967,
       "actioncode": "RNL",
-      "tenantId": "pb.testing"
+      "tenantId": "pb"
     },
     {
       "rolecode": "RL_DOC_VERIFIER",
       "actionid": 8900967,
       "actioncode": "RNL",
-      "tenantId": "pb.testing"
+      "tenantId": "pb"
     },
     {
       "rolecode": "RL_APPROVER",
       "actionid": 8900967,
       "actioncode": "RNL",
-      "tenantId": "pb.testing"
+      "tenantId": "pb"
     },
     {
       "rolecode": "RL_FIELD_INSPECTOR",
       "actionid": 8900967,
       "actioncode": "RNL",
-      "tenantId": "pb.testing"
+      "tenantId": "pb"
     },
     {
       "rolecode": "EMPLOYEE",
       "actionid": 8900035,
       "actioncode": "RNL",
-      "tenantId": "pb.testing"
+      "tenantId": "pb"
     },
     {
       "rolecode": "GC_CEMP",
