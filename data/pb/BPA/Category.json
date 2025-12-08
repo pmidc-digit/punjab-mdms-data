@@ -8,28 +8,8 @@
       "active": true
     },
     {
-      "categoryId": "B",
-      "categoryName": "Educational",
-      "active": true
-    },
-    {
-      "categoryId": "C",
-      "categoryName": "Medical/Hospital",
-      "active": true
-    },
-    {
-      "categoryId": "D",
-      "categoryName": "Assembly",
-      "active": true
-    },
-    {
-      "categoryId": "E",
-      "categoryName": "Office/Business",
-      "active": true
-    },
-    {
       "categoryId": "F",
-      "categoryName": "Mercantile / Commercial",
+      "categoryName": "Commercial",
       "active": true
     },
     {
@@ -38,23 +18,13 @@
       "active": true
     },
     {
-      "categoryId": "H",
-      "categoryName": "Storage",
+      "categoryId": "P",
+      "categoryName": "Public‐Semi Public/ Institutional and Educational Buildings",
       "active": true
     },
     {
-      "categoryId": "I",
-      "categoryName": "Hazardous",
-      "active": true
-    },
-    {
-      "categoryId": "M",
-      "categoryName": "Medical Facilities",
-      "active": true
-    },
-    {
-      "categoryId": "S",
-      "categoryName": "Social/Cultural",
+      "categoryId": "Q",
+      "categoryName": "Mixed land",
       "active": true
     }
   ]
