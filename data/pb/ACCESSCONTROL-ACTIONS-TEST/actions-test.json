@@ -25755,7 +25755,7 @@
       "url": "/rl-services/allotment/v1/_search",
       "displayName": "search List Allotment",
       "orderNumber": 3,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "RENT_N_LEASE",
       "code": "RNL",
       "path": ""
