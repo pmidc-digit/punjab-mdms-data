@@ -18250,6 +18250,75 @@
 	  "serviceCode": "EDCR",
 	  "code": "null",
 	  "path": ""
-	}
+	},
+  {
+    "id": 5008,
+    "name": "BPA-Applyforservice",
+    "url": "/bpa-services/v1/bpa/_create",
+    "displayName": "Apply",
+    "orderNumber": 0,
+    "enabled": false,
+    "serviceCode": "BPA",
+    "code": "null",
+    "path": ""
+  },
+  {
+    "id": 5009,
+    "name": "BPA-applicationsearch",
+    "url": "/bpa-services/v1/bpa/_search",
+    "displayName": "Search",
+    "orderNumber": 0,
+    "enabled": false,
+    "serviceCode": "BPA",
+    "code": "null",
+    "path": ""
+  },
+  {
+    "id": 5010,
+    "name": "BPA-updateapplicationservice",
+    "url": "/bpa-services/v1/bpa/_update",
+    "displayName": "Apply",
+    "orderNumber": 0,
+    "enabled": false,
+    "serviceCode": "BPA",
+    "code": "null",
+    "path": ""
+  },
+  {
+    "id": 5024,
+    "name": "BPA Calculator",
+    "url": "/bpa-calculator/_calculate",
+    "parentModule": "",
+    "displayName": "BPA Calculator",
+    "orderNumber": 0,
+    "enabled": false,
+    "serviceCode": "tl-services",
+    "code": "null",
+    "path": ""
+  },
+  {
+    "id": 5020,
+    "name": "BPA Application Payment search",
+    "url": "/collection-services/payments/BPA.NC_APP_FEE/_search",
+    "displayName": "BPA Application Payment search",
+    "orderNumber": 1,
+    "parentModule": "",
+    "enabled": false,
+    "serviceCode": "",
+    "code": "null",
+    "path": ""
+  },
+  {
+    "id": 5021,
+    "name": "BPA San Payment search",
+    "url": "/collection-services/payments/BPA.NC_SAN_FEE/_search",
+    "displayName": "BPA San Payment search",
+    "orderNumber": 1,
+    "parentModule": "",
+    "enabled": false,
+    "serviceCode": "",
+    "code": "null",
+    "path": ""
+  }
   ]
 }
