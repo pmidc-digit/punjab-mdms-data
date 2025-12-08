@@ -7,7 +7,7 @@
       "months": [
         {
           "month": 11,
-          "holidays": [5]
+          "holidays": [5,28,30]
         },
         {
           "month": 12,
