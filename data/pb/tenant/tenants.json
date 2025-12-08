@@ -744,8 +744,8 @@
         "districtName": "Barnala",
         "districtTenantCode": "pb.barnala",
         "regionName": "Patiala Region",
-        "ulbGrade": "MC Class I",
-        "ulbType": "Municipal Council",
+        "ulbGrade": "Municipal Corporation",
+        "ulbType": "Municipal Corporation",
         "longitude": 75.5468,
         "latitude": 30.3819,
         "shapeFileLocation": null,
@@ -754,8 +754,8 @@
         "regionCode": "6",
         "municipalityName": "Barnala",
         "ddrName": "Patiala-DDR",
-        "pwssb": true,
-        "pwssbGrade": "Punjab Water Supply and Sewerage Board"
+        "pwssb": false,
+        "pwssbGrade": "Municipal Corporation"
       },
       "address": "MC Barnala",
       "contactNumber": "1679231901",
