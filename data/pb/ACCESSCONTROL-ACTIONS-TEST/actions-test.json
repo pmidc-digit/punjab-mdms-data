@@ -5828,7 +5828,7 @@
       "path": "HRMS.Search",
       "leftIcon": "social:people"
     },
-     {
+    {
       "id": 1774,
       "name": "HRMS",
       "url": "url",
@@ -5934,7 +5934,7 @@
       "code": "null",
       "path": ""
     },
-     {
+    {
       "id": 111780,
       "name": "Employee Create",
       "url": "/egov-hrms/obpass/employees/_create",
@@ -5982,7 +5982,7 @@
       "code": "null",
       "path": ""
     },
-     {
+    {
       "id": 111782,
       "name": "Employee Search",
       "url": "/egov-hrms/obpass/employees/_search",
@@ -22944,12 +22944,32 @@
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/challangeneration-home"
     },
+
+    {
+      "id": 8900947,
+      "name": "Create Application",
+      "url": "digit-ui-card",
+      "i18nKey": "Create Application",
+      "displayName": "Create Application",
+      "orderNumber": 1,
+      "parentModule": "GarbageCollection",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/garbagecollection/create-application",
+      "leftIcon": "MCollectIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/garbagecollection-home"
+    },
     {
       "id": 233821,
       "name": "GC_MY_APPLICATIONS",
       "url": "digit-ui-card",
       "displayName": "Garbage Collection",
-      "orderNumber": 1,
+      "orderNumber": 2,
       "parentModule": "GarbageCollection",
       "enabled": true,
       "serviceCode": "",
@@ -24642,26 +24662,6 @@
     },
 
     {
-      "id": 8900947,
-      "name": "Create Application",
-      "url": "digit-ui-card",
-      "i18nKey": "Create Application",
-      "displayName": "Create Application",
-      "orderNumber": 2,
-      "parentModule": "GarbageCollection",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "",
-      "path": "",
-      "navigationURL": "/digit-ui/citizen/garbagecollection/create-application",
-      "leftIcon": "MCollectIcon",
-      "rightIcon": "",
-      "queryParams": "",
-      "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/garbagecollection-home"
-    },
-
-    {
       "id": 89008923,
       "name": "GarbageCollection Inbox",
       "url": "url",
@@ -25711,8 +25711,8 @@
       "serviceCode": "OBPASBPAREPORTS",
       "code": "null",
       "path": ""
-    } ,
-     {
+    },
+    {
       "id": 8900032,
       "name": "Detailed File List",
       "url": "url",
@@ -25833,6 +25833,6 @@
       "serviceCode": "OBPASBPAREPORTS",
       "code": "null",
       "path": ""
-    }        
+    }
   ]
 }
