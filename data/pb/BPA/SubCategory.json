@@ -10,13 +10,7 @@
     },
     {
       "subCategoryId": "A-GH",
-      "subCategoryName": "Group Housing",
-      "categoryId": "A",
-      "active": true
-    },
-    {
-      "subCategoryId": "A-AF",
-      "subCategoryName": "Apartment/Flat",
+      "subCategoryName": "Group Housing/Apartment/Flat",
       "categoryId": "A",
       "active": true
     },
@@ -40,7 +34,7 @@
     },
     {
       "subCategoryId": "F-R",
-      "subCategoryName": "Restaurants/ Banquet Halls",
+      "subCategoryName": "Restaurants/Banquet Halls",
       "categoryId": "F",
       "active": true
     },
@@ -87,14 +81,8 @@
       "active": true
     },
     {
-      "subCategoryId": "F-MI",
-      "subCategoryName": "Miniplex",
-      "categoryId": "F",
-      "active": true
-    },
-    {
-      "subCategoryId": "F-MU",
-      "subCategoryName": "Multiplex",
+      "subCategoryId": "F-M",
+      "subCategoryName": "Multiplex/Miniplex",
       "categoryId": "F",
       "active": true
     },
