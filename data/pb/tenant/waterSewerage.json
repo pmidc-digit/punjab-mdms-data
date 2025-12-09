@@ -55,7 +55,7 @@
     {
       "code": "pb.badhnikalan",
       "name": "Badhni Kalan",
-      "isautodemand": "false"
+      "isautodemand": "true"
     },
     {
       "code": "pb.balachaur",
@@ -220,7 +220,7 @@
     {
       "code": "pb.hariana",
       "name": "Hariana",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.itpatiala",
@@ -234,7 +234,7 @@
     },
     {
       "code": "pb.jandialaguru",
-      "name": "Jandiala guru",
+      "name": "Jandiala Guru",
       "isautodemand": "false"
     },
     {
@@ -381,6 +381,11 @@
       "code": "pb.raikot",
       "name": "Raikot",
       "isautodemand": "false"
+    },
+    {
+      "code": "pb.rajpura",
+      "name": "Rajpura",
+      "isautodemand": "true"
     },
     {
       "code": "pb.ramdass",
