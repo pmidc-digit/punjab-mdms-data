@@ -277,6 +277,12 @@
       "subCategoryName": "Creche/Day Care facilities",
       "categoryId": "P",
       "active": true
+    },
+    {
+      "subCategoryId": "Q-ML",
+      "subCategoryName": "Mixed land",
+      "categoryId": "Q",
+      "active": true
     }
   ]
 }
