@@ -24660,7 +24660,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 89008923,
       "name": "GarbageCollection Inbox",
@@ -24674,6 +24673,22 @@
       "code": "null",
       "path": "GarbageCollection.GarbageCollection Reports.HRMSEmployee wise Report",
       "navigationURL": "/digit-ui/employee/garbagecollection/inbox",
+      "leftIcon": "custom:open-NDCMODULE",
+      "rightIcon": ""
+    },
+    {
+      "id": 89008927,
+      "name": "GarbageCollection Create",
+      "url": "url",
+      "displayName": "Garbage Collection Create",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "rainmaker-hrms",
+      "enabled": true,
+      "serviceCode": "GarbageCollection",
+      "code": "null",
+      "path": "GarbageCollection.GarbageCollection Reports.HRMSEmployee wise Report",
+      "navigationURL": "/digit-ui/employee/garbagecollection/create-application",
       "leftIcon": "custom:open-NDCMODULE",
       "rightIcon": ""
     },

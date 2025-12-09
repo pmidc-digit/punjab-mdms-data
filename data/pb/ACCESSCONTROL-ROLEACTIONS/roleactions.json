@@ -37,7 +37,7 @@
       "actionid": 8900041,
       "actioncode": "",
       "tenantId": "pb"
-    },	  
+    },
     {
       "rolecode": "OBPAS REPORTS",
       "actionid": 8900029,
@@ -73,7 +73,7 @@
       "actionid": 8900034,
       "actioncode": "",
       "tenantId": "pb"
-    },	  
+    },
     {
       "rolecode": "OBPAS REPORTS",
       "actionid": 8900015,
@@ -157,7 +157,7 @@
       "actionid": 8900028,
       "actioncode": "",
       "tenantId": "pb"
-    },	  
+    },
     {
       "rolecode": "OBPAS REPORTS",
       "actionid": 8900987,
@@ -325,7 +325,7 @@
       "actionid": 8900014,
       "actioncode": "",
       "tenantId": "pb"
-    },	  
+    },
     {
       "rolecode": "OBPAS REPORTS",
       "actionid": 8900973,
@@ -409,7 +409,7 @@
       "actionid": 8900986,
       "actioncode": "",
       "tenantId": "pb"
-    },	  
+    },
     {
       "rolecode": "ADV REPORTS",
       "actionid": 8900965,
@@ -38932,7 +38932,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-    	{
+    {
       "rolecode": "HRMS_ADMIN",
       "actionid": 11111782,
       "actioncode": "",
@@ -38950,57 +38950,57 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-	 {
+    {
       "rolecode": "EMPLOYEE",
       "actionid": 111782,
       "actioncode": "",
       "tenantId": "pb"
     },
-		{
+    {
       "rolecode": "HRMS_ADMIN",
-      "actionid":  111781,
+      "actionid": 111781,
       "actioncode": "",
       "tenantId": "pb"
     },
     {
       "rolecode": "STADMIN",
-      "actionid":  111781,
+      "actionid": 111781,
       "actioncode": "",
       "tenantId": "pb"
     },
     {
       "rolecode": "SUPERUSER",
-      "actionid":  111781,
+      "actionid": 111781,
       "actioncode": "",
       "tenantId": "pb"
     },
-	 {
+    {
       "rolecode": "EMPLOYEE",
-      "actionid":  111781,
+      "actionid": 111781,
       "actioncode": "",
       "tenantId": "pb"
     },
-	{
+    {
       "rolecode": "HRMS_ADMIN",
-      "actionid":  111780,
+      "actionid": 111780,
       "actioncode": "",
       "tenantId": "pb"
     },
     {
       "rolecode": "STADMIN",
-      "actionid":  111780,
+      "actionid": 111780,
       "actioncode": "",
       "tenantId": "pb"
     },
     {
       "rolecode": "SUPERUSER",
-      "actionid":  111780,
+      "actionid": 111780,
       "actioncode": "",
       "tenantId": "pb"
     },
-	 {
+    {
       "rolecode": "EMPLOYEE",
-      "actionid":  111780,
+      "actionid": 111780,
       "actioncode": "",
       "tenantId": "pb"
     },
@@ -66206,6 +66206,12 @@
     {
       "rolecode": "GC_CEMP",
       "actionid": 89008923,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "GC_CEMP",
+      "actionid": 89008927,
       "actioncode": "",
       "tenantId": "pb"
     },
