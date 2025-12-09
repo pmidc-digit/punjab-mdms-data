@@ -15,6 +15,7 @@
       "locationType": "Prime",
       "baseRent": "2500",
       "securityDeposit": "1500",
+      "financialYear":"2025-2026",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
       "cowCessApplicable": true
@@ -31,6 +32,7 @@
       "locationType": "Non-Prime",
       "baseRent": "3000",
       "securityDeposit": "1800",
+      "financialYear":"2025-2026",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
       "cowCessApplicable": true
@@ -47,6 +49,7 @@
       "locationType": "Prime",
       "baseRent": "3200",
       "securityDeposit": "2000",
+      "financialYear":"2025-2026",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
       "cowCessApplicable": true
@@ -63,6 +66,7 @@
       "locationType": "Prime",
       "baseRent": "3500",
       "securityDeposit": "2200",
+      "financialYear":"2025-2026",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
       "cowCessApplicable": true
@@ -79,6 +83,7 @@
       "locationType": "Non-Prime",
       "baseRent": "3700",
       "securityDeposit": "2300",
+      "financialYear":"2025-2026",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
       "cowCessApplicable": true
@@ -95,6 +100,7 @@
       "locationType": "Prime",
       "baseRent": "4000",
       "securityDeposit": "2500",
+      "financialYear":"2025-2026",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
       "cowCessApplicable": true
@@ -111,6 +117,7 @@
       "locationType": "Prime",
       "baseRent": "4200",
       "securityDeposit": "2600",
+      "financialYear":"2025-2026",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
       "cowCessApplicable": true
@@ -127,6 +134,7 @@
       "locationType": "Prime",
       "baseRent": "4500",
       "securityDeposit": "2800",
+      "financialYear":"2025-2026",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
       "cowCessApplicable": true
@@ -143,6 +151,7 @@
       "locationType": "Prime",
       "baseRent": "4700",
       "securityDeposit": "3000",
+      "financialYear":"2025-2026",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
       "cowCessApplicable": true
@@ -159,6 +168,7 @@
       "locationType": "Non-Prime",
       "baseRent": "5000",
       "securityDeposit": "3200",
+      "financialYear":"2025-2026",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
       "cowCessApplicable": true
@@ -175,6 +185,7 @@
       "locationType": "Prime",
       "baseRent": "5200",
       "securityDeposit": "3400",
+      "financialYear":"2025-2026",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
       "cowCessApplicable": true
@@ -191,6 +202,7 @@
       "locationType": "Prime",
       "baseRent": "5500",
       "securityDeposit": "3600",
+      "financialYear":"2025-2026",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
       "cowCessApplicable": true
@@ -207,6 +219,7 @@
       "locationType": "Prime",
       "baseRent": "5800",
       "securityDeposit": "3800",
+      "financialYear":"2025-2026",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
       "cowCessApplicable": true
@@ -223,6 +236,7 @@
       "locationType": "Non-Prime",
       "baseRent": "6000",
       "securityDeposit": "4000",
+      "financialYear":"2025-2026",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
       "cowCessApplicable": true
@@ -239,6 +253,7 @@
       "locationType": "Prime",
       "baseRent": "6200",
       "securityDeposit": "4200",
+      "financialYear":"2025-2026",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
       "cowCessApplicable": true
@@ -255,6 +270,7 @@
       "locationType": "Prime",
       "baseRent": "6500",
       "securityDeposit": "4400",
+      "financialYear":"2025-2026",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
       "cowCessApplicable": true
@@ -271,6 +287,7 @@
       "locationType": "Prime",
       "baseRent": "6700",
       "securityDeposit": "4600",
+      "financialYear":"2025-2026",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
       "cowCessApplicable": true
@@ -287,6 +304,7 @@
       "locationType": "Non-Prime",
       "baseRent": "7000",
       "securityDeposit": "4800",
+      "financialYear":"2025-2026",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
       "cowCessApplicable": true
@@ -303,6 +321,7 @@
       "locationType": "Prime",
       "baseRent": "7200",
       "securityDeposit": "5000",
+      "financialYear":"2025-2026",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
       "cowCessApplicable": true
@@ -319,6 +338,7 @@
       "locationType": "Prime",
       "baseRent": "7200",
       "securityDeposit": "5000",
+      "financialYear":"2025-2026",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
       "cowCessApplicable": true
