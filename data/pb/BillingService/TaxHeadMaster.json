@@ -8545,31 +8545,11 @@
     {
       "category": "FEE",
       "service": "rl-services",
-      "name": "Service Charge",
-      "code": "SERVICE_CHARGE",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "3",
-      "isRequired": false
-    },
-    {
-      "category": "FEE",
-      "service": "rl-services",
       "name": "Penalty Fee",
       "code": "PENALTY_FEE",
       "isDebit": false,
       "isActualDemand": true,
       "order": "4",
-      "isRequired": false
-    },
-    {
-      "category": "FEE",
-      "service": "rl-services",
-      "name": "Interest Amount",
-      "code": "INTEREST_AMOUNT",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "5",
       "isRequired": false
     },
     {
