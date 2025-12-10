@@ -59622,12 +59622,7 @@
       "actioncode": "",
       "tenantid": "pb"
     },
-    {
-      "rolecode": "GC_ADMIN",
-      "actionid": 890049,
-      "actioncode": "",
-      "tenantid": "pb"
-    },
+
     {
       "rolecode": "CITIZEN",
       "actionid": 890038,
