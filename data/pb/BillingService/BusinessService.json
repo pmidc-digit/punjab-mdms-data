@@ -1515,6 +1515,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
+	  "isBillAmendmentEnabled": true,
       "cancelReceipt": true
     },
     {
