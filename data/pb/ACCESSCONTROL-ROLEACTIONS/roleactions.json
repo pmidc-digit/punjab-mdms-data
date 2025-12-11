@@ -64908,13 +64908,13 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "EMPLOYEE",
+      "rolecode": "CHALLAN_ADMIN",
       "actionid": 8900900,
       "actioncode": "",
       "tenantId": "pb"
     },
     {
-      "rolecode": "EMPLOYEE",
+      "rolecode": "CHALLAN_ADMIN",
       "actionid": 8900901,
       "actioncode": "",
       "tenantId": "pb"
