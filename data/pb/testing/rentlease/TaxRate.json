@@ -4,14 +4,14 @@
     "TaxRates": [
           {
             "id": "1",  
-            "taxType": "CGST",
+            "taxType": "CGST_FEE",
             "type":"%",   
             "isActive":true,         
             "amount": 9            
           },
           {
             "id": "2",  
-            "taxType": "SGST",
+            "taxType": "SGST_FEE",
             "type":"%",
             "isActive":true,                     
             "amount": 9
