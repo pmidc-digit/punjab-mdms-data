@@ -5,34 +5,39 @@
           {
             "id": "1",  
             "taxType": "CGST",
-            "type":"%",            
-            "amount": 9
+            "type":"%",   
+            "isActive":true,         
+            "amount": 9            
           },
           {
             "id": "2",  
             "taxType": "SGST",
             "type":"%",
+            "isActive":true,                     
             "amount": 9
           },
           {
             "id": "3",  
-            "taxType": "CowCase",
+            "taxType": "COWCASS_FEE",
             "type":"value",
+            "isActive":true,         
             "amount": 1000
           },
           {
             "id": "4",  
-            "taxType": "Penalty",
+            "taxType": "PENALTY_FEE",
             "type":"%",
             "amount": 2,
+            "isActive":true,
             "description": "penalaty on base rent"
 
           },
           {
             "id": "5",  
-            "taxType": "Penalty",
+            "taxType": "PENALTY_FEE",
             "type":"value",
             "amount": 200,
+            "isActive":true,
             "description": "penalaty on base rent"
           }
     ]
