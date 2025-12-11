@@ -10140,6 +10140,20 @@
       "path": "w_s.BG",
       "leftIcon": "action:receipt"
     },
+     {
+      "id": 206666,
+      "name": "Property Search",
+      "url": "url",
+      "displayName": "Property Search Report",
+      "orderNumber": 5,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "BG",
+      "code": "null",
+      "navigationURL": "abg/billSearch",
+      "path": "Property Tax.BG",
+      "leftIcon": "action:receipt"
+    },
     {
       "id": 2820,
       "name": "Disconnection",
@@ -24775,7 +24789,7 @@
       "path": ""
     },
     {
-      "id": 8900956,
+      "id": 8700956,
       "name": "search Garbage connection",
       "url": "/gc-services/gc/_search",
       "displayName": "search Garbage connection",
@@ -25833,6 +25847,17 @@
       "enabled": true,
       "serviceCode": "OBPASBPAREPORTS",
       "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900042,
+      "name": "CreateDemand",
+      "url": "/rl-services/demand/_create",
+      "displayName": "Create Demand",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "RENT_N_LEASE",
+      "code": "RNL",
       "path": ""
     }
   ]

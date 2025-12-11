@@ -3,8 +3,8 @@
   "moduleName": "BillingService",
   "BusinessService": [
     {
-      "businessService": "RentLeaseTax",
-      "code": "RL",
+      "businessService": "rl-services",
+      "code": "rl-services",
       "collectionModesNotAllowed": [
         ""
       ],

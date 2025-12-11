@@ -5,51 +5,51 @@
   "moduleName": "ws-services-calculation",
   "FeeSlab": [
     {
-      "formFee": 10000,
-      "securityCharge": 10000,
-      "meterTestingFee": 100000,
+      "formFee": 100,
+      "securityCharge": 0,
+      "meterTestingFee": 0,
       "connectionFee":
       [
         {
           "fromPlotSize":"0",
           "toPlotSize":"125",
-          "connectionFee":"2100",
+          "connectionFee":"21",
           "usageType":"DOMESTIC"
         },
         {
           "fromPlotSize":"125",
           "toPlotSize":"250",
-          "connectionFee":"2100",
+          "connectionFee":"21",
           "usageType":"DOMESTIC"
         },
         {
           "fromPlotSize":"250",
           "toPlotSize":"999999999",
-          "connectionFee":"2100",
+          "connectionFee":"21",
           "usageType":"DOMESTIC"
         },
         {
           "fromPlotSize":"0",
           "toPlotSize":"125",
-          "connectionFee":"2100",
+          "connectionFee":"21",
           "usageType":"COMMERCIAL"
         },
         {
           "fromPlotSize":"125",
           "toPlotSize":"250",
-          "connectionFee":"2100",
+          "connectionFee":"21",
           "usageType":"COMMERCIAL"
         },
         {
           "fromPlotSize":"250",
           "toPlotSize":"999999999",
-          "connectionFee":"2100",
+          "connectionFee":"21",
           "usageType":"COMMERCIAL"
         },
         {
           "fromPlotSize":"0",
           "toPlotSize":"999999999",
-          "connectionFee":"2100",
+          "connectionFee":"21",
           "usageType":"DEFAULT"
         }
         

@@ -3,6 +3,30 @@
   "moduleName": "BillingService",
   "TaxPeriod": [
      {
+      "fromDate": 1735669800000,
+      "toDate": 1798741799999,
+      "periodCycle": "ANNUAL",
+      "service": "rl-services",
+      "code": "RL-2025-26-Q4",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1735669800000,
+      "toDate": 1798741799999,
+      "periodCycle": "BIANNUAL",
+      "service": "rl-services",
+      "code": "RL-2025-26-Q4",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1735669800000,
+      "toDate": 1798741799999,
+      "periodCycle": "QUATERLY",
+      "service": "rl-services",
+      "code": "RL-2025-26-Q4",
+      "financialYear": "2025-26"
+    }, 
+    {
       "fromDate": 1617215400000,
       "toDate": 1648751399000,
       "periodCycle": "ANNUAL",
@@ -3048,7 +3072,9 @@
       "service": "GC",
       "code": "GC-2023-24-Q2",
       "financialYear": "2023-24"
-    }, {
+    },
+    {
+
       "fromDate": 1696118400000,
       "toDate": 1704047399000,
       "periodCycle": "QUATERLY",
@@ -3063,7 +3089,8 @@
       "service": "GC",
       "code": "GC-2023-24-Q4",
       "financialYear": "2023-24"
-    },{
+    },
+    {
       "fromDate": 1711929600000,
       "toDate": 1719772199000,
       "periodCycle": "QUATERLY",
@@ -3158,30 +3185,27 @@
       "service": "GC",
       "code": "GC-2025-26-Q4",
       "financialYear": "2025-26"
-    },
-    {
-      "fromDate": 1704047400000,
-      "toDate": 1830277799000,
-      "periodCycle": "ANNUAL",
-      "service": "rl-services",
-      "code": "RL-2024-27-Q4",
-      "financialYear": "2024-27"
-    },
-    {
-      "fromDate": 1704047400000,
-      "toDate": 1830277799000,
-      "periodCycle": "BIANNUAL",
-      "service": "rl-services",
-      "code": "RL-2024-27-Q4",
-      "financialYear": "2024-27"
-    },
-    {
-      "fromDate": 1704047400000,
-      "toDate": 1830277799000,
-      "periodCycle": "QUATERLY",
-      "service": "rl-services",
-      "code": "RL-2024-27-Q4",
-      "financialYear": "2024-27"
     }
   ]
 }
+
+finciananYear:
+
+  {
+        "id": "11",
+        "tenantId": "pb",
+        "finYearRange": "2025-26",
+        "name": "2025-26",
+        "code": "2025-26",
+        "startingDate": 1735669800000,
+        "endingDate": 1798741799999,
+        "active": true,
+        "isActiveForPosting": false,
+        "isClosed": false,
+        "transferClosingBalance": false,
+        "module": "rl-services"
+      },
+
+   "businessService": "rl-services",
+      "code": "rl-services",
+   

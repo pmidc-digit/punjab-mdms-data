@@ -66,6 +66,13 @@
       "description": "OWNER.DETAILEDLOCATIONPLAN.DETAILEDLOCATIONPLAN_DESCRIPTION"
     },
     {
+      "code": "OWNER.GOOGLEMARKEDSITE",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.GOOGLEMARKEDSITE.GOOGLEMARKEDSITE_DESCRIPTION"
+    },
+    {
       "code": "OWNER.REVENUEPLAN",
       "documentType": "OWNER",
       "required": true,
@@ -204,6 +211,13 @@
       "required": false,
       "active": true,
       "description": "OWNER.ANYOTHERSUPPORTINGDOCUMENT.ANYOTHERSUPPORTINGDOCUMENT_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.INDUSTRYCATEGORYSUPPORTINGDOCUMENT",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.INDUSTRYCATEGORYSUPPORTINGDOCUMENT.INDUSTRYCATEGORYSUPPORTINGDOCUMENT_DESCRIPTION"
     }
   ]
 }

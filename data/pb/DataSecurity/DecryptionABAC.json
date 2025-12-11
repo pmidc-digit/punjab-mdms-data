@@ -3,6 +3,144 @@
   "moduleName": "DataSecurity",
   "DecryptionABAC": [
     {
+      "key": "CLUREPORTS",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "CLU REPORTS",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/mobilenumber"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/employee_name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/payername"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/ownername1"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/collectorname"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "NOCREPORTS",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "NOC REPORTS",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/mobilenumber"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/employee_name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/payername"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/ownername1"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/collectorname"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "LAYOUTREPORTS",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "LAYOUT REPORTS",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/mobilenumber"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/employee_name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/payername"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/ownername1"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/collectorname"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "key": "ADVREPORTS",
       "roleAttributeAccessList": [
         {
