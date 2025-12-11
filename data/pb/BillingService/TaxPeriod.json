@@ -3072,7 +3072,9 @@
       "service": "GC",
       "code": "GC-2023-24-Q2",
       "financialYear": "2023-24"
-    }, {
+    },
+    {
+
       "fromDate": 1696118400000,
       "toDate": 1704047399000,
       "periodCycle": "QUATERLY",
@@ -3087,7 +3089,8 @@
       "service": "GC",
       "code": "GC-2023-24-Q4",
       "financialYear": "2023-24"
-    },{
+    },
+    {
       "fromDate": 1711929600000,
       "toDate": 1719772199000,
       "periodCycle": "QUATERLY",
