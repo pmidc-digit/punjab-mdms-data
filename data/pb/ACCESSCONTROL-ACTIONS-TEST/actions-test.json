@@ -10140,7 +10140,7 @@
       "path": "w_s.BG",
       "leftIcon": "action:receipt"
     },
-     {
+    {
       "id": 206666,
       "name": "Property Search",
       "url": "url",
@@ -23009,9 +23009,9 @@
       "queryParams": "",
       "parentModule": "rainmaker-hrms",
       "enabled": true,
-      "serviceCode": "RAL",
+      "serviceCode": "RentAndLease",
       "code": "null",
-      "path": "",
+      "path": "RentAndLease.RentAndLease Reports.HRMSEmployee wise Report",
       "navigationURL": "/digit-ui/employee/rentandlease/inbox",
       "leftIcon": "custom:open-NDCMODULE",
       "rightIcon": ""
@@ -26019,6 +26019,5 @@
       "code": "RNL",
       "path": ""
     }
-
   ]
 }
