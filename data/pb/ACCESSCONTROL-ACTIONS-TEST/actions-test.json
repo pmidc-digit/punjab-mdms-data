@@ -25870,7 +25870,7 @@
       "parentModule": "NDC REPORTS",
       "enabled": true,
       "serviceCode": "NDCREPORTS",
-      "path": "NDC Reports.State Application Detail Report",
+      "path": State Reports.NDC.State Application Detail Report",
       "navigationURL": "report/rainmaker-ndc/StateApplicationDetailReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -25907,7 +25907,7 @@
       "parentModule": "NDC REPORTS",
       "enabled": true,
       "serviceCode": "",
-      "path": "NDC Reports.State Collection Report",
+      "path": "State Reports.NDC.State Collection Report",
       "navigationURL": "report/rainmaker-ndc/StateCollectionsReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -25944,7 +25944,7 @@
       "parentModule": "NDC REPORTS",
       "enabled": true,
       "serviceCode": "",
-      "path": "NDC Reports.State SLA Report",
+      "path": State Reports.NDC.State SLA Report",
       "navigationURL": "report/rainmaker-ndc/StateSLAReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -25981,7 +25981,7 @@
       "parentModule": "NDC REPORTS",
       "enabled": true,
       "serviceCode": "NDCREPORTS",
-      "path": "NDC Reports.State Receipt Register NDC",
+      "path": "State Reports.NDC.State Receipt Register NDC",
       "navigationURL": "report/rainmaker-ndc/StateReceiptRegisterNDC",
       "leftIcon": "action:assignment",
       "rightIcon": ""
