@@ -26007,6 +26007,18 @@
       "serviceCode": "NDCREPORTS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 8900057,
+      "name": "SearchCollection",
+      "url": "/collection-services/payments/rl-services/_search",
+      "displayName": "Search Collection",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "RENT_N_LEASE",
+      "code": "RNL",
+      "path": ""
     }
+
   ]
 }
