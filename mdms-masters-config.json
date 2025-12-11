@@ -868,10 +868,10 @@
       "uniqueKeys": []
     },
     "DisconnectionFee": {
-			"masterName": "DisconnectionFee",
-			"isStateLevel": true,
-			"uniqueKeys": []
-		},
+      "masterName": "DisconnectionFee",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    },
     "CalculationAttribute": {
       "masterName": "CalculationAttribute",
       "isStateLevel": false,
@@ -1078,92 +1078,74 @@
       "masterName": "Rates",
       "isStateLevel": true,
       "uniqueKeys": ["$.subCategoryId"]
+    },
+    "Documents": {
+      "masterName": "Documents",
+      "isStateLevel": true,
+      "uniqueKeys": []
     }
   },
   "gc-services-masters": {
     "connectionCategory": {
       "masterName": "connectionCategory",
       "isStateLevel": false,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "connectionType": {
       "masterName": "connectionType",
       "isStateLevel": false,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
 
     "billingPeriod": {
       "masterName": "billingPeriod",
       "isStateLevel": false,
-      "uniqueKeys": [
-        "$.billingCycle"
-      ]
+      "uniqueKeys": ["$.billingCycle"]
     },
 
     "billingType": {
       "masterName": "billingType",
       "moduleDefinition": null,
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "Documents": {
       "masterName": "Documents",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "GarbageCollectionFrequency": {
       "masterName": "GarbageCollectionFrequency",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "TypeOfWaste": {
       "masterName": "TypeOfWaste",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "ModifyConnectionDocuments": {
       "masterName": "ModifyConnectionDocuments",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     }
   },
 
   "gc-services-calculation": {
-
     "Interest": {
       "masterName": "Interest",
       "isStateLevel": false,
-      "uniqueKeys": [
-        "$.fromFY"
-      ]
+      "uniqueKeys": ["$.fromFY"]
     },
     "Rebate": {
       "masterName": "Rebate",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.fromFY"
-      ]
+      "uniqueKeys": ["$.fromFY"]
     },
     "Penalty": {
       "masterName": "Penalty",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.fromFY"
-      ]
+      "uniqueKeys": ["$.fromFY"]
     },
     "GCBillingSlab": {
       "masterName": "GCBillingSlab",
