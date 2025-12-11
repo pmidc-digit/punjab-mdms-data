@@ -23061,9 +23061,9 @@
       "queryParams": "",
       "parentModule": "rainmaker-hrms",
       "enabled": true,
-      "serviceCode": "RAL",
+      "serviceCode": "RentAndLease",
       "code": "null",
-      "path": "",
+      "path": "RentAndLease.RentAndLease Reports.HRMSEmployee wise Report",
       "navigationURL": "/digit-ui/employee/rentandlease/allot-property",
       "leftIcon": "action:assignment",
       "rightIcon": ""
