@@ -25870,7 +25870,7 @@
       "parentModule": "NDC REPORTS",
       "enabled": true,
       "serviceCode": "NDCREPORTS",
-      "path": State Reports.NDC.State Application Detail Report",
+      "path": "State Reports.NDC.State Application Detail Report",
       "navigationURL": "report/rainmaker-ndc/StateApplicationDetailReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -25944,7 +25944,7 @@
       "parentModule": "NDC REPORTS",
       "enabled": true,
       "serviceCode": "",
-      "path": State Reports.NDC.State SLA Report",
+      "path": "State Reports.NDC.State SLA Report",
       "navigationURL": "report/rainmaker-ndc/StateSLAReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
