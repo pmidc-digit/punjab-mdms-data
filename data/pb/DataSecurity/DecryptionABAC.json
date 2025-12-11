@@ -3,42 +3,6 @@
   "moduleName": "DataSecurity",
   "DecryptionABAC": [
     {
-      "key": "NOCREPORTS",
-      "roleAttributeAccessList": [
-        {
-          "roleCode": "NOC REPORTS",
-          "attributeAccessList": [
-            {
-              "attribute": {
-                "jsonPath": "*/name"
-              },
-              "accessType": "PLAIN"
-            },
-            {
-              "attribute": {
-                "jsonPath": "*/mobilenumber"
-              },
-              "accessType": "PLAIN"
-            },
-            {
-              "attribute": {
-                "jsonPath": "*/employee_name"
-              },
-              "accessType": "PLAIN"
-            },
-            {
-              "attribute": {
-                "jsonPath": "*/payername"
-              },
-              "accessType": "PLAIN"
-            },
-            {
-              "attribute": {
-                "jsonPath": "*/ownername1"
-              },
-              "accessType": "PLAIN"
-            },
-    {
       "key": "LAYOUTREPORTS",
       "roleAttributeAccessList": [
         {
