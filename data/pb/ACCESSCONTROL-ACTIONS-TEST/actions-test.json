@@ -10178,15 +10178,15 @@
     },
     {
       "id": 206666,
-      "name": "Property Search",
+      "name": "Vasika Property Search",
       "url": "url",
-      "displayName": "Property Search Report",
+      "displayName": "Vasika Property Search Report",
       "orderNumber": 5,
       "parentModule": "",
       "enabled": true,
       "serviceCode": "BG",
       "code": "null",
-      "navigationURL": "abg/billSearch",
+      "navigationURL": "abg/billSearchproperty",
       "path": "Property Tax.BG",
       "leftIcon": "action:receipt"
     },
