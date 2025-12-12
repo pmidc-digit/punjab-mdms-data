@@ -26411,7 +26411,7 @@
       "enabled": true,
       "serviceCode": "",
       "path": "State Reports.ADV Reports.State Collection Report",
-      "navigationURL": "report/rainmaker-adv/State CollectionsReport",
+      "navigationURL": "report/rainmaker-adv/StateCollectionsReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
