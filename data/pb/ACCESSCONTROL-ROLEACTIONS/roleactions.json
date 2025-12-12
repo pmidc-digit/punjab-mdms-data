@@ -66236,12 +66236,6 @@
     },
     {
       "rolecode": "GC_CEMP",
-      "actionid": 89008923,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "GC_CEMP",
       "actionid": 89008927,
       "actioncode": "",
       "tenantId": "pb"
@@ -66273,12 +66267,6 @@
     {
       "rolecode": "GC_CLERK",
       "actionid": 89008923,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "GC_CEMP",
-      "actionid": 1782,
       "actioncode": "",
       "tenantId": "pb"
     },
