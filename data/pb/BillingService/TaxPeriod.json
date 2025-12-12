@@ -3188,24 +3188,3 @@
     }
   ]
 }
-
-finciananYear:
-
-  {
-        "id": "11",
-        "tenantId": "pb",
-        "finYearRange": "2025-26",
-        "name": "2025-26",
-        "code": "2025-26",
-        "startingDate": 1735669800000,
-        "endingDate": 1798741799999,
-        "active": true,
-        "isActiveForPosting": false,
-        "isClosed": false,
-        "transferClosingBalance": false,
-        "module": "rl-services"
-      },
-
-   "businessService": "rl-services",
-      "code": "rl-services",
-   
