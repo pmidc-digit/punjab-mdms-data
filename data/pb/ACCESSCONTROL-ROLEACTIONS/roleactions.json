@@ -46411,12 +46411,6 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "WS_CLERK",
-      "actionid": 206666,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
       "rolecode": "SW_CLERK",
       "actionid": 2066,
       "actioncode": "",
@@ -66391,86 +66385,7 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "WS_CLERK",
-      "actionid": 206666,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-
-    {
-      "rolecode": "SW_CLERK",
-      "actionid": 206666,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-	{
-      "rolecode": "FSM_CREATOR_EMP",
-      "actionid": 206666,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-	{
-      "rolecode": "CITIZEN",
-      "actionid": 206666,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "FSM_COLLECTOR",
-      "actionid": 206666,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "FSM_CREATOR_EMP",
-      "actionid": 206666,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "FSM_REPORT_VIEWER",
-      "actionid": 206666,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "FSM_DASHBOARD_VIEWER",
-      "actionid": 206666,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "FSM_DRIVER",
-      "actionid": 206666,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-	 {
-      "rolecode": "FSM_ADMIN",
-      "actionid": 206666,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "FSM_DSO",
-      "actionid": 206666,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "FSM_EDITOR_EMP",
-      "actionid": 206666,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "FSM_VIEW_EMP",
-      "actionid": 206666,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "FSM_EMP_FSTPO",
+      "rolecode": "SASKI",
       "actionid": 206666,
       "actioncode": "",
       "tenantId": "pb"
