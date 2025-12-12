@@ -26,6 +26,12 @@
       "actioncode": "",
       "tenantId": "pb"
     },
+     {
+      "rolecode": "SASKI",
+      "actionid": 111809,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
     {
       "rolecode": "OBPAS REPORTS",
       "actionid": 8900037,

@@ -6397,6 +6397,18 @@
       "path": ""
     },
     {
+      "id": 111809,
+      "name": "Used Localities search",
+      "url": "/egov-searcher/saski-property-search/saskipropertyvasikacount/_get",
+      "parentModule": "",
+      "displayName": "Punjab customization",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "punjab-customization",
+      "code": "null",
+      "path": ""
+    },
+    {
       "id": 1809,
       "name": "businessDetails create",
       "url": "/egov-common-masters/businessDetails/_update",
