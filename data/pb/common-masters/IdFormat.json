@@ -868,7 +868,7 @@
     },
     {
       "format": "PB-REC-RL-[fy:yyyy-yy]-[SEQ_EG_RL_RECEIPT_NUMBER]",
-      "idname": "rl.receipt.id"
+      "idname": "rl-services.receipt.id"
     }
   ]
 }
