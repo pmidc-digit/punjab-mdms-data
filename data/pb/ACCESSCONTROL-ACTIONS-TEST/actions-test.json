@@ -16692,7 +16692,18 @@
     {
       "id": 2583,
       "name": "Search Sewerage Bill",
-      "url": "/egov-searcher/bill-genie/batchbilling/_get",
+      "url": "/egov-searcher/bill-genie/wsbatchbilling/_get",
+      "displayName": "Search batchbilling Bill",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "Searcher",
+      "code": "null",
+      "path": ""
+    },
+   {
+      "id": 200583,
+      "name": "Search Sewerage Bill",
+      "url": "/egov-searcher/bill-genie/swbatchbilling/_get",
       "displayName": "Search batchbilling Bill",
       "orderNumber": 2,
       "enabled": false,
