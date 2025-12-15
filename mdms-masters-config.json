@@ -1201,6 +1201,23 @@
       "masterName": "CalculationAttribute",
       "isStateLevel": false,
       "uniqueKeys": []
+    },
+  "rentAndLease": {
+    "Documents": {
+      "masterName": "documentType",
+      "isStateLevel": false,
+      "uniqueKeys": ["$.code"]
+    },
+    "RLProperty": {
+      "masterName": "RLProperty",
+      "isStateLevel": false,
+      "uniqueKeys": ["$.propertyId"]
+    },
+    "TaxRates": {
+      "masterName": "TaxRate",
+      "isStateLevel": false,
+      "uniqueKeys": ["$.propertyId"]
     }
   }
+}
 }
