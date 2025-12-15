@@ -1216,7 +1216,7 @@
     "TaxRates": {
       "masterName": "TaxRate",
       "isStateLevel": false,
-      "uniqueKeys": ["$.propertyId"]
+      "uniqueKeys": ["$.id"]
     }
   }
 }
