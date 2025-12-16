@@ -3,7 +3,7 @@
   "moduleName": "ACCESSCONTROL-ROLES",
   "roles": [
     {
-      "code": "CHALLAN Reports",
+      "code": "CHALLAN REPORTS",
       "name": "Challan Reports",
       "description": "Who can see challan reports ",
       "groupId": "011"
