@@ -122,7 +122,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-     {
+    {
       "rolecode": "SASKI",
       "actionid": 111809,
       "actioncode": "",
@@ -57485,7 +57485,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-{
+    {
       "rolecode": "WS_CEMP",
       "actionid": 200583,
       "actioncode": "",
@@ -66833,10 +66833,23 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-    {"rolecode": "SASKI",
-    "actionid": 206666,
-    "actioncode": "",
+    {
+      "rolecode": "SASKI",
+      "actionid": 206666,
+      "actioncode": "",
       "tenantId": "pb"
-  }
+    },
+    {
+      "rolecode": "GC_CEMP",
+      "actionid": 89008928,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "GC_CEMP",
+      "actionid": 89008929,
+      "actioncode": "",
+      "tenantId": "pb"
+    }
   ]
 }
