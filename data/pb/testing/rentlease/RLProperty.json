@@ -5,7 +5,7 @@
   "RLProperty": [
     {
       "propertyId": "PB-RL-PT2025000001",
-      "propertyName": "Property-1",
+      "propertyName": "Green Valley Residency",
       "allotmentType": "rent",
       "propertySizeOrArea": "10100",
       "address": "1th Floor, Unit No. A001, Elante Offices",
@@ -26,7 +26,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000002",
-      "propertyName": "Property-2",
+      "propertyName": "Sunrise Towers",
       "allotmentType": "lease",
       "propertySizeOrArea": "10200",
       "address": "2th Floor, Unit No. A002, Elante Offices",
@@ -47,7 +47,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000003",
-      "propertyName": "Property-3",
+      "propertyName": "Blue Sky Apartments",
       "allotmentType": "rent",
       "propertySizeOrArea": "10300",
       "address": "3th Floor, Unit No. A003, Elante Offices",
@@ -68,7 +68,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000004",
-      "propertyName": "Property-4",
+      "propertyName": "Royal Heights",
       "allotmentType": "lease",
       "propertySizeOrArea": "10400",
       "address": "4th Floor, Unit No. A004, Elante Offices",
@@ -89,7 +89,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000005",
-      "propertyName": "Property-5",
+      "propertyName": "Emerald Plaza",
       "allotmentType": "rent",
       "propertySizeOrArea": "10500",
       "address": "5th Floor, Unit No. A005, Elante Offices",
@@ -110,7 +110,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000006",
-      "propertyName": "Property-6",
+      "propertyName": "Silver Residency",
       "allotmentType": "lease",
       "propertySizeOrArea": "10600",
       "address": "6th Floor, Unit No. A006, Elante Offices",
@@ -131,7 +131,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000007",
-      "propertyName": "Property-7",
+      "propertyName": "Golden Towers",
       "allotmentType": "rent",
       "propertySizeOrArea": "10700",
       "address": "7th Floor, Unit No. A007, Elante Offices",
@@ -152,7 +152,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000008",
-      "propertyName": "Property-8",
+      "propertyName": "Crystal Homes",
       "allotmentType": "lease",
       "propertySizeOrArea": "10800",
       "address": "8th Floor, Unit No. A008, Elante Offices",
@@ -173,7 +173,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000009",
-      "propertyName": "Property-9",
+      "propertyName": "Pearl Residency",
       "allotmentType": "rent",
       "propertySizeOrArea": "10900",
       "address": "9th Floor, Unit No. A009, Elante Offices",
@@ -194,7 +194,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000010",
-      "propertyName": "Property-10",
+      "propertyName": "Opal Heights",
       "allotmentType": "lease",
       "propertySizeOrArea": "11000",
       "address": "10th Floor, Unit No. A010, Elante Offices",
@@ -215,7 +215,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000011",
-      "propertyName": "Property-11",
+      "propertyName": "Ruby Plaza",
       "allotmentType": "rent",
       "propertySizeOrArea": "11100",
       "address": "11th Floor, Unit No. A011, Elante Offices",
@@ -236,7 +236,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000012",
-      "propertyName": "Property-12",
+      "propertyName": "Sapphire Residency",
       "allotmentType": "lease",
       "propertySizeOrArea": "11200",
       "address": "12th Floor, Unit No. A012, Elante Offices",
@@ -257,7 +257,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000013",
-      "propertyName": "Property-13",
+      "propertyName": "Diamond Towers",
       "allotmentType": "rent",
       "propertySizeOrArea": "11300",
       "address": "13th Floor, Unit No. A013, Elante Offices",
@@ -278,7 +278,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000014",
-      "propertyName": "Property-14",
+      "propertyName": "Amber Heights",
       "allotmentType": "lease",
       "propertySizeOrArea": "11400",
       "address": "14th Floor, Unit No. A014, Elante Offices",
@@ -299,7 +299,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000015",
-      "propertyName": "Property-15",
+      "propertyName": "Topaz Residency",
       "allotmentType": "rent",
       "propertySizeOrArea": "11500",
       "address": "15th Floor, Unit No. A015, Elante Offices",
@@ -320,7 +320,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000016",
-      "propertyName": "Property-16",
+      "propertyName": "Coral View Apartments",
       "allotmentType": "lease",
       "propertySizeOrArea": "11600",
       "address": "16th Floor, Unit No. A016, Elante Offices",
@@ -341,7 +341,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000017",
-      "propertyName": "Property-17",
+      "propertyName": "Jade Residency",
       "allotmentType": "rent",
       "propertySizeOrArea": "11700",
       "address": "17th Floor, Unit No. A017, Elante Offices",
@@ -362,7 +362,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000018",
-      "propertyName": "Property-18",
+      "propertyName": "Quartz Heights",
       "allotmentType": "lease",
       "propertySizeOrArea": "11800",
       "address": "18th Floor, Unit No. A018, Elante Offices",
@@ -383,7 +383,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000019",
-      "propertyName": "Property-19",
+      "propertyName": "Garnet Plaza",
       "allotmentType": "rent",
       "propertySizeOrArea": "11900",
       "address": "19th Floor, Unit No. A019, Elante Offices",
@@ -404,7 +404,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000020",
-      "propertyName": "Property-20",
+      "propertyName": "Onyx Residency",
       "allotmentType": "lease",
       "propertySizeOrArea": "12000",
       "address": "20th Floor, Unit No. A020, Elante Offices",
@@ -425,7 +425,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000021",
-      "propertyName": "Property-21",
+      "propertyName": "Platinum Towers",
       "allotmentType": "rent",
       "propertySizeOrArea": "12100",
       "address": "21th Floor, Unit No. A021, Elante Offices",
@@ -446,7 +446,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000022",
-      "propertyName": "Property-22",
+      "propertyName": "Ivory Heights",
       "allotmentType": "lease",
       "propertySizeOrArea": "12200",
       "address": "22th Floor, Unit No. A022, Elante Offices",
@@ -467,7 +467,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000023",
-      "propertyName": "Property-23",
+      "propertyName": "Maple Residency",
       "allotmentType": "rent",
       "propertySizeOrArea": "12300",
       "address": "23th Floor, Unit No. A023, Elante Offices",
@@ -488,7 +488,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000024",
-      "propertyName": "Property-24",
+      "propertyName": "Palm Grove Apartments",
       "allotmentType": "lease",
       "propertySizeOrArea": "12400",
       "address": "24th Floor, Unit No. A024, Elante Offices",
@@ -509,7 +509,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000025",
-      "propertyName": "Property-25",
+      "propertyName": "Cedar Heights",
       "allotmentType": "rent",
       "propertySizeOrArea": "12500",
       "address": "25th Floor, Unit No. A025, Elante Offices",
@@ -530,7 +530,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000026",
-      "propertyName": "Property-26",
+      "propertyName": "Orchid Residency",
       "allotmentType": "lease",
       "propertySizeOrArea": "12600",
       "address": "26th Floor, Unit No. A026, Elante Offices",
@@ -551,7 +551,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000027",
-      "propertyName": "Property-27",
+      "propertyName": "Magnolia Towers",
       "allotmentType": "rent",
       "propertySizeOrArea": "12700",
       "address": "27th Floor, Unit No. A027, Elante Offices",
@@ -572,7 +572,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000028",
-      "propertyName": "Property-28",
+      "propertyName": "Elite Enclave",
       "allotmentType": "lease",
       "propertySizeOrArea": "12800",
       "address": "28th Floor, Unit No. A028, Elante Offices",
@@ -593,7 +593,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000029",
-      "propertyName": "Property-29",
+      "propertyName": "Prestige Residency",
       "allotmentType": "rent",
       "propertySizeOrArea": "12900",
       "address": "29th Floor, Unit No. A029, Elante Offices",
@@ -614,7 +614,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000030",
-      "propertyName": "Property-30",
+      "propertyName": "Skyline View Apartments",
       "allotmentType": "lease",
       "propertySizeOrArea": "13000",
       "address": "30th Floor, Unit No. A030, Elante Offices",
@@ -635,7 +635,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000031",
-      "propertyName": "Property-31",
+      "propertyName": "Horizon Heights",
       "allotmentType": "rent",
       "propertySizeOrArea": "13100",
       "address": "31th Floor, Unit No. A031, Elante Offices",
@@ -656,7 +656,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000032",
-      "propertyName": "Property-32",
+      "propertyName": "Urban Nest Residency",
       "allotmentType": "lease",
       "propertySizeOrArea": "13200",
       "address": "32th Floor, Unit No. A032, Elante Offices",
@@ -677,7 +677,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000033",
-      "propertyName": "Property-33",
+      "propertyName": "Prime View Towers",
       "allotmentType": "rent",
       "propertySizeOrArea": "13300",
       "address": "33th Floor, Unit No. A033, Elante Offices",
@@ -698,7 +698,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000034",
-      "propertyName": "Property-34",
+      "propertyName": "Lake View Residency",
       "allotmentType": "lease",
       "propertySizeOrArea": "13400",
       "address": "34th Floor, Unit No. A034, Elante Offices",
@@ -719,7 +719,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000035",
-      "propertyName": "Property-35",
+      "propertyName": "Parkside Apartments",
       "allotmentType": "rent",
       "propertySizeOrArea": "13500",
       "address": "35th Floor, Unit No. A035, Elante Offices",
@@ -740,7 +740,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000036",
-      "propertyName": "Property-36",
+      "propertyName": "Metro Heights",
       "allotmentType": "lease",
       "propertySizeOrArea": "13600",
       "address": "36th Floor, Unit No. A036, Elante Offices",
@@ -761,7 +761,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000037",
-      "propertyName": "Property-37",
+      "propertyName": "Cityscape Plaza",
       "allotmentType": "rent",
       "propertySizeOrArea": "13700",
       "address": "37th Floor, Unit No. A037, Elante Offices",
@@ -782,7 +782,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000038",
-      "propertyName": "Property-38",
+      "propertyName": "Gardenia Residency",
       "allotmentType": "lease",
       "propertySizeOrArea": "13800",
       "address": "38th Floor, Unit No. A038, Elante Offices",
@@ -803,7 +803,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000039",
-      "propertyName": "Property-39",
+      "propertyName": "Hilltop Heights",
       "allotmentType": "rent",
       "propertySizeOrArea": "13900",
       "address": "39th Floor, Unit No. A039, Elante Offices",
@@ -824,7 +824,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000040",
-      "propertyName": "Property-40",
+      "propertyName": "Westend Towers",
       "allotmentType": "lease",
       "propertySizeOrArea": "14000",
       "address": "40th Floor, Unit No. A040, Elante Offices",
@@ -845,7 +845,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000041",
-      "propertyName": "Property-41",
+      "propertyName": "Grand Avenue Residency",
       "allotmentType": "rent",
       "propertySizeOrArea": "14100",
       "address": "41th Floor, Unit No. A041, Elante Offices",
@@ -866,7 +866,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000042",
-      "propertyName": "Property-42",
+      "propertyName": "Central Park View",
       "allotmentType": "lease",
       "propertySizeOrArea": "14200",
       "address": "42th Floor, Unit No. A042, Elante Offices",
@@ -887,7 +887,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000043",
-      "propertyName": "Property-43",
+      "propertyName": "Vertex Heights",
       "allotmentType": "rent",
       "propertySizeOrArea": "14300",
       "address": "43th Floor, Unit No. A043, Elante Offices",
@@ -908,7 +908,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000044",
-      "propertyName": "Property-44",
+      "propertyName": "Nova Residency",
       "allotmentType": "lease",
       "propertySizeOrArea": "14400",
       "address": "44th Floor, Unit No. A044, Elante Offices",
@@ -929,7 +929,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000045",
-      "propertyName": "Property-45",
+      "propertyName": "Crown Towers",
       "allotmentType": "rent",
       "propertySizeOrArea": "14500",
       "address": "45th Floor, Unit No. A045, Elante Offices",
@@ -950,7 +950,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000046",
-      "propertyName": "Property-46",
+      "propertyName": "Sterling Plaza",
       "allotmentType": "lease",
       "propertySizeOrArea": "14600",
       "address": "46th Floor, Unit No. A046, Elante Offices",
@@ -971,7 +971,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000047",
-      "propertyName": "Property-47",
+      "propertyName": "Summit Residency",
       "allotmentType": "rent",
       "propertySizeOrArea": "14700",
       "address": "47th Floor, Unit No. A047, Elante Offices",
@@ -992,7 +992,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000048",
-      "propertyName": "Property-48",
+      "propertyName": "Axis Heights",
       "allotmentType": "lease",
       "propertySizeOrArea": "14800",
       "address": "48th Floor, Unit No. A048, Elante Offices",
@@ -1013,7 +1013,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000049",
-      "propertyName": "Property-49",
+      "propertyName": "Pinnacle Towers",
       "allotmentType": "rent",
       "propertySizeOrArea": "14900",
       "address": "49th Floor, Unit No. A049, Elante Offices",
@@ -1034,7 +1034,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000050",
-      "propertyName": "Property-50",
+      "propertyName": "Infinity Residency",
       "allotmentType": "lease",
       "propertySizeOrArea": "15000",
       "address": "50th Floor, Unit No. A050, Elante Offices",
@@ -1055,7 +1055,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000051",
-      "propertyName": "Property-51",
+      "propertyName": "Harmony Homes",
       "allotmentType": "rent",
       "propertySizeOrArea": "15100",
       "address": "51th Floor, Unit No. A051, Elante Offices",
@@ -1076,7 +1076,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000052",
-      "propertyName": "Property-52",
+      "propertyName": "Signature Heights",
       "allotmentType": "lease",
       "propertySizeOrArea": "15200",
       "address": "52th Floor, Unit No. A052, Elante Offices",
@@ -1097,7 +1097,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000053",
-      "propertyName": "Property-53",
+      "propertyName": "Blue Horizon Towers",
       "allotmentType": "rent",
       "propertySizeOrArea": "15300",
       "address": "53th Floor, Unit No. A053, Elante Offices",
@@ -1118,7 +1118,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000054",
-      "propertyName": "Property-54",
+      "propertyName": "Lotus Residency",
       "allotmentType": "lease",
       "propertySizeOrArea": "15400",
       "address": "54th Floor, Unit No. A054, Elante Offices",
@@ -1139,7 +1139,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000055",
-      "propertyName": "Property-55",
+      "propertyName": "Urban Square Plaza",
       "allotmentType": "rent",
       "propertySizeOrArea": "15500",
       "address": "55th Floor, Unit No. A055, Elante Offices",
@@ -1160,7 +1160,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000056",
-      "propertyName": "Property-56",
+      "propertyName": "Prime Crest Heights",
       "allotmentType": "lease",
       "propertySizeOrArea": "15600",
       "address": "56th Floor, Unit No. A056, Elante Offices",
@@ -1181,7 +1181,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000057",
-      "propertyName": "Property-57",
+      "propertyName": "Zenith Towers",
       "allotmentType": "rent",
       "propertySizeOrArea": "15700",
       "address": "57th Floor, Unit No. A057, Elante Offices",
@@ -1202,7 +1202,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000058",
-      "propertyName": "Property-58",
+      "propertyName": "Skyview Residency",
       "allotmentType": "lease",
       "propertySizeOrArea": "15800",
       "address": "58th Floor, Unit No. A058, Elante Offices",
@@ -1223,7 +1223,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000059",
-      "propertyName": "Property-59",
+      "propertyName": "Evergreen Apartments",
       "allotmentType": "rent",
       "propertySizeOrArea": "15900",
       "address": "59th Floor, Unit No. A059, Elante Offices",
@@ -1244,7 +1244,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000060",
-      "propertyName": "Property-60",
+      "propertyName": "Landmark Heights",
       "allotmentType": "lease",
       "propertySizeOrArea": "16000",
       "address": "60th Floor, Unit No. A060, Elante Offices",
@@ -1265,7 +1265,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000061",
-      "propertyName": "Property-61",
+      "propertyName": "Aurora Residency",
       "allotmentType": "rent",
       "propertySizeOrArea": "16100",
       "address": "61th Floor, Unit No. A061, Elante Offices",
@@ -1286,7 +1286,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000062",
-      "propertyName": "Property-62",
+      "propertyName": "Monarch Towers",
       "allotmentType": "lease",
       "propertySizeOrArea": "16200",
       "address": "62th Floor, Unit No. A062, Elante Offices",
@@ -1307,7 +1307,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000063",
-      "propertyName": "Property-63",
+      "propertyName": "Elite Residency",
       "allotmentType": "rent",
       "propertySizeOrArea": "16300",
       "address": "63th Floor, Unit No. A063, Elante Offices",
@@ -1328,7 +1328,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000064",
-      "propertyName": "Property-64",
+      "propertyName": "Capital View Plaza",
       "allotmentType": "lease",
       "propertySizeOrArea": "16400",
       "address": "64th Floor, Unit No. A064, Elante Offices",
@@ -1349,7 +1349,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000065",
-      "propertyName": "Property-65",
+      "propertyName": "Pearl Crest Residency",
       "allotmentType": "rent",
       "propertySizeOrArea": "16500",
       "address": "65th Floor, Unit No. A065, Elante Offices",
@@ -1370,7 +1370,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000066",
-      "propertyName": "Property-66",
+      "propertyName": "Northstar Heights",
       "allotmentType": "lease",
       "propertySizeOrArea": "16600",
       "address": "66th Floor, Unit No. A066, Elante Offices",
@@ -1391,7 +1391,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000067",
-      "propertyName": "Property-67",
+      "propertyName": "Vista Towers",
       "allotmentType": "rent",
       "propertySizeOrArea": "16700",
       "address": "67th Floor, Unit No. A067, Elante Offices",
@@ -1412,7 +1412,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000068",
-      "propertyName": "Property-68",
+      "propertyName": "Regal Residency",
       "allotmentType": "lease",
       "propertySizeOrArea": "16800",
       "address": "68th Floor, Unit No. A068, Elante Offices",
@@ -1433,7 +1433,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000069",
-      "propertyName": "Property-69",
+      "propertyName": "Unity Apartments",
       "allotmentType": "rent",
       "propertySizeOrArea": "16900",
       "address": "69th Floor, Unit No. A069, Elante Offices",
@@ -1454,7 +1454,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000070",
-      "propertyName": "Property-70",
+      "propertyName": "Midtown Heights",
       "allotmentType": "lease",
       "propertySizeOrArea": "17000",
       "address": "70th Floor, Unit No. A070, Elante Offices",
@@ -1475,7 +1475,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000071",
-      "propertyName": "Property-71",
+      "propertyName": "Metro View Residency",
       "allotmentType": "rent",
       "propertySizeOrArea": "17100",
       "address": "71th Floor, Unit No. A071, Elante Offices",
@@ -1496,7 +1496,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000072",
-      "propertyName": "Property-72",
+      "propertyName": "Galaxy Towers",
       "allotmentType": "lease",
       "propertySizeOrArea": "17200",
       "address": "72th Floor, Unit No. A072, Elante Offices",
@@ -1517,7 +1517,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000073",
-      "propertyName": "Property-73",
+      "propertyName": "Silverline Residency",
       "allotmentType": "rent",
       "propertySizeOrArea": "17300",
       "address": "73th Floor, Unit No. A073, Elante Offices",
@@ -1538,7 +1538,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000074",
-      "propertyName": "Property-74",
+      "propertyName": "Crestview Apartments",
       "allotmentType": "lease",
       "propertySizeOrArea": "17400",
       "address": "74th Floor, Unit No. A074, Elante Offices",
@@ -1559,7 +1559,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000075",
-      "propertyName": "Property-75",
+      "propertyName": "Heritage Heights",
       "allotmentType": "rent",
       "propertySizeOrArea": "17500",
       "address": "75th Floor, Unit No. A075, Elante Offices",
@@ -1580,7 +1580,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000076",
-      "propertyName": "Property-76",
+      "propertyName": "Urban Heights Plaza",
       "allotmentType": "lease",
       "propertySizeOrArea": "17600",
       "address": "76th Floor, Unit No. A076, Elante Offices",
@@ -1601,7 +1601,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000077",
-      "propertyName": "Property-77",
+      "propertyName": "Royal Crest Residency",
       "allotmentType": "rent",
       "propertySizeOrArea": "17700",
       "address": "77th Floor, Unit No. A077, Elante Offices",
@@ -1622,7 +1622,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000078",
-      "propertyName": "Property-78",
+      "propertyName": "Smart City Towers",
       "allotmentType": "lease",
       "propertySizeOrArea": "17800",
       "address": "78th Floor, Unit No. A078, Elante Offices",
@@ -1643,7 +1643,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000079",
-      "propertyName": "Property-79",
+      "propertyName": "Central Heights",
       "allotmentType": "rent",
       "propertySizeOrArea": "17900",
       "address": "79th Floor, Unit No. A079, Elante Offices",
@@ -1664,7 +1664,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000080",
-      "propertyName": "Property-80",
+      "propertyName": "Lakeside Residency",
       "allotmentType": "lease",
       "propertySizeOrArea": "18000",
       "address": "80th Floor, Unit No. A080, Elante Offices",
@@ -1685,7 +1685,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000081",
-      "propertyName": "Property-81",
+      "propertyName": "Platinum Crest",
       "allotmentType": "rent",
       "propertySizeOrArea": "18100",
       "address": "81th Floor, Unit No. A081, Elante Offices",
@@ -1706,7 +1706,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000082",
-      "propertyName": "Property-82",
+      "propertyName": "Vista Greens",
       "allotmentType": "lease",
       "propertySizeOrArea": "18200",
       "address": "82th Floor, Unit No. A082, Elante Offices",
@@ -1727,7 +1727,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000083",
-      "propertyName": "Property-83",
+      "propertyName": "Prime Residency",
       "allotmentType": "rent",
       "propertySizeOrArea": "18300",
       "address": "83th Floor, Unit No. A083, Elante Offices",
@@ -1748,7 +1748,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000084",
-      "propertyName": "Property-84",
+      "propertyName": "Dream Valley Homes",
       "allotmentType": "lease",
       "propertySizeOrArea": "18400",
       "address": "84th Floor, Unit No. A084, Elante Offices",
@@ -1769,7 +1769,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000085",
-      "propertyName": "Property-85",
+      "propertyName": "Comfort Heights",
       "allotmentType": "rent",
       "propertySizeOrArea": "18500",
       "address": "85th Floor, Unit No. A085, Elante Offices",
@@ -1790,7 +1790,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000086",
-      "propertyName": "Property-86",
+      "propertyName": "Nova Crest Towers",
       "allotmentType": "lease",
       "propertySizeOrArea": "18600",
       "address": "86th Floor, Unit No. A086, Elante Offices",
@@ -1811,7 +1811,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000087",
-      "propertyName": "Property-87",
+      "propertyName": "City Pearl Residency",
       "allotmentType": "rent",
       "propertySizeOrArea": "18700",
       "address": "87th Floor, Unit No. A087, Elante Offices",
@@ -1832,7 +1832,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000088",
-      "propertyName": "Property-88",
+      "propertyName": "Elite Heights Plaza",
       "allotmentType": "lease",
       "propertySizeOrArea": "18800",
       "address": "88th Floor, Unit No. A088, Elante Offices",
@@ -1853,7 +1853,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000089",
-      "propertyName": "Property-89",
+      "propertyName": "Urban Square Residency",
       "allotmentType": "rent",
       "propertySizeOrArea": "18900",
       "address": "89th Floor, Unit No. A089, Elante Offices",
@@ -1874,7 +1874,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000090",
-      "propertyName": "Property-90",
+      "propertyName": "Harmony Towers",
       "allotmentType": "lease",
       "propertySizeOrArea": "19000",
       "address": "90th Floor, Unit No. A090, Elante Offices",
@@ -1895,7 +1895,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000091",
-      "propertyName": "Property-91",
+      "propertyName": "Sunshine Residency",
       "allotmentType": "rent",
       "propertySizeOrArea": "19100",
       "address": "91th Floor, Unit No. A091, Elante Offices",
@@ -1916,7 +1916,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000092",
-      "propertyName": "Property-92",
+      "propertyName": "Crystal Crest Apartments",
       "allotmentType": "lease",
       "propertySizeOrArea": "19200",
       "address": "92th Floor, Unit No. A092, Elante Offices",
@@ -1937,7 +1937,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000093",
-      "propertyName": "Property-93",
+      "propertyName": "Blue Pearl Heights",
       "allotmentType": "rent",
       "propertySizeOrArea": "19300",
       "address": "93th Floor, Unit No. A093, Elante Offices",
@@ -1958,7 +1958,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000094",
-      "propertyName": "Property-94",
+      "propertyName": "Golden Crest Towers",
       "allotmentType": "lease",
       "propertySizeOrArea": "19400",
       "address": "94th Floor, Unit No. A094, Elante Offices",
@@ -1979,7 +1979,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000095",
-      "propertyName": "Property-95",
+      "propertyName": "Smart Living Residency",
       "allotmentType": "rent",
       "propertySizeOrArea": "19500",
       "address": "95th Floor, Unit No. A095, Elante Offices",
@@ -2000,7 +2000,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000096",
-      "propertyName": "Property-96",
+      "propertyName": "Unity Crest Heights",
       "allotmentType": "lease",
       "propertySizeOrArea": "19600",
       "address": "96th Floor, Unit No. A096, Elante Offices",
@@ -2021,7 +2021,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000097",
-      "propertyName": "Property-97",
+      "propertyName": "Premium View Plaza",
       "allotmentType": "rent",
       "propertySizeOrArea": "19700",
       "address": "97th Floor, Unit No. A097, Elante Offices",
@@ -2042,7 +2042,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000098",
-      "propertyName": "Property-98",
+      "propertyName": "Metro Crest Residency",
       "allotmentType": "lease",
       "propertySizeOrArea": "19800",
       "address": "98th Floor, Unit No. A098, Elante Offices",
@@ -2063,7 +2063,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000099",
-      "propertyName": "Property-99",
+      "propertyName": "Park View Towers",
       "allotmentType": "rent",
       "propertySizeOrArea": "19900",
       "address": "99th Floor, Unit No. A099, Elante Offices",
@@ -2084,7 +2084,7 @@
     },
     {
       "propertyId": "PB-RL-PT2025000100",
-      "propertyName": "Property-100",
+      "propertyName": "Infinity Heights",
       "allotmentType": "lease",
       "propertySizeOrArea": "20000",
       "address": "100th Floor, Unit No. A100, Elante Offices",
