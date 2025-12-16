@@ -3,6 +3,16 @@
   "moduleName": "Channel",
   "channelList": [
     {
+      "businessService": "RL.PAYMENT.REMENDER",
+      "module": "rl-services",
+      "action": "RLREMENDER",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
       "businessService": "PT.CREATE",
       "module": "PT",
       "action": "OPEN",
