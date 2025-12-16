@@ -3,6 +3,12 @@
   "moduleName": "ACCESSCONTROL-ROLES",
   "roles": [
     {
+      "code": "CHALLAN Reports",
+      "name": "Challan Reports",
+      "description": "Who can see challan reports ",
+      "groupId": "011"
+    },
+    {
       "code": "Joint Commissioner",
       "name": "Joint Commissioner",
       "description": "Joint Commissioner",
