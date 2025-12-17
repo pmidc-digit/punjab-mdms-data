@@ -4,26 +4,6 @@
     "moduleName": "rentAndLease",
     "Documents": [
       {
-        "code": "APPLICANT.IDENTITYPROOF.ALLOTMENT_LETTER",
-        "documentType": "APPLICANT.ALLOTMENT_LETTER",
-        "required": true,
-        "active": true,
-        "hasDropdown": false,
-        "additionalDetails": {
-          "enabledActions": {
-            "update": {
-              "disableUpload": true,
-              "disableDropdown": true
-            },
-            "create": {
-              "disableUpload": false,
-              "disableDropdown": false
-            }
-          }
-        },
-        "description": "APPLICANT.ALLOTMENTLETTER_DESCRIPTION"
-      },
-      {
         "code": "APPLICANT.IDENTITYPROOF.AADHAAR",
         "documentType": "APPLICANT.AADHAAR",
         "required": true,

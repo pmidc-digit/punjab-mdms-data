@@ -1201,7 +1201,8 @@
       "masterName": "CalculationAttribute",
       "isStateLevel": false,
       "uniqueKeys": []
-    },
+    }
+},
   "rentAndLease": {
     "Documents": {
       "masterName": "documentType",
@@ -1216,8 +1217,19 @@
     "TaxRates": {
       "masterName": "TaxRate",
       "isStateLevel": false,
-      "uniqueKeys": ["$.id"]
+      "uniqueKeys": ["$.taxType"]
+    }
+  },
+  "rl-services-masters": {
+    "billingPeriod": {
+      "masterName": "billingPeriod",
+      "isStateLevel": false,
+      "uniqueKeys": ["$.billingCycle"]
+    },
+    "Penalty": {
+      "masterName": "Penalty",
+      "isStateLevel": false,
+      "uniqueKeys": ["$.fromFY"]
     }
   }
-}
 }
