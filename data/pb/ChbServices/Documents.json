@@ -68,6 +68,10 @@
           "active": true
         },
         {
+          "code": "APPLICANT.IDENTITYPROOF.AADHAAR",
+          "active": true
+        },
+        {
           "code": "APPLICANT.ADDRESSPROOF.TELEPHONEBILL",
           "active": true
         },
