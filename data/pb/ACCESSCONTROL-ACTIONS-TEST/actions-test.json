@@ -25102,6 +25102,39 @@
       "path": ""
     },
     {
+      "id": 8901000,
+      "name": "RLCalculatorCalculate",
+      "url": "/rl-calculator/v1/_calculate",
+      "displayName": "Calculate demand",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "RENT_N_LEASE",
+      "code": "RNL",
+      "path": ""
+    },
+    {
+      "id": 8901001,
+      "name": "RLCalculatorEstimate",
+      "url": "/rl-calculator/v1/_estimate",
+      "displayName": "Estimate Demand",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "RENT_N_LEASE",
+      "code": "RNL",
+      "path": ""
+    },
+    {
+      "id": 8901002,
+      "name": "RLCalculatorUpdateDemand",
+      "url": "/rl-calculator/v1/_updatedemand",
+      "displayName": "Updatedemand Demand",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "RENT_N_LEASE",
+      "code": "RNL",
+      "path": ""
+    },
+    {
       "id": 8900973,
       "name": "OBPAS NOC REPORTS",
       "url": "/report/rainmaker-obpas_noc/_get",
