@@ -66504,6 +66504,12 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "RL_CEMP",
+      "actionid": 8900967,
+      "actioncode": "RNL",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "RL_DOC_VERIFIER",
       "actionid": 8900035,
       "actioncode": "RNL",
