@@ -3,39 +3,25 @@
   "moduleName": "BPA",
   "CLUDocuments": [
     {
-      "code": "OWNER.OWNERPHOTO",
+      "code": "OWNER.SITEMARKEDONMASTERPLAN",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.OWNERPHOTO.OWNERPHOTO_DESCRIPTION"
+      "description": "OWNER.SITEMARKEDONMASTERPLAN.SITEMARKEDONMASTERPLAN_DESCRIPTION"
     },
     {
-      "code": "OWNER.OWNERVALIDID",
+      "code": "OWNER.SITEMARKEDONSATELLITEPLAN",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.OWNERVALIDID.OWNERVALIDID_DESCRIPTION"
+      "description": "OWNER.SITEMARKEDONSATELLITEPLAN.SITEMARKEDONSATELLITEPLAN_DESCRIPTION"
     },
     {
-      "code": "OWNER.AUTHORIZATIONLETTER",
+      "code": "OWNER.OWNERSHIPSTATEMENT",
       "documentType": "OWNER",
-      "required": false,
+      "required": true,
       "active": true,
-      "description": "OWNER.AUTHORIZATIONLETTER.AUTHORIZATIONLETTER_DESCRIPTION"
-    },
-    {
-      "code": "OWNER.COMPOSITIONFEERECEIPT",
-      "documentType": "OWNER",
-      "required": false,
-      "active": true,
-      "description": "OWNER.COMPOSITIONFEERECEIPT.COMPOSITIONFEERECEIPT_DESCRIPTION"
-    },
-    {
-      "code": "OWNER.NOTICEDOCUMENTFOROFFLINE",
-      "documentType": "OWNER",
-      "required": false,
-      "active": true,
-      "description": "OWNER.NOTICEDOCUMENTFOROFFLINE.NOTICEDOCUMENTFOROFFLINE_DESCRIPTION"
+      "description": "OWNER.OWNERSHIPSTATEMENT.OWNERSHIPSTATEMENT_DESCRIPTION"
     },
     {
       "code": "OWNER.SITEPHOTOGRAPHONE",
@@ -87,19 +73,27 @@
       "description": "OWNER.SITEMARKEDONLATHAPARTPLAN.SITEMARKEDONLATHAPARTPLAN_DESCRIPTION"
     },
     {
-      "code": "OWNER.SITEMARKEDONMASTERPLAN",
+      "code": "OWNER.AUTHORIZATIONLETTER",
       "documentType": "OWNER",
-      "required": true,
+      "required": false,
       "active": true,
-      "description": "OWNER.SITEMARKEDONMASTERPLAN.SITEMARKEDONMASTERPLAN_DESCRIPTION"
+      "description": "OWNER.AUTHORIZATIONLETTER.AUTHORIZATIONLETTER_DESCRIPTION"
     },
     {
-      "code": "OWNER.SITEMARKEDONSATELLITEPLAN",
+      "code": "OWNER.COMPOSITIONFEERECEIPT",
       "documentType": "OWNER",
-      "required": true,
+      "required": false,
       "active": true,
-      "description": "OWNER.SITEMARKEDONSATELLITEPLAN.SITEMARKEDONSATELLITEPLAN_DESCRIPTION"
+      "description": "OWNER.COMPOSITIONFEERECEIPT.COMPOSITIONFEERECEIPT_DESCRIPTION"
     },
+    {
+      "code": "OWNER.NOTICEDOCUMENTFOROFFLINE",
+      "documentType": "OWNER",
+      "required": false,
+      "active": true,
+      "description": "OWNER.NOTICEDOCUMENTFOROFFLINE.NOTICEDOCUMENTFOROFFLINE_DESCRIPTION"
+    },
+
     {
       "code": "OWNER.CIRCLEREVENUEOFFICERREPORT",
       "documentType": "OWNER",
@@ -121,13 +115,7 @@
       "active": true,
       "description": "OWNER.MUSTARKALAND.MUSTARKALAND_DESCRIPTION"
     },
-    {
-      "code": "OWNER.OWNERSHIPSTATEMENT",
-      "documentType": "OWNER",
-      "required": true,
-      "active": true,
-      "description": "OWNER.OWNERSHIPSTATEMENT.OWNERSHIPSTATEMENT_DESCRIPTION"
-    },
+
     {
       "code": "OWNER.FIRMDOCUMENT",
       "documentType": "OWNER",
