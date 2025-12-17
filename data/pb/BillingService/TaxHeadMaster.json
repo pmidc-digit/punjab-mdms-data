@@ -8526,7 +8526,7 @@
       "category": "FEE",
       "service": "rl-services",
       "name": "RL Security deposit fee",
-      "code": "RL_SECURITY_DOPOSITE_FEE",
+      "code": "RL_SECURITY_DEPOSIT_FEE",
       "isDebit": false,
       "isActualDemand": true,
       "order": "1",
@@ -8555,8 +8555,8 @@
     {
       "category": "FEE",
       "service": "rl-services",
-      "name": "RL Cowcase fee",
-      "code": "RL_COWCASS_FEE",
+      "name": "RL Cowcess fee",
+      "code": "RL_COWCESS_FEE",
       "isDebit": false,
       "isActualDemand": true,
       "order": "6",
@@ -8581,6 +8581,16 @@
       "isActualDemand": true,
       "order": "8",
       "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "code": "RL_FEE_ROUND_OFF",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Fee Round Off",
+      "order": "9",
+      "service": "rl-services"
     }
   ]
 }

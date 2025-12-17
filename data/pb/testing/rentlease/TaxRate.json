@@ -18,18 +18,18 @@
           },
           {
             "id": "3",  
-            "taxType": "COWCASS_FEE",
+            "taxType": "COWCESS_FEE",
             "type":"value",
             "isActive":true,         
             "amount": 1000
           },
           {
             "id": "4",  
-            "taxType": "PENALTY_FEE",
+            "taxType": "PENALTY_FEE_PERCENT",
             "type":"%",
             "amount": 2,
             "isActive":true,
-            "description": "penalaty on base rent"
+            "description": "penalty on base rent"
 
           },
           {
@@ -38,7 +38,7 @@
             "type":"value",
             "amount": 200,
             "isActive":true,
-            "description": "penalaty on base rent"
+            "description": "penalty on base rent"
           }
     ]
   }
