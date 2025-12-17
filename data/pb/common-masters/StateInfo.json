@@ -32,6 +32,10 @@
           "value": "rainmaker-common"
         },
         {
+          "label": "rainmaker-rentAndLease",
+          "value": "rainmaker-rentAndLease"
+        },
+        {
           "label": "rainmaker-noc",
           "value": "rainmaker-noc"
         },
