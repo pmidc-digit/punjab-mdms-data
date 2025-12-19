@@ -14,11 +14,10 @@
           "connectionFee":"100",
           "usageType":"RESIDENTIAL"
         },
-
         {
           "fromPlotSize":"0",
           "toPlotSize":"12500000",
-          "connectionFee":"300",
+          "connectionFee":"100",
           "usageType":"COMMERCIAL"
         }
 
