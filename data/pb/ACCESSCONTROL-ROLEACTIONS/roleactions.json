@@ -29048,6 +29048,18 @@
     },
     {
       "rolecode": "PT_CEMP",
+      "actionid": 2635,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_REPORT_VIEWER",
+      "actionid": 2635,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_CEMP",
       "actionid": 2602,
       "actioncode": "",
       "tenantId": "pb"
