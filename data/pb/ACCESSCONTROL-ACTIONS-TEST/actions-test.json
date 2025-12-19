@@ -16906,6 +16906,21 @@
       "rightIcon": ""
     },
     {
+      "id": 2635,
+      "name": "PTTop20TaxPayers",
+      "url": "url",
+      "displayName": "PT Top 20 Tax Payers Report",
+      "orderNumber": 4,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": "Property Tax.PT Reports.PT Top 20 Tax Payers Report",
+      "navigationURL": "/digit-ui/employee/reports/search/pt-reports/PTReceiptRegister",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
       "id": 2601,
       "name": "PTTop20TaxPayers",
       "url": "url",
