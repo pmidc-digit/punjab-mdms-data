@@ -770,35 +770,35 @@
 					"frontSetBack": [
 						{
 							"height": 21,
-							"setback": 10
-						},
-						{
-							"height": 24,
 							"setback": 7
 						},
 						{
-							"height": 27,
+							"height": 24,
 							"setback": 8
 						},
 						{
-							"height": 40,
+							"height": 27,
 							"setback": 9
 						},
 						{
-							"height": 55,
+							"height": 40,
 							"setback": 12
 						},
 						{
-							"height": 70,
+							"height": 55,
 							"setback": 14
 						},
 						{
-							"height": 100,
+							"height": 70,
 							"setback": 16
 						},
 						{
-							"height": 120,
+							"height": 100,
 							"setback": 18
+						},
+						{
+							"height": 120,
+							"setback": 20
 						},
 						{
 							"height": 999,
@@ -808,35 +808,35 @@
 					"rearSetBack": [
 						{
 							"height": 21,
-							"setback": 6
-						},
-						{
-							"height": 24,
 							"setback": 7
 						},
 						{
-							"height": 27,
+							"height": 24,
 							"setback": 8
 						},
 						{
-							"height": 40,
+							"height": 27,
 							"setback": 9
 						},
 						{
-							"height": 55,
+							"height": 40,
 							"setback": 12
 						},
 						{
-							"height": 70,
+							"height": 55,
 							"setback": 14
 						},
 						{
-							"height": 100,
+							"height": 70,
 							"setback": 16
 						},
 						{
-							"height": 120,
+							"height": 100,
 							"setback": 18
+						},
+						{
+							"height": 120,
+							"setback": 20
 						},
 						{
 							"height": 999,
@@ -846,35 +846,35 @@
 					"sideSetBack1": [
 						{
 							"height": 21,
-							"setback": 6
-						},
-						{
-							"height": 24,
 							"setback": 7
 						},
 						{
-							"height": 27,
+							"height": 24,
 							"setback": 8
 						},
 						{
-							"height": 40,
+							"height": 27,
 							"setback": 9
 						},
 						{
-							"height": 55,
+							"height": 40,
 							"setback": 12
 						},
 						{
-							"height": 70,
+							"height": 55,
 							"setback": 14
 						},
 						{
-							"height": 100,
+							"height": 70,
 							"setback": 16
 						},
 						{
-							"height": 120,
+							"height": 100,
 							"setback": 18
+						},
+						{
+							"height": 120,
+							"setback": 20
 						},
 						{
 							"height": 999,
@@ -884,35 +884,35 @@
 					"sideSetBack2": [
 						{
 							"height": 21,
-							"setback": 6
-						},
-						{
-							"height": 24,
 							"setback": 7
 						},
 						{
-							"height": 27,
+							"height": 24,
 							"setback": 8
 						},
 						{
-							"height": 40,
+							"height": 27,
 							"setback": 9
 						},
 						{
-							"height": 55,
+							"height": 40,
 							"setback": 12
 						},
 						{
-							"height": 70,
+							"height": 55,
 							"setback": 14
 						},
 						{
-							"height": 100,
+							"height": 70,
 							"setback": 16
 						},
 						{
-							"height": 120,
+							"height": 100,
 							"setback": 18
+						},
+						{
+							"height": 120,
+							"setback": 20
 						},
 						{
 							"height": 999,
