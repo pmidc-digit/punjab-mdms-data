@@ -821,6 +821,13 @@
       "uniqueKeys": []
     }
   },
+  "PAYMENT": {
+    "PaymentGateway": {
+      "masterName": "PaymentGateway",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    }
+  },
 
   "CHB": {
     "CommunityHalls": {
@@ -860,7 +867,7 @@
     },
     "Documents": {
       "masterName": "Documents",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": ["$.code"]
     },
     "TaxRates": {
@@ -894,6 +901,38 @@
       "masterName": "InterestAmount",
       "isStateLevel": false,
       "uniqueKeys": ["$.fromFY"]
+    }
+  },
+  "BPA": {
+    "WorkflowConfig": {
+      "masterName": "WorkflowConfig",
+      "isStateLevel": true,
+      "uniqueKeys": ["$businessService"]
+    },
+    "BuildingHeight": {
+      "masterName": "BuildingHeight",
+      "isStateLevel": true,
+      "uniqueKeys": ["$name"]
+    },
+    "CalculationType": {
+      "masterName": "CalculationType",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.applicationType",
+        "$.serviceType",
+        "$.riskType",
+        "$.feeType"
+      ]
+    },
+    "ChargesType": {
+      "masterName": "ChargesType",
+      "isStateLevel": true,
+      "uniqueKeys": ["$.code", "$name"]
+    },
+    "ApplicationFees": {
+      "masterName": "ApplicationFees",
+      "isStateLevel": true,
+      "uniqueKeys": []
     }
   }
 }

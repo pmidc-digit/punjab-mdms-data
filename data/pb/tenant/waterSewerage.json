@@ -55,7 +55,7 @@
     {
       "code": "pb.badhnikalan",
       "name": "Badhni Kalan",
-      "isautodemand": "false"
+      "isautodemand": "true"
     },
     {
       "code": "pb.balachaur",
@@ -200,7 +200,7 @@
     {
       "code": "pb.ferozepur",
       "name": "Ferozepur",
-      "isautodemand": "false"
+      "isautodemand": "true"
     },
     {
       "code": "pb.ghagga",
@@ -210,6 +210,11 @@
     {
       "code": "pb.garhdiwala",
       "name": "Garhdiwala",
+      "isautodemand": "false"
+    },
+    {
+      "code": "pb.gurdaspur",
+      "name": "Gurdaspur",
       "isautodemand": "false"
     },
     {
@@ -229,7 +234,7 @@
     },
     {
       "code": "pb.jandialaguru",
-      "name": "Jandiala guru",
+      "name": "Jandiala Guru",
       "isautodemand": "false"
     },
     {
@@ -420,7 +425,7 @@
     {
       "code": "pb.sirhind",
       "name": "Sirhind",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.srihargobindpur",
@@ -466,6 +471,16 @@
       "code": "pb.moonak",
       "name": "Moonak",
       "isautodemand": "false"
+    },
+    {
+      "code": "pb.shamchurasi",
+      "name": "Shamchurasi",
+      "isautodemand": "false"
+    },
+    {
+      "code": "pb.jaitu",
+      "name": "Jaitu",
+      "isautodemand": "true"
     }
   ]
 }
