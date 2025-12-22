@@ -13,6 +13,11 @@
 	  "renewalFee": 0,
       "docTypes": [
         {
+          "code": "APPL.BPAREG_SCANNED_SIGNATURE",
+          "info": "",
+          "required": true
+        },
+        {
           "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
           "info": "",
           "required": true
@@ -72,6 +77,11 @@
       "applicationFee": 3000,
 	  "renewalFee": 1500,
       "docTypes": [
+        {
+          "code": "APPL.BPAREG_SCANNED_SIGNATURE",
+          "info": "",
+          "required": true
+        },
         {
           "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
           "info": "",
@@ -133,6 +143,11 @@
 	  "renewalFee": 1500,
       "docTypes": [
         {
+          "code": "APPL.BPAREG_SCANNED_SIGNATURE",
+          "info": "",
+          "required": true
+        },
+        {
           "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
           "info": "",
           "required": true
@@ -192,6 +207,11 @@
       "applicationFee": 3000,
 	  "renewalFee": 1500,
       "docTypes": [
+        {
+          "code": "APPL.BPAREG_SCANNED_SIGNATURE",
+          "info": "",
+          "required": true
+        },
         {
           "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
           "info": "",
@@ -253,6 +273,11 @@
 	  "renewalFee": 1500,
       "docTypes": [
         {
+          "code": "APPL.BPAREG_SCANNED_SIGNATURE",
+          "info": "",
+          "required": true
+        },
+        {
           "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
           "info": "",
           "required": true
@@ -296,6 +321,11 @@
 	  "renewalFee": 1500,
       "docTypes": [
         {
+          "code": "APPL.BPAREG_SCANNED_SIGNATURE",
+          "info": "",
+          "required": true
+        },
+        {
           "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
           "info": "",
           "required": true
@@ -337,6 +367,11 @@
       "applicationFee": 3000,
 	  "renewalFee": 1500,
       "docTypes": [
+        {
+          "code": "APPL.BPAREG_SCANNED_SIGNATURE",
+          "info": "",
+          "required": true
+        },
         {
           "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
           "info": "",
@@ -398,6 +433,11 @@
 	  "renewalFee": 0,
       "docTypes": [
         {
+          "code": "APPL.BPAREG_SCANNED_SIGNATURE",
+          "info": "",
+          "required": true
+        },
+        {
           "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
           "info": "",
           "required": true
@@ -439,6 +479,11 @@
       "applicationFee": 0,
 	  "renewalFee": 0,
       "docTypes": [
+        {
+          "code": "APPL.BPAREG_SCANNED_SIGNATURE",
+          "info": "",
+          "required": true
+        },
         {
           "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
           "info": "",
