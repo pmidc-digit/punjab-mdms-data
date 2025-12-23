@@ -22,7 +22,9 @@
       "feesPeriodCycle": "QUATERLY",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+      "cowCessApplicable": true,
+      "penaltyType":"Daily"
+     
     },
     {
       "propertyId": "PB-RL-PT2025000002",
@@ -43,7 +45,8 @@
       "feesPeriodCycle": "ANNUAL",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+      "cowCessApplicable": true,
+       "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000003",
@@ -64,7 +67,7 @@
       "feesPeriodCycle": "BIANNUAL",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000004",
@@ -85,7 +88,7 @@
       "feesPeriodCycle": "MONTHLY",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000005",
@@ -106,7 +109,7 @@
       "feesPeriodCycle": "QUATERLY",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000006",
@@ -127,7 +130,7 @@
       "feesPeriodCycle": "ANNUAL",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000007",
@@ -148,7 +151,7 @@
       "feesPeriodCycle": "BIANNUAL",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000008",
@@ -169,7 +172,7 @@
       "feesPeriodCycle": "MONTHLY",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000009",
@@ -190,7 +193,7 @@
       "feesPeriodCycle": "QUATERLY",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000010",
@@ -211,7 +214,7 @@
       "feesPeriodCycle": "ANNUAL",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000011",
@@ -232,7 +235,7 @@
       "feesPeriodCycle": "BIANNUAL",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000012",
@@ -253,7 +256,7 @@
       "feesPeriodCycle": "MONTHLY",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000013",
@@ -274,7 +277,7 @@
       "feesPeriodCycle": "QUATERLY",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000014",
@@ -295,7 +298,7 @@
       "feesPeriodCycle": "ANNUAL",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000015",
@@ -316,7 +319,7 @@
       "feesPeriodCycle": "BIANNUAL",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000016",
@@ -337,7 +340,7 @@
       "feesPeriodCycle": "MONTHLY",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000017",
@@ -358,7 +361,7 @@
       "feesPeriodCycle": "QUATERLY",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000018",
@@ -379,7 +382,7 @@
       "feesPeriodCycle": "ANNUAL",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000019",
@@ -400,7 +403,7 @@
       "feesPeriodCycle": "BIANNUAL",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000020",
@@ -421,7 +424,7 @@
       "feesPeriodCycle": "MONTHLY",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000021",
@@ -442,7 +445,7 @@
       "feesPeriodCycle": "QUATERLY",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000022",
@@ -463,7 +466,7 @@
       "feesPeriodCycle": "ANNUAL",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000023",
@@ -484,7 +487,7 @@
       "feesPeriodCycle": "BIANNUAL",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000024",
@@ -505,7 +508,7 @@
       "feesPeriodCycle": "MONTHLY",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000025",
@@ -526,7 +529,7 @@
       "feesPeriodCycle": "QUATERLY",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000026",
@@ -547,7 +550,7 @@
       "feesPeriodCycle": "ANNUAL",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000027",
@@ -568,7 +571,7 @@
       "feesPeriodCycle": "BIANNUAL",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000028",
@@ -589,7 +592,7 @@
       "feesPeriodCycle": "MONTHLY",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000029",
@@ -610,7 +613,7 @@
       "feesPeriodCycle": "QUATERLY",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000030",
@@ -631,7 +634,7 @@
       "feesPeriodCycle": "ANNUAL",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000031",
@@ -652,7 +655,7 @@
       "feesPeriodCycle": "BIANNUAL",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000032",
@@ -673,7 +676,7 @@
       "feesPeriodCycle": "MONTHLY",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000033",
@@ -694,7 +697,7 @@
       "feesPeriodCycle": "QUATERLY",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000034",
@@ -715,7 +718,7 @@
       "feesPeriodCycle": "ANNUAL",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000035",
@@ -736,7 +739,7 @@
       "feesPeriodCycle": "BIANNUAL",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000036",
@@ -757,7 +760,7 @@
       "feesPeriodCycle": "MONTHLY",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000037",
@@ -778,7 +781,7 @@
       "feesPeriodCycle": "QUATERLY",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000038",
@@ -799,7 +802,7 @@
       "feesPeriodCycle": "ANNUAL",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000039",
@@ -820,7 +823,7 @@
       "feesPeriodCycle": "BIANNUAL",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000040",
@@ -841,7 +844,7 @@
       "feesPeriodCycle": "MONTHLY",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000041",
@@ -862,7 +865,7 @@
       "feesPeriodCycle": "QUATERLY",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000042",
@@ -883,7 +886,7 @@
       "feesPeriodCycle": "ANNUAL",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000043",
@@ -904,7 +907,7 @@
       "feesPeriodCycle": "BIANNUAL",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000044",
@@ -925,7 +928,7 @@
       "feesPeriodCycle": "MONTHLY",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000045",
@@ -946,7 +949,7 @@
       "feesPeriodCycle": "QUATERLY",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000046",
@@ -967,7 +970,7 @@
       "feesPeriodCycle": "ANNUAL",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000047",
@@ -988,7 +991,7 @@
       "feesPeriodCycle": "BIANNUAL",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000048",
@@ -1009,7 +1012,7 @@
       "feesPeriodCycle": "MONTHLY",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000049",
@@ -1030,7 +1033,7 @@
       "feesPeriodCycle": "QUATERLY",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000050",
@@ -1051,7 +1054,7 @@
       "feesPeriodCycle": "ANNUAL",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000051",
@@ -1072,7 +1075,7 @@
       "feesPeriodCycle": "BIANNUAL",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000052",
@@ -1093,7 +1096,7 @@
       "feesPeriodCycle": "MONTHLY",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000053",
@@ -1114,7 +1117,7 @@
       "feesPeriodCycle": "QUATERLY",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000054",
@@ -1135,7 +1138,7 @@
       "feesPeriodCycle": "ANNUAL",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000055",
@@ -1156,7 +1159,7 @@
       "feesPeriodCycle": "BIANNUAL",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000056",
@@ -1177,7 +1180,7 @@
       "feesPeriodCycle": "MONTHLY",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000057",
@@ -1198,7 +1201,7 @@
       "feesPeriodCycle": "QUATERLY",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000058",
@@ -1219,7 +1222,7 @@
       "feesPeriodCycle": "ANNUAL",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000059",
@@ -1240,7 +1243,7 @@
       "feesPeriodCycle": "BIANNUAL",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000060",
@@ -1261,7 +1264,7 @@
       "feesPeriodCycle": "MONTHLY",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000061",
@@ -1282,7 +1285,7 @@
       "feesPeriodCycle": "QUATERLY",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000062",
@@ -1303,7 +1306,7 @@
       "feesPeriodCycle": "ANNUAL",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000063",
@@ -1324,7 +1327,7 @@
       "feesPeriodCycle": "BIANNUAL",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000064",
@@ -1345,7 +1348,7 @@
       "feesPeriodCycle": "MONTHLY",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000065",
@@ -1366,7 +1369,7 @@
       "feesPeriodCycle": "QUATERLY",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000066",
@@ -1387,7 +1390,7 @@
       "feesPeriodCycle": "ANNUAL",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000067",
@@ -1408,7 +1411,7 @@
       "feesPeriodCycle": "BIANNUAL",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000068",
@@ -1429,7 +1432,7 @@
       "feesPeriodCycle": "MONTHLY",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000069",
@@ -1450,7 +1453,7 @@
       "feesPeriodCycle": "QUATERLY",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000070",
@@ -1471,7 +1474,7 @@
       "feesPeriodCycle": "ANNUAL",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000071",
@@ -1492,7 +1495,7 @@
       "feesPeriodCycle": "BIANNUAL",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000072",
@@ -1513,7 +1516,7 @@
       "feesPeriodCycle": "MONTHLY",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000073",
@@ -1534,7 +1537,7 @@
       "feesPeriodCycle": "QUATERLY",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000074",
@@ -1555,7 +1558,7 @@
       "feesPeriodCycle": "ANNUAL",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000075",
@@ -1576,7 +1579,7 @@
       "feesPeriodCycle": "BIANNUAL",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000076",
@@ -1597,7 +1600,7 @@
       "feesPeriodCycle": "MONTHLY",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000077",
@@ -1618,7 +1621,7 @@
       "feesPeriodCycle": "QUATERLY",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000078",
@@ -1639,7 +1642,7 @@
       "feesPeriodCycle": "ANNUAL",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000079",
@@ -1660,7 +1663,7 @@
       "feesPeriodCycle": "BIANNUAL",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000080",
@@ -1681,7 +1684,7 @@
       "feesPeriodCycle": "MONTHLY",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000081",
@@ -1702,7 +1705,7 @@
       "feesPeriodCycle": "QUATERLY",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000082",
@@ -1723,7 +1726,7 @@
       "feesPeriodCycle": "ANNUAL",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000083",
@@ -1744,7 +1747,7 @@
       "feesPeriodCycle": "BIANNUAL",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000084",
@@ -1765,7 +1768,7 @@
       "feesPeriodCycle": "MONTHLY",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000085",
@@ -1786,7 +1789,7 @@
       "feesPeriodCycle": "QUATERLY",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000086",
@@ -1807,7 +1810,7 @@
       "feesPeriodCycle": "ANNUAL",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000087",
@@ -1828,7 +1831,7 @@
       "feesPeriodCycle": "BIANNUAL",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000088",
@@ -1849,7 +1852,7 @@
       "feesPeriodCycle": "MONTHLY",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000089",
@@ -1870,7 +1873,7 @@
       "feesPeriodCycle": "QUATERLY",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000090",
@@ -1891,7 +1894,7 @@
       "feesPeriodCycle": "ANNUAL",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000091",
@@ -1912,7 +1915,7 @@
       "feesPeriodCycle": "BIANNUAL",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000092",
@@ -1933,7 +1936,7 @@
       "feesPeriodCycle": "MONTHLY",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000093",
@@ -1954,7 +1957,7 @@
       "feesPeriodCycle": "QUATERLY",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000094",
@@ -1975,7 +1978,7 @@
       "feesPeriodCycle": "ANNUAL",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000095",
@@ -1996,7 +1999,7 @@
       "feesPeriodCycle": "BIANNUAL",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000096",
@@ -2017,7 +2020,7 @@
       "feesPeriodCycle": "MONTHLY",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000097",
@@ -2038,7 +2041,7 @@
       "feesPeriodCycle": "QUATERLY",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000098",
@@ -2059,7 +2062,7 @@
       "feesPeriodCycle": "ANNUAL",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000099",
@@ -2080,7 +2083,7 @@
       "feesPeriodCycle": "BIANNUAL",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     },
     {
       "propertyId": "PB-RL-PT2025000100",
@@ -2101,7 +2104,7 @@
       "feesPeriodCycle": "MONTHLY",
       "taxApplicable": true,
       "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true
+    "cowCessApplicable": true, "penaltyType":"Daily"
     }
   ]
 }
