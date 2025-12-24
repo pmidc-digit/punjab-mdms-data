@@ -12,18 +12,170 @@
     },
     {
       "id": "2",
-      "buildingType": "Commercial",
+      "buildingType": "MIXED",
       "calculationAttribute": "Flat",
       "connectionType": "Non Metered",
-      "minimumCharge": 550,
+      "minimumCharge": 400,
       "slabs": []
     },
     {
       "id": "3",
-      "buildingType": "Institutional",
+      "buildingType": "NONRESIDENTIAL",
       "calculationAttribute": "Flat",
       "connectionType": "Non Metered",
-      "minimumCharge": 650,
+      "minimumCharge": 500,
+      "slabs": []
+    },
+    {
+      "id": "4",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "minimumCharge": 600,
+      "slabs": []
+    },
+    {
+      "id": "5",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL.RETAIL.MALLS",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "minimumCharge": 1500,
+      "slabs": []
+    },
+    {
+      "id": "6",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL.RETAIL.ESTABLISHMENTSINMALLS",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "minimumCharge": 1200,
+      "slabs": []
+    },
+    {
+      "id": "7",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL.HOTELS",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "minimumCharge": 1000,
+      "slabs": []
+    },
+    {
+      "id": "8",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL.HOTELS.HOTELS",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "minimumCharge": 1000,
+      "slabs": []
+    },
+    {
+      "id": "9",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL.ENTERTAINMENT.MULTIPLEX",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "minimumCharge": 1800,
+      "slabs": []
+    },
+    {
+      "id": "10",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL.FOODJOINTS.ACRESTAURANT",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "minimumCharge": 950,
+      "slabs": []
+    },
+    {
+      "id": "11",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL.EVENTSPACE.MARRIAGEPALACE",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "minimumCharge": 1300,
+      "slabs": []
+    },
+    {
+      "id": "12",
+      "buildingType": "NONRESIDENTIAL.INDUSTRIAL",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "minimumCharge": 750,
+      "slabs": []
+    },
+    {
+      "id": "13",
+      "buildingType": "NONRESIDENTIAL.INDUSTRIAL.MANUFACTURINGFACILITY",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "minimumCharge": 1100,
+      "slabs": []
+    },
+    {
+      "id": "14",
+      "buildingType": "NONRESIDENTIAL.INSTITUTIONAL",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "minimumCharge": 400,
+      "slabs": []
+    },
+    {
+      "id": "15",
+      "buildingType": "NONRESIDENTIAL.INSTITUTIONAL.EDUCATIONAL",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "minimumCharge": 300,
+      "slabs": []
+    },
+    {
+      "id": "16",
+      "buildingType": "NONRESIDENTIAL.INSTITUTIONAL.EDUCATIONALGOVAIDED",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "minimumCharge": 200,
+      "slabs": []
+    },
+    {
+      "id": "17",
+      "buildingType": "NONRESIDENTIAL.INSTITUTIONAL.RELIGIOUSINSTITUTION",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "minimumCharge": 150,
+      "slabs": []
+    },
+    {
+      "id": "18",
+      "buildingType": "NONRESIDENTIAL.INSTITUTIONAL.RECREATIONAL",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "minimumCharge": 700,
+      "slabs": []
+    },
+    {
+      "id": "19",
+      "buildingType": "NONRESIDENTIAL.INSTITUTIONAL.RECREATIONAL.GOLFCLUB",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "minimumCharge": 1200,
+      "slabs": []
+    },
+    {
+      "id": "20",
+      "buildingType": "NONRESIDENTIAL.INSTITUTIONAL.HISTORICAL",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "minimumCharge": 100,
+      "slabs": []
+    },
+    {
+      "id": "21",
+      "buildingType": "NONRESIDENTIAL.OTHERS",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "minimumCharge": 300,
+      "slabs": []
+    },
+    {
+      "id": "22",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL.OTHERCOMMERCIALSUBMINOR.OTHERCOMMERCIAL",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "minimumCharge": 600,
       "slabs": []
     }
   ]
