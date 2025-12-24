@@ -66324,7 +66324,7 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "EMPLOYEE",
+      "rolecode": "RL_CEMP",
       "actionid": 8900910,
       "actioncode": "",
       "tenantId": "pb"
