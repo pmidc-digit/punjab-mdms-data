@@ -4,28 +4,28 @@
     "TaxRates": [
           {
             "id": "1",  
-            "taxType": "CGST_FEE",
+            "taxType": "RL_CGST_FEE",
             "type":"%",   
             "isActive":true,         
             "amount": 9            
           },
           {
             "id": "2",  
-            "taxType": "SGST_FEE",
+            "taxType": "RL_SGST_FEE",
             "type":"%",
             "isActive":true,                     
             "amount": 9
           },
           {
             "id": "3",  
-            "taxType": "COWCESS_FEE",
+            "taxType": "RL_COWCESS_FEE",
             "type":"value",
             "isActive":true,         
             "amount": 1000
           },
           {
             "id": "4",  
-            "taxType": "PENALTY_FEE_PERCENT",
+            "taxType": "RL_PENALTY_FEE_PERCENT",
             "type":"%",
             "amount": 2,
             "isActive":true,
@@ -34,7 +34,7 @@
           },
           {
             "id": "5",  
-            "taxType": "PENALTY_FEE",
+            "taxType": "RL_PENALTY_FEE",
             "type":"value",
             "amount": 200,
             "isActive":true,

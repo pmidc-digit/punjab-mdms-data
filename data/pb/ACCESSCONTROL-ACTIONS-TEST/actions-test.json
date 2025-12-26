@@ -16906,6 +16906,21 @@
       "rightIcon": ""
     },
     {
+      "id": 2635,
+      "name": "PTTop20TaxPayers",
+      "url": "url",
+      "displayName": "PT Top 20 Tax Payers Report",
+      "orderNumber": 4,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": "Property Tax.PT Reports.PT Top 20 Tax Payers Report",
+      "navigationURL": "/digit-ui/employee/reports/search/pt-reports/PTReceiptRegister",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
       "id": 2601,
       "name": "PTTop20TaxPayers",
       "url": "url",
@@ -26759,35 +26774,40 @@
     },
     {
       "id": 8900108,
-      "name": "HRMS Create Employee",
+      "name": "Amritsar Summary Employee Report",
       "url": "url",
-      "displayName": "HRMS Create Employee",
-      "orderNumber": 3,
+      "displayName": "Amritsar Summary Employee Report",
+      "orderNumber": 1,
       "queryParams": "",
-      "parentModule": "rainmaker-hrms",
+      "parentModule": "rainmaker-swach",
       "enabled": true,
-      "serviceCode": "HRMS",
-      "code": "null",
-      "path": "",
-      "navigationURL": "/digit-ui/employee/hrms/create",
-      "leftIcon": "custom:open-NDCMODULE",
+      "serviceCode": "PGR",
+      "path": "Swach.Reports.Amritsar Summary Employee Report",
+      "navigationURL": "report/rainmaker-swach/AmritsarSummaryEmployeeReport",
+      "leftIcon": "action:assignment",
       "rightIcon": ""
     },
     {
       "id": 8900109,
-      "name": "OBPAS Employee Mapping",
-      "url": "url",
-      "displayName": "OBPAS Employee Mapping",
-      "orderNumber": 4,
-      "queryParams": "",
-      "parentModule": "rainmaker-hrms",
+      "name": "Amritsar Summary Employee Report",
+      "url": "/report/rainmaker-swach/metadata/_get",
+      "displayName": "Amritsar Summary Employee Report",
+      "orderNumber": 1,
       "enabled": true,
-      "serviceCode": "HRMS",
+      "serviceCode": "MiscReceipt",
       "code": "null",
-      "path": "",
-      "navigationURL": "/digit-ui/employee/hrms/empMaping",
-      "leftIcon": "custom:open-NDCMODULE",
-      "rightIcon": ""
+      "path": ""
+    },
+    {
+      "id": 8900110,
+      "name": "Amritsar Summary Employee Report",
+      "url": "/report/rainmaker-swach/_get",
+      "displayName": "Amritsar Summary Employee Report",
+      "orderNumber": 1, 
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "path": ""
     }
   ]
 }

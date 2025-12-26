@@ -1384,12 +1384,6 @@
       "groupId": "014"
     },
     {
-      "code": "RL_APPLY_EMPLOYEE",   
-      "name": "RL Apply Employee",
-      "description": "Access to Rent And Lease",
-      "groupId": "032"
-    },
-    {
       "code": "RL_DOC_VERIFIER",
       "name": "RL Document Verifier",
       "description": "Access to Rent And Lease",
@@ -1408,8 +1402,8 @@
       "groupId": "032"
     },
     {
-      "code": "RL_CLOSED",
-      "name": "RL Allotment Closed",
+      "code": "RL_CEMP",
+      "name": "RL Counter User",
       "description": "Access to Rent And Lease",
       "groupId": "032"
     },

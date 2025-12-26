@@ -34,13 +34,6 @@
             "navigationUrl": "/digit-ui/citizen/pgr-home"
           },
           {
-            "code": "CITIZEN_SERVICE_ENGAGEMENT",
-            "name": "Engagement",
-            "label": "ACTION_TEST_ENGAGEMENT",
-            "enabled": true,
-            "navigationUrl": "/digit-ui/citizen/engagement/surveys/active-open-surveys"
-          },
-          {
             "code": "CITIZEN_SERVICE_PT",
             "name": "Property Tax",
             "label": "MODULE_PT",
@@ -53,6 +46,20 @@
             "label": "MODULE_TL",
             "enabled": true,
             "navigationUrl": "/digit-ui/citizen/tl-home"
+          },
+          {
+            "code": "CITIZEN_SERVICE_COMMUNITY_HALL_BOOKING",
+            "name": "Community Hall Booking",
+            "label": "ACTION_TEST_CHB",
+            "enabled": true,
+            "navigationUrl": "/digit-ui/citizen/chb-home"
+          },
+          {
+            "code": "CITIZEN_SERVICE_ENGAGEMENT",
+            "name": "Engagement",
+            "label": "ACTION_TEST_ENGAGEMENT",
+            "enabled": true,
+            "navigationUrl": "/digit-ui/citizen/engagement/surveys/active-open-surveys"
           },
           {
             "code": "CITIZEN_SERVICE_WS",
@@ -110,13 +117,7 @@
             "enabled": true,
             "navigationUrl": "/digit-ui/citizen/ads-home"
           },
-          {
-            "code": "CITIZEN_SERVICE_COMMUNITY_HALL_BOOKING",
-            "name": "Community Hall Booking",
-            "label": "ACTION_TEST_CHB",
-            "enabled": true,
-            "navigationUrl": "/digit-ui/citizen/chb-home"
-          },
+
           {
             "code": "CITIZEN_SERVICE_RENT_AND_LEASE",
             "name": "Rent and Lease",
