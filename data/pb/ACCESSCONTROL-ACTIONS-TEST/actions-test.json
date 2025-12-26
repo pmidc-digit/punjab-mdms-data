@@ -26756,6 +26756,38 @@
       "serviceCode": "CHALLANREPORTS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 8900108,
+      "name": "HRMS Create Employee",
+      "url": "url",
+      "displayName": "HRMS Create Employee",
+      "orderNumber": 3,
+      "queryParams": "",
+      "parentModule": "rainmaker-hrms",
+      "enabled": true,
+      "serviceCode": "HRMS",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/digit-ui/employee/hrms/create",
+      "leftIcon": "custom:open-NDCMODULE",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900109,
+      "name": "OBPAS Employee Mapping",
+      "url": "url",
+      "displayName": "OBPAS Employee Mapping",
+      "orderNumber": 4,
+      "queryParams": "",
+      "parentModule": "rainmaker-hrms",
+      "enabled": true,
+      "serviceCode": "HRMS",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/digit-ui/employee/hrms/empMaping",
+      "leftIcon": "custom:open-NDCMODULE",
+      "rightIcon": ""
     }
   ]
 }
