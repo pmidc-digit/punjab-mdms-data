@@ -26811,23 +26811,23 @@
     },
     {
       "id": 8900111,
-      "name": "HRMS Create Employee",
+      "name": "HRMS",
       "url": "url",
-      "displayName": "HRMS Create Employee",
+      "displayName": "Create Employee",
       "orderNumber": 3,
       "queryParams": "",
       "parentModule": "rainmaker-hrms",
       "enabled": true,
       "serviceCode": "HRMS",
       "code": "null",
-      "path": "",
+      "path": "HRMS.Search",
       "navigationURL": "/digit-ui/employee/hrms/create",
-      "leftIcon": "custom:open-NDCMODULE",
+      "leftIcon": "social:people",
       "rightIcon": ""
     },
     {
       "id": 8900112,
-      "name": "OBPAS Employee Mapping",
+      "name": "HRMS",
       "url": "url",
       "displayName": "OBPAS Employee Mapping",
       "orderNumber": 4,
@@ -26836,9 +26836,9 @@
       "enabled": true,
       "serviceCode": "HRMS",
       "code": "null",
-      "path": "",
+      "path": "HRMS.Search",
       "navigationURL": "/digit-ui/employee/hrms/empMaping",
-      "leftIcon": "custom:open-NDCMODULE",
+      "leftIcon": "social:people",
       "rightIcon": ""
     }
   ]
