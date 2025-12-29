@@ -19051,6 +19051,36 @@
       "navigationURL": "report/rainmaker-pt/StateSewerage_Dump_report",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    }    	  
+    },
+    {
+      "id": 8900113,
+      "name": "CreateComplaint",
+      "url": "url",
+      "displayName": "Create Complaint",
+      "orderNumber": 63,
+      "parentModule": "rainmaker-pgr",
+      "enabled": true,
+      "serviceCode": "PGR",
+      "code": "null",
+      "path": "PGR.CreateComplaint",
+      "navigationURL": "/digit-ui/employee/pgr/complaint/create",
+      "leftIcon": "content:add",
+      "rightIcon": ""
+    },
+	 {
+      "id": 8900114,
+      "name": "OpenComplaints",
+      "url": "url",
+      "displayName": "Open Complaints",
+      "orderNumber": 61,
+      "parentModule": "rainmaker-pgr",
+      "enabled": true,
+      "serviceCode": "PGR",
+      "code": "null",
+      "path": "PGR.MyComplaints",
+      "navigationURL": "/digit-ui/employee/pgr/inbox",
+      "leftIcon": "custom:open-complaints",
+      "rightIcon": ""
+    }
   ]
 }
