@@ -1363,8 +1363,13 @@
 					"NormalFAR": 1.0,
 					"PurchasableFAR": 0.5,
 					"isActive": true,
-					"minRoad": 19,
-					"maxRoad": 12,
+					"minRoad": [
+						{
+							"withinMasterPlan": 13,
+							"otherAreas": 12
+						}
+					],
+					"maxRoad": 999,
 					"minHeight": 2.75,
 					"maxHeight": 2147483647,
 					"maxHeightWithStilt": 17.5,
@@ -1450,8 +1455,13 @@
 					"NormalFAR": 1.0,
 					"PurchasableFAR": 0.5,
 					"isActive": true,
-					"minRoad": 25,
-					"maxRoad": 18,
+					"minRoad": [
+						{
+							"withinMasterPlan": 25,
+							"otherAreas": 18
+						}
+					],
+					"maxRoad": 999,
 					"minHeight": 2.75,
 					"maxHeight": 2147483647,
 					"maxHeightWithStilt": 17.5,
@@ -3183,6 +3193,1212 @@
 						}
 					],
 					"siteCoverage": 40
+				},
+				{
+					"OccupancyType": "O",
+					"OccupancyName": "Wholesale Trade/ Ware house/ Integrated Freight Complex (Standalone)",
+					"minPlotArea": 10000,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": 1.5,
+					"PurchasableFAR": 0,
+					"isActive": true,
+					"minRoad": 24,
+					"maxRoad": 999,
+					"minHeight": 0,
+					"maxHeight": 999,
+					"maxHeightWithStilt": 999,
+					"frontSetBack": [
+						{
+							"height": 21,
+							"setback": 6
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"rearSetBack": [
+						{
+							"height": 21,
+							"setback": 6
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"sideSetBack1": [
+						{
+							"height": 21,
+							"setback": 6
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"sideSetBack2": [
+						{
+							"height": 21,
+							"setback": 6
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"siteCoverage": 40
+				},
+				{
+					"OccupancyType": "S",
+					"OccupancyName": "Club or  Community Center",
+					"minPlotArea": 500,
+					"maxPlotArea": 2000,
+					"NormalFAR": 1.5,
+					"PurchasableFAR": 0,
+					"isActive": true,
+					"minRoad": 18,
+					"maxRoad": 999,
+					"minHeight": 0,
+					"maxHeight": 999,
+					"maxHeightWithStilt": 999,
+					"frontSetBack": [
+						{
+							"height": 21,
+							"setback": 7
+						},
+						{
+							"height": 24,
+							"setback": 8
+						},
+						{
+							"height": 27,
+							"setback": 9
+						},
+						{
+							"height": 40,
+							"setback": 12
+						},
+						{
+							"height": 55,
+							"setback": 14
+						},
+						{
+							"height": 70,
+							"setback": 16
+						},
+						{
+							"height": 100,
+							"setback": 18
+						},
+						{
+							"height": 120,
+							"setback": 20
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"rearSetBack": [
+						{
+							"height": 21,
+							"setback": 7
+						},
+						{
+							"height": 24,
+							"setback": 8
+						},
+						{
+							"height": 27,
+							"setback": 9
+						},
+						{
+							"height": 40,
+							"setback": 12
+						},
+						{
+							"height": 55,
+							"setback": 14
+						},
+						{
+							"height": 70,
+							"setback": 16
+						},
+						{
+							"height": 100,
+							"setback": 18
+						},
+						{
+							"height": 120,
+							"setback": 20
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"sideSetBack1": [
+						{
+							"height": 21,
+							"setback": 7
+						},
+						{
+							"height": 24,
+							"setback": 8
+						},
+						{
+							"height": 27,
+							"setback": 9
+						},
+						{
+							"height": 40,
+							"setback": 12
+						},
+						{
+							"height": 55,
+							"setback": 14
+						},
+						{
+							"height": 70,
+							"setback": 16
+						},
+						{
+							"height": 100,
+							"setback": 18
+						},
+						{
+							"height": 120,
+							"setback": 20
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"sideSetBack2": [
+						{
+							"height": 21,
+							"setback": 7
+						},
+						{
+							"height": 24,
+							"setback": 8
+						},
+						{
+							"height": 27,
+							"setback": 9
+						},
+						{
+							"height": 40,
+							"setback": 12
+						},
+						{
+							"height": 55,
+							"setback": 14
+						},
+						{
+							"height": 70,
+							"setback": 16
+						},
+						{
+							"height": 100,
+							"setback": 18
+						},
+						{
+							"height": 120,
+							"setback": 20
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"siteCoverage": 40
+				},
+				{
+					"OccupancyType": "S",
+					"OccupancyName": "Club or  Community Center",
+					"minPlotArea": 2000,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": 1.5,
+					"PurchasableFAR": 0,
+					"isActive": true,
+					"minRoad": 24,
+					"maxRoad": 999,
+					"minHeight": 0,
+					"maxHeight": 999,
+					"maxHeightWithStilt": 999,
+					"frontSetBack": [
+						{
+							"height": 21,
+							"setback": 7
+						},
+						{
+							"height": 24,
+							"setback": 8
+						},
+						{
+							"height": 27,
+							"setback": 9
+						},
+						{
+							"height": 40,
+							"setback": 12
+						},
+						{
+							"height": 55,
+							"setback": 14
+						},
+						{
+							"height": 70,
+							"setback": 16
+						},
+						{
+							"height": 100,
+							"setback": 18
+						},
+						{
+							"height": 120,
+							"setback": 20
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"rearSetBack": [
+						{
+							"height": 21,
+							"setback": 7
+						},
+						{
+							"height": 24,
+							"setback": 8
+						},
+						{
+							"height": 27,
+							"setback": 9
+						},
+						{
+							"height": 40,
+							"setback": 12
+						},
+						{
+							"height": 55,
+							"setback": 14
+						},
+						{
+							"height": 70,
+							"setback": 16
+						},
+						{
+							"height": 100,
+							"setback": 18
+						},
+						{
+							"height": 120,
+							"setback": 20
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"sideSetBack1": [
+						{
+							"height": 21,
+							"setback": 7
+						},
+						{
+							"height": 24,
+							"setback": 8
+						},
+						{
+							"height": 27,
+							"setback": 9
+						},
+						{
+							"height": 40,
+							"setback": 12
+						},
+						{
+							"height": 55,
+							"setback": 14
+						},
+						{
+							"height": 70,
+							"setback": 16
+						},
+						{
+							"height": 100,
+							"setback": 18
+						},
+						{
+							"height": 120,
+							"setback": 20
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"sideSetBack2": [
+						{
+							"height": 21,
+							"setback": 7
+						},
+						{
+							"height": 24,
+							"setback": 8
+						},
+						{
+							"height": 27,
+							"setback": 9
+						},
+						{
+							"height": 40,
+							"setback": 12
+						},
+						{
+							"height": 55,
+							"setback": 14
+						},
+						{
+							"height": 70,
+							"setback": 16
+						},
+						{
+							"height": 100,
+							"setback": 18
+						},
+						{
+							"height": 120,
+							"setback": 20
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"siteCoverage": 40
+				},
+				{
+					"OccupancyType": "K",
+					"OccupancyName": "Hotel or Motel",
+					"minPlotArea": 200,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": [
+						{
+							"roadWidth": 12,
+							"FAR": 2.0
+						},
+						{
+							"roadWidth": 18,
+							"FAR": 2.5
+						},
+						{
+							"roadWidth": 24,
+							"FAR": 3.0
+						},
+						{
+							"roadWidth": 30,
+							"FAR": 9.9
+						}
+					],
+					"PurchasableFAR": 0,
+					"isActive": true,
+					"minRoad": 12,
+					"maxRoad": 999,
+					"minHeight": 0,
+					"maxHeight": 999,
+					"maxHeightWithStilt": 999,
+					"frontSetBack": [
+						{
+							"height": 21,
+							"setback": 20
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"rearSetBack": [
+						{
+							"height": 21,
+							"setback": 20
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"sideSetBack1": [
+						{
+							"height": 21,
+							"setback": 20
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"sideSetBack2": [
+						{
+							"height": 21,
+							"setback": 20
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"siteCoverage": 40
+				},
+				{
+					"OccupancyType": "V",
+					"OccupancyName": "Multi level Car Parking",
+					"minPlotArea": 1000,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": 5.0,
+					"PurchasableFAR": 0,
+					"isActive": true,
+					"minRoad": 12,
+					"maxRoad": 999,
+					"minHeight": 0,
+					"maxHeight": 999,
+					"maxHeightWithStilt": 999,
+					"frontSetBack": [
+						{
+							"height": 21,
+							"setback": 20
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"rearSetBack": [
+						{
+							"height": 21,
+							"setback": 20
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"sideSetBack1": [
+						{
+							"height": 21,
+							"setback": 20
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"sideSetBack2": [
+						{
+							"height": 21,
+							"setback": 20
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"siteCoverage": 80
+				},
+				{
+					"OccupancyType": "P",
+					"OccupancyName": "Miniplex",
+					"minPlotArea": 2000,
+					"maxPlotArea": 4054,
+					"NormalFAR": [
+						{
+							"roadWidth": 18,
+							"FAR": 2.25
+						},
+						{
+							"roadWidth": 24,
+							"FAR": 2.5
+						}
+					],
+					"PurchasableFAR": 0,
+					"isActive": true,
+					"minRoad": 0,
+					"maxRoad": 999,
+					"minHeight": 0,
+					"maxHeight": 999,
+					"maxHeightWithStilt": 999,
+					"minFrontage": 21.34,
+					"frontSetBack": [
+						{
+							"height": 21,
+							"setback": 6
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"rearSetBack": [
+						{
+							"height": 21,
+							"setback": 6
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"sideSetBack1": [
+						{
+							"height": 21,
+							"setback": 6
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"sideSetBack2": [
+						{
+							"height": 21,
+							"setback": 6
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"siteCoverage": 50
+				},
+				{
+					"OccupancyType": "Q",
+					"OccupancyName": "Multiplex",
+					"minPlotArea": 2000,
+					"maxPlotArea": 4054,
+					"NormalFAR": [
+						{
+							"roadWidth": 18,
+							"FAR": 2.25
+						},
+						{
+							"roadWidth": 24,
+							"FAR": 2.5
+						}
+					],
+					"PurchasableFAR": 0,
+					"isActive": true,
+					"minRoad": 0,
+					"maxRoad": 999,
+					"minHeight": 0,
+					"maxHeight": 999,
+					"maxHeightWithStilt": 999,
+					"minFrontage": 21.34,
+					"frontSetBack": [
+						{
+							"height": 21,
+							"setback": 6
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"rearSetBack": [
+						{
+							"height": 21,
+							"setback": 6
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"sideSetBack1": [
+						{
+							"height": 21,
+							"setback": 6
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"sideSetBack2": [
+						{
+							"height": 21,
+							"setback": 6
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"siteCoverage": 50
 				}
 			]
 		},
