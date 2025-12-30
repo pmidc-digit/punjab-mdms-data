@@ -1215,7 +1215,26 @@
 					"maxRoad": 999.99,
 					"minHeight": 2.75,
 					"maxHeight": 6.0,
-					"maxHeightWithStilt": 17.5,
+					"maxHeightWithStilt": 0.0,
+					"frontSet": 3.0,
+					"rear": 0.0,
+					"side1": 0.0,
+					"side2": 0.0,
+					"siteCoverage": 10
+				},
+				{
+					"OccupancyType": "J_TW",
+					"OccupancyName": "For two-three Wheelers",
+					"minPlotArea": 270.00,
+					"maxPlotArea": 999999.99,
+					"NormalFAR": 0.10,
+					"PurchasableFAR": 0.00,
+					"isActive": true,
+					"minRoad": 18.29,
+					"maxRoad": 999.99,
+					"minHeight": 2.75,
+					"maxHeight": 6.0,
+					"maxHeightWithStilt": 0.0,
 					"frontSet": 3.0,
 					"rear": 0.0,
 					"side1": 0.0,
@@ -1226,7 +1245,7 @@
 					"OccupancyType": "J-FCSS",
 					"OccupancyName": "Filling Cum Service Station",
 					"minPlotArea": 1080.00,
-					"maxPlotArea": 999999.99,
+					"maxPlotArea": 1485.99,
 					"NormalFAR": 0.20,
 					"PurchasableFAR": 0.00,
 					"isActive": true,
@@ -1234,7 +1253,7 @@
 					"maxRoad": 999.99,
 					"minHeight": 2.75,
 					"maxHeight": 6.0,
-					"maxHeightWithStilt": 17.5,
+					"maxHeightWithStilt": 0.0,
 					"frontSet": 6.0,
 					"rear": 0.0,
 					"side1": 0.0,
@@ -1246,19 +1265,38 @@
 					"OccupancyName": "Compressed Natural Gas (CNG) Mother Station",
 					"minPlotArea": 1080.00,
 					"maxPlotArea": 999999.99,
-					"NormalFAR": 0.10,
+					"NormalFAR": 0.20,
 					"PurchasableFAR": 0.00,
 					"isActive": true,
 					"minRoad": 18.29,
 					"maxRoad": 999.99,
 					"minHeight": 2.75,
 					"maxHeight": 4.5,
-					"maxHeightWithStilt": 17.5,
+					"maxHeightWithStilt": 0.0,
 					"frontSet": 6.0,
 					"rear": 0.0,
 					"side1": 0.0,
 					"side2": 0.0,
 					"siteCoverage": 20
+				},
+				{
+					"OccupancyType": "J-CNGD",
+					"OccupancyName": "Compressed Natural Gas (CNG) Daughter Station",
+					"minPlotArea": 510.00,
+					"maxPlotArea": 999999.99,
+					"NormalFAR": 0.10,
+					"PurchasableFAR": 0.00,
+					"isActive": true,
+					"minRoad": 18.29,
+					"maxRoad": 999.99,
+					"minHeight": 2.75,
+					"maxHeight": 6.0,
+					"maxHeightWithStilt": 0.0,
+					"frontSet": 3.0,
+					"rear": 0.0,
+					"side1": 0.0,
+					"side2": 0.0,
+					"siteCoverage": 10
 				},
 				{
 					"OccupancyType": "K-HM",
@@ -1492,121 +1530,231 @@
 					"siteCoverage": 35
 				},
 				{
-					"OccupancyType": "L-GPB",
-					"OccupancyName": "General Public/Semi-public buildings",
-					"minPlotArea": 418,
-					"maxPlotArea": 2147483647,
-					"NormalFAR": 2.00,
-					"PurchasableFAR": 0,
-					"isActive": true,
-					"minRoad": 9,
-					"maxRoad": 9,
-					"minHeight": 3.6,
-					"maxHeight": 3.6,
-					"maxHeightWithStilt": 17.5,
-					"frontSetBack": 12,
-					"rearSetBack": 6,
-					"sideSetBack1": 6,
-					"sideSetBack2": 6,
-					"siteCoverage": 35
-				},
-				{
-					"OccupancyType": "L-GO",
-					"OccupancyName": "Government Offices / Integrated Office Complex",
-					"minPlotArea": 836,
-					"maxPlotArea": 2147483647,
-					"NormalFAR": 2.00,
-					"PurchasableFAR": 0,
-					"isActive": true,
-					"minRoad": 9,
-					"maxRoad": 9,
-					"minHeight": 3.6,
-					"maxHeight": 3.6,
-					"maxHeightWithStilt": 17.5,
-					"frontSetBack": 12,
-					"rearSetBack": 6,
-					"sideSetBack1": 6,
-					"sideSetBack2": 6,
-					"siteCoverage": 35
-				},
-				{
-					"OccupancyType": "L-EB-NS",
-					"OccupancyName": "Educational Buildings - Nursery School",
-					"minPlotArea": 1000,
+					"OccupancyType": "B-DCF",
+					"OccupancyName": "Creche/Day care Facilities",
+					"minPlotArea": 200,
 					"maxPlotArea": 2147483647,
 					"NormalFAR": 1.00,
 					"PurchasableFAR": 0,
 					"isActive": true,
 					"minRoad": 12,
-					"maxRoad": 12,
-					"minHeight": 2.75,
-					"maxHeight": 15,
-					"maxHeightWithStilt": 17.5,
-					"frontSetBack": 9,
+					"maxRoad": 999,
+					"minHeight": 0,
+					"maxHeight": 999,
+					"maxHeightWithStilt": 999,
+					"frontSetBack": 6,
 					"rearSetBack": 4.5,
 					"sideSetBack1": 4.5,
 					"sideSetBack2": 4.5,
-					"siteCoverage": 35
+					"siteCoverage": 40
 				},
 				{
-					"OccupancyType": "L-EB-PS",
+					"OccupancyType": "B-NS",
+					"OccupancyName": "Educational Buildings - Pre Nursery or Nursery School",
+					"minPlotArea": 200,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": 1.00,
+					"PurchasableFAR": 0,
+					"isActive": true,
+					"minRoad": 12,
+					"maxRoad": 999,
+					"minHeight": 0,
+					"maxHeight": 999,
+					"maxHeightWithStilt": 999,
+					"frontSetBack": 6,
+					"rearSetBack": 4.5,
+					"sideSetBack1": 4.5,
+					"sideSetBack2": 4.5,
+					"siteCoverage": 40
+				},
+				{
+					"OccupancyType": "B-PS",
 					"OccupancyName": "Educational Buildings - Primary School",
-					"minPlotArea": 5000,
+					"minPlotArea": 2000,
 					"maxPlotArea": 2147483647,
 					"NormalFAR": 2.00,
 					"PurchasableFAR": 0,
 					"isActive": true,
-					"minRoad": 9,
-					"maxRoad": 9,
-					"minHeight": 2.75,
-					"maxHeight": 15,
-					"maxHeightWithStilt": 17.5,
+					"minRoad": 12,
+					"maxRoad": 999,
+					"minHeight": 21,
+					"maxHeight": 999,
+					"maxHeightWithStilt": 999,
 					"frontSetBack": 9,
-					"rearSetBack": 4.5,
-					"sideSetBack1": 4.5,
-					"sideSetBack2": 4.5,
-					"siteCoverage": 35
-				},
-				{
-					"OccupancyType": "L-EB-HSS",
-					"OccupancyName": "Educational Buildings - Higher Secondary School",
-					"minPlotArea": 5000,
-					"maxPlotArea": 2147483647,
-					"NormalFAR": 1.50,
-					"PurchasableFAR": 0,
-					"isActive": true,
-					"minRoad": 18,
-					"maxRoad": 18,
-					"minHeight": 2.75,
-					"maxHeight": 15,
-					"maxHeightWithStilt": 17.5,
-					"frontSetBack": 12,
 					"rearSetBack": 6,
 					"sideSetBack1": 6,
 					"sideSetBack2": 6,
-					"siteCoverage": 35
+					"siteCoverage": 40
 				},
 				{
-					"OccupancyType": "L-EB-C",
-					"OccupancyName": "Educational Buildings - College",
+					"OccupancyType": "B-HSS",
+					"OccupancyName": "Educational Buildings - Higher Secondary School or College",
 					"minPlotArea": 5000,
 					"maxPlotArea": 2147483647,
-					"NormalFAR": 1.50,
+					"NormalFAR": 1.5,
 					"PurchasableFAR": 0,
 					"isActive": true,
 					"minRoad": 18,
-					"maxRoad": 18,
-					"minHeight": 2.75,
-					"maxHeight": 15,
-					"maxHeightWithStilt": 17.5,
-					"frontSetBack": 12,
-					"rearSetBack": 6,
-					"sideSetBack1": 6,
-					"sideSetBack2": 6,
+					"maxRoad": 999,
+					"minHeight": 0,
+					"maxHeight": 999,
+					"maxHeightWithStilt": 999,
+					"frontSetBack": [
+						{
+							"height": 21,
+							"setback": 6
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"rearSetBack": [
+						{
+							"height": 21,
+							"setback": 6
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"sideSetBack1": [
+						{
+							"height": 21,
+							"setback": 6
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"sideSetBack2": [
+						{
+							"height": 21,
+							"setback": 6
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
 					"siteCoverage": 35
 				},
 				{
-					"OccupancyType": "L-E-RC",
+					"OccupancyType": "B-ERC",
 					"OccupancyName": "Education & Research Centre (Large Campus)",
 					"minPlotArea": 80000,
 					"maxPlotArea": 2147483647,
@@ -1614,15 +1762,1427 @@
 					"PurchasableFAR": 0,
 					"isActive": true,
 					"minRoad": 18,
-					"maxRoad": 18,
-					"minHeight": 2.75,
-					"maxHeight": 15,
-					"maxHeightWithStilt": 17.5,
+					"maxRoad": 999,
+					"minHeight": 0,
+					"maxHeight": 999,
+					"maxHeightWithStilt": 999,
+					"frontSetBack": [
+						{
+							"height": 21,
+							"setback": 6
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"rearSetBack": [
+						{
+							"height": 21,
+							"setback": 6
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"sideSetBack1": [
+						{
+							"height": 21,
+							"setback": 6
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"sideSetBack2": [
+						{
+							"height": 21,
+							"setback": 6
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"siteCoverage": 30
+				},
+				{
+					"OccupancyType": "B-MNH",
+					"OccupancyName": "Medical College or Nursing College with Hospital, Hostel",
+					"minPlotArea": 20234,
+					"maxPlotArea": 40468,
+					"NormalFAR": 1.50,
+					"PurchasableFAR": 0,
+					"isActive": true,
+					"minRoad": 18,
+					"maxRoad": 999,
+					"minHeight": 0,
+					"maxHeight": 999,
+					"maxHeightWithStilt": 999,
+					"frontSetBack": [
+						{
+							"height": 21,
+							"setback": 6
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"rearSetBack": [
+						{
+							"height": 21,
+							"setback": 6
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"sideSetBack1": [
+						{
+							"height": 21,
+							"setback": 6
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"sideSetBack2": [
+						{
+							"height": 21,
+							"setback": 6
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"siteCoverage": 40
+				},
+				{
+					"OccupancyType": "B-MNH",
+					"OccupancyName": "Medical College or Nursing College with Hospital, Hostel",
+					"minPlotArea": 40469,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": 2.00,
+					"PurchasableFAR": 0,
+					"isActive": true,
+					"minRoad": 18,
+					"maxRoad": 999,
+					"minHeight": 0,
+					"maxHeight": 999,
+					"maxHeightWithStilt": 999,
+					"frontSetBack": [
+						{
+							"height": 21,
+							"setback": 6
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"rearSetBack": [
+						{
+							"height": 21,
+							"setback": 6
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"sideSetBack1": [
+						{
+							"height": 21,
+							"setback": 6
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"sideSetBack2": [
+						{
+							"height": 21,
+							"setback": 6
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"siteCoverage": 45
+				},
+				{
+					"OccupancyType": "W-MA",
+					"OccupancyName": "Nursing home/Hospital",
+					"minPlotArea": 400,
+					"maxPlotArea": 2000,
+					"NormalFAR": 2.00,
+					"PurchasableFAR": 10,
+					"isActive": true,
+					"minRoad": 12,
+					"maxRoad": 999,
+					"minHeight": 0,
+					"maxHeight": 999,
+					"maxHeightWithStilt": 999,
+					"frontSetBack": [
+						{
+							"height": 21,
+							"setback": 6
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"rearSetBack": [
+						{
+							"height": 21,
+							"setback": 6
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"sideSetBack1": [
+						{
+							"height": 21,
+							"setback": 6
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"sideSetBack2": [
+						{
+							"height": 21,
+							"setback": 6
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"siteCoverage": 40
+				},
+				{
+					"OccupancyType": "W-MA",
+					"OccupancyName": "Nursing home/Hospital",
+					"minPlotArea": 2000,
+					"maxPlotArea": 4000,
+					"NormalFAR": 2.25,
+					"PurchasableFAR": 10,
+					"isActive": true,
+					"minRoad": 18,
+					"maxRoad": 999,
+					"minHeight": 0,
+					"maxHeight": 999,
+					"maxHeightWithStilt": 999,
+					"frontSetBack": [
+						{
+							"height": 21,
+							"setback": 6
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"rearSetBack": [
+						{
+							"height": 21,
+							"setback": 6
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"sideSetBack1": [
+						{
+							"height": 21,
+							"setback": 6
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"sideSetBack2": [
+						{
+							"height": 21,
+							"setback": 6
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"siteCoverage": 40
+				},
+				{
+					"OccupancyType": "W-MA",
+					"OccupancyName": "Nursing home/Hospital",
+					"minPlotArea": 4000,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": 2.75,
+					"PurchasableFAR": 10,
+					"isActive": true,
+					"minRoad": 24,
+					"maxRoad": 999,
+					"minHeight": 0,
+					"maxHeight": 999,
+					"maxHeightWithStilt": 999,
+					"frontSetBack": [
+						{
+							"height": 21,
+							"setback": 6
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"rearSetBack": [
+						{
+							"height": 21,
+							"setback": 6
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"sideSetBack1": [
+						{
+							"height": 21,
+							"setback": 6
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"sideSetBack2": [
+						{
+							"height": 21,
+							"setback": 6
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"siteCoverage": 40
+				},
+				{
+					"OccupancyType": "W-OH",
+					"OccupancyName": "Orphanage Home, Old Age Home, Children's Centre / Care Centre / School",
+					"minPlotArea": 200,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": 2.00,
+					"PurchasableFAR": 0,
+					"isActive": true,
+					"minRoad": 12,
+					"maxRoad": 999,
+					"minHeight": 0,
+					"maxHeight": 21,
+					"maxHeightWithStilt": 21,
+					"frontSetBack": 6,
+					"rearSetBack": 6,
+					"sideSetBack1": 6,
+					"sideSetBack2": 6,
+					"siteCoverage": 40
+				},
+				{
+					"OccupancyType": "W-PHP",
+					"OccupancyName": "Institute for Mentally challenged or Physically Handicapped Person/Hostel",
+					"minPlotArea": 200,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": 2.00,
+					"PurchasableFAR": 0,
+					"isActive": true,
+					"minRoad": 12,
+					"maxRoad": 999,
+					"minHeight": 0,
+					"maxHeight": 21,
+					"maxHeightWithStilt": 21,
+					"frontSetBack": 6,
+					"rearSetBack": 6,
+					"sideSetBack1": 6,
+					"sideSetBack2": 6,
+					"siteCoverage": 40
+				},
+				{
+					"OccupancyType": "N",
+					"OccupancyName": "Farm House",
+					"minPlotArea": 10117,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": 0.1,
+					"PurchasableFAR": 0,
+					"isActive": true,
+					"minRoad": 3,
+					"maxRoad": 999,
+					"minHeight": 0,
+					"maxHeight": 9,
+					"maxHeightWithStilt": 9,
 					"frontSetBack": 15,
-					"rearSetBack": 9,
-					"sideSetBack1": 9,
-					"sideSetBack2": 9,
-					"siteCoverage": 25
+					"rearSetBack": 6,
+					"sideSetBack1": 6,
+					"sideSetBack2": 6,
+					"siteCoverage": 5
+				},
+				{
+					"OccupancyType": "U",
+					"OccupancyName": "Dhaba",
+					"minPlotArea": 500,
+					"maxPlotArea": 2000,
+					"NormalFAR": 0.5,
+					"PurchasableFAR": 0,
+					"isActive": true,
+					"minRoad": 18,
+					"maxRoad": 999,
+					"minHeight": 0,
+					"maxHeight": 8,
+					"maxHeightWithStilt": 8,
+					"frontSetBack": 10,
+					"rearSetBack": 3,
+					"sideSetBack1": 3,
+					"sideSetBack2": 3,
+					"siteCoverage": 40
+				},
+				{
+					"OccupancyType": "U",
+					"OccupancyName": "Dhaba",
+					"minPlotArea": 2000,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": 0.5,
+					"PurchasableFAR": 0,
+					"isActive": true,
+					"minRoad": 24,
+					"maxRoad": 999,
+					"minHeight": 0,
+					"maxHeight": 8,
+					"maxHeightWithStilt": 8,
+					"frontSetBack": 10,
+					"rearSetBack": 3,
+					"sideSetBack1": 3,
+					"sideSetBack2": 3,
+					"siteCoverage": 40
+				},
+				{
+					"OccupancyType": "T",
+					"OccupancyName": "Guest house / Lodging & Boarding / Service Apartments",
+					"minPlotArea": 200,
+					"maxPlotArea": 836.43,
+					"NormalFAR": 1.0,
+					"PurchasableFAR": 0,
+					"isActive": true,
+					"minRoad": 12,
+					"maxRoad": 999,
+					"minHeight": 0,
+					"maxHeight": 999,
+					"maxHeightWithStilt": 999,
+					"frontSetBack": [
+						{
+							"height": 21,
+							"setback": 2
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"rearSetBack": [
+						{
+							"height": 21,
+							"setback": 6
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"sideSetBack1": [
+						{
+							"height": 21,
+							"setback": 6
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"sideSetBack2": [
+						{
+							"height": 21,
+							"setback": 6
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"siteCoverage": 40
+				},
+				{
+					"OccupancyType": "T",
+					"OccupancyName": "Guest house / Lodging & Boarding / Service Apartments",
+					"minPlotArea": 836.43,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": 2.0,
+					"PurchasableFAR": 0,
+					"isActive": true,
+					"minRoad": 18,
+					"maxRoad": 999,
+					"minHeight": 0,
+					"maxHeight": 999,
+					"maxHeightWithStilt": 999,
+					"frontSetBack": [
+						{
+							"height": 21,
+							"setback": 2
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"rearSetBack": [
+						{
+							"height": 21,
+							"setback": 6
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"sideSetBack1": [
+						{
+							"height": 21,
+							"setback": 6
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"sideSetBack2": [
+						{
+							"height": 21,
+							"setback": 6
+						},
+						{
+							"height": 24,
+							"setback": 7
+						},
+						{
+							"height": 27,
+							"setback": 8
+						},
+						{
+							"height": 40,
+							"setback": 9
+						},
+						{
+							"height": 55,
+							"setback": 12
+						},
+						{
+							"height": 70,
+							"setback": 14
+						},
+						{
+							"height": 100,
+							"setback": 16
+						},
+						{
+							"height": 120,
+							"setback": 18
+						},
+						{
+							"height": 999,
+							"setback": 20
+						}
+					],
+					"siteCoverage": 40
 				}
 			]
 		},
