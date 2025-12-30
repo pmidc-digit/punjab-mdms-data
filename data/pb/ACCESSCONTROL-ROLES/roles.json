@@ -31,7 +31,7 @@
       "name": "OBPAS REPORTS",
       "description": "Access to all OBPAS Reports",
       "groupId": "025"
-    },    
+    },
     {
       "code": "ADV REPORTS",
       "name": "ADV REPORTS",
@@ -922,6 +922,12 @@
       "groupId": "002"
     },
     {
+      "code": "VIEW_TL_CARD",
+      "name": "View TL Card",
+      "description": "For TL Card Display in Dashboard",
+      "groupId": "0100"
+    },
+    {
       "code": "VIEW_ASSET_CARD",
       "name": "View Asset Card",
       "description": "For Asset Card Display in Dashboard",
@@ -1413,12 +1419,11 @@
       "description": "Clerk",
       "groupId": "025"
     },
-     {
+    {
       "code": "SASKI",
       "name": "SASKI EMPLOYEE",
       "description": "SASKI employee",
       "groupId": "014"
     }
-
   ]
 }
