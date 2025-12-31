@@ -1,4 +1,3 @@
-
 {
   "tenantId": "pb",
   "moduleName": "CLU",
@@ -69,10 +68,9 @@
     {
       "code": "OWNER.ANYOTHERDOCUMENT",
       "documentType": "OWNER",
-      "required":false,
+      "required": false,
       "active": true,
       "description": "OWNER.ANYOTHERDOCUMENT.ANYOTHERDOCUMENT_DESCRIPTION"
     }
-   
   ]
 }
