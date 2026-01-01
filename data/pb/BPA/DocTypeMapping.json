@@ -126,19 +126,19 @@
       "docTypes": [
         {
           "code": "BPD.SITP",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 1
         },
         {
           "code": "OWNERSHIP.DOCUMENT",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 2
         },
         {
           "code": "SITEPHOTOGRAPH.ONE",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 3
         },
@@ -690,19 +690,19 @@
       "docTypes": [
         {
           "code": "BPD.SITP",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 1
         },
         {
           "code": "OWNERSHIP.DOCUMENT",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 2
         },
         {
           "code": "SITEPHOTOGRAPH.ONE",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 3
         },
@@ -1248,19 +1248,19 @@
       "docTypes": [
         {
           "code": "BPD.SITP",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 1
         },
         {
           "code": "OWNERSHIP.DOCUMENT",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 2
         },
         {
           "code": "SITEPHOTOGRAPH.ONE",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 3
         },
@@ -2298,19 +2298,19 @@
       "docTypes": [
         {
           "code": "BPD.SITP",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 1
         },
         {
           "code": "OWNERSHIP.DOCUMENT",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 2
         },
         {
           "code": "SITEPHOTOGRAPH.ONE",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 3
         },
@@ -3756,19 +3756,19 @@
       "docTypes": [
         {
           "code": "BPD.SITP",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 1
         },
         {
           "code": "OWNERSHIP.DOCUMENT",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 2
         },
         {
           "code": "SITEPHOTOGRAPH.ONE",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 3
         },
@@ -4500,19 +4500,19 @@
       "docTypes": [
         {
           "code": "BPD.SITP",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 1
         },
         {
           "code": "OWNERSHIP.DOCUMENT",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 2
         },
         {
           "code": "SITEPHOTOGRAPH.ONE",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 3
         },
@@ -5244,19 +5244,19 @@
       "docTypes": [
         {
           "code": "BPD.SITP",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 1
         },
         {
           "code": "OWNERSHIP.DOCUMENT",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 2
         },
         {
           "code": "SITEPHOTOGRAPH.ONE",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 3
         },
@@ -5678,19 +5678,19 @@
       "docTypes": [
         {
           "code": "BPD.SITP",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 1
         },
         {
           "code": "OWNERSHIP.DOCUMENT",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 2
         },
         {
           "code": "SITEPHOTOGRAPH.ONE",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 3
         },
@@ -5764,19 +5764,19 @@
       "docTypes": [
         {
           "code": "BPD.SITP",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 1
         },
         {
           "code": "OWNERSHIP.DOCUMENT",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 2
         },
         {
           "code": "SITEPHOTOGRAPH.ONE",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 3
         },
@@ -6528,19 +6528,19 @@
       "docTypes": [
         {
           "code": "BPD.SITP",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 1
         },
         {
           "code": "OWNERSHIP.DOCUMENT",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 2
         },
         {
           "code": "SITEPHOTOGRAPH.ONE",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 3
         },
@@ -9786,19 +9786,19 @@
       "docTypes": [
         {
           "code": "BPD.SITP",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 1
         },
         {
           "code": "OWNERSHIP.DOCUMENT",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 2
         },
         {
           "code": "SITEPHOTOGRAPH.ONE",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 3
         },
@@ -10530,19 +10530,19 @@
       "docTypes": [
         {
           "code": "BPD.SITP",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 1
         },
         {
           "code": "OWNERSHIP.DOCUMENT",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 2
         },
         {
           "code": "SITEPHOTOGRAPH.ONE",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 3
         },
