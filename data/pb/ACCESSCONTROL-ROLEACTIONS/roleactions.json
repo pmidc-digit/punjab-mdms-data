@@ -32489,64 +32489,28 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "GRO",
+      "rolecode": "STADMIN",
       "actionid": 8900113,
       "actioncode": "",
-      "tenantid": "pb"
-    },
-	
-	 {
-      "rolecode": "DGRO",
-      "actionid": 8900113,
-      "actioncode": "",
-      "tenantid": "pb"
-    }, {
-      "rolecode": "PGR-ADMIN",
-      "actionid": 8900113,
-      "actioncode": "",
-      "tenantid": "pb"
-    },
-	  {
-      "rolecode": "PGR_LME",
-      "actionid": 8900113,
-      "actioncode": "",
-      "tenantid": "pb"
-    },
-	  {
-      "rolecode": "EMPLOYEE",
-      "actionid": 8900113,
-      "actioncode": "",
-      "tenantid": "pb"
+      "tenantId": "pb"
     },
     {
-      "rolecode": "GRO",
+      "rolecode": "STADMIN",
       "actionid": 8900114,
       "actioncode": "",
-      "tenantid": "pb"
+      "tenantId": "pb"
     },
-	  {
-      "rolecode": "DGRO",
-      "actionid": 8900114,
+    {
+      "rolecode": "STADMIN",
+      "actionid": 8900115,
       "actioncode": "",
-      "tenantid": "pb"
+      "tenantId": "pb"
     },
-	  {
-      "rolecode": "PGR-ADMIN",
-      "actionid": 8900114,
+    {
+      "rolecode": "STADMIN",
+      "actionid": 8900116,
       "actioncode": "",
-      "tenantid": "pb"
-    },
-	  {
-      "rolecode": "PGR_LME",
-      "actionid": 8900114,
-      "actioncode": "",
-      "tenantid": "pb"
-    },
-	  {
-      "rolecode": "EMPLOYEE",
-      "actionid": 8900114,
-      "actioncode": "",
-      "tenantid": "pb"
-    }
+      "tenantId": "pb"
+    }    
   ]
 }
