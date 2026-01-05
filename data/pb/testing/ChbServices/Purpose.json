@@ -28,8 +28,8 @@
         "active": true
       },
       {
-        "name": "None",
-        "code": "NONE",
+        "name": "Birthday Party",
+        "code": "BIRTHDAY_PARTY",
         "active":true
       }
     ]
