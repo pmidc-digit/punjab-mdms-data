@@ -126,13 +126,6 @@
             "navigationUrl": "/digit-ui/citizen/rentandlease-home"
           },
           {
-            "code": "CITIZEN_SERVICE_MIS_COLLECTION",
-            "name": "MCollect",
-            "label": "ACTION_TEST_MCOLLECT",
-            "enabled": true,
-            "navigationUrl": "/digit-ui/citizen/mcollect-home"
-          },
-          {
             "code": "CITIZEN_SERVICE_CHALLANGENERATION",
             "name": "Challan Generation",
             "label": "ACTION_TEST_CHALLANGENERATION",
