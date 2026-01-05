@@ -751,6 +751,12 @@
                 "jsonPath": "*/lastassignedto"
               },
               "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/pending_with_employee"
+              },
+              "accessType": "PLAIN"
             }
           ]
         }
