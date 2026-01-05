@@ -3,13 +3,13 @@
 	"moduleName": "NOC",
 	"WorkflowConfig": [
 		{
-			"businessService": "NOC_MC",
+			"businessService": "obpas_noc",
 			"ulbType": [
 				"Municipal Corporation"
 			]
 		},
 		{
-			"businessService": "NOC_NP",
+			"businessService": "obpas_noc",
 			"ulbType": [
 				"Nagar Panchayat",
 				"Municipal Council"
