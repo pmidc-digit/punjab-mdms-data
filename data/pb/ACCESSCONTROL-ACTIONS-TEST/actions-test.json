@@ -26914,6 +26914,43 @@
       "serviceCode": "NDCREPORTS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 8900119,
+      "name": "Beyond Timeline Summary",
+      "url": "url",
+      "displayName": "Beyond Timeline Summary",
+      "orderNumber": 9,
+      "queryParams": "",
+      "parentModule": "BUILDING PLAN REPORTS",
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "path": "BUILDING PLAN REPORTS.Beyond Timeline Summary",
+      "navigationURL": "report/rainmaker-obpas_bpa/BeyondTimelineSummary",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900120,
+      "name": "Beyond Timeline Summary",
+      "url": "/report/rainmaker-obpas_bpa/BeyondTimelineSummary/metadata/_get",
+      "displayName": "Beyond Timeline Summary",
+      "orderNumber": 9,
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900121,
+      "name": "Beyond Timeline Summary",
+      "url": "/report/rainmaker-obpas_bpa/BeyondTimelineSummary/_get",
+      "displayName": "Beyond Timeline Summary",
+      "orderNumber": 9,
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "code": "null",
+      "path": ""
     }
   ]
 }
