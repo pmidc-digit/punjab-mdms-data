@@ -94,6 +94,10 @@
         "active": true
       },
       {
+	    "code": "BPD.SITP",
+	    "active": true
+	    },
+      {
         "code": "SITEPHOTOGRAPH.ONE.ONE",
         "active" : true
       },
