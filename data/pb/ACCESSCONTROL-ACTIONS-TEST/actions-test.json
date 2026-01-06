@@ -26951,6 +26951,43 @@
       "serviceCode": "OBPASBPAREPORTS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 8900122,
+      "name": "Detailed List Beyond Timeline Summary",
+      "url": "url",
+      "displayName": "Detailed List Beyond Timeline Summary",
+      "orderNumber": 9,
+      "queryParams": "",
+      "parentModule": "BUILDING PLAN REPORTS",
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "path": "BUILDING PLAN REPORTS.Detailed List Beyond Timeline Summary",
+      "navigationURL": "report/rainmaker-obpas_bpa/DetailedListBeyondTimelineSummary",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900123,
+      "name": "Detailed List Beyond Timeline Summary",
+      "url": "/report/rainmaker-obpas_bpa/DetailedListBeyondTimelineSummary/metadata/_get",
+      "displayName": "Detailed List Beyond Timeline Summary",
+      "orderNumber": 9,
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900124,
+      "name": "Detailed List Beyond Timeline Summary",
+      "url": "/report/rainmaker-obpas_bpa/DetailedListBeyondTimelineSummary/_get",
+      "displayName": "Detailed List Beyond Timeline Summary",
+      "orderNumber": 9,
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "code": "null",
+      "path": ""
     }
   ]
 }
