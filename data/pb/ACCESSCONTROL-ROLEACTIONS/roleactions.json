@@ -65092,6 +65092,13 @@
       "actioncode": "",
       "tenantId": "pb"
     },
+
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 5571,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
     {
       "rolecode": "CHALLAN_ADMIN",
       "actionid": 6283,
