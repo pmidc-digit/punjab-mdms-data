@@ -25632,7 +25632,7 @@
       "parentModule": "OBPAS LAYOUT REPORTS",
       "enabled": true,
       "serviceCode": "OBPASLAYOUTREPORTS",
-      "path": "OBPAS LAYOUT REPORTS.Receipt Register Layout",
+      "path": "OBPAS LAYOUT REPORTS.Receipt Register LAYOUT",
       "navigationURL": "report/rainmaker-obpas_layout/ReceiptRegisterlayout",
       "leftIcon": "action:assignment",
       "rightIcon": ""
