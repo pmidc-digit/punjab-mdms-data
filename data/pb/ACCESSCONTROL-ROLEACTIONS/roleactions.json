@@ -3,6 +3,270 @@
   "moduleName": "ACCESSCONTROL-ROLEACTIONS",
   "roleactions": [
     {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8900015,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8900037,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8900038,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8900039,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8900040,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8900041,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8900036,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8900029,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8900030,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8900031,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8900032,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8900033,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8900034,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8900016,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8900017,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8900018,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8900019,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8900020,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8900021,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8900022,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8900023,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8900024,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8900025,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8900026,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8900027,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8900028,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8900125,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8900126,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8900127,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8900128,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8900129,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8900130,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8900122,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8900123,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8900124,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8900119,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8900120,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8900121,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 8900116,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 8900117,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 8900118,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 8900114,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 8900115,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 8900113,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "STADMIN",
       "actionid": 8900110,
       "actioncode": "",
@@ -1556,7 +1820,6 @@
       "actioncode": "",
       "tenantid": "pb"
     },
-
     {
       "rolecode": "EMPLOYEE",
       "actionid": 180,
@@ -6129,7 +6392,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "PTFEMP",
       "actionid": 7891575,
@@ -6142,7 +6404,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "PTCEMP",
       "actionid": 1575,
@@ -14051,7 +14312,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "NOC_FIELD_INSPECTOR",
       "actionid": 1902,
@@ -17190,7 +17450,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "UC_EMP",
       "actionid": 2137,
@@ -19645,7 +19904,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "SUPERUSER",
       "actionid": 2311,
@@ -20540,7 +20798,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "UC_EMP",
       "actionid": 2311,
@@ -21447,7 +21704,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "MISC_REC_CANCEL",
       "actionid": 2137,
@@ -22216,7 +22472,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "MISC_REC_CANCEL",
       "actionid": 2311,
@@ -24041,7 +24296,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "PATIALA_PT_EMP",
       "actionid": 2485,
@@ -25902,7 +26156,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "WS_CEMP",
       "actionid": 2567,
@@ -25933,7 +26186,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "WS_CEMP",
       "actionid": 2568,
@@ -25964,7 +26216,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "WS_CEMP",
       "actionid": 2569,
@@ -25995,7 +26246,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "WS_CEMP",
       "actionid": 2570,
@@ -26086,7 +26336,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "SW_CEMP",
       "actionid": 2570,
@@ -26117,7 +26366,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "SW_CEMP",
       "actionid": 2571,
@@ -26148,7 +26396,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "SW_CEMP",
       "actionid": 2572,
@@ -26179,7 +26426,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "SW_CEMP",
       "actionid": 2573,
@@ -26210,7 +26456,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "SW_CEMP",
       "actionid": 2574,
@@ -26847,7 +27092,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "WS_CEMP",
       "actionid": 2592,
@@ -27106,42 +27350,36 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "ESEWAEMP",
       "actionid": 1684,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "ESEWAEMP",
       "actionid": 1753,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "ESEWAEMP",
       "actionid": 1754,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "ESEWAEMP",
       "actionid": 1755,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "ESEWAEMP",
       "actionid": 1756,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "ESEWAEMP",
       "actionid": 1757,
@@ -27952,7 +28190,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "BPA_ARCHITECT",
       "actionid": 7008,
@@ -28073,7 +28310,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "BPA_ARCHITECT",
       "actionid": 7009,
@@ -29784,14 +30020,12 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "NDC_WS_SW_VERIFIER",
       "actionid": 1782,
       "actioncode": "",
       "tenantid": "pb"
     },
-
     {
       "rolecode": "NDC_WS_SW_VERIFIER",
       "actionid": 1895,
@@ -29930,14 +30164,12 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "NDC_TL_VERIFIER",
       "actionid": 1782,
       "actioncode": "",
       "tenantid": "pb"
     },
-
     {
       "rolecode": "NDC_TL_VERIFIER",
       "actionid": 1895,
@@ -32021,6 +32253,12 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "EMPLOYEE",
+      "actionid": 5020,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "CEMP",
       "actionid": 5020,
       "actioncode": "",
@@ -32112,6 +32350,12 @@
     },
     {
       "rolecode": "CITIZEN",
+      "actionid": 5021,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
       "actionid": 5021,
       "actioncode": "",
       "tenantId": "pb"
@@ -32511,6 +32755,216 @@
       "actionid": 8900116,
       "actioncode": "",
       "tenantId": "pb"
-    }    
+    },
+    {
+      "rolecode": "PGR-ADMIN",
+      "actionid": 8900094,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PGR-ADMIN",
+      "actionid": 8900095,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 8900094,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 8900094,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 8900095,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 8900095,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHALLAN_ADMIN",
+      "actionid": 6283,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHALLAN_ADMIN",
+      "actionid": 6284,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHALLAN_ADMIN",
+      "actionid": 6285,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 6285,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHALLAN_ADMIN",
+      "actionid": 6286,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHALLAN_ADMIN",
+      "actionid": 7007,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHALLAN_ADMIN",
+      "actionid": 1782,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHALLAN_ADMIN",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHALLAN_ADMIN",
+      "actionid": 1756,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHALLAN_ADMIN",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHALLAN_ADMIN",
+      "actionid": 1895,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHALLAN_ADMIN",
+      "actionid": 1930,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHALLAN_ADMIN",
+      "actionid": 1570,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHALLAN_ADMIN",
+      "actionid": 1571,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHALLAN_ADMIN",
+      "actionid": 1572,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 6286,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHALLAN_ADMIN",
+      "actionid": 8900900,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHALLAN_ADMIN",
+      "actionid": 8900901,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHALLAN_ADMIN",
+      "actionid": 1945,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 882450,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 882451,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 882422,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 882452,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 882453,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 882454,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 19460,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 19461,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 8900924,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 8900925,
+      "actioncode": "",
+      "tenantId": "pb"
+    }
   ]
 }
