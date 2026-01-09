@@ -14,7 +14,7 @@
 
 		{
 			"name": "Compounding fees",
-			"rate": 15.0,
+			"rate": 0,
 			"taxHeadCode": "NOC_COMPOUNDING_FEES",
 			"applicable": true
 		},
@@ -38,7 +38,7 @@
 
 		{
 			"name": "Compounding fees",
-			"rate": 15.0,
+			"rate": 0,
 			"taxHeadCode": "NOC_COMPOUNDING_FEES",
 			"applicable": true
 		},
@@ -62,7 +62,7 @@
 
 		{
 			"name": "Compounding fees",
-			"rate": 15.0,
+			"rate": 0,
 			"taxHeadCode": "NOC_COMPOUNDING_FEES",
 			"applicable": true
 		},
@@ -86,7 +86,7 @@
 
 		{
 			"name": "Compounding fees",
-			"rate": 15.0,
+			"rate": 0,
 			"taxHeadCode": "NOC_COMPOUNDING_FEES",
 			"applicable": true
 		},
