@@ -11,54 +11,19 @@
 	  "endingDate": 1774981799000,
 	  "active": true,
 	  "Charges": [
-		{
-			"name": "Processing Fees",
-			"rate": 46.4876,
-			"concession": 50.0,
-			"taxHeadCode": "NOC_PROCESSING_FEES",
-			"applicable": true
-		},
-		{
-			"name": "CLU Charges",
-			"rate": 0.0,
-			"concession": 50.0,
-			"slabs": [
-				{
-					"roadType": "National Highway",
-					"rate": 139.4628
-				},
-				{
-					"roadType": "State Highway",
-					"rate": 108.4710
-				},
-				{
-					"roadType": "Other Road",
-					"rate": 77.4793
-				}
-				
-			],
-			"taxHeadCode": "NOC_CLU_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "External Development Charges",
-			"rate": 371.9008,
-			"concession": 50.0,
-			"taxHeadCode": "NOC_EXTERNAL_DEVELOPMENT_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Urban Development Cess",
-			"rate": 5.0,
-			"taxHeadCode": "NOC_URBAN_DEVELOPMENT_CESS",
-			"applicable": true
-		},
+
 		{
 			"name": "Compounding fees",
 			"rate": 15.0,
 			"taxHeadCode": "NOC_COMPOUNDING_FEES",
 			"applicable": true
-		}
+		},
+		  {
+			  "name": "Noc fees",
+			  "rate": 0,
+			  "taxHeadCode": "NOC_FEES",
+			  "applicable": true
+		  }
       ]
 	},
 	 {
@@ -70,54 +35,19 @@
 	  "endingDate": 1774981799000,
 	  "active": true,
 	  "Charges": [
-		{
-			"name": "Processing Fees",
-			"rate": 46.4876,
-			"concession": 50.0,
-			"taxHeadCode": "NOC_PROCESSING_FEES",
-			"applicable": true
-		},
-		{
-			"name": "CLU Charges",
-			"rate": 0.0,
-			"concession": 50.0,
-			"slabs": [
-				{
-					"roadType": "National Highway",
-					"rate": 139.4628
-				},
-				{
-					"roadType": "State Highway",
-					"rate": 108.4710
-				},
-				{
-					"roadType": "Other Road",
-					"rate": 77.4793
-				}
-				
-			],
-			"taxHeadCode": "NOC_CLU_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "External Development Charges",
-			"rate": 371.9008,
-			"concession": 50.0,
-			"taxHeadCode": "NOC_EXTERNAL_DEVELOPMENT_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Urban Development Cess",
-			"rate": 5.0,
-			"taxHeadCode": "NOC_URBAN_DEVELOPMENT_CESS",
-			"applicable": true
-		},
+
 		{
 			"name": "Compounding fees",
 			"rate": 15.0,
 			"taxHeadCode": "NOC_COMPOUNDING_FEES",
 			"applicable": true
-		}
+		},
+		  {
+			  "name": "Noc fees",
+			  "rate": 0,
+			  "taxHeadCode": "NOC_FEES",
+			  "applicable": true
+		  }
       ]
 	},
 	 {
@@ -129,51 +59,19 @@
 	  "endingDate": 1774981799000,
 	  "active": true,
 	  "Charges": [
-		{
-			"name": "Processing Fees",
-			"rate": 46.4876,
-			"taxHeadCode": "NOC_PROCESSING_FEES",
-			"applicable": true
-		},
-		{
-			"name": "CLU Charges",
-			"rate": 0.0,
-			"slabs": [
-				{
-					"roadType": "National Highway",
-					"rate": 139.4628
-				},
-				{
-					"roadType": "State Highway",
-					"rate": 108.4710
-				},
-				{
-					"roadType": "Other Road",
-					"rate": 77.4793
-				}
-				
-			],
-			"taxHeadCode": "NOC_CLU_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "External Development Charges",
-			"rate": 371.9008,
-			"taxHeadCode": "NOC_EXTERNAL_DEVELOPMENT_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Urban Development Cess",
-			"rate": 5.0,
-			"taxHeadCode": "NOC_URBAN_DEVELOPMENT_CESS",
-			"applicable": true
-		},
+
 		{
 			"name": "Compounding fees",
 			"rate": 15.0,
 			"taxHeadCode": "NOC_COMPOUNDING_FEES",
 			"applicable": true
-		}
+		},
+		  {
+			  "name": "Noc fees",
+			  "rate": 0,
+			  "taxHeadCode": "NOC_FEES",
+			  "applicable": true
+		  }
       ]
 	},
 	 {
@@ -185,51 +83,19 @@
 	  "endingDate": 1774981799000,
 	  "active": true,
 	  "Charges": [
-		{
-			"name": "Processing Fees",
-			"rate": 46.4876,
-			"taxHeadCode": "NOC_PROCESSING_FEES",
-			"applicable": true
-		},
-		{
-			"name": "CLU Charges",
-			"rate": 0.0,
-			"slabs": [
-				{
-					"roadType": "National Highway",
-					"rate": 139.4628
-				},
-				{
-					"roadType": "State Highway",
-					"rate": 108.4710
-				},
-				{
-					"roadType": "Other Road",
-					"rate": 77.4793
-				}
-				
-			],
-			"taxHeadCode": "NOC_CLU_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "External Development Charges",
-			"rate": 371.9008,
-			"taxHeadCode": "NOC_EXTERNAL_DEVELOPMENT_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Urban Development Cess",
-			"rate": 5.0,
-			"taxHeadCode": "NOC_URBAN_DEVELOPMENT_CESS",
-			"applicable": true
-		},
+
 		{
 			"name": "Compounding fees",
 			"rate": 15.0,
 			"taxHeadCode": "NOC_COMPOUNDING_FEES",
 			"applicable": true
-		}
+		},
+		  {
+			  "name": "Noc fees",
+			  "rate": 0,
+			  "taxHeadCode": "NOC_FEES",
+			  "applicable": true
+		  }
       ]
 	}
   ]
