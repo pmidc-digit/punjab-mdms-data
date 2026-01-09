@@ -7836,6 +7836,106 @@
     },
     {
       "category": "FEE",
+      "service": "LAYOUT.PAY1",
+      "name": "LAYOUT SCRUTINY FEE",
+      "code": "LAYOUT_SCRUTINY_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "LAYOUT.PAY1",
+      "name": "LAYOUT PROCESSING FEE",
+      "code": "LAYOUT_PROCESSING_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "LAYOUT.PAY2",
+      "name": "LAYOUT LAYOUT FEE",
+      "code": "LAYOUT_LAYOUT_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "LAYOUT.PAY2",
+      "name": "LAYOUT EDC FEE",
+      "code": "LAYOUT_EDC_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "LAYOUT.PAY2",
+      "name": "LAYOUT CLU FEE",
+      "code": "LAYOUT_CLU_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "LAYOUT.PAY2",
+      "name": "LAYOUT OTHERCHARGES2 FEE",
+      "code": "LAYOUT_OTHERCHARGES2_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "LAYOUT.PAY2",
+      "name": "LAYOUT UDC/SIF FEE",
+      "code": "LAYOUT_UDC_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "LAYOUT.PAY2",
+      "name": "LAYOUT PF/LF FEE",
+      "code": "LAYOUT_PF_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "LAYOUT.PAY2",
+      "name": "LAYOUT OTHERCHARGES1 FEE",
+      "code": "LAYOUT_OTHERCHARGES1_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "LAYOUT.PAY2",
+      "name": "LAYOUT TOTAL FEE",
+      "code": "LAYOUT_TOTAL_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
       "service": "layout",
       "name": "LAYOUT Malwa fees",
       "code": "LAYOUT_MALBA_CHARGES",
@@ -8012,6 +8112,86 @@
       "service": "clu",
       "name": "No Object Certificate Fee",
       "code": "CLU",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "CLU.PAY1",
+      "name": "CLU PROCESSING FEE",
+      "code": "CLU_PROCESSING_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "CLU.PAY2",
+      "name": "CLU CLU FEE",
+      "code": "CLU_CLU_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "CLU.PAY2",
+      "name": "CLU EDC FEE",
+      "code": "CLU_EDC_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "CLU.PAY2",
+      "name": "CLU OTHER FEE",
+      "code": "CLU_OTHER_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "CLU.PAY2",
+      "name": "CLU TOTAL FEE",
+      "code": "CLU_TOTAL_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "CLU.PAY2",
+      "name": "CLU OTHER2 FEE",
+      "code": "CLU_OTHER2_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "CLU.PAY2",
+      "name": "CLU UDC/SIF FEE",
+      "code": "CLU_UDC_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "CLU.PAY2",
+      "name": "CLU LF FEE",
+      "code": "CLU_LF_FEE",
       "isDebit": false,
       "isActualDemand": true,
       "order": "0",
