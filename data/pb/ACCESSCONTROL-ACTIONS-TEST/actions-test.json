@@ -27062,6 +27062,43 @@
       "serviceCode": "OBPASBPAREPORTS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 8900131,
+      "name": "Challan Detail Report",
+      "url": "url",
+      "displayName": "Challan Detail Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "CHALLAN REPORTS",
+      "enabled": true,
+      "serviceCode": "CHALLANREPORTS",
+      "path": "CHALLAN Reports.Challan Detail Report",
+      "navigationURL": "report/rainmaker-ch/ChallanDetailReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900132,
+      "name": "Challan Detail Report",
+      "url": "/report/rainmaker-ch/ChallanDetailReport/metadata/_get",
+      "displayName": "Challan Detail Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "CHALLANREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900133,
+      "name": "Challan Detail Report",
+      "url": "/report/rainmaker-ch/ChallanDetailReport/_get",
+      "displayName": "Challan Detail Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "CHALLANREPORTS",
+      "code": "null",
+      "path": ""
     }
   ]
 }
