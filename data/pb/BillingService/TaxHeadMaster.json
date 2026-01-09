@@ -7887,8 +7887,48 @@
     {
       "category": "FEE",
       "service": "LAYOUT.PAY2",
+      "name": "LAYOUT OTHERCHARGES2 FEE",
+      "code": "LAYOUT_OTHERCHARGES2_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "LAYOUT.PAY2",
+      "name": "LAYOUT UDC/SIF FEE",
+      "code": "LAYOUT_UDC_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "LAYOUT.PAY2",
+      "name": "LAYOUT PF/LF FEE",
+      "code": "LAYOUT_PF_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "LAYOUT.PAY2",
+      "name": "LAYOUT OTHERCHARGES1 FEE",
+      "code": "LAYOUT_OTHERCHARGES1_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "LAYOUT.PAY2",
       "name": "LAYOUT TOTAL FEE",
-      "code": "LAYOUT_OTHERCHARGES_FEE",
+      "code": "LAYOUT_TOTAL_FEE",
       "isDebit": false,
       "isActualDemand": true,
       "order": "0",
@@ -8122,6 +8162,36 @@
       "service": "CLU.PAY2",
       "name": "CLU TOTAL FEE",
       "code": "CLU_TOTAL_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "CLU.PAY2",
+      "name": "CLU OTHER2 FEE",
+      "code": "CLU_OTHER2_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "CLU.PAY2",
+      "name": "CLU UDC/SIF FEE",
+      "code": "CLU_UDC_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "CLU.PAY2",
+      "name": "CLU LF FEE",
+      "code": "CLU_LF_FEE",
       "isDebit": false,
       "isActualDemand": true,
       "order": "0",
