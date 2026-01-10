@@ -67476,25 +67476,97 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "BPA_ARCHITECT",
       "actionid": 8900134,
       "actioncode": "",
       "tenantId": "pb"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "BPA_ENGINEER",
+      "actionid": 8900134,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_TOWNPLANNER",
+      "actionid": 8900134,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_SUPERVISOR",
+      "actionid": 8900134,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_ARCHITECT",
       "actionid": 8900135,
       "actioncode": "",
       "tenantId": "pb"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "BPA_ENGINEER",
+      "actionid": 8900135,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_TOWNPLANNER",
+      "actionid": 8900135,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_SUPERVISOR",
+      "actionid": 8900135,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_ARCHITECT",
       "actionid": 8900136,
       "actioncode": "",
       "tenantId": "pb"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "BPA_ENGINEER",
+      "actionid": 8900136,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_TOWNPLANNER",
+      "actionid": 8900136,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_SUPERVISOR",
+      "actionid": 8900136,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_ARCHITECT",
+      "actionid": 8900137,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_ENGINEER",
+      "actionid": 8900137,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_TOWNPLANNER",
+      "actionid": 8900137,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_SUPERVISOR",
       "actionid": 8900137,
       "actioncode": "",
       "tenantId": "pb"
