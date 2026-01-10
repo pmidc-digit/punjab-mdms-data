@@ -2816,7 +2816,7 @@
       "toDate": 1775001599000,
       "periodCycle": "ANNUAL",
       "service": "CLU.PAY2",
-      "code": "CLU_OTHER_FEE",
+      "code": "CLU_OTHER1_FEE",
       "financialYear": "2025-26"
     },
     {

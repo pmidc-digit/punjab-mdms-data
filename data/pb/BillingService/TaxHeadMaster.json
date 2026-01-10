@@ -8151,7 +8151,7 @@
       "category": "FEE",
       "service": "CLU.PAY2",
       "name": "CLU OTHER FEE",
-      "code": "CLU_OTHER_FEE",
+      "code": "CLU_OTHER1_FEE",
       "isDebit": false,
       "isActualDemand": true,
       "order": "0",
