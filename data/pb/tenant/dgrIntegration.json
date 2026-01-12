@@ -211,15 +211,15 @@
           "departmentName": "DIRECTOR LOCAL GOVERNMENT",
           "departmentNameLocal": "ਨਿਰਦੇਸ਼ਕ ਸਥਾਨਕ ਸਰਕਾਰ",
           "subcategories": [
-            { "id": "3384", "label": "illegal Discharge Of Sewage", "msevaServiceCode": "IllegalDischargeOfSewage" },
-            { "id": "3385", "label": "Block Or Overflowing Sewraage", "msevaServiceCode": "BlockOrOverflowingSewraage" },
+            { "id": "3384", "label": "illegal Discharge Of Sewage", "msevaServiceCode": "illegalDischargeOfSewage" },
+            { "id": "3385", "label": "Block Or Overflowing Sewraage", "msevaServiceCode": "BlockOrOverflowingSewage" },
             { "id": "3386", "label": "Shortage Of Water or No water supply", "msevaServiceCode": "ShortageOfWaterOrNoWaterSupply" },
             { "id": "3387", "label": "Dirty Water Supply", "msevaServiceCode": "DirtyWaterSupply" },
             { "id": "3388", "label": "Broken Water Pipe Or Leakage", "msevaServiceCode": "BrokenWaterPipeOrLeakage" },
             { "id": "3389", "label": "Water Pressure is Very Less", "msevaServiceCode": "WaterPressureisVeryLess" },
             { "id": "3390", "label": "No Water Supply", "msevaServiceCode": "NoWaterSupply" },
-            { "id": "3391", "label": "Sewage Main Hole Cover Missing Or Broken or not kept properly", "msevaServiceCode": "SewageManholeCoverMissingOrBroken" },
-            { "id": "3392", "label": "Cleaning Of Sewage Remove SLURRYGaar", "msevaServiceCode": "CleaningOfSewageRemoveSlurry" }
+            { "id": "3391", "label": "Sewage Main Hole Cover Missing Or Broken or not kept properly", "msevaServiceCode": "SewageManHoleCoverMissingOrBroken" },
+            { "id": "3392", "label": "Cleaning Of Sewage Remove SLURRYGaar", "msevaServiceCode": "CleaningOfSewageRemoveSLURRYGaar" }
           ]
         }
       ]
