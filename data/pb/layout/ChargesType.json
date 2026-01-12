@@ -15,7 +15,7 @@
 				{
 					"name": "LAYOUT PROCESSING FEE",
 					"fee": 7500.00,
-					"rate": 0.0,
+					"rate": 1500.0,
 					"taxHeadCode": "LAYOUT_PROCESSING_FEE",
 					"applicable": true
 
@@ -99,16 +99,7 @@
 					"taxHeadCode": "LAYOUT_OTHERCHARGES1_FEE",
 					"applicable": true
 
-				},
-				{
-					"name": "LAYOUT TOTAL FEE",
-					"rate": 0.0,
-					"taxHeadCode": "LAYOUT_TOTAL_FEE",
-					"applicable": true
-
 				}
-
-
 			]
 		},
 		{
@@ -123,7 +114,8 @@
 			"Charges": [
 				{
 					"name": "LAYOUT PROCESSING FEE",
-					"rate": 0,
+					"fee": 7500.00,
+					"rate": 1500.0,
 					"taxHeadCode": "LAYOUT_PROCESSING_FEE",
 					"applicable": true
 
@@ -140,11 +132,13 @@
 						},
 						{
 							"applicationType": "REVISED",
-							"rate": 5,
+							"rate": 5.0,
 							"note": "Scrutiny fee for Revised layout @5 per sqmt"
 						}
 					]
 				}
+
+
 			]
 		},
 		{
@@ -205,16 +199,7 @@
 					"taxHeadCode": "LAYOUT_OTHERCHARGES1_FEE",
 					"applicable": true
 
-				},
-				{
-					"name": "LAYOUT TOTAL FEE",
-					"rate": 0.0,
-					"taxHeadCode": "LAYOUT_TOTAL_FEE",
-					"applicable": true
-
 				}
-
-
 			]
 		}
 	]
