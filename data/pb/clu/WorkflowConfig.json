@@ -60,7 +60,7 @@
       ],
       "minArea": 2.0,
       "maxArea": 99999999.0,
-      "businessService": "CLU_MC_HIGH_OTH"
+      "businessService": "CLU_MC_OTH"
     },
     {
       "ulbType": [
@@ -71,7 +71,7 @@
       ],
       "minArea": 25.0,
       "maxArea": 99999999.0,
-      "businessService": "CLU_MC_HIGH_OTH"
+      "businessService": "CLU_MC_OTH"
     },
     {
       "ulbType": [
@@ -83,7 +83,7 @@
       ],
       "minArea": 0.0,
       "maxArea": 99999999.0,
-      "businessService": "CLU_MC_HIGH_OTH"
+      "businessService": "CLU_MC_OTH"
     },
     {
       "ulbType": [
@@ -148,7 +148,7 @@
       ],
       "minArea": 2.0,
       "maxArea": 99999999.0,
-      "businessService": "CLU_NP_HIGH_OTH"
+      "businessService": "CLU_NP_OTH"
     },
     {
       "ulbType": [
@@ -160,7 +160,7 @@
       ],
       "minArea": 25.0,
       "maxArea": 99999999.0,
-      "businessService": "CLU_NP_HIGH_OTH"
+      "businessService": "CLU_NP_OTH"
     },
     {
       "ulbType": [
@@ -173,7 +173,7 @@
       ],
       "minArea": 0.0,
       "maxArea": 99999999.0,
-      "businessService": "CLU_NP_HIGH_OTH"
+      "businessService": "CLU_NP_OTH"
     }
   ]
 }
