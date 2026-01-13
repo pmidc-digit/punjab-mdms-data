@@ -31,7 +31,7 @@
             "name": "Complaints",
             "label": "ES_PGR_HEADER_COMPLAINT",
             "enabled": true,
-            "navigationUrl": "/digit-ui/citizen/pgr-home"
+            "navigationUrl": "/citizen/pgr-home"
           },
           {
             "code": "CITIZEN_SERVICE_PT",
@@ -95,6 +95,20 @@
             "label": "ACTION_TEST_WATER_AND_SEWERAGE",
             "enabled": true,
             "navigationUrl": "/citizen/wns-citizen/home"
+          },
+          {
+            "code": "CITIZEN_SERVICE_FIRE_NOC",
+            "name": "Fire NOC",
+            "label": "ACTION_TEST_FIRE_NOC",
+            "enabled": true,
+            "navigationUrl": "/citizen/fire-noc/home"
+          },
+          {
+            "code": "CITIZEN_SERVICE_CHALLANGENERATION",
+            "name": "Challan Generation",
+            "label": "ACTION_TEST_CHALLANGENERATION",
+            "enabled": true,
+            "navigationUrl": "/digit-ui/citizen/challangeneration-home"
           }
         ]
       },

@@ -3,6 +3,72 @@
   "moduleName": "ACCESSCONTROL-ROLEACTIONS",
   "roleactions": [
     {
+      "rolecode": "CHALLAN REPORTS",
+      "actionid": 194120,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHALLAN REPORTS",
+      "actionid": 194119,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHALLAN REPORTS",
+      "actionid": 194118,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHALLAN REPORTS",
+      "actionid": 194117,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHALLAN REPORTS",
+      "actionid": 194116,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHALLAN REPORTS",
+      "actionid": 194115,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHALLAN REPORTS",
+      "actionid": 194114,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHALLAN REPORTS",
+      "actionid": 194113,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHALLAN REPORTS",
+      "actionid": 194112,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHALLAN REPORTS",
+      "actionid": 194111,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHALLAN REPORTS",
+      "actionid": 194110,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "OBPAS REPORTS",
       "actionid": 8900015,
       "actioncode": "",
@@ -13,6 +79,36 @@
       "actionid": 8900037,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "GRO",
+      "actionid": 6001,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 6001,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 6002,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "GRO",
+      "actionid": 6004,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 6003,
+      "actioncode": "",
+      "tenantid": "pb"
     },
     {
       "rolecode": "OBPAS REPORTS",
@@ -13292,18 +13388,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 1941,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 1942,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
+
     {
       "rolecode": "CITIZEN",
       "actionid": 1943,
@@ -31694,12 +31779,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 5006,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
+
     {
       "rolecode": "EMPLOYEE",
       "actionid": 5007,
@@ -32944,25 +33024,79 @@
     },
     {
       "rolecode": "CITIZEN",
-      "actionid": 19460,
+      "actionid": 19410,
       "actioncode": "",
       "tenantId": "pb"
     },
     {
       "rolecode": "CITIZEN",
-      "actionid": 19461,
+      "actionid": 19411,
       "actioncode": "",
       "tenantId": "pb"
     },
     {
       "rolecode": "CITIZEN",
-      "actionid": 8900924,
+      "actionid": 19412,
       "actioncode": "",
       "tenantId": "pb"
     },
     {
       "rolecode": "CITIZEN",
-      "actionid": 8900925,
+      "actionid": 19413,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 19414,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 19415,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 19416,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 19417,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 19418,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 19419,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 19420,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 19421,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 23382,
       "actioncode": "",
       "tenantId": "pb"
     }
