@@ -2,308 +2,177 @@
   "tenantId": "pb",
   "moduleName": "CLU",
   "WorkflowConfig": [
-
     {
-      "ulbType": "Municipal Corporation",
-      "category": "RECREATIONAL",
-      "minArea": 0,
-      "maxArea": 99,
+      "ulbType": [
+        "Municipal Corporation"
+      ],
+      "category": [
+        "RECREATIONAL",
+        "SPORTS",
+        "PETROL_PUMPS",
+        "INSTITUTIONS",
+        "INDUSTRY_GODOWN_WAREHOUSING_COLD_STORE",
+        "HOSPITAL_MULTIMEDIA_CENTER_NOT_MULTIPLEX_AND_HOTELS"
+      ],
+      "minArea": 0.0,
+      "maxArea": 99999999.0,
       "businessService": "CLU_MC"
     },
     {
-      "ulbType": "Municipal Corporation",
-      "category": "SPORTS",
-      "minArea": 0,
-      "maxArea": 99,
-      "businessService": "CLU_MC"
-    },
-    {
-      "ulbType": "Municipal Corporation",
-      "category": "PETROL_PUMPS",
-      "minArea": 0,
-      "maxArea": 99,
-      "businessService": "CLU_MC"
-    },
-
-    {
-      "ulbType": "Municipal Corporation",
-      "category": "INSTITUTIONS",
-      "minArea": 0,
-      "maxArea": 99,
-      "businessService": "CLU_MC"
-    },
-    {
-      "ulbType": "Municipal Corporation",
-      "category": "INDUSTRY_GODOWN_WAREHOUSING_COLD_STORE",
-      "minArea": 0,
-      "maxArea": 99,
-      "businessService": "CLU_MC"
-    },
-
-    {
-      "ulbType": "Municipal Corporation",
-      "category": "HOSPITAL_MULTIMEDIA_CENTER_NOT_MULTIPLEX_AND_HOTELS",
-      "minArea": 0,
-      "maxArea": 99,
-      "businessService": "CLU_MC"
-    },
-
-    {
-      "ulbType": "Municipal Corporation",
-      "category": "MARRIAGE_PALACES",
-      "minArea": 0,
-      "maxArea": 99,
+      "ulbType": [
+        "Municipal Corporation"
+      ],
+      "category": [
+        "MARRIAGE_PALACES"
+      ],
+      "minArea": 0.0,
+      "maxArea": 99999999.0,
       "businessService": "CLU_MC_HIGH"
     },
-
     {
-      "ulbType": "Municipal Corporation",
-      "category": "COMMERCIAL",
-      "minArea": 0,
-      "maxArea": 2,
+      "ulbType": [
+        "Municipal Corporation"
+      ],
+      "category": [
+        "COMMERCIAL"
+      ],
+      "minArea": 0.0,
+      "maxArea": 2.0,
       "businessService": "CLU_MC_HIGH"
     },
-
     {
-      "ulbType": "Municipal Corporation",
-      "category": "COMMERCIAL",
-      "minArea": 2.01,
-      "maxArea": 9999,
-      "businessService": "CLU_MC_HIGH_OTH"
-    },
-
-    {
-      "ulbType": "Municipal Corporation",
-      "category": "RESIDENTIAL_PLOTTED",
-      "minArea": 0,
-      "maxArea": 25,
+      "ulbType": [
+        "Municipal Corporation"
+      ],
+      "category": [
+        "RESIDENTIAL_PLOTTED"
+      ],
+      "minArea": 0.0,
+      "maxArea": 25.0,
       "businessService": "CLU_MC_HIGH"
     },
-
     {
-      "ulbType": "Municipal Corporation",
-      "category": "RESIDENTIAL_PLOTTED",
-      "minArea": 25.01,
-      "maxArea": 9999,
+      "ulbType": [
+        "Municipal Corporation"
+      ],
+      "category": [
+        "COMMERCIAL"
+      ],
+      "minArea": 2.0,
+      "maxArea": 99999999.0,
       "businessService": "CLU_MC_HIGH_OTH"
     },
-
     {
-      "ulbType": "Municipal Corporation",
-      "category": "RESIDENTIAL_GROUP_HOUSING",
-      "minArea": 0,
-      "maxArea": 99,
+      "ulbType": [
+        "Municipal Corporation"
+      ],
+      "category": [
+        "RESIDENTIAL_PLOTTED"
+      ],
+      "minArea": 25.0,
+      "maxArea": 99999999.0,
       "businessService": "CLU_MC_HIGH_OTH"
     },
-
     {
-      "ulbType": "Municipal Corporation",
-      "category": "MULTIPLEX_MINIPLEX",
-      "minArea": 0,
-      "maxArea": 99,
+      "ulbType": [
+        "Municipal Corporation"
+      ],
+      "category": [
+        "RESIDENTIAL_GROUP_HOUSING",
+        "MULTIPLEX_MINIPLEX"
+      ],
+      "minArea": 0.0,
+      "maxArea": 99999999.0,
       "businessService": "CLU_MC_HIGH_OTH"
     },
-
     {
-      "ulbType": "Municipal Council",
-      "category": "RECREATIONAL",
-      "minArea": 0,
-      "maxArea": 99,
+      "ulbType": [
+        "Municipal Council",
+        "Nagar Panchayat"
+      ],
+      "category": [
+        "RECREATIONAL",
+        "SPORTS",
+        "PETROL_PUMPS",
+        "INSTITUTIONS",
+        "INDUSTRY_GODOWN_WAREHOUSING_COLD_STORE",
+        "HOSPITAL_MULTIMEDIA_CENTER_NOT_MULTIPLEX_AND_HOTELS"
+      ],
+      "minArea": 0.0,
+      "maxArea": 99999999.0,
       "businessService": "CLU_NP"
     },
     {
-      "ulbType": "Municipal Council",
-      "category": "SPORTS",
-      "minArea": 0,
-      "maxArea": 99,
-      "businessService": "CLU_NP"
-    },
-    {
-      "ulbType": "Municipal Council",
-      "category": "PETROL_PUMPS",
-      "minArea": 0,
-      "maxArea": 99,
-      "businessService": "CLU_NP"
-    },
-
-    {
-      "ulbType": "Municipal Council",
-      "category": "INSTITUTIONS",
-      "minArea": 0,
-      "maxArea": 99,
-      "businessService": "CLU_NP"
-    },
-    {
-      "ulbType": "Municipal Council",
-      "category": "INDUSTRY_GODOWN_WAREHOUSING_COLD_STORE",
-      "minArea": 0,
-      "maxArea": 99,
-      "businessService": "CLU_NP"
-    },
-
-    {
-      "ulbType": "Municipal Council",
-      "category": "HOSPITAL_MULTIMEDIA_CENTER_NOT_MULTIPLEX_AND_HOTELS",
-      "minArea": 0,
-      "maxArea": 99,
-      "businessService": "CLU_NP"
-    },
-
-    {
-      "ulbType": "Municipal Council",
-      "category": "MARRIAGE_PALACES",
-      "minArea": 0,
-      "maxArea": 99,
+      "ulbType": [
+        "Municipal Council",
+        "Nagar Panchayat"
+      ],
+      "category": [
+        "MARRIAGE_PALACES"
+      ],
+      "minArea": 0.0,
+      "maxArea": 99999999.0,
       "businessService": "CLU_NP_HIGH"
     },
-
     {
-      "ulbType": "Municipal Council",
-      "category": "COMMERCIAL",
-      "minArea": 0,
-      "maxArea": 2,
+      "ulbType": [
+        "Municipal Council",
+        "Nagar Panchayat"
+      ],
+      "category": [
+        "COMMERCIAL"
+      ],
+      "minArea": 0.0,
+      "maxArea": 2.0,
       "businessService": "CLU_NP_HIGH"
     },
-
     {
-      "ulbType": "Municipal Council",
-      "category": "COMMERCIAL",
-      "minArea": 2.01,
-      "maxArea": 9999,
-      "businessService": "CLU_NP_HIGH_OTH"
-    },
-
-    {
-      "ulbType": "Municipal Council",
-      "category": "RESIDENTIAL_PLOTTED",
-      "minArea": 0,
-      "maxArea": 25,
+      "ulbType": [
+        "Municipal Council",
+        "Nagar Panchayat"
+      ],
+      "category": [
+        "RESIDENTIAL_PLOTTED"
+      ],
+      "minArea": 0.0,
+      "maxArea": 25.0,
       "businessService": "CLU_NP_HIGH"
     },
-
     {
-      "ulbType": "Municipal Council",
-      "category": "RESIDENTIAL_PLOTTED",
-      "minArea": 25.01,
-      "maxArea": 9999,
+      "ulbType": [
+        "Municipal Council",
+        "Nagar Panchayat"
+      ],
+      "category": [
+        "COMMERCIAL"
+      ],
+      "minArea": 2.0,
+      "maxArea": 99999999.0,
       "businessService": "CLU_NP_HIGH_OTH"
     },
-
     {
-      "ulbType": "Municipal Council",
-      "category": "RESIDENTIAL_GROUP_HOUSING",
-      "minArea": 0,
-      "maxArea": 99,
+      "ulbType": [
+        "Municipal Council",
+        "Nagar Panchayat"
+      ],
+      "category": [
+        "RESIDENTIAL_PLOTTED"
+      ],
+      "minArea": 25.0,
+      "maxArea": 99999999.0,
       "businessService": "CLU_NP_HIGH_OTH"
     },
-
     {
-      "ulbType": "Municipal Council",
-      "category": "MULTIPLEX_MINIPLEX",
-      "minArea": 0,
-      "maxArea": 99,
-      "businessService": "CLU_NP_HIGH_OTH"
-    },
-
-
-    {
-      "ulbType": "Nagar Panchayat",
-      "category": "RECREATIONAL",
-      "minArea": 0,
-      "maxArea": 99,
-      "businessService": "CLU_NP"
-    },
-    {
-      "ulbType": "Nagar Panchayat",
-      "category": "SPORTS",
-      "minArea": 0,
-      "maxArea": 99,
-      "businessService": "CLU_NP"
-    },
-    {
-      "ulbType": "Nagar Panchayat",
-      "category": "PETROL_PUMPS",
-      "minArea": 0,
-      "maxArea": 99,
-      "businessService": "CLU_NP"
-    },
-
-    {
-      "ulbType": "Nagar Panchayat",
-      "category": "INSTITUTIONS",
-      "minArea": 0,
-      "maxArea": 99,
-      "businessService": "CLU_NP"
-    },
-    {
-      "ulbType": "Nagar Panchayat",
-      "category": "INDUSTRY_GODOWN_WAREHOUSING_COLD_STORE",
-      "minArea": 0,
-      "maxArea": 99,
-      "businessService": "CLU_NP"
-    },
-
-    {
-      "ulbType": "Nagar Panchayat",
-      "category": "HOSPITAL_MULTIMEDIA_CENTER_NOT_MULTIPLEX_AND_HOTELS",
-      "minArea": 0,
-      "maxArea": 99,
-      "businessService": "CLU_NP"
-    },
-
-    {
-      "ulbType": "Nagar Panchayat",
-      "category": "MARRIAGE_PALACES",
-      "minArea": 0,
-      "maxArea": 99,
-      "businessService": "CLU_NP_HIGH"
-    },
-
-    {
-      "ulbType": "Nagar Panchayat",
-      "category": "COMMERCIAL",
-      "minArea": 0,
-      "maxArea": 2,
-      "businessService": "CLU_NP_HIGH"
-    },
-
-    {
-      "ulbType": "Nagar Panchayat",
-      "category": "COMMERCIAL",
-      "minArea": 2.01,
-      "maxArea": 9999,
-      "businessService": "CLU_NP_HIGH_OTH"
-    },
-
-    {
-      "ulbType": "Nagar Panchayat",
-      "category": "RESIDENTIAL_PLOTTED",
-      "minArea": 0,
-      "maxArea": 25,
-      "businessService": "CLU_NP_HIGH"
-    },
-
-    {
-      "ulbType": "Nagar Panchayat",
-      "category": "RESIDENTIAL_PLOTTED",
-      "minArea": 25.01,
-      "maxArea": 9999,
-      "businessService": "CLU_NP_HIGH_OTH"
-    },
-
-    {
-      "ulbType": "Nagar Panchayat",
-      "category": "RESIDENTIAL_GROUP_HOUSING",
-      "minArea": 0,
-      "maxArea": 99,
-      "businessService": "CLU_NP_HIGH_OTH"
-    },
-
-    {
-      "ulbType": "Nagar Panchayat",
-      "category": "MULTIPLEX_MINIPLEX",
-      "minArea": 0,
-      "maxArea": 99,
+      "ulbType": [
+        "Municipal Council",
+        "Nagar Panchayat"
+      ],
+      "category": [
+        "RESIDENTIAL_GROUP_HOUSING",
+        "MULTIPLEX_MINIPLEX"
+      ],
+      "minArea": 0.0,
+      "maxArea": 99999999.0,
       "businessService": "CLU_NP_HIGH_OTH"
     }
   ]
