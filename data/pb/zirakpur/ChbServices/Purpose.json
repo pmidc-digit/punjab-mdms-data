@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb.nangal",
+  "tenantId": "pb.zirakpur",
   "moduleName": "CHB",
   "Purpose": [
     {
@@ -35,6 +35,11 @@
     {
       "name": "Retirement Party",
       "code": "RETIREMENT_PARTY",
+      "active": true
+    },
+     {
+      "name": "Birthday Party",
+      "code": "BIRTHDAY_PARTY",
       "active": true
     }
   ]

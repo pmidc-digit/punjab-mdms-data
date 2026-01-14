@@ -1,15 +1,15 @@
 {
-  "tenantId": "pb.nangal",
+  "tenantId": "pb.zirakpur",
   "moduleName": "CHB",
   "CalculationType": [
     {
       "1": [
         {
-          "sector": "Naya_Nangal_Sector_5",
+          "sector": "SAINI_BHAWAN_LOHAGARH",
           "applicationType": "COMMUNITY_HALL_BOOKING",
           "serviceType": "NEW_BOOKING",
           "feeType": "BOOKING_FEES",
-          "amount": 10000,
+          "amount": 5100,
           "taxApplicable": true
         }
       ]
@@ -17,11 +17,11 @@
     {
       "2": [
         {
-          "sector": "Brari_Nangal",
+          "sector": "SPORT_COMPLEX_CHHAT",
           "applicationType": "COMMUNITY_HALL_BOOKING",
           "serviceType": "NEW_BOOKING",
           "feeType": "BOOKING_FEES",
-          "amount": 25000,
+          "amount": 5100,
           "taxApplicable": true
         }
       ]
@@ -29,11 +29,11 @@
     {
       "3": [
         {
-          "sector": "Indra_Nagar_Near_Khwaja_Mandir",
+          "sector": "LOHAGARH_PARK",
           "applicationType": "COMMUNITY_HALL_BOOKING",
           "serviceType": "NEW_BOOKING",
           "feeType": "BOOKING_FEES",
-          "amount": 5000,
+          "amount": 5100,
           "taxApplicable": true
         }
       ]
@@ -41,11 +41,11 @@
     {
       "4": [
         {
-          "sector": "Rampur_Sahni_Near_MP_Kothi",
+          "sector": "NABHA_SAHIB",
           "applicationType": "COMMUNITY_HALL_BOOKING",
           "serviceType": "NEW_BOOKING",
           "feeType": "BOOKING_FEES",
-          "amount": 5000,
+          "amount": 5100,
           "taxApplicable": true
         }
       ]
@@ -53,11 +53,11 @@
     {
       "5": [
         {
-          "sector": "Jawahar_Market_Near_Geeta_Mandir",
+          "sector": "GUGGA_MARI_BHABAT",
           "applicationType": "COMMUNITY_HALL_BOOKING",
           "serviceType": "NEW_BOOKING",
           "feeType": "BOOKING_FEES",
-          "amount": 3000,
+          "amount": 5100,
           "taxApplicable": true
         }
       ]
@@ -65,11 +65,299 @@
     {
       "6": [
         {
-          "sector": "Mojowal",
+          "sector": "MC_HOUSE_BHABAT",
           "applicationType": "COMMUNITY_HALL_BOOKING",
           "serviceType": "NEW_BOOKING",
           "feeType": "BOOKING_FEES",
-          "amount": 5000,
+          "amount": 5100,
+          "taxApplicable": true
+        }
+      ]
+    },
+    {
+      "7": [
+        {
+          "sector": "JARNAIL_ENCLAVE_2_ZIRAKPUR",
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "amount": 5100,
+          "taxApplicable": true
+        }
+      ]
+    },
+    {
+      "8": [
+        {
+          "sector": "OLD_MC_OFFICE_ZIRAKPUR",
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "amount": 5100,
+          "taxApplicable": true
+        }
+      ]
+    },
+    {
+      "9": [
+        {
+          "sector": "MAMTA_ENCLAVE_DHAKOLI",
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "amount": 5100,
+          "taxApplicable": true
+        }
+      ]
+    },
+    {
+      "10": [
+        {
+          "sector": "LUXMI_ENCLAVE_DHAKOLI",
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "amount": 5100,
+          "taxApplicable": true
+        }
+      ]
+    },
+    {
+      "11": [
+        {
+          "sector": "MS_ENCLAVE_DHAKOLI",
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "amount": 5100,
+          "taxApplicable": true
+        }
+      ]
+    },
+    {
+      "12": [
+        {
+          "sector": "GULMOHAR_TRAND_DHAKOLI",
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "amount": 5100,
+          "taxApplicable": true
+        }
+      ]
+    },
+    {
+      "13": [
+        {
+          "sector": "DASMESH_ENCLAVE_HIMMAGARTH",
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "amount": 5100,
+          "taxApplicable": true
+        }
+      ]
+    },
+    {
+      "14": [
+        {
+          "sector": "NADLA",
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "amount": 5100,
+          "taxApplicable": true
+        }
+      ]
+    },
+    {
+      "15": [
+        {
+          "sector": "NAGAR_KHARA_BISHANPURA",
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "amount": 5100,
+          "taxApplicable": true
+        }
+      ]
+    },
+    {
+      "16": [
+        {
+          "sector": "SAINI_BHAWAN_LOHAGARH",
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "amount": 1000,
+          "taxApplicable": true
+        }
+      ]
+    },
+    {
+      "17": [
+        {
+          "sector": "SPORT_COMPLEX_CHHAT",
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "amount": 1000,
+          "taxApplicable": true
+        }
+      ]
+    },
+    {
+      "18": [
+        {
+          "sector": "LOHAGARH_PARK",
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "amount": 1000,
+          "taxApplicable": true
+        }
+      ]
+    },
+    {
+      "19": [
+        {
+          "sector": "NABHA_SAHIB",
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "amount": 1000,
+          "taxApplicable": true
+        }
+      ]
+    },
+    {
+      "20": [
+        {
+          "sector": "GUGGA_MARI_BHABAT",
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "amount": 1000,
+          "taxApplicable": true
+        }
+      ]
+    },
+    {
+      "21": [
+        {
+          "sector": "MC_HOUSE_BHABAT",
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "amount": 1000,
+          "taxApplicable": true
+        }
+      ]
+    },
+    {
+      "22": [
+        {
+          "sector": "JARNAIL_ENCLAVE_2_ZIRAKPUR",
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "amount": 1000,
+          "taxApplicable": true
+        }
+      ]
+    },
+    {
+      "23": [
+        {
+          "sector": "OLD_MC_OFFICE_ZIRAKPUR",
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "amount": 1000,
+          "taxApplicable": true
+        }
+      ]
+    },
+    {
+      "24": [
+        {
+          "sector": "MAMTA_ENCLAVE_DHAKOLI",
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "amount": 1000,
+          "taxApplicable": true
+        }
+      ]
+    },
+    {
+      "25": [
+        {
+          "sector": "LUXMI_ENCLAVE_DHAKOLI",
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "amount": 1000,
+          "taxApplicable": true
+        }
+      ]
+    },
+    {
+      "26": [
+        {
+          "sector": "MS_ENCLAVE_DHAKOLI",
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "amount": 1000,
+          "taxApplicable": true
+        }
+      ]
+    },
+    {
+      "27": [
+        {
+          "sector": "GULMOHAR_TRAND_DHAKOLI",
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "amount": 1000,
+          "taxApplicable": true
+        }
+      ]
+    },
+    {
+      "28": [
+        {
+          "sector": "DASMESH_ENCLAVE_HIMMAGARTH",
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "amount": 1000,
+          "taxApplicable": true
+        }
+      ]
+    },
+    {
+      "29": [
+        {
+          "sector": "NADLA",
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "amount": 1000,
+          "taxApplicable": true
+        }
+      ]
+    },
+    {
+      "30": [
+        {
+          "sector": "NAGAR_KHARA_BISHANPURA",
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "amount": 1000,
           "taxApplicable": true
         }
       ]
