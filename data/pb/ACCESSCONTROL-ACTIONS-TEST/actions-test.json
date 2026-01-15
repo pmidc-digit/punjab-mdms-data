@@ -2654,6 +2654,42 @@
       "path": "Location.Search Boundary"
     },
     {
+      "id": 1443,
+      "name": "Noc document CheckList Create",
+      "url": "/noc-services/v1/checklist/_create",
+      "displayName": "CheckList Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "noc-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1446,
+      "name": "Noc document CheckList Create",
+      "url": "/noc-services/v1/checklist/_update",
+      "displayName": "CheckList update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "noc-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1449,
+      "name": "Noc document CheckList Create",
+      "url": "/noc-services/v1/checklist/_search",
+      "displayName": "CheckList search",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "noc-services",
+      "code": "null",
+      "path": ""
+    },
+    {
       "id": 1444,
       "name": "CheckList Create",
       "url": "/egf-bill/checklists/_create",
