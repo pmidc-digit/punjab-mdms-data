@@ -27154,6 +27154,17 @@
       "serviceCode": "COLLECTION",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 8900138,
+      "name": "Bulk PDF Water",
+      "url": "/egov-pdf/download/WNS/wnsgroupbill",
+      "displayName": "",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "egov-pdf",
+      "code": "null",
+      "path": ""
     }
   ]
 }
