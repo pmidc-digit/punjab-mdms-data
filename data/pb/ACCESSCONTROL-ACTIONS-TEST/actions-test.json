@@ -27168,14 +27168,14 @@
     },
     {
       "id": 8900139,
-      "name": "Download Merged PDF",
+      "name": "Pdf Generator getBulkPdfRecordsDetails",
       "url": "/pdf-service/v1/_getBulkPdfRecordsDetails",
-      "displayName": "",
-      "orderNumber": 0,
+      "displayName": "Pdf Generator get Bulk Records",
+      "orderNumber": 3,
       "enabled": false,
-      "serviceCode": "pdf-service",
+      "serviceCode": "pdf-generator-getBulkPdfRecordsDetails",
       "code": "null",
       "path": ""
-    }
+    },
   ]
 }
