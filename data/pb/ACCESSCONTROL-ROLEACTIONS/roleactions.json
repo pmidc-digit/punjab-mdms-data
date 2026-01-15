@@ -1222,6 +1222,12 @@
     },
     {
       "rolecode": "WS_CLERK",
+      "actionid": 8900139,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+     {
+      "rolecode": "WS_CLERK",
       "actionid": 8900138,
       "actioncode": "",
       "tenantId": "pb"
