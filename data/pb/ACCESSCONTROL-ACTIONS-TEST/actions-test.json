@@ -27165,6 +27165,17 @@
       "serviceCode": "egov-pdf",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 8900139,
+      "name": "Download Merged PDF",
+      "url": "/pdf-service/v1/_getBulkPdfRecordsDetails",
+      "displayName": "",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "pdf-service",
+      "code": "null",
+      "path": ""
     }
   ]
 }
