@@ -5,7 +5,7 @@
     {
       "communityHallId": "1",
       "name": "Saini Bhawan (HAPPY)",
-      "code": "SAINI_BHAWAN_HAPPY",
+      "code": "SAINI_BHAWAN_LOHAGARH",
       "locationCode": "SAINI_BHAWAN_LOHAGARH",
       "contactDetails": "",
       "address": "Lohagarh",
@@ -22,7 +22,7 @@
     {
       "communityHallId": "2",
       "name": "Sport Complex cum Community Centre (HAPPY)",
-      "code": "SPORT_COMPLEX_COMMUNITY_CENTRE_HAPPY",
+      "code": "SPORT_COMPLEX_CHHAT",
       "locationCode": "SPORT_COMPLEX_CHHAT",
       "contactDetails": "",
       "address": "Chhat",
@@ -39,7 +39,7 @@
     {
       "communityHallId": "3",
       "name": "Community Hall Near Lohagarh Park (HAPPY)",
-      "code": "LOHAGARH_PARK_COMMUNITY_HALL_HAPPY",
+      "code": "LOHAGARH_PARK",
       "locationCode": "LOHAGARH_PARK",
       "contactDetails": "",
       "address": "Lohagarh",
@@ -56,7 +56,7 @@
     {
       "communityHallId": "4",
       "name": "Community Hall Near Govt. School Nabha Sahib (HAPPY)",
-      "code": "NABHA_SAHIB_COMMUNITY_HALL_HAPPY",
+      "code": "NABHA_SAHIB",
       "locationCode": "NABHA_SAHIB",
       "contactDetails": "",
       "address": "Nabha Sahib",
@@ -73,7 +73,7 @@
     {
       "communityHallId": "5",
       "name": "Community Hall Near Gugga Mari Bhabat (HAPPY)",
-      "code": "GUGGA_MARI_BHABAT_COMMUNITY_HALL_HAPPY",
+      "code": "BHABAT_GUGGA_MARI",
       "locationCode": "BHABAT_GUGGA_MARI",
       "contactDetails": "",
       "address": "Bhabat",
@@ -90,7 +90,7 @@
     {
       "communityHallId": "6",
       "name": "Community Hall Near M.C. House Bhabat (HAPPY)",
-      "code": "MC_HOUSE_BHABAT_COMMUNITY_HALL_HAPPY",
+      "code": "MC_HOUSE_BHABAT",
       "locationCode": "MC_HOUSE_BHABAT",
       "contactDetails": "",
       "address": "Bhabat",
@@ -107,7 +107,7 @@
     {
       "communityHallId": "7",
       "name": "Jarnail Enclave Community Hall (HAPPY)",
-      "code": "JARNAIL_ENCLAVE_COMMUNITY_HALL_HAPPY",
+      "code": "JARNAIL_ENCLAVE_2_ZIRAKPUR",
       "locationCode": "JARNAIL_ENCLAVE_2_ZIRAKPUR",
       "contactDetails": "",
       "address": "Jarnail Enclave-2, Zirakpur",
@@ -124,7 +124,7 @@
     {
       "communityHallId": "8",
       "name": "Near Old MC Office Community Hall (HAPPY)",
-      "code": "OLD_MC_OFFICE_COMMUNITY_HALL_HAPPY",
+      "code": "OLD_MC_OFFICE_ZIRAKPUR",
       "locationCode": "OLD_MC_OFFICE_ZIRAKPUR",
       "contactDetails": "",
       "address": "Near Old MC Office, Zirakpur",
@@ -141,7 +141,7 @@
     {
       "communityHallId": "9",
       "name": "Mamta Enclave Community Hall (HAPPY)",
-      "code": "MAMTA_ENCLAVE_COMMUNITY_HALL_HAPPY",
+      "code": "MAMTA_ENCLAVE_DHAKOLI",
       "locationCode": "MAMTA_ENCLAVE_DHAKOLI",
       "contactDetails": "",
       "address": "Mamta Enclave, Dhakoli",
@@ -158,7 +158,7 @@
     {
       "communityHallId": "10",
       "name": "Luxmi Enclave Community Hall (HAPPY)",
-      "code": "LUXMI_ENCLAVE_COMMUNITY_HALL_HAPPY",
+      "code": "LUXMI_ENCLAVE_DHAKOLI",
       "locationCode": "LUXMI_ENCLAVE_DHAKOLI",
       "contactDetails": "",
       "address": "Luxmi Enclave, Dhakoli",
@@ -175,7 +175,7 @@
     {
       "communityHallId": "11",
       "name": "M S Enclave Community Hall (HAPPY)",
-      "code": "MS_ENCLAVE_COMMUNITY_HALL_HAPPY",
+      "code": "MS_ENCLAVE_DHAKOLI",
       "locationCode": "MS_ENCLAVE_DHAKOLI",
       "contactDetails": "",
       "address": "M S Enclave, Dhakoli",
@@ -192,7 +192,7 @@
     {
       "communityHallId": "12",
       "name": "Near Gulmohar Trand Community Hall (HAPPY)",
-      "code": "GULMOHAR_TRAND_COMMUNITY_HALL_HAPPY",
+      "code": "GULMOHAR_TRAND_DHAKOLI",
       "locationCode": "GULMOHAR_TRAND_DHAKOLI",
       "contactDetails": "",
       "address": "Near Gulmohar Trand, Dhakoli",
@@ -209,7 +209,7 @@
     {
       "communityHallId": "13",
       "name": "Dasmesh Enclave Community Hall (HAPPY)",
-      "code": "DASMESH_ENCLAVE_COMMUNITY_HALL_HAPPY",
+      "code": "DASMESH_ENCLAVE_HIMMAGARTH",
       "locationCode": "DASMESH_ENCLAVE_HIMMAGARTH",
       "contactDetails": "",
       "address": "Dasmesh Enclave, Himmagarh",
@@ -226,7 +226,7 @@
     {
       "communityHallId": "14",
       "name": "Nadla Community Hall (HAPPY)",
-      "code": "NADLA_COMMUNITY_HALL_HAPPY",
+      "code": "NADLA",
       "locationCode": "NADLA",
       "contactDetails": "",
       "address": "Nadla",
@@ -243,7 +243,7 @@
     {
       "communityHallId": "15",
       "name": "Near Nagar Khara Community Hall (HAPPY)",
-      "code": "NAGAR_KHARA_COMMUNITY_HALL_HAPPY",
+      "code": "NAGAR_KHARA_BISHANPURA",
       "locationCode": "NAGAR_KHARA_BISHANPURA",
       "contactDetails": "",
       "address": "Near Nagar Khara, Bishanpura",
@@ -260,7 +260,7 @@
     {
       "communityHallId": "16",
       "name": "Saini Bhawan (SAD)",
-      "code": "SAINI_BHAWAN_SAD",
+      "code": "SAINI_BHAWAN_LOHAGARH",
       "locationCode": "SAINI_BHAWAN_LOHAGARH",
       "contactDetails": "",
       "address": "Lohagarh",
@@ -277,7 +277,7 @@
       {
       "communityHallId": "17",
       "name": "Sport Complex cum Community Centre (SAD)",
-      "code": "SPORT_COMPLEX_COMMUNITY_CENTRE_SAD",
+      "code": "SPORT_COMPLEX_CHHAT",
       "locationCode": "SPORT_COMPLEX_CHHAT",
       "contactDetails": "",
       "address": "Chhat",
@@ -294,7 +294,7 @@
     {
       "communityHallId": "18",
       "name": "Community Hall Near Lohagarh Park (SAD)",
-      "code": "LOHAGARH_PARK_COMMUNITY_HALL_SAD",
+      "code": "LOHAGARH_PARK",
       "locationCode": "LOHAGARH_PARK",
       "contactDetails": "",
       "address": "Lohagarh",
@@ -311,7 +311,7 @@
     {
       "communityHallId": "19",
       "name": "Community Hall Near Govt. School Nabha Sahib (SAD)",
-      "code": "NABHA_SAHIB_COMMUNITY_HALL_SAD",
+      "code": "NABHA_SAHIB",
       "locationCode": "NABHA_SAHIB",
       "contactDetails": "",
       "address": "Nabha Sahib",
@@ -328,7 +328,7 @@
     {
       "communityHallId": "20",
       "name": "Community Hall Near Gugga Mari Bhabat (SAD)",
-      "code": "GUGGA_MARI_BHABAT_COMMUNITY_HALL_SAD",
+      "code": "BHABAT_GUGGA_MARI",
       "locationCode": "BHABAT_GUGGA_MARI",
       "contactDetails": "",
       "address": "Bhabat",
@@ -345,7 +345,7 @@
     {
       "communityHallId": "21",
       "name": "Community Hall Near M.C. House Bhabat (SAD)",
-      "code": "MC_HOUSE_BHABAT_COMMUNITY_HALL_SAD",
+      "code": "MC_HOUSE_BHABAT",
       "locationCode": "MC_HOUSE_BHABAT",
       "contactDetails": "",
       "address": "Bhabat",
@@ -362,7 +362,7 @@
     {
       "communityHallId": "22",
       "name": "Jarnail Enclave Community Hall (SAD)",
-      "code": "JARNAIL_ENCLAVE_COMMUNITY_HALL_SAD",
+      "code": "JARNAIL_ENCLAVE_2_ZIRAKPUR",
       "locationCode": "JARNAIL_ENCLAVE_2_ZIRAKPUR",
       "contactDetails": "",
       "address": "Jarnail Enclave-2, Zirakpur",
@@ -379,7 +379,7 @@
     {
       "communityHallId": "23",
       "name": "Near Old MC Office Community Hall (SAD)",
-      "code": "OLD_MC_OFFICE_COMMUNITY_HALL_SAD",
+      "code": "OLD_MC_OFFICE_ZIRAKPUR",
       "locationCode": "OLD_MC_OFFICE_ZIRAKPUR",
       "contactDetails": "",
       "address": "Near Old MC Office, Zirakpur",
@@ -396,7 +396,7 @@
     {
       "communityHallId": "24",
       "name": "Mamta Enclave Community Hall (SAD)",
-      "code": "MAMTA_ENCLAVE_COMMUNITY_HALL_SAD",
+      "code": "MAMTA_ENCLAVE_DHAKOLI",
       "locationCode": "MAMTA_ENCLAVE_DHAKOLI",
       "contactDetails": "",
       "address": "Mamta Enclave, Dhakoli",
@@ -413,7 +413,7 @@
     {
       "communityHallId": "25",
       "name": "Luxmi Enclave Community Hall (SAD)",
-      "code": "LUXMI_ENCLAVE_COMMUNITY_HALL_SAD",
+      "code": "LUXMI_ENCLAVE_DHAKOLI",
       "locationCode": "LUXMI_ENCLAVE_DHAKOLI",
       "contactDetails": "",
       "address": "Luxmi Enclave, Dhakoli",
@@ -430,7 +430,7 @@
     {
       "communityHallId": "26",
       "name": "M S Enclave Community Hall (SAD)",
-      "code": "MS_ENCLAVE_COMMUNITY_HALL_SAD",
+      "code": "MS_ENCLAVE_DHAKOLI",
       "locationCode": "MS_ENCLAVE_DHAKOLI",
       "contactDetails": "",
       "address": "M S Enclave, Dhakoli",
@@ -447,7 +447,7 @@
     {
       "communityHallId": "27",
       "name": "Near Gulmohar Trand Community Hall (SAD)",
-      "code": "GULMOHAR_TRAND_COMMUNITY_HALL_SAD",
+      "code": "GULMOHAR_TRAND_DHAKOLI",
       "locationCode": "GULMOHAR_TRAND_DHAKOLI",
       "contactDetails": "",
       "address": "Near Gulmohar Trand, Dhakoli",
@@ -464,7 +464,7 @@
     {
       "communityHallId": "28",
       "name": "Dasmesh Enclave Community Hall (SAD)",
-      "code": "DASMESH_ENCLAVE_COMMUNITY_HALL_SAD",
+      "code": "DASMESH_ENCLAVE_HIMMAGARTH",
       "locationCode": "DASMESH_ENCLAVE_HIMMAGARTH",
       "contactDetails": "",
       "address": "Dasmesh Enclave, Himmagarh",
@@ -481,7 +481,7 @@
     {
       "communityHallId": "29",
       "name": "Nadla Community Hall (SAD)",
-      "code": "NADLA_COMMUNITY_HALL_SAD",
+      "code": "NADLA",
       "locationCode": "NADLA",
       "contactDetails": "",
       "address": "Nadla",
@@ -498,7 +498,7 @@
     {
       "communityHallId": "30",
       "name": "Near Nagar Khara Community Hall (SAD)",
-      "code": "NAGAR_KHARA_COMMUNITY_HALL_SAD",
+      "code": "NAGAR_KHARA_BISHANPURA",
       "locationCode": "NAGAR_KHARA_BISHANPURA",
       "contactDetails": "",
       "address": "Near Nagar Khara, Bishanpura",

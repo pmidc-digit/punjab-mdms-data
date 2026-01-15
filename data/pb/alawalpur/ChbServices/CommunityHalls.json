@@ -5,8 +5,8 @@
     {
       "communityHallId": "1",
       "name": "Community Hall Alawalpur",
-      "code": "COMMUNITY_HALL_ALAWALPUR",
-      "locationCode": "ALAWALPUR_BUS_STAND",
+      "code": "COMMUNITY_HALL_ALAWALPUR_BUS_STAND",
+      "locationCode": "COMMUNITY_HALL_ALAWALPUR_BUS_STAND",
       "contactDetails": "",
       "address": "Near Local Bus Stand Alawalpur Adampur Road Alawalpur(Jalandhar)",
       "type": "HALL",

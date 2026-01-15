@@ -4,7 +4,7 @@
   "Location": [
     {
       "name": "Community Hall Alawalpur",
-      "code": "ALAWALPUR_BUS_STAND",
+      "code": "COMMUNITY_HALL_ALAWALPUR_BUS_STAND",
       "active": true,
       "geo_tag": { "latitude": null, "longitude": null }
     }
