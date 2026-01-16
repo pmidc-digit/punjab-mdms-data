@@ -27199,6 +27199,38 @@
       "serviceCode": "pdf-generator-getBulkPdfRecordsDetails",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 8900140,
+      "name": "TL",
+      "url": "url",
+      "displayName": "Search Application",
+      "orderNumber": 4,
+      "queryParams": "",
+      "parentModule": "rainmaker-tl",
+      "enabled": true,
+      "serviceCode": "TL",
+      "code": "null",
+      "path": "TL.Search",
+      "navigationURL": "/digit-ui/employee/tl/search/application",
+      "leftIcon": "",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900141,
+      "name": "TL",
+      "url": "url",
+      "displayName": "NEW Application",
+      "orderNumber": 5,
+      "queryParams": "",
+      "parentModule": "rainmaker-tl",
+      "enabled": true,
+      "serviceCode": "TL",
+      "code": "null",
+      "path": "TL.Search",
+      "navigationURL": "/digit-ui/employee/tl/new-application",
+      "leftIcon": "",
+      "rightIcon": ""
     }
   ]
 }
