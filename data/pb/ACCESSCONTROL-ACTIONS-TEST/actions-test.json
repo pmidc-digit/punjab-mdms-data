@@ -2764,6 +2764,42 @@
       "path": ""
     },
     {
+      "id": 1461,
+      "name": "BPA document CheckList Create",
+      "url": "/bpa-services/v1/checklist/_create",
+      "displayName": "CheckList Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "bpa-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1471,
+      "name": "BPA document CheckList Create",
+      "url": "/bpa-services/v1/checklist/_update",
+      "displayName": "CheckList update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "bpa-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1472,
+      "name": "BPA document CheckList Create",
+      "url": "/bpa-services/v1/checklist/_search",
+      "displayName": "CheckList search",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "bpa-services",
+      "code": "null",
+      "path": ""
+    },
+    {
       "id": 1444,
       "name": "CheckList Create",
       "url": "/egf-bill/checklists/_create",
