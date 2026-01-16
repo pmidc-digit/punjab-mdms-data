@@ -1226,13 +1226,13 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-     {
+    {
       "rolecode": "WS_CLERK",
       "actionid": 8900138,
       "actioncode": "",
       "tenantId": "pb"
     },
-     {
+    {
       "rolecode": "WS_CLERK",
       "actionid": 7893005,
       "actioncode": "",
@@ -1601,6 +1601,54 @@
     {
       "rolecode": "CITIZEN",
       "actionid": 1449,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1453,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1456,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1459,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1459,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1463,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1473,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1474,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1474,
       "actioncode": "",
       "tenantId": "pb"
     },
@@ -59019,18 +59067,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 882423,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 882424,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
+
     {
       "rolecode": "CITIZEN",
       "actionid": 882425,
@@ -59235,36 +59272,14 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 882471,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 882472,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
+
     {
       "rolecode": "CITIZEN",
       "actionid": 882473,
       "actioncode": "",
       "tenantId": "pb"
     },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 882474,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 882350,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
+
     {
       "rolecode": "CITIZEN",
       "actionid": 882351,
@@ -66238,7 +66253,6 @@
       "tenantId": "pb"
     },
 
-
     {
       "rolecode": "OBPAS_LAYOUT_JE",
       "actionid": 3005,
@@ -66696,7 +66710,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-     {
+    {
       "rolecode": "GC_CEMP",
       "actionid": 8700957,
       "actioncode": "",

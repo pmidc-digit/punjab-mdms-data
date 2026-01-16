@@ -2689,6 +2689,80 @@
       "code": "null",
       "path": ""
     },
+
+    {
+      "id": 1453,
+      "name": "CLU document CheckList Create",
+      "url": "/clu-services/v1/checklist/_create",
+      "displayName": "CheckList Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "noc-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1456,
+      "name": "CLU document CheckList Create",
+      "url": "/clu-services/v1/checklist/_update",
+      "displayName": "CheckList update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "noc-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1459,
+      "name": "CLU document CheckList Create",
+      "url": "/clu-services/v1/checklist/_search",
+      "displayName": "CheckList search",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "noc-services",
+      "code": "null",
+      "path": ""
+    },
+
+    {
+      "id": 1463,
+      "name": "Layout document CheckList Create",
+      "url": "/layout-services/v1/checklist/_create",
+      "displayName": "CheckList Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "noc-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1473,
+      "name": "Layout document CheckList Create",
+      "url": "/layout-services/v1/checklist/_update",
+      "displayName": "CheckList update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "noc-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1474,
+      "name": "Layout document CheckList Create",
+      "url": "/layout-services/v1/checklist/_search",
+      "displayName": "CheckList search",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "noc-services",
+      "code": "null",
+      "path": ""
+    },
     {
       "id": 1444,
       "name": "CheckList Create",
@@ -20391,42 +20465,7 @@
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/tl-home"
     },
-    {
-      "id": 882423,
-      "name": "PT_HOW_IT_WORKS",
-      "url": "digit-ui-card",
-      "displayName": "How It Works",
-      "orderNumber": 9,
-      "parentModule": "PT",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "",
-      "path": "",
-      "navigationURL": "/digit-ui/citizen/pt-how-it-works",
-      "leftIcon": "propertyIcon",
-      "rightIcon": "",
-      "queryParams": "",
-      "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/pt-home"
-    },
-    {
-      "id": 882424,
-      "name": "PT_FAQ_S",
-      "url": "digit-ui-card",
-      "displayName": "FAQs",
-      "orderNumber": 8,
-      "parentModule": "PT",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "",
-      "path": "",
-      "navigationURL": "/digit-ui/citizen/pt-faq",
-      "leftIcon": "propertyIcon",
-      "rightIcon": "",
-      "queryParams": "",
-      "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/pt-home"
-    },
+
     {
       "id": 882425,
       "name": "Firenoc Citizen Home",
@@ -20481,24 +20520,7 @@
       "sidebar": "digit-ui-links",
       "sidebarURL": "/citizen/death-citizen/home"
     },
-    {
-      "id": 882437,
-      "name": "PT_MY_PAYMENTS",
-      "url": "digit-ui-card",
-      "displayName": "My Payments",
-      "orderNumber": 7,
-      "parentModule": "PT",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "",
-      "path": "",
-      "navigationURL": "/digit-ui/citizen/pt/property/my-payments",
-      "leftIcon": "propertyIcon",
-      "rightIcon": "",
-      "queryParams": "",
-      "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/pt-home"
-    },
+
     {
       "id": 882440,
       "name": "ACTION_TEST_WNS_MY_BILLS",
@@ -21004,42 +21026,6 @@
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/pt-home"
     },
-    {
-      "id": 882471,
-      "name": "PT_MY_PROPERTIES",
-      "url": "digit-ui-card",
-      "displayName": "My Properties",
-      "orderNumber": 4,
-      "parentModule": "PT",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "",
-      "path": "",
-      "navigationURL": "/digit-ui/citizen/pt/property/my-properties",
-      "leftIcon": "propertyIcon",
-      "rightIcon": "",
-      "queryParams": "",
-      "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/pt-home"
-    },
-    {
-      "id": 882472,
-      "name": "PT_PROPERTY_MUTATION",
-      "url": "digit-ui-card",
-      "displayName": "Transfer Property Ownership/Mutation",
-      "orderNumber": 6,
-      "parentModule": "PT",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "",
-      "path": "",
-      "navigationURL": "/digit-ui/citizen/pt/property/property-mutation/search-property",
-      "leftIcon": "propertyIcon",
-      "rightIcon": "",
-      "queryParams": "",
-      "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/pt-home"
-    },
 
     {
       "id": 882473,
@@ -21059,42 +21045,7 @@
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/obps-home"
     },
-    {
-      "id": 882474,
-      "name": "CS_TITLE_MY_BILLS",
-      "url": "digit-ui-card",
-      "displayName": "My Bills",
-      "orderNumber": 2,
-      "parentModule": "PT",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "",
-      "path": "",
-      "navigationURL": "/digit-ui/citizen/payment/my-bills/PT",
-      "leftIcon": "propertyIcon",
-      "rightIcon": "",
-      "queryParams": "",
-      "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/pt-home"
-    },
-    {
-      "id": 882350,
-      "name": "PT_SEARCH_AND_PAY",
-      "url": "digit-ui-card",
-      "displayName": "Search and Pay",
-      "orderNumber": 1,
-      "parentModule": "PT",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "",
-      "path": "",
-      "navigationURL": "/digit-ui/citizen/pt/property/citizen-search",
-      "leftIcon": "propertyIcon",
-      "rightIcon": "",
-      "queryParams": "",
-      "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/pt-home"
-    },
+
     {
       "id": 882351,
       "name": "PT_CREATE_PROPERTY",
@@ -24941,7 +24892,7 @@
       "code": "null",
       "path": ""
     },
-     {
+    {
       "id": 8700957,
       "name": "search Garbage connection",
       "url": "/gc-services/gc/_validateConnection",
