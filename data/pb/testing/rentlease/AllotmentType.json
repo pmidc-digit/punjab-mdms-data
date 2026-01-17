@@ -1,7 +1,7 @@
 {
     "tenantId": "pb.testing",
     "moduleName": "rentAndLease",
-    "TaxRates": [
+    "AllotmentType": [
           {
             "id": "1",  
             "code": "RL_RENT",
