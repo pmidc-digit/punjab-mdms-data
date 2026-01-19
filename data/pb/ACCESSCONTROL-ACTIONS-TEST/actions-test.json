@@ -21093,7 +21093,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/citizen/pt/property/new-application",
+      "navigationURL": "/digit-ui/citizen/pt/property/create-application",
       "leftIcon": "propertyIcon",
       "rightIcon": "",
       "queryParams": "",
