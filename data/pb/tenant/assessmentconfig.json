@@ -4515,43 +4515,42 @@
       "financialyear": "2025-26",
       "isRented": false
     },
-	{
-      "tenant": "pb.jalandhar",
+	  {
+      "tenant": "pb.gurdaspur",
       "enabled": false,
       "financialyear": "2025-26",
       "isRented": false
     },
 	  {
-      "tenant": "pb.gurdaspur",
-      "enabled": true,
-      "financialyear": "2025-26",
-      "isRented": false
-    },
-	  {
       "tenant": "pb.ajnala",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2025-26",
       "isRented": false
     },
 	  {
       "tenant": "pb.amloh",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2025-26",
       "isRented": false
     },
 	  {
       "tenant": "pb.kiratpur",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2025-26",
       "isRented": false
     },
 	  {
       "tenant": "pb.kurali",
+      "enabled": false,
+      "financialyear": "2025-26",
+      "isRented": false
+    },
+	  {
+      "tenant": "pb.mohali",
       "enabled": true,
       "financialyear": "2025-26",
       "isRented": false
     }
-	  
 	  
   ]
 }
