@@ -27211,7 +27211,7 @@
       "enabled": true,
       "serviceCode": "TL",
       "code": "null",
-      "path": "Trade License..Search",
+      "path": "Trade License.Search",
       "navigationURL": "/digit-ui/employee/tl/search/application",
       "leftIcon": "",
       "rightIcon": ""
