@@ -1,0 +1,26 @@
+{
+  "tenantId": "pb.bhuchomandi",
+  "moduleName": "CHB",
+  "SpecialCategory": [
+    {
+      "name": "SC/ST",
+      "code": "SC_ST",
+      "active": true
+    },
+    {
+      "name": "Widow",
+      "code": "WIDOW",
+      "active": true
+    },
+    {
+      "name": "BPL",
+      "code": "BPL",
+      "active": true
+    },
+    {
+      "name": "None",
+      "code": "NONE",
+      "active": true
+    }
+  ]
+}
