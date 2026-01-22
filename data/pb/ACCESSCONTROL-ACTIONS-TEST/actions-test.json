@@ -24957,7 +24957,7 @@
       "parentModule": "",
       "displayName": "GC Estimation",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "gc-calculator",
       "code": "null",
       "path": ""
@@ -24969,7 +24969,7 @@
       "parentModule": "",
       "displayName": "GC Schedular Create",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "gc-calculator",
       "code": "null",
       "path": ""
@@ -24981,7 +24981,7 @@
       "parentModule": "",
       "displayName": "GC Schedular Search",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "gc-calculator",
       "code": "null",
       "path": ""
@@ -24993,7 +24993,7 @@
       "parentModule": "",
       "displayName": "Garbage Collection Bill Genie",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "gc-calculator",
       "code": "null",
       "path": ""
