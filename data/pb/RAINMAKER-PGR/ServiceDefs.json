@@ -97,6 +97,16 @@
       "order": 3
     },
     {
+      "serviceCode": "BrokenSeweragePipeOrLeakage",
+      "name": "Broken Water Pipe Or Leakage",
+      "active": true,
+      "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
+      "department": "DEPT_4",
+      "slaHours": 96,
+      "menuPath": "WaterandSewage",
+      "order": 3
+    },
+    {
       "serviceCode": "WaterPressureisVeryLess",
       "name": "Water Pressure is Very Less",
       "active": true,
