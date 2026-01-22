@@ -24977,7 +24977,7 @@
       {
       "id": 8900878,
       "name": "GC Calculator",
-      "url": "/gc-calculator/garbageCalculator/_search",
+      "url": "/gc-calculator/garbagecharges/scheduler/_search",
       "parentModule": "",
       "displayName": "GC Schedular Search",
       "orderNumber": 0,
