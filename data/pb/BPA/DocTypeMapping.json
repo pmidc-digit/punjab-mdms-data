@@ -984,7 +984,7 @@
         },
         {
           "code": "OWNERSHIP.DOCUMENT",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 2
         },
@@ -6276,7 +6276,7 @@
         },
         {
           "code": "OWNERSHIP.DOCUMENT",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 24
         },
@@ -6410,7 +6410,7 @@
         },
         {
           "code": "OWNERSHIP.DOCUMENT",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 23
         },
