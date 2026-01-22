@@ -3316,8 +3316,8 @@
       "financialYear": "2025-26"
     },
     {
-      "fromDate": 1767225600000,
-      "toDate": 1774981799000,
+      "fromDate": 1767205800000,
+      "toDate": 1774981799999,
       "periodCycle": "QUATERLY",
       "service": "GC",
       "code": "GC-2025-26-Q4",
