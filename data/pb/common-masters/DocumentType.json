@@ -243,6 +243,58 @@
 	{
 		"code": "SITEPHOTOGRAPH_ONE",
 		"active": true
+	},
+	{
+		"code": "BPD.RP",
+		"active": true
+	},
+	{
+		"code": "BPD.PP",
+		"active": true
+	},
+	{
+		"code": "BPD.SECP",
+		"active": true
+	},
+	{
+		"code": "BPD.EP",
+		"active": true
+	},
+	{
+		"code": "BPD.SCP",
+		"active": true
+	},
+	{
+		"code": "BPD.FP",
+		"active": true
+	},
+	{
+		"code": "APPL.LSVS",
+		"active": true
+	},
+	{
+		"code": "APPL.SSC",
+		"active": true
+	},
+	{
+		"code": "APPL.LAC",
+		"active": true
+	},
+	{
+		"code": "APPL.TDP",
+		"active": true
+	},
+	{
+		"code": "APPL.LTR",
+		"active": true
+	},
+	{
+		"code": "APPL.ADDRESSPROOF",
+		"active": true
+	},
+	{
+		"code": "APPL.IDENTITYPROOF",
+		"active": true
 	}
   ]
 }
