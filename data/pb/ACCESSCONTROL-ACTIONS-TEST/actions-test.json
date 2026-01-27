@@ -8111,8 +8111,30 @@
       "path": ""
     },
     {
+      "id": 19201,
+      "name": "Search Water Bill Open",
+      "url": "/egov-searcher/water-services/wateropensearch/_get",
+      "displayName": "Search Water Bill",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "Searcher",
+      "code": "null",
+      "path": ""
+    },
+    {
       "id": 1921,
       "name": "Search Sewerage Bill",
+      "url": "/egov-searcher/bill-genie/seweragebills/_get",
+      "displayName": "Search Sewerage Bill",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "Searcher",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 19211,
+      "name": "Search Sewerage Bill Open",
       "url": "/egov-searcher/bill-genie/seweragebills/_get",
       "displayName": "Search Sewerage Bill",
       "orderNumber": 2,
