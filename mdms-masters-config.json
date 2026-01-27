@@ -575,6 +575,11 @@
       "masterName": "MutationPenalty",
       "isStateLevel": true,
       "uniqueKeys": ["$.fromFY"]
+    },
+    "Documents": {
+      "masterName": "Documents",
+      "isStateLevel": true,
+      "uniqueKeys": ["$.code"]
     }
   },
   "TradeLicense": {
@@ -1202,7 +1207,7 @@
       "isStateLevel": false,
       "uniqueKeys": []
     }
-},
+  },
   "rentAndLease": {
     "Documents": {
       "masterName": "documentType",
