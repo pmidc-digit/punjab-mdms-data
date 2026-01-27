@@ -27300,6 +27300,37 @@
       "navigationURL": "/digit-ui/employee/tl/new-application",
       "leftIcon": "",
       "rightIcon": ""
+    },
+    {
+      "id": 8900143,
+      "name": "Complaint create",
+      "url": "url",
+      "displayName": "Complaint create",
+      "orderNumber": 7,
+      "parentModule": "pgr",
+      "enabled": true,
+      "serviceCode": "PGR",
+      "code": "null",
+      "path": "Complaints.PGR",
+      "navigationURL": "/digit-ui/employee/pgr/complaint/create",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+	{
+      "id": 8900144,
+      "name": "HRMS",
+      "url": "url",
+      "displayName": "HRMS Inbox",
+      "orderNumber": 4,
+      "queryParams": "",
+      "parentModule": "rainmaker-hrms",
+      "enabled": true,
+      "serviceCode": "HRMS",
+      "code": "null",
+      "path": "HRMS.Search",
+      "navigationURL": "digit-ui/employee/hrms/inbox",
+      "leftIcon": "social:people",
+      "rightIcon": ""
     }
   ]
 }
