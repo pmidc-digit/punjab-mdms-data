@@ -27341,7 +27341,7 @@
       "queryParams": "",
       "parentModule": "rainmaker-swach",
       "enabled": true,
-      "serviceCode": "SBMR",
+      "serviceCode": "Swach",
       "path": "Swach ",
       "navigationURL": "/digit-ui/employee/swach/complaint/create",
       "leftIcon": "action:assignment",
