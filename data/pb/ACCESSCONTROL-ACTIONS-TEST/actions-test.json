@@ -27342,7 +27342,7 @@
       "parentModule": "rainmaker-swach",
       "enabled": true,
       "serviceCode": "Swach",
-      "path": "Swach ",
+      "path": "Swach.Search ",
       "navigationURL": "/digit-ui/employee/swach/complaint/create",
       "leftIcon": "action:assignment",
       "rightIcon": ""
