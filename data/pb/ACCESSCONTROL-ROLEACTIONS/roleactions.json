@@ -67902,6 +67902,12 @@
       "actionid": 8900144,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "CSR",
+      "actionid": 8900145,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }

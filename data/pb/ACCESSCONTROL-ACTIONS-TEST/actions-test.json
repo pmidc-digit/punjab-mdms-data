@@ -27331,6 +27331,21 @@
       "navigationURL": "digit-ui/employee/hrms/inbox",
       "leftIcon": "social:people",
       "rightIcon": ""
+    },
+    {
+      "id": 8900145,
+      "name": "swach complaint create",
+      "url": "url",
+      "displayName": "Swach complaint create",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "rainmaker-swach",
+      "enabled": true,
+      "serviceCode": "SBMR",
+      "path": "Swach ",
+      "navigationURL": "/digit-ui/employee/swach/complaint/create",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
