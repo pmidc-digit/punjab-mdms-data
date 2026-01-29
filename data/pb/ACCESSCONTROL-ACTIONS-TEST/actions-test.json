@@ -12231,7 +12231,7 @@
       "displayName": "Search Grind Data ",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "",
       "code": "null",
       "path": ""
@@ -12243,7 +12243,7 @@
       "displayName": "Search Master Data Revenue",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "",
       "code": "null",
       "path": ""
@@ -12255,7 +12255,7 @@
       "displayName": "Create Calocator Data Update  Revenue",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "",
       "code": "null",
       "path": ""
