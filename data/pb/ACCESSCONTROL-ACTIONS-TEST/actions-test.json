@@ -8566,6 +8566,40 @@
       "code": "null",
       "path": ""
     },
+
+     {
+      "id": 2200017,
+      "name": "Revenue Search ",
+      "url": "/egov-property-rate/property-rate/revenue/_missing",
+      "displayName": "Search Grind Data ",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "egov-property-rate-search",
+      "code": "null",
+      "path": ""
+    },
+     {
+      "id": 2200018,
+      "name": "Revenue Search ",
+      "url": "/egov-property-rate/property-rate/_search",
+      "displayName": "Search Master Data Revenue",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "egov-property-rate-search",
+      "code": "null",
+      "path": ""
+    },
+     {
+      "id": 2200019,
+      "name": "Collactor rate Insert ",
+      "url": "/egov-property-rate/property-rate/_create",
+      "displayName": "Create Calocator Data Update  Revenue",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "egov-property-rate-search",
+      "code": "null",
+      "path": ""
+    },
     {
       "id": 1949,
       "name": "propertytax Estimate v2",
@@ -12220,42 +12254,6 @@
       "orderNumber": 1,
       "parentModule": "",
       "enabled": false,
-      "serviceCode": "",
-      "code": "null",
-      "path": ""
-    },
-      {
-      "id": 2200017,
-      "name": "Revenue Search ",
-      "url": "/egov-property-rate/property-rate/revenue/_missing",
-      "displayName": "Search Grind Data ",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "null",
-      "path": ""
-    },
-     {
-      "id": 2200018,
-      "name": "Revenue Search ",
-      "url": "/egov-property-rate/property-rate/_search",
-      "displayName": "Search Master Data Revenue",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "null",
-      "path": ""
-    },
-     {
-      "id": 2200019,
-      "name": "Collactor rate Insert ",
-      "url": "/egov-property-rate/property-rate/_create",
-      "displayName": "Create Calocator Data Update  Revenue",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": true,
       "serviceCode": "",
       "code": "null",
       "path": ""
