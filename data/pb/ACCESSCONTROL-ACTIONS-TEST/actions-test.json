@@ -12224,6 +12224,42 @@
       "code": "null",
       "path": ""
     },
+      {
+      "id": 2200017,
+      "name": "Revenue Search ",
+      "url": "/egov-property-rate/property-rate/revenue/_missing",
+      "displayName": "Search Grind Data ",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+     {
+      "id": 2200018,
+      "name": "Revenue Search ",
+      "url": "/egov-property-rate/property-rate/_search",
+      "displayName": "Search Master Data Revenue",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+     {
+      "id": 2200019,
+      "name": "Collactor rate Insert ",
+      "url": "/egov-property-rate/property-rate/_create",
+      "displayName": "Create Calocator Data Update  Revenue",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
     {
       "id": 2218,
       "name": "FSM BillingSlab Search",
