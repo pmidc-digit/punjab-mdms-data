@@ -8781,6 +8781,16 @@
       "isActualDemand": true,
       "order": "9",
       "isRequired": false     
+    },
+     {
+      "category": "ARREAR_FEE",
+      "service": "rl-services",
+      "name": "ARREAR Fees",
+      "code": "RL_ARREAR_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "9",
+      "isRequired": false     
     }
   ]
 }
