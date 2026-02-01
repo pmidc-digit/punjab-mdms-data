@@ -12,7 +12,7 @@
     {
       "code": "OWNER.LAYOUTDRAWING",
       "documentType": "OWNER",
-      "required": true,
+      "required": false,
       "active": true,
       "description": "OWNER.LAYOUTDRAWING_DESCRIPTION"
     },
@@ -26,7 +26,7 @@
     {
       "code": "OWNER.LAYOUTDRAWINGWITHWSLINES",
       "documentType": "OWNER",
-      "required": true,
+      "required": false,
       "active": true,
       "description": "OWNER.LAYOUTDRAWINGWITHWSLINES_DESCRIPTION"
     },
@@ -48,7 +48,7 @@
     {
       "code": "OWNER.LAYOUTDRAWINGWITHSEWERAGELINES",
       "documentType": "OWNER",
-      "required": true,
+      "required": false,
       "active": true,
       "description": "OWNER.LAYOUTDRAWINGWITHSEWERAGELINES_DESCRIPTION"
     },
@@ -62,7 +62,7 @@
     {
       "code": "OWNER.REVENUEPLANAKSHSHAJRA",
       "documentType": "OWNER",
-      "required": true,
+      "required": false,
       "active": true,
       "cluRequired": true,
       "description": "OWNER.REVENUEPLANAKSHSHAJRA_DESCRIPTION"
@@ -70,7 +70,7 @@
     {
       "code": "OWNER.SITEMARKEDONLATHAPARTPLAN",
       "documentType": "OWNER",
-      "required": true,
+      "required": false,
       "active": true,
       "cluRequired": true,
       "description": "OWNER.SITEMARKEDONLATHAPARTPLAN_DESCRIPTION"
@@ -78,7 +78,7 @@
     {
       "code": "OWNER.SITEMARKEDONMASTERPLAN",
       "documentType": "OWNER",
-      "required": true,
+      "required": false,
       "active": true,
       "cluRequired": true,
       "description": "OWNER.SITEMARKEDONMASTERPLAN_DESCRIPTION"
@@ -86,7 +86,7 @@
     {
       "code": "OWNER.SITEMARKEDONSATELLITEPLAN",
       "documentType": "OWNER",
-      "required": true,
+      "required": false,
       "active": true,
       "cluRequired": true,
       "description": "OWNER.SITEMARKEDONSATELLITEPLAN_DESCRIPTION"
@@ -94,7 +94,7 @@
     {
       "code": "OWNER.MUSTARKALANDAFFIDAVIT",
       "documentType": "OWNER",
-      "required": true,
+      "required": false,
       "active": true,
       "cluRequired": true,
       "description": "OWNER.MUSTARKALANDAFFIDAVIT_DESCRIPTION"
@@ -173,6 +173,7 @@
       "code": "OWNER.INDUSTRYCATEGORYDOCUMENT",
       "documentType": "OWNER",
       "required": false,
+      "industryCategoryRequired": true,
       "active": true,
       "description": "OWNER.INDUSTRYCATEGORYDOCUMENT_DESCRIPTION"
     }
