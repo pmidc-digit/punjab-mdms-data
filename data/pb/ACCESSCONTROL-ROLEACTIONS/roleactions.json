@@ -41602,7 +41602,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-     {
+    {
       "rolecode": "PTCEMP",
       "actionid": 2200019,
       "actioncode": "",
@@ -41620,8 +41620,8 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-	
-	 {
+
+    {
       "rolecode": "PTCEMP",
       "actionid": 2200018,
       "actioncode": "",
@@ -41639,8 +41639,8 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-	
-	 {
+
+    {
       "rolecode": "PTCEMP",
       "actionid": 2200017,
       "actioncode": "",
@@ -41676,14 +41676,14 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-	 {
+    {
       "rolecode": "EMPLOYEE",
       "actionid": 2200019,
       "actioncode": "",
       "tenantId": "pb"
     },
-	
-	 {
+
+    {
       "rolecode": "PT_DOC_VERIFIER",
       "actionid": 2200018,
       "actioncode": "",
@@ -41701,14 +41701,14 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-	 {
+    {
       "rolecode": "EMPLOYEE",
       "actionid": 2200018,
       "actioncode": "",
       "tenantId": "pb"
     },
-	
-	 {
+
+    {
       "rolecode": "PT_DOC_VERIFIER",
       "actionid": 2200017,
       "actioncode": "",
@@ -41726,7 +41726,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-	 {
+    {
       "rolecode": "EMPLOYEE",
       "actionid": 2200017,
       "actioncode": "",
@@ -66876,13 +66876,13 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-      {
+    {
       "rolecode": "GC_CEMP",
       "actionid": 8900878,
       "actioncode": "",
       "tenantId": "pb"
     },
-      {
+    {
       "rolecode": "GC_CEMP",
       "actionid": 8900879,
       "actioncode": "",
@@ -68004,19 +68004,19 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-	{
+    {
       "rolecode": "SUPERUSER",
       "actionid": 8900142,
       "actioncode": "",
       "tenantId": "pb"
     },
-	{
+    {
       "rolecode": "EGF_BILL_CREATOR",
       "actionid": 8900142,
       "actioncode": "",
       "tenantId": "pb"
-    },	
-	  {
+    },
+    {
       "rolecode": "EMPLOYEE",
       "actionid": 8900141,
       "actioncode": "",
@@ -68027,7 +68027,8 @@
       "actionid": 8900143,
       "actioncode": "",
       "tenantId": "pb"
-    },{
+    },
+    {
       "rolecode": "HRMS_ADMIN",
       "actionid": 8900144,
       "actioncode": "",
@@ -68036,6 +68037,12 @@
     {
       "rolecode": "CSR",
       "actionid": 8900145,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 8900147,
       "actioncode": "",
       "tenantId": "pb"
     }

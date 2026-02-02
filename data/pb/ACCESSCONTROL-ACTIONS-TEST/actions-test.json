@@ -8567,7 +8567,7 @@
       "path": ""
     },
 
-     {
+    {
       "id": 2200017,
       "name": "Revenue Search ",
       "url": "/egov-property-rate/property-rate/revenue/_missing",
@@ -8578,7 +8578,7 @@
       "code": "null",
       "path": ""
     },
-     {
+    {
       "id": 2200018,
       "name": "Revenue Search ",
       "url": "/egov-property-rate/property-rate/_search",
@@ -8589,7 +8589,7 @@
       "code": "null",
       "path": ""
     },
-     {
+    {
       "id": 2200019,
       "name": "Collactor rate Insert ",
       "url": "/egov-property-rate/property-rate/_create",
@@ -25018,7 +25018,7 @@
       "code": "null",
       "path": ""
     },
-      {
+    {
       "id": 8900877,
       "name": "GC Calculator",
       "url": "/gc-calculator/garbagecharges/scheduler/_create",
@@ -25030,7 +25030,7 @@
       "code": "null",
       "path": ""
     },
-      {
+    {
       "id": 8900878,
       "name": "GC Calculator",
       "url": "/gc-calculator/garbagecharges/scheduler/_search",
@@ -25042,7 +25042,7 @@
       "code": "null",
       "path": ""
     },
-      {
+    {
       "id": 8900879,
       "name": "GC Calculator",
       "url": "/egov-searcher/bill-genie/garbagecollectionbills/_get",
@@ -27350,7 +27350,7 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-	{
+    {
       "id": 8900144,
       "name": "HRMS",
       "url": "url",
@@ -27378,6 +27378,22 @@
       "serviceCode": "Swach",
       "path": "Swach.Search ",
       "navigationURL": "/digit-ui/employee/swach/complaint/create",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900147,
+      "name": "Create Application",
+      "url": "url",
+      "displayName": "Create New Application",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "rainmaker-hrms",
+      "enabled": true,
+      "serviceCode": "MCollect",
+      "code": "null",
+      "path": "MCollect.MCollect Reports.HRMSEmployee wise Report",
+      "navigationURL": "/digit-ui/employee/mcollect/new-application",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     }
