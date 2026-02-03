@@ -1567,6 +1567,12 @@
       "name": "REVENUE APPROVER",
       "description": "Revenue Approver",
       "groupId": "014"
+    },
+    {
+      "code": "MDMS_ADMIN",
+      "name": "MDMS Admin",
+      "description": "MDMS ADMIN",
+      "groupId": "028"
     }
   ]
 }
