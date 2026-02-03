@@ -27396,6 +27396,22 @@
       "navigationURL": "/digit-ui/employee/mcollect/new-application",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 8900148,
+      "name": "rainmaker-common-propertytax",
+      "url": "card",
+      "displayName": "Property Map",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "PT",
+      "code": "",
+      "path": "",
+      "navigationURL": "abg/ptreve",
+      "leftIcon": "action:store",
+      "rightIcon": "",
+      "queryParams": ""
     }
   ]
 }
