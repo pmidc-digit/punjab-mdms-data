@@ -27252,6 +27252,18 @@
       "navigationURL": "abg/ptreve",
       "rightIcon": "",
       "queryParams": ""
+    },
+    {
+      "id": 8900146,
+      "name": "Employee Count",
+      "url": "/egov-hrms/employees/_count",
+      "parentModule": "egov-hrms",
+      "displayName": "Employee Count",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "egov-hrms",
+      "code": "null",
+      "path": ""
     }
   ]
 }
