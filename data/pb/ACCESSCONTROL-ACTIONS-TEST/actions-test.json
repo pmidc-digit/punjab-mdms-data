@@ -2073,7 +2073,6 @@
       "code": "null",
       "path": "Billing Service.BS_GetDemandDues"
     },
-
     {
       "id": 819,
       "name": "TL Report MetaData",
@@ -2689,7 +2688,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 1453,
       "name": "CLU document CheckList Create",
@@ -2726,7 +2724,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 1463,
       "name": "Layout document CheckList Create",
@@ -7913,7 +7910,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 1906,
       "name": "TradeWiseCollectionReport",
@@ -8054,7 +8050,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 1916,
       "name": "Create Sewerage Connection",
@@ -8176,7 +8171,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 1925,
       "name": "Add adhoc tax to sewerage",
@@ -8250,7 +8244,6 @@
       "leftIcon": "custom:water-tap",
       "rightIcon": ""
     },
-
     {
       "id": 1930,
       "name": "FetchBillV2",
@@ -8277,7 +8270,6 @@
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
-
     {
       "id": 1932,
       "name": "mSeva Event Search",
@@ -8355,7 +8347,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 1899,
       "name": "Create Water Connection",
@@ -8566,7 +8557,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 2200017,
       "name": "Revenue Search ",
@@ -8600,7 +8590,6 @@
       "code": "null",
       "path": ""
     },
-    
     {
       "id": 2200020,
       "name": "Collactor rate Update ",
@@ -8770,7 +8759,6 @@
       "navigationURL": "report/rainmaker-uc/MiscBusinessServiceCollectionTenant_v2",
       "path": "Misc_Collect.Reports.Misc Business Service Collections V2"
     },
-
     {
       "id": 1962,
       "name": "MiscReceiptULBCancelled_v2",
@@ -9127,7 +9115,6 @@
       "rightIcon": "",
       "queryParams": ""
     },
-
     {
       "id": 1988,
       "name": "DescriptionReport_v2",
@@ -9316,7 +9303,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 2001,
       "name": "Receipt Register_V2",
@@ -9452,7 +9438,6 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-
     {
       "id": 2010,
       "name": "FY Collection Report_V2",
@@ -9520,7 +9505,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 2015,
       "name": "ULBInformation",
@@ -9675,7 +9659,6 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-
     {
       "id": 2026,
       "name": "RuralDistrictWiseChannelsReport_V2",
@@ -9691,7 +9674,6 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-
     {
       "id": 1844,
       "name": "RainmakerPGR-DescriptionReport-Metadata",
@@ -9730,7 +9712,6 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-
     {
       "id": 2027,
       "name": "DrillDownRuralWiseChannelReport_V2",
@@ -9935,7 +9916,6 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-
     {
       "id": 2041,
       "name": "Receipt RegisterShortWithoutLocality_V2",
@@ -10037,7 +10017,6 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-
     {
       "id": 2047,
       "name": "Top Payers 2020-21",
@@ -10128,251 +10107,139 @@
     },
     {
       "id": 2053,
-
       "name": "rainmaker-localization-screen",
-
       "url": "url",
-
       "displayName": "Localization",
-
       "orderNumber": 5,
-
       "parentModule": "",
-
       "enabled": false,
-
       "serviceCode": "",
-
       "code": "",
-
       "path": "Localization",
-
       "navigationURL": "integration/ui-localisation/localization",
-
       "leftIcon": "places:business-center",
-
       "rightIcon": "",
-
       "queryParams": ""
     },
-
     {
       "id": 2054,
-
       "name": "consolidatedreceipt search",
-
       "url": "/egov-pdf/download/PAYMENT/consolidatedreceipt",
-
       "displayName": "consolidatedreceipt search",
-
       "orderNumber": 1,
-
       "enabled": false,
-
       "serviceCode": "egov-pdf",
-
       "code": "null",
-
       "path": ""
     },
-
     {
       "id": 2055,
-
       "name": "consolidatedbill search",
-
       "url": "/egov-pdf/download/BILL/consolidatedbill",
-
       "displayName": "consolidatedbill search",
-
       "orderNumber": 2,
-
       "enabled": false,
-
       "serviceCode": "egov-pdf",
-
       "code": "null",
-
       "path": ""
     },
-
     {
       "id": 2056,
-
       "name": "tlreceipt search",
-
       "url": "/egov-pdf/download/TL/tlreceipt",
-
       "displayName": "tlreceipt search",
-
       "orderNumber": 3,
-
       "enabled": false,
-
       "serviceCode": "egov-pdf",
-
       "code": "null",
-
       "path": ""
     },
-
     {
       "id": 2057,
-
       "name": "tlcertificate search",
-
       "url": "/egov-pdf/download/TL/tlcertificate",
-
       "displayName": "tlcertificate search",
-
       "orderNumber": 4,
-
       "enabled": false,
-
       "serviceCode": "egov-pdf",
-
       "code": "null",
-
       "path": ""
     },
-
     {
       "id": 2058,
-
       "name": "tlrenewalcertificate search",
-
       "url": "/egov-pdf/download/TL/tlrenewalcertificate",
-
       "displayName": "tlrenewalcertificate search",
-
       "orderNumber": 5,
-
       "enabled": false,
-
       "serviceCode": "egov-pdf",
-
       "code": "null",
-
       "path": ""
     },
-
     {
       "id": 2059,
-
       "name": "tlbill search",
-
       "url": "/egov-pdf/download/TL/tlbill",
-
       "displayName": "tlbill search",
-
       "orderNumber": 6,
-
       "enabled": false,
-
       "serviceCode": "egov-pdf",
-
       "code": "null",
-
       "path": ""
     },
-
     {
       "id": 2060,
-
       "name": "ptmutationcertificate search",
-
       "url": "/egov-pdf/download/PT/ptmutationcertificate",
-
       "displayName": "ptmutationcertificate search",
-
       "orderNumber": 7,
-
       "enabled": false,
-
       "serviceCode": "egov-pdf",
-
       "code": "null",
-
       "path": ""
     },
-
     {
       "id": 2061,
-
       "name": "ptbill search",
-
       "url": "/egov-pdf/download/PT/ptbill",
-
       "displayName": "ptbill search",
-
       "orderNumber": 8,
-
       "enabled": false,
-
       "serviceCode": "egov-pdf",
-
       "code": "null",
-
       "path": ""
     },
-
     {
       "id": 2062,
-
       "name": "ptreceipt search",
-
       "url": "/egov-pdf/download/PT/ptreceipt",
-
       "displayName": "ptreceipt search",
-
       "orderNumber": 9,
-
       "enabled": false,
-
       "serviceCode": "egov-pdf",
-
       "code": "null",
-
       "path": ""
     },
-
     {
       "id": 2063,
-
       "name": "Locality searcher endpoint for SW",
-
       "url": "/egov-searcher/locality/sw-services/_get",
-
       "displayName": "SW-Service locality searcher",
-
       "orderNumber": 0,
-
       "enabled": true,
-
       "serviceCode": "egov-searcher",
-
       "code": "null",
-
       "path": ""
     },
-
     {
       "id": 2064,
-
       "name": "Locality searcher endpoint for WS",
-
       "url": "/egov-searcher/locality/ws-services/_get",
-
       "displayName": "WS-Service locality searcher",
-
       "orderNumber": 0,
-
       "enabled": true,
-
       "serviceCode": "egov-searcher",
-
       "code": "null",
-
       "path": ""
     },
     {
@@ -10387,7 +10254,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 2066,
       "name": "BillGenie",
@@ -10492,7 +10358,6 @@
       "code": "null",
       "path": "WS Report"
     },
-
     {
       "id": 2071,
       "name": "WS Report",
@@ -10732,7 +10597,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 2090,
       "name": "Base Register Report WS",
@@ -10748,7 +10612,6 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-
     {
       "id": 2091,
       "name": "WS Report",
@@ -11587,7 +11450,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 2161,
       "name": "DEFAULT Payment search",
@@ -12068,7 +11930,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 2201,
       "name": "DEFAULT Payment search",
@@ -12708,7 +12569,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 2253,
       "name": "ReceiptCollections",
@@ -12796,7 +12656,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 2260,
       "name": "UC Payment workflow",
@@ -13289,7 +13148,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 2301,
       "name": "DEFAULT Payment workflow",
@@ -14322,7 +14180,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 2387,
       "name": "DEFAULT Payment search",
@@ -14418,7 +14275,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 2395,
       "name": "Disconnect Sewerage Connection",
@@ -14490,7 +14346,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 2401,
       "name": "SW Payment workflow",
@@ -15791,7 +15646,6 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-
     {
       "id": 1810,
       "name": "ApplicationStatusReport",
@@ -15807,7 +15661,6 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-
     {
       "id": 1811,
       "name": "ChannelsReport",
@@ -15823,7 +15676,6 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-
     {
       "id": 2501,
       "name": "Top Payers Commercial",
@@ -16925,7 +16777,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 2584,
       "name": "GrievanceWithPriority",
@@ -17042,7 +16893,6 @@
       "path": "",
       "navigationURL": ""
     },
-
     {
       "id": 2595,
       "name": "CitizenGrievanceFeedback",
@@ -19695,7 +19545,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 2817,
       "name": "MDMS",
@@ -19738,7 +19587,6 @@
       "leftIcon": "custom:water-tap",
       "rightIcon": ""
     },
-
     {
       "id": 5001,
       "name": "Create BPALicense",
@@ -20084,7 +19932,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 5032,
       "name": "Plan Scrutiny",
@@ -20118,7 +19965,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 180,
       "name": "CommunitySearch",
@@ -20132,7 +19978,6 @@
       "code": "null",
       "path": "Employee Management.Employee Masters.Community.CommunitySearch"
     },
-
     {
       "id": 9996,
       "name": "BND UnLink Account",
@@ -20177,7 +20022,6 @@
       "code": "null",
       "path": "PGR Report"
     },
-
     {
       "id": 6001,
       "name": "Create PGR Request",
@@ -20248,7 +20092,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 7001,
       "name": "Survey Search",
@@ -20260,7 +20103,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 7002,
       "name": "Create Survey",
@@ -20305,7 +20147,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 7006,
       "name": "Show Survey Response",
@@ -20317,7 +20158,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 6007,
       "name": "OpenComplaints",
@@ -20569,7 +20409,6 @@
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/tl-home"
     },
-
     {
       "id": 882425,
       "name": "Firenoc Citizen Home",
@@ -20624,7 +20463,6 @@
       "sidebar": "digit-ui-links",
       "sidebarURL": "/citizen/death-citizen/home"
     },
-
     {
       "id": 882440,
       "name": "ACTION_TEST_WNS_MY_BILLS",
@@ -20931,7 +20769,6 @@
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/obps-home"
     },
-
     {
       "id": 882456,
       "name": "BPA_CITIZEN_HOME_STAKEHOLDER_LOGIN_LABEL",
@@ -21130,7 +20967,6 @@
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/pt-home"
     },
-
     {
       "id": 882473,
       "name": "OBPS_FAQ_S",
@@ -21149,7 +20985,6 @@
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/obps-home"
     },
-
     {
       "id": 882351,
       "name": "PT_CREATE_PROPERTY",
@@ -21757,7 +21592,6 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-
     {
       "id": 890038,
       "name": "swach Bharat Reform",
@@ -21911,7 +21745,6 @@
       "code": "null",
       "path": "Property Report"
     },
-
     {
       "id": 23451576,
       "name": "PT Report",
@@ -23109,7 +22942,6 @@
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/challangeneration-home"
     },
-
     {
       "id": 8900947,
       "name": "Create Application",
@@ -24125,7 +23957,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 8900912,
       "name": "LAYOUT Calculator",
@@ -24202,7 +24033,6 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-
     {
       "id": 8900802,
       "name": "create clu application",
@@ -24237,7 +24067,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 8900913,
       "name": "CLU Calculator",
@@ -27411,17 +27240,16 @@
     },
     {
       "id": 8900148,
-      "name": "rainmaker-common-propertytax",
-      "url": "card",
-      "displayName": "Property Map",
+      "name": "Property Revenue",
+      "url": "url",
+      "displayName": "Property Revenue",
       "orderNumber": 1,
       "parentModule": "",
       "enabled": true,
-      "serviceCode": "PT",
+      "serviceCode": "BG",
       "code": "",
-      "path": "",
+      "path": "Property Revenue",
       "navigationURL": "abg/ptreve",
-      "leftIcon": "action:store",
       "rightIcon": "",
       "queryParams": ""
     }
