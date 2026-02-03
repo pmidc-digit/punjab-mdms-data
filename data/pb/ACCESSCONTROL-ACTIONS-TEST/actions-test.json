@@ -25770,7 +25770,7 @@
       "enabled": true,
       "serviceCode": "OBPASBPAREPORTS",
       "path": "BUILDING PLAN REPORTS.Receipt Register BPA",
-      "navigationURL": "/ReceiptRegisterbpa",
+      "navigationURL": "/report/rainmaker-obpas_bpa/ReceiptRegisterbpa",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
