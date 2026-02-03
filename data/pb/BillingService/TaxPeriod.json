@@ -3,6 +3,30 @@
   "moduleName": "BillingService",
   "TaxPeriod": [
      {
+      "fromDate": 1767205800000,
+      "toDate": 1830277799999,
+      "periodCycle": "ANNUAL",
+      "service": "rl-services",
+      "code": "RL-2026-27",
+      "financialYear": "2026-27"
+    },
+    {
+      "fromDate": 1767205800000,
+      "toDate": 1830277799999,
+      "periodCycle": "BIANNUAL",
+      "service": "rl-services",
+      "code": "RL-2026-27",
+      "financialYear": "2026-27"
+    },
+    {
+      "fromDate": 1767205800000,
+      "toDate": 1830277799999,
+      "periodCycle": "QUATERLY",
+      "service": "rl-services",
+      "code": "RL-2026-27",
+      "financialYear": "2026-27"
+    },
+     {
       "fromDate": 1735669800000,
       "toDate": 1798741799999,
       "periodCycle": "ANNUAL",
