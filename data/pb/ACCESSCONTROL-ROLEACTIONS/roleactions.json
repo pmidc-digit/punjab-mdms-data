@@ -50332,6 +50332,12 @@
     },
     {
       "rolecode": "SUPERUSER",
+      "actionid": 22966,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SUPERUSER",
       "actionid": 2297,
       "actioncode": "",
       "tenantId": "pb"
@@ -51245,6 +51251,12 @@
     {
       "rolecode": "UC_EMP",
       "actionid": 2295,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "UC_EMP",
+      "actionid": 22966,
       "actioncode": "",
       "tenantId": "pb"
     },
@@ -53517,6 +53529,12 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "WS_CEMP",
+      "actionid": 22966,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "WS_APPROVER",
       "actionid": 1980,
       "actioncode": "",
@@ -53525,6 +53543,12 @@
     {
       "rolecode": "WS_CLERK",
       "actionid": 1980,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CLERK",
+      "actionid": 22966,
       "actioncode": "",
       "tenantId": "pb"
     },
