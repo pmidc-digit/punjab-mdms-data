@@ -27254,6 +27254,21 @@
       "queryParams": ""
     },
     {
+      "id": 8900150,
+      "name": "Bulk Meter Reading",
+      "url": "url",
+      "displayName": "Bulk Meter Reading",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "BG",
+      "code": "",
+      "path": "Bulk Meter Reading",
+      "navigationURL": "abg/bulkmeterreading",
+      "rightIcon": "",
+      "queryParams": ""
+    },
+    {
       "id": 8900146,
       "name": "Employee Count",
       "url": "/egov-hrms/employees/_count",
