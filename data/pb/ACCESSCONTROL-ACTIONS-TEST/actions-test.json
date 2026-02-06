@@ -8602,6 +8602,17 @@
       "path": ""
     },
     {
+      "id": 2200021,
+      "name": "Revenue Search ",
+      "url": "/egov-property-rate/property-rate/revenue/_mappedsearch",
+      "displayName": "Search Grind Data ",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "egov-property-rate-search",
+      "code": "null",
+      "path": ""
+    },	
+    {
       "id": 1949,
       "name": "propertytax Estimate v2",
       "url": "/pt-calculator-v2/propertytax/v2/_estimate",
