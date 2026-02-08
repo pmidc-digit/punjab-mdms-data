@@ -41601,6 +41601,18 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "SUPERUSER",
+      "actionid": 8900149,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 8900149,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "REV_APPROVER",
       "actionid": 2200020,
       "actioncode": "",
@@ -41608,7 +41620,7 @@
     },
     {
       "rolecode": "REV_APPROVER",
-      "actionid": 8900148,
+      "actionid": 8900149,
       "actioncode": "",
       "tenantId": "pb"
     },
@@ -41635,7 +41647,7 @@
       "actionid": 2200021,
       "actioncode": "",
       "tenantId": "pb"
-    },	
+    },
     {
       "rolecode": "PT_FIELD_INSPECTOR",
       "actionid": 1938,

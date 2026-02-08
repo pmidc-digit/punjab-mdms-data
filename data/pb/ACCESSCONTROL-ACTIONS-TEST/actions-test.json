@@ -8611,7 +8611,7 @@
       "serviceCode": "egov-property-rate-search",
       "code": "null",
       "path": ""
-    },	
+    },
     {
       "id": 1949,
       "name": "propertytax Estimate v2",
@@ -27261,6 +27261,21 @@
       "code": "",
       "path": "Property Revenue",
       "navigationURL": "abg/ptreve",
+      "rightIcon": "",
+      "queryParams": ""
+    },
+    {
+      "id": 8900149,
+      "name": "Property Revenue Mapped",
+      "url": "url",
+      "displayName": "Property Revenue Mapped",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "BG",
+      "code": "",
+      "path": "Property Revenue",
+      "navigationURL": "abg/ptmapped",
       "rightIcon": "",
       "queryParams": ""
     },
