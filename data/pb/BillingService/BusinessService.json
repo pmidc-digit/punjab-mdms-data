@@ -961,20 +961,6 @@
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
-      "businessService": "Rents.Community Centre Booking Fee",
-      "code": "RT.Community_Centre_Booking_Fee",
-      "collectionModesNotAllowed": [
-        ""
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": false,
-      "type": "Adhoc",
-      "cancelReceipt": true,
-      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
-    },
-    {
       "businessService": "Rents.Commercial Use of Municipal Land",
       "code": "RT.Commercial_Use_of_Municipal_Land",
       "collectionModesNotAllowed": [
