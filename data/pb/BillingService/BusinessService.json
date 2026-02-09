@@ -82,6 +82,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "type": "Adhoc",
+	  "isActive": false,
       "cancelReceipt": true,
       "demandUpdateTime": 86400000,
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
@@ -716,7 +717,7 @@
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc",
       "cancelReceipt": true,
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
@@ -982,7 +983,7 @@
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc",
       "cancelReceipt": true,
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
