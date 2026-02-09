@@ -72,21 +72,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": false
     },
-    {
-      "businessService": "Taxes.No Dues Certificate",
-      "code": "TX.No_Dues_Certificate",
-      "collectionModesNotAllowed": [
-        ""
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "type": "Adhoc",
-	  "isActive": false,
-      "cancelReceipt": true,
-      "demandUpdateTime": 86400000,
-      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
-    },
+    
     {
       "businessService": "Advertisement Tax.Hoardings",
       "code": "ADVT.Hoardings",
