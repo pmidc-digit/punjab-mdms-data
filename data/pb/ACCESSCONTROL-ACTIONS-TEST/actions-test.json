@@ -27260,7 +27260,7 @@
       "serviceCode": "BG",
       "code": "",
       "path": "Property Revenue",
-      "navigationURL": "abg/ptreve",
+      "navigationURL": "/abg/ptreve",
       "rightIcon": "",
       "queryParams": ""
     },
@@ -27275,7 +27275,7 @@
       "serviceCode": "BG",
       "code": "",
       "path": "Property Revenue",
-      "navigationURL": "abg/ptmapped",
+      "navigationURL": "/abg/ptmapped",
       "rightIcon": "",
       "queryParams": ""
     },
