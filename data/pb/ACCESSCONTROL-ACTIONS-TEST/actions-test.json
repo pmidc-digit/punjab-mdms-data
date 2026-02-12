@@ -27327,6 +27327,43 @@
       "serviceCode": "egov-esign",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 22968,
+      "name": "State Challan Detail Report",
+      "url": "url",
+      "displayName": "State Challan Detail Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "CHALLAN REPORTS",
+      "enabled": true,
+      "serviceCode": "CHALLANREPORTS",
+      "path": "State Reports.CHALLAN.StateChallan Detail Report",
+      "navigationURL": "report/rainmaker-ch/StateChallanDetailReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 22969,
+      "name": "State Challan Detail Report",
+      "url": "/report/rainmaker-ch/StateChallanDetailReport/metadata/_get",
+      "displayName": "State Challan Detail Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "CHALLANREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 22970,
+      "name": "State Challan Detail Report",
+      "url": "/report/rainmaker-ch/StateChallanDetailReport/_get",
+      "displayName": "State Challan Detail Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "CHALLANREPORTS",
+      "code": "null",
+      "path": ""
     }
   ]
 }
