@@ -3,6 +3,24 @@
   "moduleName": "ACCESSCONTROL-ROLEACTIONS",
   "roleactions": [
     {
+      "rolecode": "STADMIN",
+      "actionid": 22970,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 22969,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 22968,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "CHALLAN REPORTS",
       "actionid": 8900131,
       "actioncode": "",
