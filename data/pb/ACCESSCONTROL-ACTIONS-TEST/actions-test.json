@@ -27364,6 +27364,80 @@
       "serviceCode": "CHALLANREPORTS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 22973,
+      "name": "State Challan Defaulter Report",
+      "url": "url",
+      "displayName": "State Challan Defaulter Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "CHALLAN REPORTS",
+      "enabled": true,
+      "serviceCode": "CHALLANREPORTS",
+      "path": "State Reports.CHALLAN.StateChallanDefaulterReport",
+      "navigationURL": "report/rainmaker-ch/StateChallanDefaulterReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 22972,
+      "name": "State Challan Defaulter Report",
+      "url": "/report/rainmaker-ch/StateChallanDefaulterReport/metadata/_get",
+      "displayName": "State Challan Defaulter Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "CHALLANREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 22971,
+      "name": "State Challan Defaulter Report",
+      "url": "/report/rainmaker-ch/StateChallanDefaulterReport/_get",
+      "displayName": "",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "CHALLANREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 22974,
+      "name": "Challan Defaulter Report",
+      "url": "url",
+      "displayName": "Challan Defaulter Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "CHALLAN REPORTS",
+      "enabled": true,
+      "serviceCode": "CHALLANREPORTS",
+      "path": "CHALLAN Reports.Challan Detail Report",
+      "navigationURL": "report/rainmaker-ch/StateChallanDefaulterReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 22975,
+      "name": "Challan Defaulter Report",
+      "url": "/report/rainmaker-ch/ChallanDefaulterReport/metadata/_get",
+      "displayName": "Challan Defaulter Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "CHALLANREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 22976,
+      "name": "Challan Defaulter Report",
+      "url": "/report/rainmaker-ch/ChallanDefaulterReport/_get",
+      "displayName": "",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "CHALLANREPORTS",
+      "code": "null",
+      "path": ""
     }
   ]
 }
