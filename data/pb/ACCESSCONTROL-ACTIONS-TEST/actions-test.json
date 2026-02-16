@@ -27413,7 +27413,7 @@
       "enabled": true,
       "serviceCode": "CHALLANREPORTS",
       "path": "CHALLAN Reports.Challan Detail Report",
-      "navigationURL": "report/rainmaker-ch/StateChallanDefaulterReport",
+      "navigationURL": "report/rainmaker-ch/ChallanDefaulterReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
