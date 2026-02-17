@@ -5,11 +5,11 @@
     {
       "active": true,
       "billingCycle": "MONTHLY",
-      "taxPeriodFrom": 1767205800000,
-      "taxPeriodTo": 1769797800000,
+      "taxPeriodFrom": 1769884200000,
+      "taxPeriodTo": 1772303400000,
       "demandGenerationDateMillis": 432000000,
-      "demandEndDateMillis": 1769797800000,
-      "demandExpiryDate": 1771093800000
+      "demandEndDateMillis": 1772303400000,
+      "demandExpiryDate": 1773599400000
     },
     {
       "active": true,
