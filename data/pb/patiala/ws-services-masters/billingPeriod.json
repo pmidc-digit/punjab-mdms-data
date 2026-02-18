@@ -16,8 +16,8 @@
       "billingCycle": "quarterly",
       "demandEndDateMillis": 1382400000,
       "demandExpiryDate": 1382400000,
-      "taxPeriodFrom": 1751328000000,
-      "taxPeriodTo": 1759256999000,
+      "taxPeriodFrom": 1775001600000,
+      "taxPeriodTo": 1782844199000,
       "demandGenerationDateMillis": 345600000
     }
   ]
