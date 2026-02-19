@@ -1573,6 +1573,12 @@
       "name": "MDMS Admin",
       "description": "MDMS ADMIN",
       "groupId": "028"
+    },
+    {
+      "code": "OBPAS_UPDATE_ZONE",
+      "name": "OBPAS_UPDATE_ZONE",
+      "description": "BPA EO workflow Approver",
+      "groupId": "025"
     }
   ]
 }
