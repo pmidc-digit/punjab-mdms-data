@@ -25113,7 +25113,7 @@
         {
       "id": 8910973,
       "name": "Rent and LEase BillGenie",
-      "url": "egov-searcher/bill-genie/rentandleasebills/_get?",
+      "url": "/egov-searcher/bill-genie/rentandleasebills/_get?",
       "displayName": "Rent and Lease BillGenie",
       "orderNumber": 8,
       "enabled": false,
