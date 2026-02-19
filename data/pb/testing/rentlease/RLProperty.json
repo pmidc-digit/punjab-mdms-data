@@ -3525,7 +3525,7 @@
     {
       "propertyId": "PB-RL-PT2025000161",
       "propertyName": "Deed Ownership Villa",
-      "allotmentType": "Deed",
+      "allotmentType": "deed",
       "propertySizeOrArea": "15000",
       "address": "Plot No 1, Model Town, Ludhiana",
       "geoLocation": {
@@ -3547,7 +3547,7 @@
     {
       "propertyId": "PB-RL-PT2025000162",
       "propertyName": "Deed Commercial Plaza",
-      "allotmentType": "Deed",
+      "allotmentType": "deed",
       "propertySizeOrArea": "20000",
       "address": "Plot No 2, Industrial Area Phase 1, Mohali",
       "geoLocation": {
@@ -3569,7 +3569,7 @@
     {
       "propertyId": "PB-RL-PT2025000163",
       "propertyName": "Deed Industrial Plot",
-      "allotmentType": "Deed",
+      "allotmentType": "deed",
       "propertySizeOrArea": "50000",
       "address": "Plot No 3, Focal Point, Jalandhar",
       "geoLocation": {
@@ -3591,7 +3591,7 @@
     {
       "propertyId": "PB-RL-PT2025000164",
       "propertyName": "Deed Heritage Bungalow",
-      "allotmentType": "Deed",
+      "allotmentType": "deed",
       "propertySizeOrArea": "12000",
       "address": "Plot No 4, Civil Lines, Amritsar",
       "geoLocation": {
@@ -3613,7 +3613,7 @@
     {
       "propertyId": "PB-RL-PT2025000165",
       "propertyName": "Deed Shopping Complex",
-      "allotmentType": "Deed",
+      "allotmentType": "deed",
       "propertySizeOrArea": "35000",
       "address": "Plot No 5, Mall Road, Patiala",
       "geoLocation": {
