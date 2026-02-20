@@ -20,6 +20,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
+	  
     {
       "rolecode": "STADMIN",
       "actionid": 22971,
@@ -12718,6 +12719,12 @@
     },
     {
       "rolecode": "SUPERUSER",
+      "actionid": 1747,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	  {
+      "rolecode": "LOC_ADMIN",
       "actionid": 1747,
       "actioncode": "",
       "tenantId": "pb"
