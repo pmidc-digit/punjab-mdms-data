@@ -1585,6 +1585,12 @@
       "name": "OBPAS_NOC_ADC",
       "description": "OBPAS NOC workflow Approver",
       "groupId": "004"
-    }
+    },
+    {
+      "code": "LOC_ADMIN",
+      "name": "LOC ADMIN",
+      "description": "OBPAS NOC workflow Approver",
+      "groupId": ""
+    },
   ]
 }
