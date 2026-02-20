@@ -15506,6 +15506,18 @@
       ]
     },
     {
+      "module": "Workbench",
+      "code": "Workbench",
+      "order": 31,
+      "active": true,
+      "access": "",
+      "tenants": [
+        {
+          "code": "pb.punjab"
+        },
+      ]
+    },
+    {
       "module": "TradeLicense",
       "code": "TradeLicense",
       "order": 30,
