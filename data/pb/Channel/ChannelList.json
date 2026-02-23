@@ -1664,10 +1664,26 @@
       ]
     }
     ,
-    {
+     {
       "businessService": "chb-services",
       "module": "CHB",
-      "action": "INITIATE",
+      "action": "SUBMIT",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+     {
+      "businessService": "chb-services",
+      "module": "CHB",
+      "action": "PAY",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+        {
+      "businessService": "chb-services",
+      "module": "CHB",
+      "action": "CANCEL",
       "channelNames": [
         "SMS"
       ]
