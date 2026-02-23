@@ -866,6 +866,10 @@
       "idname": "garbageservice.connection.id"
     },
     {
+      "format": "GC/[CITY.CODE]/[seq_gc_receipt_id_[TENANT_ID]]",
+      "idname": "gc.receipt.id"
+    },
+    {
       "format": "GC-AP-[CITY.CODE]-[fy:yyyy-yy]-[SEQ_GC_APP_ID]",
       "idname": "garbageservice.application.id"
     },
