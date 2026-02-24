@@ -4547,10 +4547,71 @@
     },
 	  {
       "tenant": "pb.mohali",
+      "enabled": false,
+      "financialyear": "2025-26",
+      "isRented": false
+    },
+	  {
+      "tenant": "pb.sultanpurlodhi",
+      "enabled": false,
+      "financialyear": "2025-26",
+      "isRented": false
+    },
+	  {
+      "tenant": "pb.malout",
+      "enabled": false,
+      "financialyear": "2025-26",
+      "isRented": false
+    },
+	  {
+      "tenant": "pb.faridkot",
+      "enabled": false,
+      "financialyear": "2025-26",
+      "isRented": false
+    },
+	{
+      "tenant": "pb.kapurthala",
+      "enabled": false,
+      "financialyear": "2025-26",
+      "isRented": false
+    },
+	{
+      "tenant": "pb.phagwara",
+      "enabled": false,
+      "financialyear": "2025-26",
+      "isRented": false
+    },
+	{
+      "tenant": "pb.ajnala",
+      "enabled": false,
+      "financialyear": "2025-26",
+      "isRented": false
+    },
+	{
+      "tenant": "pb.zirakpur",
+      "enabled": false,
+      "financialyear": "2025-26",
+      "isRented": false
+    },
+	{
+      "tenant": "pb.kurali",
+      "enabled": false,
+      "financialyear": "2025-26",
+      "isRented": false
+    },
+	{
+      "tenant": "pb.derabassi",
+      "enabled": true,
+      "financialyear": "2025-26",
+      "isRented": false
+    },
+	{
+      "tenant": "pb.banur",
       "enabled": true,
       "financialyear": "2025-26",
       "isRented": false
     }
+
 	  
   ]
 }

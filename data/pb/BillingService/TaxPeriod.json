@@ -2249,6 +2249,14 @@
       "financialYear": "2024-25"
     },
     { 
+      "fromDate": 1680307200000,
+      "toDate": 1711909799000,
+      "periodCycle": "ANNUAL",
+      "service": "SW",
+      "code": "SW-2023-24",
+      "financialYear": "2023-24"
+    },
+    { 
       "fromDate": 1711929600000,
       "toDate": 1743445799000,
       "periodCycle": "ANNUAL",
@@ -3209,6 +3217,134 @@
       "financialYear": "2025-26",
       "periodCycle": "ANNUAL",
       "isActive": true
-    }
+    },
+	{
+	  "fromDate": 1743465600000,
+	  "toDate": 1775001599000,
+	  "periodCycle": "ANNUAL",
+	  "service": "obpas_noc",
+	  "code": "NOC",
+	  "financialYear": "2025-26"
+	},
+	{
+	  "fromDate": 1775001600000,
+	  "toDate": 1806537599000,
+	  "periodCycle": "ANNUAL",
+	  "service": "obpas_noc",
+	  "code": "NOC",
+	  "financialYear": "2026-27"
+	},
+	{
+	  "fromDate": 1743465600000,
+	  "toDate": 1775001599000,
+	  "periodCycle": "ANNUAL",
+	  "service": "CLU.PAY1",
+	  "code": "CLU_PROCESSING_FEE",
+	  "financialYear": "2025-26"
+	},
+	{
+	  "fromDate": 1743465600000,
+	  "toDate": 1775001599000,
+	  "periodCycle": "ANNUAL",
+	  "service": "CLU.PAY2",
+	  "code": "CLU_CLU_FEE",
+	  "financialYear": "2025-26"
+	},
+	{
+	  "fromDate": 1743465600000,
+	  "toDate": 1775001599000,
+	  "periodCycle": "ANNUAL",
+	  "service": "CLU.PAY2",
+	  "code": "CLU_EDC_FEE",
+	  "financialYear": "2025-26"
+	},
+	{
+	  "fromDate": 1743465600000,
+	  "toDate": 1775001599000,
+	  "periodCycle": "ANNUAL",
+	  "service": "CLU.PAY2",
+	  "code": "CLU_OTHER1_FEE",
+	  "financialYear": "2025-26"
+	},
+	{
+	  "fromDate": 1743465600000,
+	  "toDate": 1775001599000,
+	  "periodCycle": "ANNUAL",
+	  "service": "CLU.PAY2",
+	  "code": "CLU_OTHER2_FEE",
+	  "financialYear": "2025-26"
+	},
+	{
+	  "fromDate": 1743465600000,
+	  "toDate": 1775001599000,
+	  "periodCycle": "ANNUAL",
+	  "service": "CLU.PAY2",
+	  "code": "CLU_UDC_FEE",
+	  "financialYear": "2025-26"
+	},
+	{
+	  "fromDate": 1743465600000,
+	  "toDate": 1775001599000,
+	  "periodCycle": "ANNUAL",
+	  "service": "CLU.PAY2",
+	  "code": "CLU_LF_FEE",
+	  "financialYear": "2025-26"
+	},
+	{
+	  "fromDate": 1775001600000,
+	  "toDate": 1806537599000,
+	  "periodCycle": "ANNUAL",
+	  "service": "CLU.PAY1",
+	  "code": "CLU_PROCESSING_FEE",
+	  "financialYear": "2026-27"
+	},
+	{
+	  "fromDate": 1775001600000,
+	  "toDate": 1806537599000,
+	  "periodCycle": "ANNUAL",
+	  "service": "CLU.PAY2",
+	  "code": "CLU_CLU_FEE",
+	  "financialYear": "2026-27"
+	},
+	{
+	  "fromDate": 1775001600000,
+	  "toDate": 1806537599000,
+	  "periodCycle": "ANNUAL",
+	  "service": "CLU.PAY2",
+	  "code": "CLU_EDC_FEE",
+	  "financialYear": "2026-27"
+	},
+	{
+	  "fromDate": 1775001600000,
+	  "toDate": 1806537599000,
+	  "periodCycle": "ANNUAL",
+	  "service": "CLU.PAY2",
+	  "code": "CLU_OTHER1_FEE",
+	  "financialYear": "2026-27"
+	},
+	{
+	  "fromDate": 1775001600000,
+	  "toDate": 1806537599000,
+	  "periodCycle": "ANNUAL",
+	  "service": "CLU.PAY2",
+	  "code": "CLU_OTHER2_FEE",
+	  "financialYear": "2026-27"
+	},
+	{
+	  "fromDate": 1775001600000,
+	  "toDate": 1806537599000,
+	  "periodCycle": "ANNUAL",
+	  "service": "CLU.PAY2",
+	  "code": "CLU_UDC_FEE",
+	  "financialYear": "2026-27"
+	},
+	{
+	  "fromDate": 1775001600000,
+	  "toDate": 1806537599000,
+	  "periodCycle": "ANNUAL",
+	  "service": "CLU.PAY2",
+	  "code": "CLU_LF_FEE",
+	  "financialYear": "2026-27"
+	}
   ]
 }
