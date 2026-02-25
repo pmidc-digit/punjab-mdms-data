@@ -1510,7 +1510,7 @@
       "url": "/user/profile/_update",
       "displayName": "Profile Update",
       "orderNumber": 1,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "ADMIN",
       "code": "null",
       "path": "Administration.Profile Update"
