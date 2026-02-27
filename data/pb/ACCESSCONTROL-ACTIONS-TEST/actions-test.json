@@ -8304,6 +8304,17 @@
       "path": ""
     },
     {
+      "id": 10935,
+      "name": "Search Property on Ludhiana Block",
+      "url": "/property-services/api/fetchByBlock",
+      "displayName": "Search Property on Ludhiana Block",
+      "orderNumber": 3,
+      "enabled": true,
+      "serviceCode": "property-services",
+      "code": "null",
+      "path": ""
+    },
+    {
       "id": 1895,
       "name": "Create Property registry",
       "url": "/property-services/property/_create",

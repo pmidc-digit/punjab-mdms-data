@@ -41650,6 +41650,12 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "REV_CEMP",
+      "actionid": 10935,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "SUPERUSER",
       "actionid": 8900148,
       "actioncode": "",
