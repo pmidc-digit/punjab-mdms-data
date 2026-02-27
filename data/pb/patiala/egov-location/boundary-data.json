@@ -4994,7 +4994,7 @@
                   }
                 ]
               },
-		{
+			  {
                 "id": "c214649b-f421-894b-386a-9972625fe8c2",
                 "boundaryNum": 1,
                 "name": "Ward_OL",
@@ -5137,7 +5137,7 @@
                     "children": []
                   }
                 ]
-	    }	
+              }
             ]
           }
         ]
@@ -10924,6 +10924,150 @@
                     "label": "Locality",
                     "code": "PTA958",
                     "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+			  {
+                "id": "3fd39987-e72b-baf3-5ef0-c839136f143f",
+                "boundaryNum": 1,
+                "name": "Ward_OL",
+                "localname": "Ward_OL",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WOL",
+                "children": [
+                  {
+                    "id": "270e6b19-7291-a83e-4218-eab103463f27",
+                    "boundaryNum": 1,
+                    "name": "Urban Estate Phase 1",
+                    "localname": "Urban Estate Phase 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTA_366",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "d98bba15-2f6d-7c5d-de33-bb77071878d9",
+                    "boundaryNum": 1,
+                    "name": "Urban Estate Phase 2",
+                    "localname": "Urban Estate Phase 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTA_367",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "eecd6bf4-53d8-d91f-4807-1797a4afa9ee",
+                    "boundaryNum": 1,
+                    "name": "Urban Estate Phase 3",
+                    "localname": "Urban Estate Phase 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTA_368",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "123a67d2-8afa-c88e-1329-23620cd23812",
+                    "boundaryNum": 1,
+                    "name": "Urban Estate Phase 4",
+                    "localname": "Urban Estate Phase 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTA_369",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "dec0770b-cf87-ebec-e1b7-68b89235c2de",
+                    "boundaryNum": 1,
+                    "name": "Water Supply and Sewer",
+                    "localname": "Water Supply and Sewer",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTA_359",
+                    "area": "",
+                    "children": []
+                  },
+				  {
+                    "id": "b84d66ca-435b-f21f-6134-b2569d6f7cb8",
+                    "boundaryNum": 1,
+                    "name": "Road Work",
+                    "localname": "Road Work",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTA_370",
+                    "area": "",
+                    "children": []
+                  },
+				  {
+                    "id": "d04b2f47-c183-8a8d-4d82-3b4736e629d0",
+                    "boundaryNum": 1,
+                    "name": "Phulkian Enclave",
+                    "localname": "Phulkian Enclave",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTA_371",
+                    "area": "",
+                    "children": []
+                  },
+				  {
+                    "id": "b198d089-4312-5ce1-c127-830c9b7612b1",
+                    "boundaryNum": 1,
+                    "name": "PUDA Enclave-1",
+                    "localname": "PUDA Enclave-1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTA_372",
+                    "area": "",
+                    "children": []
+                  },
+				  {
+                    "id": "83ebf256-91b2-e720-d2a0-171430d7bf83",
+                    "boundaryNum": 1,
+                    "name": "PUDA Enclave-2",
+                    "localname": "PUDA Enclave-2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTA_373",
+                    "area": "",
+                    "children": []
+                  },
+				  {
+                    "id": "be8f60e0-fc2b-729d-8e85-934ab2c368be",
+                    "boundaryNum": 1,
+                    "name": "Lehal Mandal Site",
+                    "localname": "Lehal Mandal Site",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTA_374",
+                    "area": "",
+                    "children": []
+                  },
+				  {
+                    "id": "5221c96b-be59-e6a7-9fb4-70c870898552",
+                    "boundaryNum": 1,
+                    "name": "Hira Enclave-Nabha",
+                    "localname": "Hira Enclave-Nabha",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTA_374",
+                    "area": "",
                     "children": []
                   }
                 ]
