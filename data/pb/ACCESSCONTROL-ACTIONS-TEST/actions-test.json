@@ -23040,7 +23040,7 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-     {
+    {
       "id": 8900911,
       "name": "Bill Genie",
       "url": "url",
@@ -25110,7 +25110,7 @@
       "code": "RNL",
       "path": ""
     },
-        {
+    {
       "id": 8910973,
       "name": "Rent and LEase BillGenie",
       "url": "/egov-searcher/bill-genie/rentandleasebills/_get",
@@ -27466,7 +27466,7 @@
       "code": "null",
       "path": ""
     },
-	{
+    {
       "id": 22977,
       "name": "Search Meter Reading",
       "url": "/ws-calculator/meterConnection/_searchV2",
