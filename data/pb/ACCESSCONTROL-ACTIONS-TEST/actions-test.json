@@ -23040,7 +23040,7 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-     {
+    {
       "id": 8900911,
       "name": "Bill Genie",
       "url": "url",
@@ -25110,7 +25110,7 @@
       "code": "RNL",
       "path": ""
     },
-        {
+    {
       "id": 8910973,
       "name": "Rent and LEase BillGenie",
       "url": "/egov-searcher/bill-genie/rentandleasebills/_get",
@@ -27466,7 +27466,7 @@
       "code": "null",
       "path": ""
     },
-	{
+    {
       "id": 22977,
       "name": "Search Meter Reading",
       "url": "/ws-calculator/meterConnection/_searchV2",
@@ -27476,6 +27476,54 @@
       "serviceCode": "ws-calculator",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 22978,
+      "name": "Create New Survey",
+      "url": "url",
+      "displayName": "Create New Survey",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "Engagement",
+      "enabled": true,
+      "serviceCode": "Engagement",
+      "code": "null",
+      "path": "Engagement.Engagement Reports.HRMSEmployee wise Report",
+      "navigationURL": "/digit-ui/employee/engagement/surveys/create-survey-step-form",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 22979,
+      "name": "Active and Open Surveys",
+      "url": "url",
+      "displayName": "Active and Open Surveys",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "Engagement",
+      "enabled": true,
+      "serviceCode": "Engagement",
+      "code": "null",
+      "path": "Engagement.Engagement Reports.HRMSEmployee wise Report",
+      "navigationURL": "/digit-ui/employee/engagement/surveys/active-open-surveys",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 22980,
+      "name": "Surveys Inbox/Search Surveys",
+      "url": "url",
+      "displayName": "Surveys Inbox/Search Surveys",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "Engagement",
+      "enabled": true,
+      "serviceCode": "Engagement",
+      "code": "null",
+      "path": "Engagement.Engagement Reports.HRMSEmployee wise Report",
+      "navigationURL": "/digit-ui/employee/engagement/surveys/inbox",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
