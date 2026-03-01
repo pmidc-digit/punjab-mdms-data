@@ -398,7 +398,7 @@
         "startingDate": 1711929600000,
         "endingDate": 1743445799000,
         "active": true,
-        "visible": true,
+        "visible": false,
         "isActiveForPosting": true,
         "isClosed": false,
         "transferClosingBalance": false,
@@ -545,7 +545,7 @@
         "startingDate": 1774981800000,
         "endingDate": 1806517799000,
         "active": true,
-        "visible": false,
+        "visible": true,
         "isActiveForPosting": true,
         "isClosed": false,
         "transferClosingBalance": false,
@@ -722,6 +722,21 @@
         "isClosed": false,
         "transferClosingBalance": false,
         "module": "GC"
+      },
+      {
+        "id": "50",
+        "tenantId": "pb",
+        "finYearRange": "2029-30",
+        "name": "2028-29",
+        "code": "2028-29",
+        "startingDate": 1838140200000,
+        "endingDate": 1869632999000,
+        "active": true,
+        "visible": false,
+        "isActiveForPosting": true,
+        "isClosed": false,
+        "transferClosingBalance": false,
+        "module": "TL"
       }
     ]
   }
