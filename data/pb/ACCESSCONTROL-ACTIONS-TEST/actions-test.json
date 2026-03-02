@@ -27557,6 +27557,21 @@
       "navigationURL": "/digit-ui/employee/engagement/surveys/inbox",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 22981,
+      "name": "Revenue Property Summary",
+      "url": "url",
+      "displayName": "Revenue Property Summary",
+      "orderNumber": 4,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.Revenue Property Summary",
+      "navigationURL": "report/rainmaker-pt/Revenuepropertysummary",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }

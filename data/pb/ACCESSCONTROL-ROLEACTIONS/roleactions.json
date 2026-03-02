@@ -3,6 +3,12 @@
   "moduleName": "ACCESSCONTROL-ROLEACTIONS",
   "roleactions": [
     {
+      "rolecode": "PTSTADMIN",
+      "actionid": 22981,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "CHALLAN REPORTS",
       "actionid": 22974,
       "actioncode": "",
