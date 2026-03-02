@@ -769,6 +769,12 @@
       "description": "Accounts Officer",
       "code": "DESIG_126",
       "active": true
+    },
+    {
+      "name": "Patwari",
+      "description": "Revenue Patwari officer",
+      "code": "DESIG_127",
+      "active": true
     }
   ]
 }

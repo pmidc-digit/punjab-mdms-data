@@ -123,8 +123,8 @@
     },
     {
       "id": "OT18",
-      "name": "C&D WASTE",
-      "subCategoryId": "SC102",
+      "name": "For small storing & delivering construction and demolition materials upto 1 ton on unauthorized sites including public land/ along the roads/ streets etc.",
+      "subCategoryId": "SC105",
       "taxHeadCode": "CH.CHALLAN_FINE",
       "acts": ["ACT1"]
     },

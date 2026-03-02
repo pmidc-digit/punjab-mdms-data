@@ -20,7 +20,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-	  
+
     {
       "rolecode": "STADMIN",
       "actionid": 22971,
@@ -12723,7 +12723,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-	  {
+    {
       "rolecode": "LOC_ADMIN",
       "actionid": 1747,
       "actioncode": "",
@@ -41650,6 +41650,24 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "REV_CEMP",
+      "actionid": 10935,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+     {
+      "rolecode": "REV_CEMP",
+      "actionid": 10936,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+     {
+      "rolecode": "REV_CEMP",
+      "actionid": 10937,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "SUPERUSER",
       "actionid": 8900148,
       "actioncode": "",
@@ -68013,7 +68031,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-	{
+    {
       "rolecode": "EMPLOYEE",
       "actionid": 22977,
       "actioncode": "",
@@ -68025,7 +68043,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-	{
+    {
       "rolecode": "TL_CEMP",
       "actionid": 22977,
       "actioncode": "",
@@ -68066,13 +68084,13 @@
       "actionid": 8900903,
       "actioncode": "",
       "tenantId": "pb"
-    } ,
+    },
     {
       "rolecode": "OBPAS_UPDATE_ZONE",
       "actionid": 8900904,
       "actioncode": "",
       "tenantId": "pb"
-    } ,
+    },
     {
       "rolecode": "OBPAS_UPDATE_ZONE",
       "actionid": 5009,
@@ -68082,6 +68100,24 @@
     {
       "rolecode": "OBPAS_UPDATE_ZONE",
       "actionid": 5010,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SURVEY_ADMIN",
+      "actionid": 22978,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SURVEY_ADMIN",
+      "actionid": 22979,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SURVEY_ADMIN",
+      "actionid": 22980,
       "actioncode": "",
       "tenantId": "pb"
     }
