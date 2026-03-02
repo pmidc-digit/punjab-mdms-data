@@ -8314,6 +8314,28 @@
       "code": "null",
       "path": ""
     },
+     {
+      "id": 10936,
+      "name": "Search Bathinda Locality",
+      "url": "/property-services/api/Property/GetLocalitiesList",
+      "displayName": "Search Property on Ludhiana Block",
+      "orderNumber": 3,
+      "enabled": true,
+      "serviceCode": "property-services",
+      "code": "null",
+      "path": ""
+    },
+     {
+      "id": 10937,
+      "name": "Search Property on Bathinda  locality Base",
+      "url": "/property-services/api/Property/GetLocalityPropertiesList",
+      "displayName": "Search Property on Ludhiana Block",
+      "orderNumber": 3,
+      "enabled": true,
+      "serviceCode": "property-services",
+      "code": "null",
+      "path": ""
+    },
     {
       "id": 1895,
       "name": "Create Property registry",

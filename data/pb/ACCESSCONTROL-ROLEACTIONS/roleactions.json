@@ -41655,6 +41655,18 @@
       "actioncode": "",
       "tenantId": "pb"
     },
+     {
+      "rolecode": "REV_CEMP",
+      "actionid": 10936,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+     {
+      "rolecode": "REV_CEMP",
+      "actionid": 10937,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
     {
       "rolecode": "SUPERUSER",
       "actionid": 8900148,
