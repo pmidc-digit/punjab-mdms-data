@@ -25157,7 +25157,7 @@
     {
       "id": 8910974,
       "name": "Rent and LEase BillGenie",
-      "url": "/rl-calculator/v1/_generateBil",
+      "url": "/rl-calculator/v1/_generateBill",
       "displayName": "Rent and Lease Generate Bill",
       "orderNumber": 9,
       "enabled": true,
