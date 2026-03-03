@@ -25154,6 +25154,17 @@
       "code": "RNL",
       "path": ""
     },
+      {
+      "id": 8910974,
+      "name": "Rent and LEase BillGenie",
+      "url": "/rl-calculator/v1/_generateBil",
+      "displayName": "Rent and Lease Generate Bill",
+      "orderNumber": 9,
+      "enabled": true,
+      "serviceCode": "RENT_N_LEASE",
+      "code": "RNL",
+      "path": ""
+    },
     {
       "id": 8901000,
       "name": "RLCalculatorCalculate",
