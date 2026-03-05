@@ -775,6 +775,12 @@
       "description": "Revenue Patwari officer",
       "code": "DESIG_127",
       "active": true
+    },
+    {
+      "name": "Registry Clerk",
+      "description": "Revenue Registry Clerk",
+      "code": "DESIG_128",
+      "active": true
     }
   ]
 }
