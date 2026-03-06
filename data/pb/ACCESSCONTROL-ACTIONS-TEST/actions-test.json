@@ -27610,15 +27610,15 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "w_s.WS Reports.Demands and Bills.WSQuaterly_Bill_Generate",
-      "navigationURL": "report/rainmaker-ws/WSQuaterly_Bill_Generate",
+      "path": "w_s.WS Reports.Demands and Bills.WSTotal_Bill_Generate",
+      "navigationURL": "report/rainmaker-ws/WSTotal_Bill_Generate",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
     {
       "id": 22984,
       "name": "WS Total Bill Generate Report",
-      "url": "/report/rainmaker-ws/WSQuaterly_Bill_Generate/metadata/_get",
+      "url": "/report/rainmaker-ws/WSTotal_Bill_Generate/metadata/_get",
       "displayName": "WS Total Bill Generate Report",
       "orderNumber": 1,
       "enabled": true,
@@ -27629,7 +27629,7 @@
     {
       "id": 22985,
       "name": "WS Total Bill Generate Report",
-      "url": "/report/rainmaker-ws/WSQuaterly_Bill_Generate/_get",
+      "url": "/report/rainmaker-ws/WSTotal_Bill_Generate/_get",
       "displayName": "WS Total Bill Generate Report",
       "orderNumber": 1,
       "enabled": true,
