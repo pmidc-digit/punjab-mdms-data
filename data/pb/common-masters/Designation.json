@@ -781,6 +781,36 @@
       "description": "Revenue Registry Clerk",
       "code": "DESIG_128",
       "active": true
+    },
+    {
+      "name": "Chief Town Planner",
+      "description": "Chief Town Planner",
+      "code": "DESIG_128",
+      "active": true
+    },
+    {
+      "name": "Assistant Town Planner (Head Quarter)",
+      "description": "Assistant Town Planner (Head Quarter)",
+      "code": "DESIG_129",
+      "active": true
+    },
+    {
+      "name": "Municipal Town Planner  (Head Quarter)",
+      "description": "Municipal Town Planner (Head Quarter)",
+      "code": "DESIG_130",
+      "active": true
+    },
+    {
+      "name": "Senior Town Planner  (Head Quarter)",
+      "description": "Senior Town Planner  (Head Quarter)",
+      "code": "DESIG_131",
+      "active": true
+    },
+    {
+      "name": "Additional Deputy Commissioner",
+      "description": "Additional Deputy Commissioner",
+      "code": "DESIG_132",
+      "active": true
     }
   ]
 }
