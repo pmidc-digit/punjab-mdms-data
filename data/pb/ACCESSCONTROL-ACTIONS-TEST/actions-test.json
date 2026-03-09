@@ -27557,6 +27557,22 @@
       "navigationURL": "/digit-ui/employee/engagement/surveys/inbox",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 22981,
+      "name": "Search Application",
+      "url": "url",
+      "displayName": "Search Application",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "rainmaker-hrms",
+      "enabled": true,
+      "serviceCode": "obpas_noc",
+      "code": "null",
+      "path": "NDC.NDC Reports.HRMSEmployee wise Report",
+      "navigationURL": "/digit-ui/employee/noc/search/application",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
