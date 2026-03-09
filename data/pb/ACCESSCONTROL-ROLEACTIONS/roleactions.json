@@ -3,6 +3,12 @@
   "moduleName": "ACCESSCONTROL-ROLEACTIONS",
   "roleactions": [
     {
+      "rolecode": "PTSTADMIN",
+      "actionid": 22981,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "CHALLAN REPORTS",
       "actionid": 22974,
       "actioncode": "",
@@ -41655,13 +41661,13 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-     {
+    {
       "rolecode": "REV_CEMP",
       "actionid": 10936,
       "actioncode": "",
       "tenantId": "pb"
     },
-     {
+    {
       "rolecode": "REV_CEMP",
       "actionid": 10937,
       "actioncode": "",
@@ -66965,6 +66971,18 @@
     },
     {
       "rolecode": "RL_CEMP",
+      "actionid": 22982,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "RL_CEMP",
+      "actionid": 8910974,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "RL_CEMP",
       "actionid": 8910973,
       "actioncode": "",
       "tenantId": "pb"
@@ -68121,11 +68139,221 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-     {
-      "rolecode": "EMPLOYEE",
-      "actionid": 22981,
+    {
+      "rolecode": "WS_CEMP",
+      "actionid": 22983,
       "actioncode": "",
       "tenantId": "pb"
-    }
+    },
+    {
+      "rolecode": "WATER_REPORT_VIEWER",
+      "actionid": 22983,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 22983,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_FIELD_INSPECTOR",
+      "actionid": 22983,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 22983,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CLERK",
+      "actionid": 22983,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CEMP",
+      "actionid": 22984,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WATER_REPORT_VIEWER",
+      "actionid": 22984,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 22984,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_FIELD_INSPECTOR",
+      "actionid": 22984,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 22984,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CLERK",
+      "actionid": 22984,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CEMP",
+      "actionid": 22985,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WATER_REPORT_VIEWER",
+      "actionid": 22985,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 22985,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_FIELD_INSPECTOR",
+      "actionid": 22985,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 22985,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CLERK",
+      "actionid": 22985,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_CEMP",
+      "actionid": 22986,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SEWERAGE_REPORT_VIEWER",
+      "actionid": 22986,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_DOC_VERIFIER",
+      "actionid": 22986,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_FIELD_INSPECTOR",
+      "actionid": 22986,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_APPROVER",
+      "actionid": 22986,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_CLERK",
+      "actionid": 22986,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_CEMP",
+      "actionid": 22987,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SEWERAGE_REPORT_VIEWER",
+      "actionid": 22987,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_DOC_VERIFIER",
+      "actionid": 22987,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_FIELD_INSPECTOR",
+      "actionid": 22987,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_APPROVER",
+      "actionid": 22987,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_CLERK",
+      "actionid": 22987,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_CEMP",
+      "actionid": 22988,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SEWERAGE_REPORT_VIEWER",
+      "actionid": 22988,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_DOC_VERIFIER",
+      "actionid": 22988,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_FIELD_INSPECTOR",
+      "actionid": 22988,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_APPROVER",
+      "actionid": 22988,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_CLERK",
+      "actionid": 22988,
+      "actioncode": "",
+      "tenantId": "pb"
+    }                        
   ]
 }

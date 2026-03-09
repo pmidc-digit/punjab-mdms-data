@@ -1560,13 +1560,13 @@
       "code": "REV_CEMP",
       "name": "REVENUE COUNTER EMPLOYEE",
       "description": "Revenue Counter Employee",
-      "groupId": "014"
+      "groupId": "030"
     },
     {
       "code": "REV_APPROVER",
       "name": "REVENUE APPROVER",
       "description": "Revenue Approver",
-      "groupId": "014"
+      "groupId": "030"
     },
     {
       "code": "MDMS_ADMIN",
