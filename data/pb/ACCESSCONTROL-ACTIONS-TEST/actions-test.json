@@ -27686,7 +27686,7 @@
       "serviceCode": "obpas_noc",
       "code": "null",
       "path": "NOC.Search",
-      "navigationURL": "digit-ui/noc/search/application",
+      "navigationURL": "/digit-ui/employee/noc/search/application",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     }
