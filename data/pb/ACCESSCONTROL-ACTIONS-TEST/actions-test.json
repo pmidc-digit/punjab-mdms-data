@@ -27681,12 +27681,12 @@
       "displayName": "Search Application",
       "orderNumber": 1,
       "queryParams": "",
-      "parentModule": "rainmaker-hrms",
+      "parentModule": "",
       "enabled": true,
       "serviceCode": "obpas_noc",
       "code": "null",
-      "path": "NDC.NDC Reports.HRMSEmployee wise Report",
-      "navigationURL": "/digit-ui/employee/noc/search/application",
+      "path": "NOC.Search",
+      "navigationURL": "noc/search/application",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     }
