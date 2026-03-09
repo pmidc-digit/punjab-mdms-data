@@ -137,8 +137,8 @@
     {
       "code": "pb.begowal",
       "name": "Begowal",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.bhadaur",
@@ -437,8 +437,8 @@
     {
       "code": "pb.moonak",
       "name": "Moonak",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.morinda",
@@ -533,8 +533,8 @@
     {
       "code": "pb.ropar",
       "name": "Ropar",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.samrala",
@@ -600,7 +600,7 @@
       "code": "pb.handiaya",
       "name": "Handiaya",
       "iswater": false,
-      "issewerage": true
+      "issewerage": false
     },
     {
       "code": "pb.mamdot",
@@ -647,14 +647,14 @@
     {
       "code": "pb.sunam",
       "name": "Sunam",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.tapa",
       "name": "Tapa",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     }
   ]
 }
