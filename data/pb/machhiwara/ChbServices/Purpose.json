@@ -36,6 +36,11 @@
       "name": "Retirement Party",
       "code": "RETIREMENT_PARTY",
       "active": true
+    },
+        {
+      "name": "Bhog",
+      "code": "BHOG",
+      "active": true
     }
   ]
 }
