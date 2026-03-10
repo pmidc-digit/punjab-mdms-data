@@ -27673,6 +27673,22 @@
       "serviceCode": "WSREPORTS",
       "code": "null",
       "path": ""
-    }    
+    },
+    {
+      "id": 22989,
+      "name": "Search Application",
+      "url": "url",
+      "displayName": "Search Application",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "obpas_noc",
+      "code": "null",
+      "path": "NOC.Search",
+      "navigationURL": "/digit-ui/employee/noc/search/application",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    }
   ]
 }
