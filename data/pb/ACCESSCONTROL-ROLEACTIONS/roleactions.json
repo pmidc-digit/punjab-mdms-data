@@ -2,6 +2,42 @@
   "tenantId": "pb",
   "moduleName": "ACCESSCONTROL-ROLEACTIONS",
   "roleactions": [
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 22996,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_APPROVER",
+      "actionid": 22996,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PTCEMP",
+      "actionid": 22996,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 22995,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_APPROVER",
+      "actionid": 22995,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PTCEMP",
+      "actionid": 22995,
+      "actioncode": "",
+      "tenantId": "pb"
+    },              
     {      
       "rolecode": "EMPLOYEE",
       "actionid": 22994,
