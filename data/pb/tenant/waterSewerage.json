@@ -264,7 +264,7 @@
       "code": "pb.garhdiwala",
       "name": "Garhdiwala",
       "iswater": false,
-      "issewerage": false
+      "issewerage": true
     },
     {
       "code": "pb.ghanaur",
@@ -533,8 +533,8 @@
     {
       "code": "pb.ropar",
       "name": "Ropar",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.samrala",
@@ -638,7 +638,7 @@
       "iswater": false,
       "issewerage": false
     },
-     {  
+    {
       "code": "pb.khanauri",
       "name": "Khanauri",
       "iswater": false,
@@ -655,10 +655,12 @@
       "name": "Tapa",
       "iswater": false,
       "issewerage": false
+    },
+    {
+      "code": "pb.rayya",
+      "name": "Rayya",
+      "iswater": true,
+      "issewerage": true
     }
   ]
 }
-    
-  
-
-
