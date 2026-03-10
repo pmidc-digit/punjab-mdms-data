@@ -3,6 +3,24 @@
   "moduleName": "ACCESSCONTROL-ROLEACTIONS",
   "roleactions": [
     {
+      "rolecode": "EMPLOYEE",
+      "actionid": 22994,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PTSTADMIN",
+      "actionid": 22994,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PTSTADMIN",
+      "actionid": 22994,
+      "actioncode": "",
+      "tenantId": "pb"
+    },            
+    {
       "rolecode": "PTSTADMIN",
       "actionid": 22981,
       "actioncode": "",
