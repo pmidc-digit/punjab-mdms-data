@@ -21594,6 +21594,22 @@
       "navigationURL": "report/rainmaker-pt/ulbrevenuepropertymapping",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+      {
+      "id": 22998,
+      "name": "HRMS",
+      "url": "url",
+      "displayName": "OBPAS Employee Mapping",
+      "orderNumber": 4,
+      "queryParams": "",
+      "parentModule": "rainmaker-hrms",
+      "enabled": true,
+      "serviceCode": "HRMS",
+      "code": "null",
+      "path": "HRMS.Search",
+      "navigationURL": "/digit-ui/employee/hrms/empMaping",
+      "leftIcon": "social:people",
+      "rightIcon": ""
     }                     
   ]
 } 
