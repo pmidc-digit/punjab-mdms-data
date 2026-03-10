@@ -1004,6 +1004,90 @@
       "name": "REVENUE APPROVER",
       "description": "Revenue Approver",
       "groupId": "014"
+    },
+    {
+      "code": "OBPAS_LAYOUT_JE",
+      "name": "OBPAS_LAYOUT_JE",
+      "description": "OBPAS Layout workflow Approver",
+      "groupId": "012"
+    },
+    {
+      "code": "OBPAS_LAYOUT_BI",
+      "name": "OBPAS_LAYOUT_BI",
+      "description": "OBPAS Layout workflow Approver",
+      "groupId": "012"
+    },
+    {
+      "code": "OBPAS_LAYOUT_DM",
+      "name": "OBPAS_LAYOUT_DM",
+      "description": "OBPAS Layout workflow Approver",
+      "groupId": "012"
+    },
+    {
+      "code": "OBPAS_LAYOUT_ATP",
+      "name": "OBPAS_LAYOUT_ATP",
+      "description": "OBPAS Layout workflow Approver",
+      "groupId": "012"
+    },
+    {
+      "code": "OBPAS_LAYOUT_AME",
+      "name": "OBPAS_LAYOUT_AME",
+      "description": "OBPAS Layout workflow Approver",
+      "groupId": "012"
+    },
+    {
+      "code": "OBPAS_LAYOUT_MTP",
+      "name": "OBPAS_LAYOUT_MTP",
+      "description": "OBPAS Layout workflow Approver",
+      "groupId": "012"
+    },
+    {
+      "code": "OBPAS_LAYOUT_ME",
+      "name": "OBPAS_LAYOUT_ME",
+      "description": "OBPAS Layout workflow Approver",
+      "groupId": "012"
+    },
+    {
+      "code": "OBPAS_LAYOUT_JC",
+      "name": "OBPAS_LAYOUT_JC",
+      "description": "OBPAS Layout workflow Approver",
+      "groupId": "012"
+    },
+    {
+      "code": "OBPAS_LAYOUT_EO",
+      "name": "OBPAS_LAYOUT_EO",
+      "description": "OBPAS Layout workflow Approver",
+      "groupId": "012"
+    },
+    {
+      "code": "OBPAS_LAYOUT_STP(Field)",
+      "name": "OBPAS_LAYOUT_STP(Field)",
+      "description": "OBPAS Layout workflow Approver",
+      "groupId": "012"
+    },
+    {
+      "code": "OBPAS_LAYOUT_ATP(HQ)",
+      "name": "OBPAS_LAYOUT_ATP(HQ)",
+      "description": "OBPAS Layout workflow Approver",
+      "groupId": "012"
+    },
+    {
+      "code": "OBPAS_LAYOUT_STP(HQ))",
+      "name": "OBPAS_LAYOUT_STP(HQ)",
+      "description": "OBPAS Layout workflow Approver",
+      "groupId": "012"
+    },
+    {
+      "code": "OBPAS_LAYOUT_CMC",
+      "name": "OBPAS_LAYOUT_CMC",
+      "description": "OBPAS Layout workflow Approver",
+      "groupId": "012"
+    },
+    {
+      "code": "OBPAS_LAYOUT_ADC",
+      "name": "OBPAS_LAYOUT_ADC",
+      "description": "OBPAS Layout workflow Approver",
+      "groupId": "012"
     }
   ]
 }
