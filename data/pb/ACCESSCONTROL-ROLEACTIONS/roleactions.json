@@ -37015,6 +37015,12 @@
     "actionid": 7007,
     "actioncode": "",
     "tenantId": "pb"
-  }
+  },
+  {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 22998,
+      "actioncode": "",
+      "tenantId": "pb"
+    }
   ]
 }  
