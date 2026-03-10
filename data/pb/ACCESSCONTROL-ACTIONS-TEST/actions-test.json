@@ -15832,7 +15832,6 @@
       "orderNumber": 3,
       "enabled": true,
       "parentModule": "Swach",
-      "enabled": true,
       "serviceCode": "Swach",
       "code": "null",
       "path": "",
@@ -15851,7 +15850,6 @@
       "orderNumber": 3,
       "enabled": true,
       "parentModule": "Swach",
-      "enabled": true,
       "serviceCode": "Swach",
       "code": "null",
       "path": "",
@@ -16448,7 +16446,6 @@
       "url": "digit-ui-card",
       "displayName": "View Attendence",
       "orderNumber": 3,
-      "enabled": true,
       "parentModule": "Swach",
       "enabled": true,
       "serviceCode": "Swach",
@@ -21042,21 +21039,6 @@
       "sidebarURL": "/digit-ui/citizen/noc-home"
     },
     {
-      "id": 22981,
-      "name": "Revenue Property Summary",
-      "url": "url",
-      "displayName": "Revenue Property Summary",
-      "orderNumber": 4,
-      "queryParams": "",
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "",
-      "path": "State Reports.PT.Revenue Property Summary",
-      "navigationURL": "report/rainmaker-pt/Revenuepropertysummary",
-      "leftIcon": "action:assignment",
-      "rightIcon": ""
-    },
-    {
       "id": 8900102,
       "name": "State Receipt Register Challan",
       "url": "url",
@@ -21552,6 +21534,66 @@
       "serviceCode": "WSREPORTS",
       "code": "null",
       "path": ""
-    }      
+    },
+    {
+      "id": 22994,
+      "name": "Revenue Property Summary",
+      "url": "url",
+      "displayName": "Revenue Property Summary",
+      "orderNumber": 13,
+      "parentModule": "rainmaker-pt",
+      "enabled": true,
+      "serviceCode": "PT",
+      "code": "null",
+      "path": "State Reports.PT.Revenuepropertysummary",
+      "navigationURL": "report/rainmaker-pt/Revenuepropertysummary",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 22995,
+      "name": "Revenue Property Mapping Report",
+      "url": "url",
+      "displayName": "Revenue Property Mapping Report",
+      "orderNumber": 14,
+      "parentModule": "rainmaker-pt",
+      "enabled": true,
+      "serviceCode": "PT",
+      "code": "null",
+      "path": "State Reports.PT.Revenuepropertymapping",
+      "navigationURL": "report/rainmaker-pt/Revenuepropertymapping",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 22996,
+      "name": "Revenue Property Summary",
+      "url": "url",
+      "displayName": "Revenue Property Summary",
+      "orderNumber": 6,
+      "parentModule": "rainmaker-pt",
+      "enabled": true,
+      "serviceCode": "PT",
+      "code": "null",
+      "path": "Property Tax.PT Reports.Property Data.ulbrevenuepropertysummary",
+      "navigationURL": "report/rainmaker-pt/ulbrevenuepropertysummary",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 22997,
+      "name": "Revenue Property Mapping Report",
+      "url": "url",
+      "displayName": "Revenue Property Mapping Report",
+      "orderNumber": 7,
+      "parentModule": "rainmaker-pt",
+      "enabled": true,
+      "serviceCode": "PT",
+      "code": "null",
+      "path": "Property Tax.PT Reports.Property Data.ulbrevenuepropertymapping",
+      "navigationURL": "report/rainmaker-pt/ulbrevenuepropertymapping",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    }                     
   ]
 } 

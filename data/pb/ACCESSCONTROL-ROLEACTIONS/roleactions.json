@@ -4,6 +4,30 @@
   "roleactions": [
     {
       "rolecode": "STADMIN",
+      "actionid": 22994,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 22995,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ULB_ADMINISTRATOR_REPORTS",
+      "actionid": 22996,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ULB_ADMINISTRATOR_REPORTS",
+      "actionid": 22997,
+      "actioncode": "",
+      "tenantId": "pb"
+    },                
+    {
+      "rolecode": "STADMIN",
       "actionid": 22985,
       "actioncode": "",
       "tenantId": "pb"
@@ -35554,37 +35578,37 @@
 	},
   {
     "rolecode": "WS_CEMP",
-    "actionid": 22993,
+    "actionid": 22988,
     "actioncode": "",
     "tenantId": "pb"
   },
   {
     "rolecode": "WATER_REPORT_VIEWER",
-    "actionid": 22993,
+    "actionid": 22988,
     "actioncode": "",
     "tenantId": "pb"
   },
   {
     "rolecode": "WS_DOC_VERIFIER",
-    "actionid": 22993,
+    "actionid": 22988,
     "actioncode": "",
     "tenantId": "pb"
   },
   {
     "rolecode": "WS_FIELD_INSPECTOR",
-    "actionid": 22993,
+    "actionid": 22988,
     "actioncode": "",
     "tenantId": "pb"
   },
   {
     "rolecode": "WS_APPROVER",
-    "actionid": 22993,
+    "actionid": 22988,
     "actioncode": "",
     "tenantId": "pb"
   },
   {
     "rolecode": "WS_CLERK",
-    "actionid": 22993,
+    "actionid": 22988,
     "actioncode": "",
     "tenantId": "pb"
   },
