@@ -144,7 +144,7 @@
             "name": "FIRENOC",
             "label": "ACTION_TEST_FIRENOC",
             "enabled": true,
-            "navigationUrl": "/digit-ui/citizen/home"
+            "navigationUrl": "/digit-ui/citizen/firenoc-home"
           }
         ]
       },
