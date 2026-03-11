@@ -1,7 +1,7 @@
 {
   "tenantId": "pb",
   "moduleName": "ACCESSCONTROL-ROLEACTIONS",
-  "roleactions": [
+  "roleactions": [  
     {
       "rolecode": "STADMIN",
       "actionid": 22994,
@@ -20,6 +20,30 @@
       "actioncode": "",
       "tenantId": "pb"
     },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 111783,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 111784,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 111785,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 111786,
+      "actioncode": "",
+      "tenantId": "pb"
+    },            
     {
       "rolecode": "ULB_ADMINISTRATOR_REPORTS",
       "actionid": 22997,
