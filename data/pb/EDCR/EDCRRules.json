@@ -670,6 +670,1904 @@
 					}
 				},
 				{
+					"OccupancyType": "A-AIF",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Independent Floor",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 250,
+								"normal": 2.6,
+								"purchasable": 1.00
+							},
+							{
+								"min": 251,
+								"max": 350,
+								"normal": 2.4,
+								"purchasable": 1.00
+							},
+							{
+								"min": 351,
+								"max": 450,
+								"normal": 2.0,
+								"purchasable": 1.00
+							},
+							{
+								"min": 451,
+								"max": 9999,
+								"normal": 2.0,
+								"purchasable": 1.00
+							}
+						]
+					},
+					"roadWidth": {
+						"mandatory": true,
+						"type": "RANGE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": {
+							"min": 12,
+							"max": 0
+						}
+					},
+					"height": {
+						"mandatory": true,
+						"type": "MULTI",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": {
+							"fixed": 15,
+							"withStilt": 17.5,
+							"byRoadWidth": {
+								"type": "SLAB",
+								"valueType": "DOUBLE",
+								"value": [
+									{
+										"min": 2.75,
+										"max": 15,
+										"value": 12
+									}
+								]
+							}
+						}
+					},
+					"setbacks": {
+						"type": "MAP",
+						"valueType": "OBJECT",
+						"value": {
+							"front": {
+								"mandatory": true,
+								"type": "SLAB",
+								"valueType": "DOUBLE",
+								"unit": "m",
+								"value": [
+									{
+										"min": 0,
+										"max": 250,
+										"value": 2.0
+									},
+									{
+										"min": 251,
+										"max": 350,
+										"value": 2.0
+									},
+									{
+										"min": 351,
+										"max": 450,
+										"value": 2.0
+									},
+									{
+										"min": 451,
+										"max": 9999,
+										"value": 2.0
+									}
+								]
+							},
+							"rear": {
+								"mandatory": true,
+								"type": "SLAB",
+								"valueType": "DOUBLE",
+								"unit": "m",
+								"value": [
+									{
+										"min": 0,
+										"max": 250,
+										"value": 2.0
+									},
+									{
+										"min": 251,
+										"max": 350,
+										"value": 2.0
+									},
+									{
+										"min": 351,
+										"max": 450,
+										"value": 2.0
+									},
+									{
+										"min": 451,
+										"max": 9999,
+										"value": 2.0
+									}
+								]
+							},
+							"side1": {
+								"mandatory": true,
+								"type": "MATH_MAX",
+								"valueType": "DOUBLE",
+								"unit": "m",
+								"value": {
+									"divisor": 5,
+									"default": 1.5
+								}
+							},
+							"side2": {
+								"mandatory": true,
+								"type": "MATH_MAX",
+								"valueType": "DOUBLE",
+								"unit": "m",
+								"value": {
+									"divisor": 5,
+									"default": 1.5
+								}
+							}
+						}
+					},
+					"siteCoverage": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 0,
+								"max": 250,
+								"percentage": 65
+							},
+							{
+								"min": 251,
+								"max": 350,
+								"percentage": 60
+							},
+							{
+								"min": 351,
+								"max": 450,
+								"percentage": 50
+							},
+							{
+								"min": 451,
+								"max": 9999,
+								"percentage": 40
+							}
+						]
+					},
+					"parking": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 120,
+								"twoWheelerSpaces": 2,
+								"ECS": 1.5
+							},
+							{
+								"min": 121,
+								"max": 300,
+								"twoWheelerSpaces": 0,
+								"ECS": 2
+							},
+							{
+								"min": 301,
+								"max": 9999,
+								"twoWheelerSpaces": 0,
+								"ECS": 3
+							}
+						]
+					},
+					"noOfFloorsAllowed": {
+						"mandatory": true,
+						"type": "SIMPLE",
+						"valueType": "STRING",
+						"value": "Stilt+4"
+					},
+					"generalStaircase": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"landingWidth": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.0,
+									"max": 0.76,
+									"default": 1.5
+								}
+							},
+							"numberOfRisers": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.0,
+									"max": 12
+								}
+							},
+							"riserHeight": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.0,
+									"max": 0.19
+								}
+							},
+							"treadWidth": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.0,
+									"max": 0.25,
+									"default": 0.3
+								}
+							},
+							"width": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.0,
+									"max": 0.76,
+									"default": 1.5
+								}
+							},
+							"height": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.75,
+									"max": 9999999999
+								}
+							},
+							"riserValidation": {
+								"mandatory": true,
+								"type": "SIMPLE",
+								"value": {
+									"mandatoryForAllFloorsExceptTop": true
+								}
+							}
+						}
+					},
+					"fireStaircase": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"landingWidth": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.0,
+									"max": 0.76,
+									"default": 1.5
+								}
+							},
+							"numberOfRisers": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.0,
+									"max": 12
+								}
+							},
+							"riserHeight": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.0,
+									"max": 0.19
+								}
+							},
+							"treadWidth": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.0,
+									"max": 0.25,
+									"default": 0.3
+								}
+							},
+							"width": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.0,
+									"max": 0.76,
+									"default": 1.5
+								}
+							},
+							"height": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.75,
+									"max": 9999999999
+								}
+							},
+							"riserValidation": {
+								"mandatory": true,
+								"type": "SIMPLE",
+								"value": {
+									"mandatoryForAllFloorsExceptTop": true
+								}
+							}
+						}
+					},
+					"regularRoom": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"ventilation": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 20,
+									"max": 9999999999
+								}
+							},
+							"area": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 7.5,
+									"max": 46.45
+								}
+							},
+							"width": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 9999999999
+								}
+							},
+							"height": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.75,
+									"max": 9999999999
+								}
+							}
+						}
+					},
+					"door": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"height": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.0,
+									"max": 9999999999
+								}
+							},
+							"width": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 9999999999
+								}
+							}
+						}
+					},
+					"window": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"height": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.6,
+									"max": 9999999999
+								}
+							},
+							"width": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 9999999999
+								}
+							}
+						}
+					},
+					"nonHabitationDoor": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"height": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.6,
+									"max": 9999999999
+								}
+							},
+							"width": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 20,
+									"max": 9999999999
+								}
+							}
+						}
+					},
+					"residentialAcRoom": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"height": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.75,
+									"max": 9999999999
+								}
+							},
+							"width": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 9999999999
+								}
+							}
+						}
+					},
+					"kitchen": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"area": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 5,
+									"max": 0.0
+								}
+							},
+							"width": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 1.8,
+									"max": 0.0
+								}
+							},
+							"height": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.75,
+									"max": 0.0
+								}
+							},
+							"storeArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 4.5,
+									"max": 0.0
+								}
+							},
+							"storewidth": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 1.8,
+									"max": 0.0
+								}
+							},
+							"diningArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 7.5,
+									"max": 0.0
+								}
+							},
+							"diningwidth": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.1,
+									"max": 0.0
+								}
+							}
+						}
+					},
+					"plantationArea": {
+						"mandatory": true,
+						"type": "SIMPLE",
+						"valueType": "INTEGER",
+						"unit": "percent",
+						"value": 5
+					},
+					"toilet": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"ventilation": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.3,
+									"max": 0.0
+								}
+							},
+							"area": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 1.8,
+									"max": 0.0
+								}
+							},
+							"width": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.3,
+									"max": 0.0
+								}
+							}
+						}
+					},
+					"heightExclusions": {
+						"mandatory": false,
+						"type": "MAP",
+						"valueType": "OBJECT",
+						"value": {
+							"parapet": true,
+							"waterTank": true,
+							"mumty": true
+						}
+					},
+					"twoStreetPlots": {
+						"mandatory": false,
+						"type": "MAP",
+						"valueType": "OBJECT",
+						"value": {
+							"frontSetbackBothRoads": {
+								"type": "STRING",
+								"valueType": "STRING",
+								"mandatory": true,
+								"value": "compulsory"
+							},
+							"coverageCompensation": {
+								"type": "STRING",
+								"valueType": "STRING",
+								"mandatory": true,
+								"value": "FAR"
+							}
+						}
+					}
+				},
+				{
+					"OccupancyType": "A-FH",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Farmhouse",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 10000,
+								"max": 20000,
+								"normal": 1.0,
+								"purchasable": 1.0
+							},
+							{
+								"min": 20001,
+								"max": 2147483647,
+								"normal": 1.5,
+								"purchasable": 0.0
+							}
+						]
+					},
+					"roadWidth": {
+						"mandatory": true,
+						"type": "RANGE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": {
+							"min": 0,
+							"max": 2147483647
+						}
+					},
+					"height": {
+						"mandatory": true,
+						"type": "MULTI",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": {
+							"fixed": 15,
+							"withStilt": 17.5,
+							"byRoadWidth": {
+								"type": "SLAB",
+								"valueType": "DOUBLE",
+								"value": [
+									{
+										"min": 10000,
+										"max": 20000,
+										"value": 6
+									},
+									{
+										"min": 20001,
+										"max": 2147483647,
+										"value": 6
+									}
+								]
+							}
+						}
+					},
+					"setbacks": {
+						"type": "MAP",
+						"valueType": "OBJECT",
+						"value": {
+							"front": {
+								"mandatory": true,
+								"type": "SLAB",
+								"valueType": "DOUBLE",
+								"unit": "m",
+								"value": [
+									{
+										"min": 10000,
+										"max": 20000,
+										"value": 15.0
+									},
+									{
+										"min": 20001,
+										"max": 2147483647,
+										"value": 15.0
+									}
+								]
+							},
+							"rear": {
+								"mandatory": true,
+								"type": "SLAB",
+								"valueType": "DOUBLE",
+								"unit": "m",
+								"value": [
+									{
+										"min": 10000,
+										"max": 20000,
+										"value": 15.0
+									},
+									{
+										"min": 20001,
+										"max": 2147483647,
+										"value": 15.0
+									}
+								]
+							},
+							"side1": {
+								"mandatory": true,
+								"type": "MATH_MAX",
+								"valueType": "DOUBLE",
+								"unit": "m",
+								"value": {
+									"divisor": 5,
+									"default": 1.5
+								}
+							},
+							"side2": {
+								"mandatory": true,
+								"type": "MATH_MAX",
+								"valueType": "DOUBLE",
+								"unit": "m",
+								"value": {
+									"divisor": 5,
+									"default": 1.5
+								}
+							}
+						}
+					},
+					"siteCoverage": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"unit": "percent",
+						"value": [
+							{
+								"min": 10000,
+								"max": 20000,
+								"percentage": 5.0
+							},
+							{
+								"min": 20001,
+								"max": 2147483647,
+								"percentage": 5.0
+							}
+						]
+					},
+					"parking": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 120,
+								"twoWheelerSpaces": 2,
+								"ECS": 1.5
+							},
+							{
+								"min": 121,
+								"max": 300,
+								"twoWheelerSpaces": 0,
+								"ECS": 2
+							},
+							{
+								"min": 301,
+								"max": 9999,
+								"twoWheelerSpaces": 0,
+								"ECS": 3
+							}
+						]
+					},
+					"noOfFloorsAllowed": {
+						"mandatory": true,
+						"type": "SIMPLE",
+						"valueType": "STRING",
+						"value": "Stilt+4"
+					},
+					"generalStaircase": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"landingWidth": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.0,
+									"max": 0.76,
+									"default": 1.5
+								}
+							},
+							"numberOfRisers": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.0,
+									"max": 12
+								}
+							},
+							"riserHeight": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.0,
+									"max": 0.19
+								}
+							},
+							"treadWidth": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.0,
+									"max": 0.25,
+									"default": 0.3
+								}
+							},
+							"width": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.0,
+									"max": 0.76,
+									"default": 1.5
+								}
+							},
+							"height": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.75,
+									"max": 9999999999
+								}
+							},
+							"riserValidation": {
+								"mandatory": true,
+								"type": "SIMPLE",
+								"value": {
+									"mandatoryForAllFloorsExceptTop": true
+								}
+							}
+						}
+					},
+					"fireStaircase": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"landingWidth": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.0,
+									"max": 0.76,
+									"default": 1.5
+								}
+							},
+							"numberOfRisers": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.0,
+									"max": 12
+								}
+							},
+							"riserHeight": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.0,
+									"max": 0.19
+								}
+							},
+							"treadWidth": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.0,
+									"max": 0.25,
+									"default": 0.3
+								}
+							},
+							"width": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.0,
+									"max": 0.76,
+									"default": 1.5
+								}
+							},
+							"height": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.75,
+									"max": 9999999999
+								}
+							},
+							"riserValidation": {
+								"mandatory": true,
+								"type": "SIMPLE",
+								"value": {
+									"mandatoryForAllFloorsExceptTop": true
+								}
+							}
+						}
+					},
+					"regularRoom": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"ventilation": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 20,
+									"max": 9999999999
+								}
+							},
+							"area": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 7.5,
+									"max": 46.45
+								}
+							},
+							"width": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 9999999999
+								}
+							},
+							"height": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.75,
+									"max": 9999999999
+								}
+							}
+						}
+					},
+					"door": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"height": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.0,
+									"max": 9999999999
+								}
+							},
+							"width": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 9999999999
+								}
+							}
+						}
+					},
+					"window": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"height": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.6,
+									"max": 9999999999
+								}
+							},
+							"width": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 9999999999
+								}
+							}
+						}
+					},
+					"nonHabitationDoor": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"height": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.6,
+									"max": 9999999999
+								}
+							},
+							"width": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 20,
+									"max": 9999999999
+								}
+							}
+						}
+					},
+					"residentialAcRoom": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"height": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.75,
+									"max": 9999999999
+								}
+							},
+							"width": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 9999999999
+								}
+							}
+						}
+					},
+					"kitchen": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"area": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 5,
+									"max": 0.0
+								}
+							},
+							"width": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 1.8,
+									"max": 0.0
+								}
+							},
+							"height": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.75,
+									"max": 0.0
+								}
+							},
+							"storeArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 4.5,
+									"max": 0.0
+								}
+							},
+							"storewidth": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 1.8,
+									"max": 0.0
+								}
+							},
+							"diningArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 7.5,
+									"max": 0.0
+								}
+							},
+							"diningwidth": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.1,
+									"max": 0.0
+								}
+							}
+						}
+					},
+					"plantationArea": {
+						"mandatory": true,
+						"type": "SIMPLE",
+						"valueType": "INTEGER",
+						"unit": "percent",
+						"value": 5
+					},
+					"toilet": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"ventilation": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.3,
+									"max": 0.0
+								}
+							},
+							"area": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 1.8,
+									"max": 0.0
+								}
+							},
+							"width": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.3,
+									"max": 0.0
+								}
+							}
+						}
+					},
+					"heightExclusions": {
+						"mandatory": false,
+						"type": "MAP",
+						"valueType": "OBJECT",
+						"value": {
+							"parapet": true,
+							"waterTank": true,
+							"mumty": true
+						}
+					},
+					"twoStreetPlots": {
+						"mandatory": false,
+						"type": "MAP",
+						"valueType": "OBJECT",
+						"value": {
+							"frontSetbackBothRoads": {
+								"type": "STRING",
+								"valueType": "STRING",
+								"mandatory": true,
+								"value": "compulsory"
+							},
+							"coverageCompensation": {
+								"type": "STRING",
+								"valueType": "STRING",
+								"mandatory": true,
+								"value": "FAR"
+							}
+						}
+					}
+				},
+				{
+					"OccupancyType": "A-AF",
+					"occVersion": "1.0.0",
+					"OccupancyName": "Apartment/Flat",
+					"isActive": true,
+					"FAR": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 2000,
+								"max": 2147483647,
+								"normal": 1.2,
+								"purchasable": 1.0
+							}
+						]
+					},
+					"roadWidth": {
+						"mandatory": true,
+						"type": "RANGE",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": {
+							"min": 18,
+							"max": 2147483647
+						}
+					},
+					"height": {
+						"mandatory": true,
+						"type": "MULTI",
+						"valueType": "DOUBLE",
+						"unit": "m",
+						"value": {
+							"fixed": 15,
+							"withStilt": 17.5,
+							"byRoadWidth": {
+								"type": "SLAB",
+								"valueType": "DOUBLE",
+								"value": [
+									{
+										"min": 10,
+										"max": 2147483647,
+										"value": 0
+									}
+								]
+							}
+						}
+					},
+					"setbacks": {
+						"type": "MAP",
+						"valueType": "OBJECT",
+						"value": {
+							"front": {
+								"mandatory": true,
+								"type": "SLAB",
+								"valueType": "DOUBLE",
+								"unit": "m",
+								"value": [
+									{
+										"min": 10,
+										"max": 99,
+										"value": 3.0
+									},
+									{
+										"min": 15,
+										"max": 99,
+										"value": 5.0
+									},
+									{
+										"min": 18,
+										"max": 99,
+										"value": 6.0
+									},
+									{
+										"min": 21,
+										"max": 99,
+										"value": 7.0
+									},
+									{
+										"min": 24,
+										"max": 99,
+										"value": 8.0
+									},
+									{
+										"min": 27,
+										"max": 99,
+										"value": 9.0
+									},
+									{
+										"min": 30,
+										"max": 99,
+										"value": 10.0
+									},
+									{
+										"min": 35,
+										"max": 99,
+										"value": 11.0
+									},
+									{
+										"min": 40,
+										"max": 99,
+										"value": 12.0
+									},
+									{
+										"min": 45,
+										"max": 99,
+										"value": 13.0
+									},
+									{
+										"min": 50,
+										"max": 99,
+										"value": 14.0
+									},
+									{
+										"min": 55,
+										"max": 99,
+										"value": 15.0
+									}
+								]
+							},
+							"rear": {
+								"mandatory": true,
+								"type": "SLAB",
+								"valueType": "DOUBLE",
+								"unit": "m",
+								"value": [
+									{
+										"min": 10,
+										"max": 99,
+										"value": 3.0
+									},
+									{
+										"min": 15,
+										"max": 99,
+										"value": 5.0
+									},
+									{
+										"min": 18,
+										"max": 99,
+										"value": 6.0
+									},
+									{
+										"min": 21,
+										"max": 99,
+										"value": 7.0
+									},
+									{
+										"min": 24,
+										"max": 99,
+										"value": 8.0
+									},
+									{
+										"min": 27,
+										"max": 99,
+										"value": 9.0
+									},
+									{
+										"min": 30,
+										"max": 99,
+										"value": 10.0
+									},
+									{
+										"min": 35,
+										"max": 99,
+										"value": 11.0
+									},
+									{
+										"min": 40,
+										"max": 99,
+										"value": 12.0
+									},
+									{
+										"min": 45,
+										"max": 99,
+										"value": 13.0
+									},
+									{
+										"min": 50,
+										"max": 99,
+										"value": 14.0
+									},
+									{
+										"min": 55,
+										"max": 99,
+										"value": 15.0
+									}
+								]
+							},
+							"side1": {
+								"mandatory": true,
+								"type": "MATH_MAX",
+								"valueType": "DOUBLE",
+								"unit": "m",
+								"value": [{
+									"min": 10,
+									"max": 99,
+									"value": 3.0
+								},
+									{
+										"min": 15,
+										"max": 99,
+										"value": 5.0
+									},
+									{
+										"min": 18,
+										"max": 99,
+										"value": 6.0
+									},
+									{
+										"min": 21,
+										"max": 99,
+										"value": 7.0
+									},
+									{
+										"min": 24,
+										"max": 99,
+										"value": 8.0
+									},
+									{
+										"min": 27,
+										"max": 99,
+										"value": 9.0
+									},
+									{
+										"min": 30,
+										"max": 99,
+										"value": 10.0
+									},
+									{
+										"min": 35,
+										"max": 99,
+										"value": 11.0
+									},
+									{
+										"min": 40,
+										"max": 99,
+										"value": 12.0
+									},
+									{
+										"min": 45,
+										"max": 99,
+										"value": 13.0
+									},
+									{
+										"min": 50,
+										"max": 99,
+										"value": 14.0
+									},
+									{
+										"min": 55,
+										"max": 99,
+										"value": 15.0
+									}
+								]
+							},
+							"side2": {
+								"mandatory": true,
+								"type": "MATH_MAX",
+								"valueType": "DOUBLE",
+								"unit": "m",
+								"value": [
+									{
+										"min": 10,
+										"max": 99,
+										"value": 3.0
+									},
+									{
+										"min": 15,
+										"max": 99,
+										"value": 5.0
+									},
+									{
+										"min": 18,
+										"max": 99,
+										"value": 6.0
+									},
+									{
+										"min": 21,
+										"max": 99,
+										"value": 7.0
+									},
+									{
+										"min": 24,
+										"max": 99,
+										"value": 8.0
+									},
+									{
+										"min": 27,
+										"max": 99,
+										"value": 9.0
+									},
+									{
+										"min": 30,
+										"max": 99,
+										"value": 10.0
+									},
+									{
+										"min": 35,
+										"max": 99,
+										"value": 11.0
+									},
+									{
+										"min": 40,
+										"max": 99,
+										"value": 12.0
+									},
+									{
+										"min": 45,
+										"max": 99,
+										"value": 13.0
+									},
+									{
+										"min": 50,
+										"max": 99,
+										"value": 14.0
+									},
+									{
+										"min": 55,
+										"max": 99,
+										"value": 15.0
+									}
+								]
+							}
+						}
+					},
+					"siteCoverage": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "DOUBLE",
+						"unit": "val",
+						"value":[
+							{
+								"min": 2000,
+								"max": 2147483647,
+								"value": 35.0
+							}
+						]
+					},
+					"parking": {
+						"mandatory": true,
+						"type": "SLAB",
+						"valueType": "OBJECT",
+						"value": [
+							{
+								"min": 0,
+								"max": 120,
+								"twoWheelerSpaces": 2,
+								"ECS": 1.5
+							},
+							{
+								"min": 121,
+								"max": 300,
+								"twoWheelerSpaces": 0,
+								"ECS": 2
+							},
+							{
+								"min": 301,
+								"max": 9999,
+								"twoWheelerSpaces": 0,
+								"ECS": 3
+							}
+						]
+					},
+					"noOfFloorsAllowed": {
+						"mandatory": true,
+						"type": "SIMPLE",
+						"valueType": "STRING",
+						"value": "Stilt+4"
+					},
+					"generalStaircase": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"landingWidth": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.0,
+									"max": 0.76,
+									"default": 1.5
+								}
+							},
+							"numberOfRisers": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.0,
+									"max": 12
+								}
+							},
+							"riserHeight": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.0,
+									"max": 0.19
+								}
+							},
+							"treadWidth": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.0,
+									"max": 0.25,
+									"default": 0.3
+								}
+							},
+							"width": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.0,
+									"max": 0.76,
+									"default": 1.5
+								}
+							},
+							"height": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.75,
+									"max": 9999999999
+								}
+							},
+							"riserValidation": {
+								"mandatory": true,
+								"type": "SIMPLE",
+								"value": {
+									"mandatoryForAllFloorsExceptTop": true
+								}
+							}
+						}
+					},
+					"fireStaircase": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"landingWidth": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.0,
+									"max": 0.76,
+									"default": 1.5
+								}
+							},
+							"numberOfRisers": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.0,
+									"max": 12
+								}
+							},
+							"riserHeight": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.0,
+									"max": 0.19
+								}
+							},
+							"treadWidth": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.0,
+									"max": 0.25,
+									"default": 0.3
+								}
+							},
+							"width": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.0,
+									"max": 0.76,
+									"default": 1.5
+								}
+							},
+							"height": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.75,
+									"max": 9999999999
+								}
+							},
+							"riserValidation": {
+								"mandatory": true,
+								"type": "SIMPLE",
+								"value": {
+									"mandatoryForAllFloorsExceptTop": true
+								}
+							}
+						}
+					},
+					"regularRoom": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"ventilation": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 20,
+									"max": 9999999999
+								}
+							},
+							"area": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 7.5,
+									"max": 46.45
+								}
+							},
+							"width": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 9999999999
+								}
+							},
+							"height": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.75,
+									"max": 9999999999
+								}
+							}
+						}
+					},
+					"door": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"height": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.0,
+									"max": 9999999999
+								}
+							},
+							"width": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.9,
+									"max": 9999999999
+								}
+							}
+						}
+					},
+					"window": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"height": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.6,
+									"max": 9999999999
+								}
+							},
+							"width": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 9999999999
+								}
+							}
+						}
+					},
+					"nonHabitationDoor": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"height": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.6,
+									"max": 9999999999
+								}
+							},
+							"width": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 20,
+									"max": 9999999999
+								}
+							}
+						}
+					},
+					"residentialAcRoom": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"height": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.75,
+									"max": 9999999999
+								}
+							},
+							"width": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.4,
+									"max": 9999999999
+								}
+							}
+						}
+					},
+					"kitchen": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"area": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 5,
+									"max": 0.0
+								}
+							},
+							"width": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 1.8,
+									"max": 0.0
+								}
+							},
+							"height": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.75,
+									"max": 0.0
+								}
+							},
+							"storeArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 4.5,
+									"max": 0.0
+								}
+							},
+							"storewidth": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 1.8,
+									"max": 0.0
+								}
+							},
+							"diningArea": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 7.5,
+									"max": 0.0
+								}
+							},
+							"diningwidth": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 2.1,
+									"max": 0.0
+								}
+							}
+						}
+					},
+					"plantationArea": {
+						"mandatory": true,
+						"type": "SIMPLE",
+						"valueType": "INTEGER",
+						"unit": "percent",
+						"value": 5
+					},
+					"toilet": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"ventilation": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.3,
+									"max": 0.0
+								}
+							},
+							"area": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 1.8,
+									"max": 0.0
+								}
+							},
+							"width": {
+								"mandatory": true,
+								"type": "RANGE",
+								"value": {
+									"min": 0.3,
+									"max": 0.0
+								}
+							}
+						}
+					},
+					"heightExclusions": {
+						"mandatory": false,
+						"type": "MAP",
+						"valueType": "OBJECT",
+						"value": {
+							"parapet": true,
+							"waterTank": true,
+							"mumty": true
+						}
+					},
+					"twoStreetPlots": {
+						"mandatory": false,
+						"type": "MAP",
+						"valueType": "OBJECT",
+						"value": {
+							"frontSetbackBothRoads": {
+								"type": "STRING",
+								"valueType": "STRING",
+								"mandatory": true,
+								"value": "compulsory"
+							},
+							"coverageCompensation": {
+								"type": "STRING",
+								"valueType": "STRING",
+								"mandatory": true,
+								"value": "FAR"
+							}
+						}
+					}
+				},
+				{
 					"OccupancyType": "F",
 					"occVersion": "1.0.0",
 					"OccupancyName": "Commercial",
