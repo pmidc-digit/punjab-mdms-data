@@ -27704,6 +27704,36 @@
       "navigationURL": "/digit-ui/employee/noc/search/application",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    }
+    },
+    {
+      "id": 22995,
+      "name": "Revenue Property Summary",
+      "url": "url",
+      "displayName": "Revenue Property Summary",
+      "orderNumber": 13,
+      "parentModule": "rainmaker-pt",
+      "enabled": true,
+      "serviceCode": "PT",
+      "code": "null",
+      "path": "Property Tax.PT Reports.Property Data.ulbrevenuepropertysummary",
+      "navigationURL": "report/rainmaker-pt/ulbrevenuepropertysummary",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 22996,
+      "name": "Revenue Property Mapping Report",
+      "url": "url",
+      "displayName": "Revenue Property Mapping Report",
+      "orderNumber": 14,
+      "parentModule": "rainmaker-pt",
+      "enabled": true,
+      "serviceCode": "PT",
+      "code": "null",
+      "path": "Property Tax.PT Reports.Property Data.ulbrevenuepropertymapping",
+      "navigationURL": "report/rainmaker-pt/ulbrevenuepropertymapping",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    } 
   ]
 }
