@@ -659,8 +659,14 @@
     {
       "code": "pb.rayya",
       "name": "Rayya",
+      "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.garhshankar",
+      "name": "Garhshankar",
       "iswater": true,
-      "issewerage": true
+      "issewerage": false
     }
   ]
 }
