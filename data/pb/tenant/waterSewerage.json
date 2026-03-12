@@ -11,7 +11,7 @@
     {
       "code": "pb.adampur",
       "name": "Adampur",
-      "iswater": false,
+      "iswater": true,
       "issewerage": false
     },
     {
@@ -264,7 +264,7 @@
       "code": "pb.garhdiwala",
       "name": "Garhdiwala",
       "iswater": false,
-      "issewerage": true
+      "issewerage": false
     },
     {
       "code": "pb.ghanaur",
@@ -663,9 +663,15 @@
       "issewerage": false
     },
     {
+      "code": "pb.budhlada",
+      "name": "Budhlada",
+      "iswater": true,
+      "issewerage": true
+    },
+    {
       "code": "pb.garhshankar",
       "name": "Garhshankar",
-      "iswater": true,
+      "iswater": false,
       "issewerage": false
     }
   ]
