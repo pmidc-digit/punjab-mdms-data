@@ -27865,7 +27865,7 @@
       "id": 882476,
       "name": "BPA_CITIZEN_HOME_01_OBPS_VIDEO",
       "url": "digit-ui-card",
-      "displayName": "Sample Files",
+      "displayName": "Video",
       "orderNumber": 15,
       "parentModule": "OBPS",
       "enabled": true,
