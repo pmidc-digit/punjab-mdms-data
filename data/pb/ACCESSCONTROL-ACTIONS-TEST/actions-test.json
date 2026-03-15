@@ -27935,7 +27935,7 @@
       "orderNumber": 3,
       "enabled": true,
       "parentModule": "FIRENOC",
-      "serviceCode": "firenoc",
+      "serviceCode": "FIRENOC",
       "code": "null",
       "path": "",
       "navigationURL": "/digit-ui/citizen/firenoc/myApplications",
