@@ -68486,6 +68486,12 @@
       "actionid": 89001474,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 89001475,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
