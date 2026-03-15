@@ -27944,6 +27944,24 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/firenoc-home"
+    },
+      {
+      "id": 89001475,
+      "name": "New Application",
+      "url": "digit-ui-card",
+      "displayName": "New Application",
+      "orderNumber": 2,
+      "enabled": true,
+      "parentModule": "FIRENOC",
+      "serviceCode": "FIRENOC",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/firenoc/new-application",
+      "leftIcon": "",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/firenoc-home"
     }
   ]
 }
