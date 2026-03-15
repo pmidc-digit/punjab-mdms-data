@@ -27934,7 +27934,7 @@
       "displayName": "My Application",
       "orderNumber": 3,
       "enabled": true,
-      "parentModule": "FireNoc",
+      "parentModule": "FIRENoc",
       "serviceCode": "firenoc",
       "code": "null",
       "path": "",
