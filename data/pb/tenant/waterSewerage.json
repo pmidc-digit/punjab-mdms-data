@@ -83,7 +83,7 @@
     {
       "code": "pb.balachaur",
       "name": "Balachaur",
-      "iswater": true,
+      "iswater": false,
       "issewerage": false
     },
     {
@@ -179,8 +179,8 @@
     {
       "code": "pb.bhuchomandi",
       "name": "Bhuchomandi",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.bhulath",
@@ -389,8 +389,8 @@
     {
       "code": "pb.lehragaga",
       "name": "Lehragaga",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.longowal",
@@ -600,7 +600,7 @@
       "code": "pb.handiaya",
       "name": "Handiaya",
       "iswater": false,
-      "issewerage": true
+      "issewerage": false
     },
     {
       "code": "pb.mamdot",
@@ -618,7 +618,7 @@
       "code": "pb.patti",
       "name": "Patti",
       "iswater": false,
-      "issewerage": true
+      "issewerage": false
     },
     {
       "code": "pb.sangatmandi",
@@ -671,8 +671,8 @@
     {
       "code": "pb.nawanshahr",
       "name": "Nawanshahr",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.garhshankar",
