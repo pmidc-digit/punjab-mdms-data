@@ -3,124 +3,124 @@
   "moduleName": "gc-services-calculation",
   "MonthlyTaxPeriods": [
     {
-      "fromDate": 1735669800000,
-      "toDate": 1738348199000,
+      "fromDate": 1735689600000,
+      "toDate": 1738367999000,
+      "financialYear": "2024-25",
+      "service": "GC",
+      "periodCycle": "MONTHLY",
+      "periodName": "January 2025"
+    },
+    {
+      "fromDate": 1738368000000,
+      "toDate": 1740787199000,
+      "financialYear": "2024-25",
+      "service": "GC",
+      "periodCycle": "MONTHLY",
+      "periodName": "February 2025"
+    },
+    {
+      "fromDate": 1740787200000,
+      "toDate": 1743465599000,
+      "financialYear": "2024-25",
+      "service": "GC",
+      "periodCycle": "MONTHLY",
+      "periodName": "March 2025"
+    },
+    {
+      "fromDate": 1743465600000,
+      "toDate": 1746057599000,
+      "financialYear": "2025-26",
+      "service": "GC",
+      "periodCycle": "MONTHLY",
+      "periodName": "April 2025"
+    },
+    {
+      "fromDate": 1746057600000,
+      "toDate": 1748735999000,
+      "financialYear": "2025-26",
+      "service": "GC",
+      "periodCycle": "MONTHLY",
+      "periodName": "May 2025"
+    },
+    {
+      "fromDate": 1748736000000,
+      "toDate": 1751327999000,
+      "financialYear": "2025-26",
+      "service": "GC",
+      "periodCycle": "MONTHLY",
+      "periodName": "June 2025"
+    },
+    {
+      "fromDate": 1751328000000,
+      "toDate": 1754006399000,
+      "financialYear": "2025-26",
+      "service": "GC",
+      "periodCycle": "MONTHLY",
+      "periodName": "July 2025"
+    },
+    {
+      "fromDate": 1754006400000,
+      "toDate": 1756684799000,
+      "financialYear": "2025-26",
+      "service": "GC",
+      "periodCycle": "MONTHLY",
+      "periodName": "August 2025"
+    },
+    {
+      "fromDate": 1756684800000,
+      "toDate": 1759276799000,
+      "financialYear": "2025-26",
+      "service": "GC",
+      "periodCycle": "MONTHLY",
+      "periodName": "September 2025"
+    },
+    {
+      "fromDate": 1759276800000,
+      "toDate": 1761955199000,
+      "financialYear": "2025-26",
+      "service": "GC",
+      "periodCycle": "MONTHLY",
+      "periodName": "October 2025"
+    },
+    {
+      "fromDate": 1761955200000,
+      "toDate": 1764547199000,
+      "financialYear": "2025-26",
+      "service": "GC",
+      "periodCycle": "MONTHLY",
+      "periodName": "November 2025"
+    },
+    {
+      "fromDate": 1764547200000,
+      "toDate": 1767225599000,
+      "financialYear": "2025-26",
+      "service": "GC",
+      "periodCycle": "MONTHLY",
+      "periodName": "December 2025"
+    },
+    {
+      "fromDate": 1767225600000,
+      "toDate": 1769903999000,
       "financialYear": "2025-26",
       "service": "GC",
       "periodCycle": "MONTHLY",
       "periodName": "January 2026"
     },
     {
-      "fromDate": 1738348200000,
-      "toDate": 1740767399000,
+      "fromDate": 1769904000000,
+      "toDate": 1772323199000,
       "financialYear": "2025-26",
       "service": "GC",
       "periodCycle": "MONTHLY",
       "periodName": "February 2026"
     },
     {
-      "fromDate": 1740767400000,
-      "toDate": 1743445799000,
+      "fromDate": 1772323200000,
+      "toDate": 1774981799000,
       "financialYear": "2025-26",
       "service": "GC",
       "periodCycle": "MONTHLY",
       "periodName": "March 2026"
-    },
-    {
-      "fromDate": 1743445800000,
-      "toDate": 1746124199000,
-      "financialYear": "2026-27",
-      "service": "GC",
-      "periodCycle": "MONTHLY",
-      "periodName": "April 2026"
-    },
-    {
-      "fromDate": 1746124200000,
-      "toDate": 1748716199000,
-      "financialYear": "2026-27",
-      "service": "GC",
-      "periodCycle": "MONTHLY",
-      "periodName": "May 2026"
-    },
-    {
-      "fromDate": 1748716200000,
-      "toDate": 1751394599000,
-      "financialYear": "2026-27",
-      "service": "GC",
-      "periodCycle": "MONTHLY",
-      "periodName": "June 2026"
-    },
-    {
-      "fromDate": 1751394600000,
-      "toDate": 1754072999000,
-      "financialYear": "2026-27",
-      "service": "GC",
-      "periodCycle": "MONTHLY",
-      "periodName": "July 2026"
-    },
-    {
-      "fromDate": 1754073000000,
-      "toDate": 1756751399000,
-      "financialYear": "2026-27",
-      "service": "GC",
-      "periodCycle": "MONTHLY",
-      "periodName": "August 2026"
-    },
-    {
-      "fromDate": 1756751400000,
-      "toDate": 1759343399000,
-      "financialYear": "2026-27",
-      "service": "GC",
-      "periodCycle": "MONTHLY",
-      "periodName": "September 2026"
-    },
-    {
-      "fromDate": 1759343400000,
-      "toDate": 1762021799000,
-      "financialYear": "2026-27",
-      "service": "GC",
-      "periodCycle": "MONTHLY",
-      "periodName": "October 2026"
-    },
-    {
-      "fromDate": 1762021800000,
-      "toDate": 1764613799000,
-      "financialYear": "2026-27",
-      "service": "GC",
-      "periodCycle": "MONTHLY",
-      "periodName": "November 2026"
-    },
-    {
-      "fromDate": 1764613800000,
-      "toDate": 1767292199000,
-      "financialYear": "2026-27",
-      "service": "GC",
-      "periodCycle": "MONTHLY",
-      "periodName": "December 2026"
-    },
-    {
-      "fromDate": 1767292200000,
-      "toDate": 1769970599000,
-      "financialYear": "2026-27",
-      "service": "GC",
-      "periodCycle": "MONTHLY",
-      "periodName": "January 2027"
-    },
-    {
-      "fromDate": 1769970600000,
-      "toDate": 1772389799000,
-      "financialYear": "2026-27",
-      "service": "GC",
-      "periodCycle": "MONTHLY",
-      "periodName": "February 2027"
-    },
-    {
-      "fromDate": 1772389800000,
-      "toDate": 1775068199000,
-      "financialYear": "2026-27",
-      "service": "GC",
-      "periodCycle": "MONTHLY",
-      "periodName": "March 2027"
     }
   ]
 }
