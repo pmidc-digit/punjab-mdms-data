@@ -173,14 +173,14 @@
 		{
 			"variable": "{2}",
 			"isFixed": false,
-			"value": "",
-			"filter": "$.Noc.applicationNo"
+			"value": "UPDATED_BY",
+			"filter": "$.RequestInfo.userInfo.uuid"
 		},
 		{
 			"variable": "{3}",
 			"isFixed": false,
-			"value": "UPDATED_BY",
-			"filter": "$.RequestInfo.userInfo.uuid"
+			"value": "",
+			"filter": "$.Noc.applicationNo"
 		},
 		{
 			"variable": "{4}",
