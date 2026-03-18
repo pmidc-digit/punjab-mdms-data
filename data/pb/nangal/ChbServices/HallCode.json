@@ -29,7 +29,7 @@
        {
       "communityHallId": "2",
       "hallId": "2",
-      "HallCode": "HallCode-NNCC",
+        "HallCode": "HallCode-NNCCAC",
       "capacity": "100",
       "timeSlots": [
         {
