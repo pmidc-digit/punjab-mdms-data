@@ -26,11 +26,11 @@
       ],
       "active": true
     },
-    {
+       {
       "communityHallId": "2",
       "hallId": "2",
-      "HallCode": "HallCode-NBCC",
-      "capacity": "150",
+        "HallCode": "HallCode-NNCCAC",
+      "capacity": "100",
       "timeSlots": [
         {
           "id": "1",
@@ -53,8 +53,8 @@
     {
       "communityHallId": "3",
       "hallId": "3",
-      "HallCode": "HallCode-INCC",
-      "capacity": "400",
+      "HallCode": "HallCode-NBCC",
+      "capacity": "150",
       "timeSlots": [
         {
           "id": "1",
@@ -77,8 +77,8 @@
     {
       "communityHallId": "4",
       "hallId": "4",
-      "HallCode": "HallCode-PRBCC",
-      "capacity": "250",
+      "HallCode": "HallCode-INCC",
+      "capacity": "400",
       "timeSlots": [
         {
           "id": "1",
@@ -101,8 +101,8 @@
     {
       "communityHallId": "5",
       "hallId": "5",
-      "HallCode": "HallCode-JMCC",
-      "capacity": "300",
+      "HallCode": "HallCode-PRBCC",
+      "capacity": "250",
       "timeSlots": [
         {
           "id": "1",
@@ -125,6 +125,30 @@
     {
       "communityHallId": "6",
       "hallId": "6",
+      "HallCode": "HallCode-JMCC",
+      "capacity": "300",
+      "timeSlots": [
+        {
+          "id": "1",
+          "from": "10:00",
+          "duration": "23:59"
+        },
+        {
+          "id": "2",
+          "from": "10:00",
+          "duration": "47:59"
+        },
+        {
+          "id": "3",
+          "from": "10:00",
+          "duration": "71:59"
+        }
+      ],
+      "active": true
+    },
+    {
+      "communityHallId": "7",
+      "hallId": "7",
       "HallCode": "HallCode-MCC",
       "capacity": "350",
       "timeSlots": [
