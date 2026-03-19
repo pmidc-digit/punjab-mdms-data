@@ -6,13 +6,13 @@
       "applicationType": "NEWAPPLICATION",
       "serviceType": "PET_REGISTRATION",
       "feeType": "PET_REGISTRATION_FEE",
-      "amount": 500
+      "amount": 200
     },
     {
       "applicationType": "RENEWAPPLICATION",
       "serviceType": "PET_REGISTRATION",
       "feeType": "PET_RENEWAL_FEE",
-      "amount": 300
+      "amount": 200
     }
   ]
 }
