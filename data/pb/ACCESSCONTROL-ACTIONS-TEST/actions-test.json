@@ -27938,7 +27938,7 @@
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/firenoc-home"
     },
-      {
+    {
       "id": 89001475,
       "name": "New Application",
       "url": "digit-ui-card",
@@ -27955,6 +27955,43 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/firenoc-home"
-    }
+    },
+    {
+      "id": 882477,
+      "name": "Bill Amendment Report",
+      "url": "url",
+      "displayName": "Bill Amendment Report",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.Demands and Bills.Bill_Amendment_Report",
+      "navigationURL": "report/rainmaker-ws/Bill_Amendment_Report",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 882478,
+      "name": "Bill Amendment Report",
+      "url": "/report/rainmaker-ws/Bill_Amendment_Report/metadata/_get",
+      "displayName": "Bill Amendment Report",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 882479,
+      "name": "Bill Amendment Report",
+      "url": "/report/rainmaker-ws/Bill_Amendment_Report/_get",
+      "displayName": "Bill Amendment Report",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    }    
   ]
 }
