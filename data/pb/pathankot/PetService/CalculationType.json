@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb.bathinda",
+  "tenantId": "pb.pathankot",
   "moduleName": "PetService",
   "CalculationType": [
     {
@@ -12,7 +12,7 @@
       "applicationType": "RENEWAPPLICATION",
       "serviceType": "PET_REGISTRATION",
       "feeType": "PET_RENEWAL_FEE",
-      "amount": 500
+      "amount": 300
     }
   ]
 }
