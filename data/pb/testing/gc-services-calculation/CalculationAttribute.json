@@ -1,0 +1,12 @@
+{
+  "tenantId": "pb.testing",
+  "moduleName": "gc-services-calculation",
+  "CalculationAttribute": [
+    {
+      "name": "Non Metered",
+      "code": "Non Metered",
+      "attribute": "Flat",
+      "active": true
+    }
+  ]
+}
