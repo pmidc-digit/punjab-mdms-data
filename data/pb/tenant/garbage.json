@@ -6,6 +6,11 @@
       "code": "pb.testing",
       "name": "Testing",
       "isautodemand": "true"
+    },
+    {
+      "code": "pb.kurali",
+      "name": "Kurali",
+      "isautodemand": "true"
     }
 
   ]
