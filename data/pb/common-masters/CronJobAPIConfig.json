@@ -121,6 +121,30 @@
       "header": {
         "Content-Type": "application/json"
       }
-    }
+    },
+      {
+  "jobName": "gc-demand-generation-job-scheduler",
+  "active": "true",
+  "method": "POST",
+  "url": "http://gc-calculator.egov:8080/gc-calculator/garbageCalculator/_jobscheduler",
+  "payload": {
+    "RequestInfo": "{DEFAULT_REQUESTINFO}"
+  },
+  "header": {
+    "Content-Type": "application/json"
+  }
+},
+{
+  "jobName": "gc-bill-generation-job-scheduler",
+  "active": "true",
+  "method": "POST",
+  "url": "http://gc-calculator.egov:8080/gc-calculator/garbageCalculator/_jobbillscheduler",
+  "payload": {
+    "RequestInfo": "{DEFAULT_REQUESTINFO}"
+  },
+  "header": {
+    "Content-Type": "application/json"
+  }
+}
   ]
 }

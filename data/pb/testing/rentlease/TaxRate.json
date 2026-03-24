@@ -4,29 +4,41 @@
     "TaxRates": [
           {
             "id": "1",  
-            "taxType": "CGST",
-            "type":"%",            
-            "amount": 9
+            "taxType": "RL_CGST_FEE",
+            "type":"%",   
+            "isActive":true,         
+            "amount": 9            
           },
           {
             "id": "2",  
-            "taxType": "SGST",
+            "taxType": "RL_SGST_FEE",
             "type":"%",
+            "isActive":true,                     
             "amount": 9
           },
           {
             "id": "3",  
-            "taxType": "CowCase",
+            "taxType": "RL_COWCESS_FEE",
             "type":"value",
+            "isActive":true,         
             "amount": 1000
           },
           {
             "id": "4",  
-            "taxType": "Penalty",
+            "taxType": "RL_PENALTY_FEE_PERCENT",
             "type":"%",
-            "amount": 2
+            "amount": 2,
+            "isActive":true,
+            "description": "penalty on base rent"
+
+          },
+          {
+            "id": "5",  
+            "taxType": "RL_PENALTY_FEE",
+            "type":"value",
+            "amount": 200,
+            "isActive":true,
+            "description": "penalty on base rent"
           }
-
-
     ]
   }
