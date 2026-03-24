@@ -1136,6 +1136,12 @@
       "name": "Search GC Role",
       "description": "Access to GC",
       "groupId": "014"
+    },
+    {
+      "code": "VIEW_ADS_CARD",
+      "name": "View ADS Card",
+      "description": "For ADS Card Display in Dashboard",
+      "groupId": "001"
     }
   ]
 }
