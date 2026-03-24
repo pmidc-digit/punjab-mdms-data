@@ -89,8 +89,8 @@
     {
       "code": "pb.banga",
       "name": "Banga",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.banur",
@@ -287,8 +287,8 @@
     {
       "code": "pb.goraya",
       "name": "Goraya",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.gurdaspur",
