@@ -1824,6 +1824,25 @@
        ]
      },
      {
+       "id": 71,
+       "buildingType": "OTHERS",
+       "waterSubUsageType": "USAGE_COMM_NA",
+       "calculationAttribute": "Water consumption",
+       "connectionType": "Metered",
+       "minimumCharge": 0,
+       "slabs": [
+         {
+           "from": 0,
+           "to": 1000020000,
+           "charge": 7.6,
+           "meterCharge": 0,
+           "effectiveFrom":1522584000000,
+           "effectiveTo":1774929282000
+ 
+         }
+       ]
+     },
+     {
        "id": "56",
        "buildingType": "INSTITUTIONAL",
        "waterSubUsageType": "USAGE_INSTITUTIONAL_NA",
