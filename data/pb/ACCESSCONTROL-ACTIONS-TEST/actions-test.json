@@ -25241,7 +25241,7 @@
       "parentModule": "OBPAS NOC REPORTS",
       "enabled": true,
       "serviceCode": "OBPASNOCREPORTS",
-      "path": "OBPAS NOC REPORTS.Application Detail Report",
+      "path": "OBPAS REPORTS.NOC.Application Detail Report",
       "navigationURL": "report/rainmaker-obpas_noc/ApplicationDetailReportNOC",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -25278,7 +25278,7 @@
       "parentModule": "OBPAS NOC REPORTS",
       "enabled": true,
       "serviceCode": "",
-      "path": "OBPAS NOC REPORTS.Collection Report",
+      "path": "OBPAS REPORTS.NOC.Collection Report",
       "navigationURL": "report/rainmaker-obpas_noc/CollectionsReportNOC",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -25315,7 +25315,7 @@
       "parentModule": "OBPAS NOC REPORTS",
       "enabled": true,
       "serviceCode": "",
-      "path": "OBPAS NOC REPORTS.SLA Report",
+      "path": "OBPAS REPORTS.NOC.SLA Report",
       "navigationURL": "report/rainmaker-obpas_noc/SLAReportNOC",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -25352,7 +25352,7 @@
       "parentModule": "OBPAS NOC REPORTS",
       "enabled": true,
       "serviceCode": "OBPASNOCREPORTS",
-      "path": "OBPAS NOC REPORTS.Receipt Register NOC",
+      "path": "OBPAS REPORTS.NOC.Receipt Register NOC",
       "navigationURL": "report/rainmaker-obpas_noc/ReceiptRegisterNOC",
       "leftIcon": "action:assignment",
       "rightIcon": ""
