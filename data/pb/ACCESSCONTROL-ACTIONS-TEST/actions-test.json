@@ -25218,7 +25218,7 @@
       "enabled": true,
       "serviceCode": "OBPASNOCREPORTS",
       "code": "null",
-      "path": "OBPAS REPORTS.NOC"
+      "path": "OBPAS REPORTS.OBPAS NOC REPORTS"
     },
     {
       "id": 8900974,
@@ -25229,7 +25229,7 @@
       "enabled": true,
       "serviceCode": "OBPASNOCREPORTS",
       "code": "null",
-      "path": "OBPAS REPORTS.NOC"
+      "path": "OBPAS REPORTS.OBPAS NOC REPORTS
     },
     {
       "id": 8900975,
