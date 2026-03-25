@@ -1,0 +1,291 @@
+{
+    "tenantId": "pb",
+    "moduleName": "common-masters",
+    "uiObpsHomePage": {
+        "sectionHeaders": [
+            {
+                "name": "BY_LAWS",
+                "code": "BYLAWS",
+                "links": [
+                    {
+                        "name": "BPA_BYLAWS_MODEL_MUNICIPAL_BUILDING_BYELAWS_2015",
+                        "code": "BYLAWS_2015",
+                        "displayName": "Model Municipal Building Byelaws - 2015",
+                        "sectionCode": "BYLAWS",
+                        "link": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FOBPS%2FMarch%2F25%2F1774420796043ClYdgclPrV.pdf",
+                        "isSubsection": false,
+                        "subsection": []
+                    },
+                    {
+                        "name": "BPA_BYLAWS_PMBBL_2018",
+                        "code": "BYLAWS_2018",
+                        "displayName": "The New Building Byelaws PMBBL - 2018",
+                        "sectionCode": "BYLAWS",
+                        "link": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FOBPS%2FMarch%2F25%2F1774420987792VccWKZNFnH.pdf",
+                        "isSubsection": false,
+                        "subsection": []
+                    },
+                    {
+                        "name": "BPA_BYLAWS_PMBBL_2020",
+                        "code": "BYLAWS_2020",
+                        "displayName": "The New Building Byelaws PMBBL - 2020",
+                        "sectionCode": "BYLAWS",
+                        "link": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FOBPS%2FMarch%2F25%2F1774421074527ICXEqADcjI.pdf",
+                        "isSubsection": false,
+                        "subsection": []
+                    },
+                    {
+                        "name": "BPA_BYLAWS_PUNJAB_UNIFIED_BUILDING_RULES_2025",
+                        "code": "BYLAWS_2025",
+                        "displayName": "The Punjab Unified Building Rules 2025",
+                        "sectionCode": "BYLAWS",
+                        "link": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FOBPS%2FMarch%2F25%2F1774421163610pjEuedOMjQ.pdf",
+                        "isSubsection": false,
+                        "subsection": []
+                    }
+                ]
+            },
+            {
+                "name": "NOTIFICATIONS",
+                "code": "NOTIFICATIONS",
+                "links": [
+                    {
+                        "name": "BPA_NOTIFICATIONS_CHECKLIST_BUILDING_PLAN_APPROVAL",
+                        "code": "NOTIFICATIONS_1",
+                        "displayName": "Checklist for Building Plan Approval",
+                        "sectionCode": "NOTIFICATIONS",
+                        "link": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FOBPS%2FMarch%2F25%2F1774421684298AntfBsvism.pdf",
+                        "isSubsection": false,
+                        "subsection": []
+                    },
+                    {
+                        "name": "BPA_NOTIFICATIONS_CHECKLIST_CLU",
+                        "code": "NOTIFICATIONS_2",
+                        "displayName": "Checklist for CLU",
+                        "sectionCode": "NOTIFICATIONS",
+                        "link": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FOBPS%2FMarch%2F25%2F1774421821640vAvrCkDoAi.pdf",
+                        "isSubsection": false,
+                        "subsection": []
+                    },
+                    {
+                        "name": "BPA_NOTIFICATIONS_NOTIFICATION_EDU_CLU_ETC_2017",
+                        "code": "NOTIFICATIONS_3",
+                        "displayName": "06.10.17 Notification Of EDU, CLU, ETC.",
+                        "sectionCode": "NOTIFICATIONS",
+                        "link": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FOBPS%2FMarch%2F25%2F1774422682391BhgVrXsYZQ.pdf",
+                        "isSubsection": false,
+                        "subsection": []
+                    },
+                    {
+                        "name": "BPA_NOTIFICATIONS_NOTIFICATION_EDU_CLU_ETC_2025",
+                        "code": "NOTIFICATIONS_4",
+                        "displayName": "04.06.25 Notification Of EDU, CLU, ETC.",
+                        "sectionCode": "NOTIFICATIONS",
+                        "link": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FOBPS%2FMarch%2F25%2F1774422794581mHiUDaGiWJ.pdf",
+                        "isSubsection": false,
+                        "subsection": []
+                    },
+                    {
+                        "name": "BPA_NOTIFICATIONS_CLU_WORKFLOW",
+                        "code": "NOTIFICATIONS_5",
+                        "displayName": "CLU Workflow",
+                        "sectionCode": "NOTIFICATIONS",
+                        "link": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FOBPS%2FMarch%2F25%2F1774422870107WlYXoEhDHs.pdf",
+                        "isSubsection": false,
+                        "subsection": []
+                    }
+                ]
+            },
+            {
+                "name": "AMENDMENTS",
+                "code": "AMENDMENTS",
+                "links": [
+                    {
+                        "name": "BPA_AMENDMENTS_NOTIFICATION_PMBBL_2020",
+                        "code": "AMENDMENTS_1",
+                        "displayName": "Notification PMBBL - 2020",
+                        "sectionCode": "AMENDMENTS",
+                        "link": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FOBPS%2FMarch%2F25%2F1774429422415AcFQqKAtsq.pdf",
+                        "isSubsection": false,
+                        "subsection": []
+                    },
+                    {
+                        "name": "BPA_AMENDMENTS_HOSPITAL_AMENDMENT_NEW",
+                        "code": "AMENDMENTS_2",
+                        "displayName": "Hospital Amendment New",
+                        "sectionCode": "AMENDMENTS",
+                        "link": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FOBPS%2FMarch%2F25%2F1774429505771UTgLRXaniN.pdf",
+                        "isSubsection": false,
+                        "subsection": []
+                    },
+                    {
+                        "name": "BPA_AMENDMENTS_NOTIFICATION_1338_03062020",
+                        "code": "AMENDMENTS_3",
+                        "displayName": "Notification No. 1338 Dated 03.06.2020",
+                        "sectionCode": "AMENDMENTS",
+                        "link": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FOBPS%2FMarch%2F25%2F1774429657852xOjJhAklDG.pdf",
+                        "isSubsection": false,
+                        "subsection": []
+                    },
+                    {
+                        "name": "BPA_AMENDMENTS_NOTIFICATION_THIRD_PARTY_CERTIFICATION",
+                        "code": "AMENDMENTS_4",
+                        "displayName": "Notification Third Party Certification",
+                        "sectionCode": "AMENDMENTS",
+                        "link": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FOBPS%2FMarch%2F25%2F1774429739684JoFUNxXFom.pdf",
+                        "isSubsection": false,
+                        "subsection": []
+                    },
+                    {
+                        "name": "BPA_AMENDMENTS_NOTIFICATION_30_APRIL_2021",
+                        "code": "AMENDMENTS_5",
+                        "displayName": "Notification The 30 April, 2021",
+                        "sectionCode": "AMENDMENTS",
+                        "link": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FOBPS%2FMarch%2F25%2F1774429930864qNXhTmkSPv.pdf",
+                        "isSubsection": false,
+                        "subsection": []
+                    },
+                    {
+                        "name": "BPA_AMENDMENTS_NOTIFICATION_26_JULY_2021",
+                        "code": "AMENDMENTS_6",
+                        "displayName": "Notification The 26 July, 2021",
+                        "sectionCode": "AMENDMENTS",
+                        "link": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FOBPS%2FMarch%2F25%2F1774430024182LxRhXEVEhO.pdf",
+                        "isSubsection": false,
+                        "subsection": []
+                    },
+                    {
+                        "name": "BPA_AMENDMENTS_NOTIFICATION_19_NOV_2021",
+                        "code": "AMENDMENTS_7",
+                        "displayName": "Notification The 19 November, 2021",
+                        "sectionCode": "AMENDMENTS",
+                        "link": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FOBPS%2FMarch%2F25%2F1774430210363oRsEijsoKV.pdf",
+                        "isSubsection": false,
+                        "subsection": []
+                    },
+                    {
+                        "name": "BPA_AMENDMENTS_NOTIFICATION_1251_1252",
+                        "code": "AMENDMENTS_8",
+                        "displayName": "Notification 1251-1252",
+                        "sectionCode": "AMENDMENTS",
+                        "link": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FOBPS%2FMarch%2F25%2F1774430289646cBCODFpCcu.pdf",
+                        "isSubsection": false,
+                        "subsection": []
+                    },
+                    {
+                        "name": "BPA_AMENDMENTS_NOTIFICATION_GENERAL",
+                        "code": "AMENDMENTS_9",
+                        "displayName": "Notification",
+                        "sectionCode": "AMENDMENTS",
+                        "link": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FOBPS%2FMarch%2F25%2F1774430357360iddpcLCqXk.pdf",
+                        "isSubsection": false,
+                        "subsection": []
+                    },
+                    {
+                        "name": "BPA_AMENDMENTS_BUILDING_SOLUTION_TELECOMMUNICATION",
+                        "code": "AMENDMENTS_10",
+                        "displayName": "Building Solution For Telecommunication",
+                        "sectionCode": "AMENDMENTS",
+                        "link": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FOBPS%2FMarch%2F25%2F1774430455313xmQMhoHmiD.pdf",
+                        "isSubsection": false,
+                        "subsection": []
+                    },
+                    {
+                        "name": "BPA_AMENDMENTS_CLU_MERGE_NOTIFICATION",
+                        "code": "AMENDMENTS_11",
+                        "displayName": "CLU Merge Notification",
+                        "sectionCode": "AMENDMENTS",
+                        "link": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FOBPS%2FMarch%2F25%2F1774431634002pLTsumVBTT.pdf",
+                        "isSubsection": false,
+                        "subsection": []
+                    }
+                ]
+            },
+            {
+                "name": "FEES",
+                "code": "FEES",
+                "links": [
+                    {
+                        "name": "BPA_FEES_BUILDING_FEE",
+                        "code": "FEES_1",
+                        "displayName": "Building Fee",
+                        "sectionCode": "FEES",
+                        "link": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FOBPS%2FMarch%2F25%2F1774423080434UigftpiVfQ.pdf",
+                        "isSubsection": false,
+                        "subsection": []
+                    },
+                    {
+                        "name": "BPA_FEES_MALBA_FEE",
+                        "code": "FEES_2",
+                        "displayName": "Malba Fee",
+                        "sectionCode": "FEES",
+                        "link": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FOBPS%2FMarch%2F25%2F1774423210866ffCHCUMfiZ.pdf",
+                        "isSubsection": false,
+                        "subsection": []
+                    },
+                    {
+                        "name": "BPA_FEES_COMPOUNDING_FEE",
+                        "code": "FEES_3",
+                        "displayName": "Compounding Fee",
+                        "sectionCode": "FEES",
+                        "link": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FOBPS%2FMarch%2F25%2F1774423340898SAGULVyUJg.pdf",
+                        "isSubsection": false,
+                        "subsection": []
+                    }
+                ]
+            },
+            {
+                "name": "APPROVED_COLONIES",
+                "code": "APPROVEDCOLONIES"
+            },
+            {
+                "name": "APPROVED_NOCS",
+                "code": "APPROVEDNOCS"
+            },
+            {
+                "name": "OTHERS",
+                "code": "OTHERS",
+                "links": [
+                    {
+                        "name": "LIST_OF_APPROVED",
+                        "code": "LIST_OF_APPROVED",
+                        "displayName": "List of approved professional",
+                        "sectionCode": "OTHERS",
+                        "link": "",
+                        "isSubsection": true,
+                        "subsection": [
+                            {
+                                "name": "BPA_OTHERS_ARCHITECT",
+                                "code": "OTHERS_1",
+                                "displayName": "Architect",
+                                "sectionCode": "OTHERS",
+                                "link": "https://enaksha.lgpunjab.gov.in/list_professional.php?dsfXX=Mg=="
+                            },
+                            {
+                                "name": "BPA_OTHERS_BUILDING_DESIGNER_SUPERVISOR",
+                                "code": "OTHERS_2",
+                                "displayName": "Building designer and supervisor",
+                                "sectionCode": "OTHERS",
+                                "link": "https://enaksha.lgpunjab.gov.in/list_professional.php?dsfXX=MTQ="
+                            },
+                            {
+                                "name": "BPA_OTHERS_ENGINEER",
+                                "code": "OTHERS_3",
+                                "displayName": "Engineer",
+                                "sectionCode": "OTHERS",
+                                "link": "https://enaksha.lgpunjab.gov.in/list_professional.php?dsfXX=MTI="
+                            },
+                            {
+                                "name": "BPA_OTHERS_EMPANELED_ARCHITECT_LIST",
+                                "code": "OTHERS_4",
+                                "displayName": "Empaneled Architect List",
+                                "sectionCode": "OTHERS",
+                                "link": "https://enaksha.lgpunjab.gov.in/architect_sc_p.php?dsfXX=MTI="
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
