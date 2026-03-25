@@ -1142,6 +1142,48 @@
       "name": "View ADS Card",
       "description": "For ADS Card Display in Dashboard",
       "groupId": "001"
+    },
+     {
+      "code": "ADV_VERIFIER",
+      "name": "Advertisement Verifier",
+      "description": "Employee who verifies Advertisement applications",
+      "groupId": "001"
+    },
+    {
+      "code": "ADV_APPROVER",
+      "name": "Advertisement Approver",
+      "description": "Employee who approves Advertisement applications",
+      "groupId": "001"
+    },
+    {
+      "code": "ADV_EMPLOYEE",
+      "name": "Advertisement Employee",
+      "description": "Advertisement Employee",
+      "groupId": "001"
+    },
+     {
+      "code": "RL_DOC_VERIFIER",
+      "name": "RL Document Verifier",
+      "description": "Access to Rent And Lease",
+      "groupId": "032"
+    },
+    {
+      "code": "RL_FIELD_INSPECTOR",
+      "name": "RL Field Inspector",
+      "description": "Access to Rent And Lease",
+      "groupId": "032"
+    },
+    {
+      "code": "RL_APPROVER",
+      "name": "RL Application Approver",
+      "description": "Access to Rent And Lease",
+      "groupId": "032"
+    },
+    {
+      "code": "RL_CEMP",
+      "name": "RL Counter User",
+      "description": "Access to Rent And Lease",
+      "groupId": "032"
     }
   ]
 }
