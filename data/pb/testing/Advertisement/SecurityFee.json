@@ -5,7 +5,7 @@
     {
       "rate": 30,
       "minAmount": null,
-      "flatAmount": null,
+      "flatAmount": 0,
       "maxAmount": 600,
       "fromFY": "2025-26",
       "startingDay": "1743465600000",
