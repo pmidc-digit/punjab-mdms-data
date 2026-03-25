@@ -123,6 +123,20 @@
             "label": "ACTION_TEST_ADS",
             "enabled": true,
             "navigationUrl": "/digit-ui/citizen/ads-home"
+          },
+          {
+            "code": "CITIZEN_SERVICE_RENT_AND_LEASE",
+            "name": "Rent and Lease",
+            "label": "ACTION_TEST_RENT_AND_LEASE",
+            "enabled": true,
+            "navigationUrl": "/digit-ui/citizen/rentandlease-home"
+          },
+          {
+            "code": "CITIZEN_SERVICE_GARBAGECOLLECTION",
+            "name": "Garbage Collection",
+            "label": "ACTION_TEST_GARBAGECOLLECTION",
+            "enabled": true,
+            "navigationUrl": "/digit-ui/citizen/garbagecollection-home"
           }
         ]
       },

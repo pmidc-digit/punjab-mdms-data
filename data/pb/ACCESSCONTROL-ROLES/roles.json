@@ -1190,6 +1190,12 @@
       "name": "OBPAS_READ_ONLY",
       "description": "OBPAS NOC workflow Approver",
       "groupId": "025"
+    },
+    {
+      "code": "VIEW_RENTANDLEASE_CARD",
+      "name": "View Rent And Lease Card",
+      "description": "For Rent and Lease Card Display in Dashboard",
+      "groupId": "006"
     }
   ]
 }
