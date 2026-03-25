@@ -68899,6 +68899,14 @@
       "actionid": 5024,
       "actioncode": "",
       "tenantId": "pb"
+    },{
+      "rolecode": "OBPAS_READ_ONLY",
+      "actionid": 3005,
+      "actioncode": "",
+      "tenantId": "pb"
     }
+
+
+
   ]
 }
