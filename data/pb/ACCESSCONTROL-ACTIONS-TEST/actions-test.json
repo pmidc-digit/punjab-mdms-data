@@ -25218,7 +25218,7 @@
       "enabled": true,
       "serviceCode": "OBPASNOCREPORTS",
       "code": "null",
-      "path": "OBPAS NOC REPORTS"
+      "path": "OBPAS REPORTS.NOC"
     },
     {
       "id": 8900974,
@@ -25229,7 +25229,7 @@
       "enabled": true,
       "serviceCode": "OBPASNOCREPORTS",
       "code": "null",
-      "path": "OBPAS NOC REPORTS"
+      "path": "OBPAS REPORTS.NOC"
     },
     {
       "id": 8900975,
@@ -28002,7 +28002,7 @@
       "queryParams": "",
       "parentModule": "OBPAS NOC REPORTS",
       "enabled": true,
-      "serviceCode": "OBPASBPAREPORTS",
+      "serviceCode": "OBPASNOCREPORTS",
       "path": "OBPAS REPORTS.NOC.Detailed List Beyond Timeline Summary",
       "navigationURL": "report/rainmaker-obpas_noc/DetailedListBeyondTimelineSummary",
       "leftIcon": "action:assignment",
@@ -28015,7 +28015,7 @@
       "displayName": "Detailed List Beyond Timeline Summary",
       "orderNumber": 5,
       "enabled": true,
-      "serviceCode": "OBPASBPAREPORTS",
+      "serviceCode": "OBPASNOCREPORTS",
       "code": "null",
       "path": ""
     },
@@ -28026,7 +28026,7 @@
       "displayName": "Detailed List Beyond Timeline Summary",
       "orderNumber": 5,
       "enabled": true,
-      "serviceCode": "OBPASBPAREPORTS",
+      "serviceCode": "OBPASNOCREPORTS",
       "code": "null",
       "path": ""
     },
@@ -28039,7 +28039,7 @@
       "queryParams": "",
       "parentModule": "OBPAS NOC REPORTS",
       "enabled": true,
-      "serviceCode": "OBPASBPAREPORTS",
+      "serviceCode": "OBPASNOCREPORTS",
       "path": "OBPAS REPORTS.NOC.Application Detail Report",
       "navigationURL": "report/rainmaker-obpas_noc/officers_wise_pendency",
       "leftIcon": "action:assignment",
@@ -28052,7 +28052,7 @@
       "displayName": "Officers wise Pendency Trend Analysis",
       "orderNumber": 6,
       "enabled": true,
-      "serviceCode": "OBPASBPAREPORTS",
+      "serviceCode": "OBPASNOCREPORTS",
       "code": "null",
       "path": ""
     },
@@ -28063,7 +28063,7 @@
       "displayName": "Officers wise Pendency Trend Analysis",
       "orderNumber": 6,
       "enabled": true,
-      "serviceCode": "OBPASBPAREPORTS",
+      "serviceCode": "OBPASNOCREPORTS",
       "code": "null",
       "path": ""
     },
@@ -28076,7 +28076,7 @@
       "queryParams": "",
       "parentModule": "OBPAS NOC REPORTS",
       "enabled": true,
-      "serviceCode": "OBPASBPAREPORTS",
+      "serviceCode": "OBPASNOCREPORTS",
       "path": "OBPAS REPORTS.NOC.Files Near Timeline Breach Summary",
       "navigationURL": "report/rainmaker-obpas_noc/FilesNearTimelineBreachSummary",
       "leftIcon": "action:assignment",
@@ -28089,7 +28089,7 @@
       "displayName": "Files Near Timeline Breach Summary",
       "orderNumber": 7,
       "enabled": true,
-      "serviceCode": "OBPASBPAREPORTS",
+      "serviceCode": "OBPASNOCREPORTS",
       "code": "null",
       "path": ""
     },
@@ -28100,7 +28100,7 @@
       "displayName": "Files Near Timeline Breach Summary",
       "orderNumber": 7,
       "enabled": true,
-      "serviceCode": "OBPASBPAREPORTS",
+      "serviceCode": "OBPASNOCREPORTS",
       "code": "null",
       "path": ""
     },
@@ -28113,7 +28113,7 @@
       "queryParams": "",
       "parentModule": "OBPAS NOC REPORTS",
       "enabled": true,
-      "serviceCode": "OBPASBPAREPORTS",
+      "serviceCode": "OBPASNOCREPORTS",
       "path": "OBPAS REPORTS.NOC.Detailed Files Near Timeline Breach",
       "navigationURL": "report/rainmaker-obpas_noc/DetailedFilesNearTimelineBreach",
       "leftIcon": "action:assignment",
@@ -28126,7 +28126,7 @@
       "displayName": "Detailed Files Near Timeline Breach",
       "orderNumber": 8,
       "enabled": true,
-      "serviceCode": "OBPASBPAREPORTS",
+      "serviceCode": "OBPASNOCREPORTS",
       "code": "null",
       "path": ""
     },
@@ -28137,7 +28137,7 @@
       "displayName": "Detailed Files Near Timeline Breach",
       "orderNumber": 8,
       "enabled": true,
-      "serviceCode": "OBPASBPAREPORTS",
+      "serviceCode": "OBPASNOCREPORTS",
       "code": "null",
       "path": ""
     },                
@@ -28150,7 +28150,7 @@
       "queryParams": "",
       "parentModule": "OBPAS NOC REPORTS",
       "enabled": true,
-      "serviceCode": "OBPASBPAREPORTS",
+      "serviceCode": "OBPASNOCREPORTS",
       "path": "OBPAS REPORTS.NOC.Top 7 officers with Highest Pendency",
       "navigationURL": "report/rainmaker-obpas_noc/officers_with_highest_pendency",
       "leftIcon": "action:assignment",
@@ -28163,7 +28163,7 @@
       "displayName": "Top 7 officers with Highest Pendency",
       "orderNumber": 9,
       "enabled": true,
-      "serviceCode": "OBPASBPAREPORTS",
+      "serviceCode": "OBPASNOCREPORTS",
       "code": "null",
       "path": ""
     },
@@ -28174,7 +28174,7 @@
       "displayName": "Top 7 officers with Highest Pendency",
       "orderNumber": 9,
       "enabled": true,
-      "serviceCode": "OBPASBPAREPORTS",
+      "serviceCode": "OBPASNOCREPORTS",
       "code": "null",
       "path": ""
     },
@@ -28187,7 +28187,7 @@
       "queryParams": "",
       "parentModule": "OBPAS NOC REPORTS",
       "enabled": true,
-      "serviceCode": "OBPASBPAREPORTS",
+      "serviceCode": "OBPASNOCREPORTS",
       "path": "OBPAS REPORTS.NOC.Beyond Timeline Summary",
       "navigationURL": "report/rainmaker-obpas_noc/BeyondTimelineSummary",
       "leftIcon": "action:assignment",
@@ -28200,7 +28200,7 @@
       "displayName": "Beyond Timeline Summary",
       "orderNumber": 10,
       "enabled": true,
-      "serviceCode": "OBPASBPAREPORTS",
+      "serviceCode": "OBPASNOCREPORTS",
       "code": "null",
       "path": ""
     },
@@ -28211,7 +28211,7 @@
       "displayName": "Beyond Timeline Summary",
       "orderNumber": 10,
       "enabled": true,
-      "serviceCode": "OBPASBPAREPORTS",
+      "serviceCode": "OBPASNOCREPORTS",
       "code": "null",
       "path": ""
     }    
