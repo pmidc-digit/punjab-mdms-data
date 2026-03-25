@@ -1184,6 +1184,12 @@
       "name": "RL Counter User",
       "description": "Access to Rent And Lease",
       "groupId": "032"
+    },
+    {
+      "code": "OBPAS_READ_ONLY",
+      "name": "OBPAS_READ_ONLY",
+      "description": "OBPAS NOC workflow Approver",
+      "groupId": "025"
     }
   ]
 }
