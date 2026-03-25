@@ -68834,6 +68834,71 @@
       "actionid": 882508,
       "actioncode": "",
       "tenantId": "pb"
-    }    
+    },
+    {
+      "rolecode": "OBPAS_READ_ONLY",
+      "actionid": 8900904,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_READ_ONLY",
+      "actionid": 8900912,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_READ_ONLY",
+      "actionid": 1474,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_READ_ONLY",
+      "actionid": 883341,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_READ_ONLY",
+      "actionid": 5571,
+      "actioncode": "",
+      "tenantId": "pb"
+    } ,{
+      "rolecode": "OBPAS_READ_ONLY",
+      "actionid": 1449,
+      "actioncode": "",
+      "tenantId": "pb"
+    },{
+      "rolecode": "OBPAS_READ_ONLY",
+      "actionid": 1459,
+      "actioncode": "",
+      "tenantId": "pb"
+    },{
+      "rolecode": "OBPAS_READ_ONLY",
+      "actionid": 8900804,
+      "actioncode": "",
+      "tenantId": "pb"
+    },{
+      "rolecode": "OBPAS_READ_ONLY",
+      "actionid": 8900913,
+      "actioncode": "",
+      "tenantId": "pb"
+    },{
+      "rolecode": "OBPAS_READ_ONLY",
+      "actionid": 1472,
+      "actioncode": "",
+      "tenantId": "pb"
+    },{
+      "rolecode": "OBPAS_READ_ONLY",
+      "actionid": 5009,
+      "actioncode": "",
+      "tenantId": "pb"
+    },{
+      "rolecode": "OBPAS_READ_ONLY",
+      "actionid": 5024,
+      "actioncode": "",
+      "tenantId": "pb"
+    }
   ]
 }
