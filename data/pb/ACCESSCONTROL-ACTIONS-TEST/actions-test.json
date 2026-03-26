@@ -20897,7 +20897,7 @@
       "rightIcon": "",
       "queryParams": ""
     },
-     {
+    {
       "id": 2200017,
       "name": "Revenue Search ",
       "url": "/egov-property-rate/property-rate/revenue/_missing",
@@ -20908,7 +20908,7 @@
       "code": "null",
       "path": ""
     },
-     {
+    {
       "id": 2200018,
       "name": "Revenue Search ",
       "url": "/egov-property-rate/property-rate/_search",
@@ -20968,7 +20968,7 @@
       "leftIcon": "social:people",
       "rightIcon": ""
     },
-	 {
+    {
       "id": 2200023,
       "name": "HRMS",
       "url": "url",
@@ -21223,170 +21223,170 @@
       "code": "null",
       "path": ""
     },
-	{
-	  "id": 883358,
-	  "name": "Layout Calculator",
-	  "url": "/layout-calculator/v1/_calculate",
-	  "parentModule": "",
-	  "displayName": "Layout Calculator",
-	  "orderNumber": 0,
-	  "enabled": false,
-	  "serviceCode": "layout-services",
-	  "code": "null",
-	  "path": ""
-	},
-	{
-	  "id": 883359,
-	  "name": "create Layout application",
-	  "url": "/layout-services/v1/layout/_create",
-	  "displayName": "create Layout application",
-	  "orderNumber": 1,
-	  "enabled": true,
-	  "serviceCode": "layout-services",
-	  "code": "null",
-	  "path": ""
-	},
-	{
-	  "id": 883360,
-	  "name": "update Layout application",
-	  "url": "/layout-services/v1/layout/_update",
-	  "displayName": "update layout application",
-	  "orderNumber": 2,
-	  "enabled": true,
-	  "serviceCode": "layout-services",
-	  "code": "null",
-	  "path": ""
-	},
-	{
-	  "id": 883361,
-	  "name": "Search Layout Applications",
-	  "url": "/layout-services/v1/layout/_search",
-	  "parentModule": "",
-	  "displayName": "Search Layout Applications",
-	  "orderNumber": 3,
-	  "enabled": true,
-	  "serviceCode": "layout-services",
-	  "code": "null",
-	  "path": ""
-	},
-	{
-	  "id": 883362,
-	  "name": "Layout document CheckList Create",
-	  "url": "/layout-services/v1/checklist/_create",
-	  "displayName": "CheckList Create",
-	  "orderNumber": 0,
-	  "parentModule": "",
-	  "enabled": false,
-	  "serviceCode": "layout-services",
-	  "code": "null",
-	  "path": ""
-	},
-	{
-	  "id": 883363,
-	  "name": "Layout document CheckList Update",
-	  "url": "/layout-services/v1/checklist/_update",
-	  "displayName": "CheckList update",
-	  "orderNumber": 0,
-	  "parentModule": "",
-	  "enabled": false,
-	  "serviceCode": "layout-services",
-	  "code": "null",
-	  "path": ""
-	},
-	{
-	  "id": 883364,
-	  "name": "Layout document CheckList Search",
-	  "url": "/layout-services/v1/checklist/_search",
-	  "displayName": "CheckList search",
-	  "orderNumber": 0,
-	  "parentModule": "",
-	  "enabled": false,
-	  "serviceCode": "layout-services",
-	  "code": "null",
-	  "path": ""
-	},
-	{
-	  "id": 883365,
-	  "name": "Layout Collection Search Reciept",
-	  "url": "/collection-services/payments/LAYOUT.PAY1/_search",
-	  "displayName": "Search Payment",
-	  "orderNumber": 0,
-	  "enabled": false,
-	  "serviceCode": "COLLECTION",
-	  "code": "null",
-	  "path": ""
-	},
-	{
-	  "id": 883366,
-	  "name": "Layout Collection Search Reciept",
-	  "url": "/collection-services/payments/LAYOUT.PAY2/_search",
-	  "displayName": "Search Payment",
-	  "orderNumber": 0,
-	  "enabled": false,
-	  "serviceCode": "COLLECTION",
-	  "code": "null",
-	  "path": ""
-	},
-	{
-	  "id": 883367,
-	  "name": "BPA document CheckList Create",
-	  "url": "/bpa-services/v1/checklist/_create",
-	  "displayName": "CheckList Create",
-	  "orderNumber": 0,
-	  "parentModule": "",
-	  "enabled": false,
-	  "serviceCode": "bpa-services",
-	  "code": "null",
-	  "path": ""
-	},
-	{
-	  "id": 883368,
-	  "name": "BPA document CheckList Update",
-	  "url": "/bpa-services/v1/checklist/_update",
-	  "displayName": "CheckList update",
-	  "orderNumber": 0,
-	  "parentModule": "",
-	  "enabled": false,
-	  "serviceCode": "bpa-services",
-	  "code": "null",
-	  "path": ""
-	},
-	{
-	  "id": 883369,
-	  "name": "BPA document CheckList Search",
-	  "url": "/bpa-services/v1/checklist/_search",
-	  "displayName": "CheckList search",
-	  "orderNumber": 0,
-	  "parentModule": "",
-	  "enabled": false,
-	  "serviceCode": "bpa-services",
-	  "code": "null",
-	  "path": ""
-	},
-	{
-	  "id": 883370,
-	  "name": "BPA OC Application Payment search",
-	  "url": "/collection-services/payments/BPA.OC_APP_FEE/_search",
-	  "displayName": "BPA Application Payment search",
-	  "orderNumber": 1,
-	  "parentModule": "",
-	  "enabled": false,
-	  "serviceCode": "",
-	  "code": "null",
-	  "path": ""
-	},
-	{
-	  "id": 883371,
-	  "name": "BPA OC San Payment search",
-	  "url": "/collection-services/payments/BPA.OC_SAN_FEE/_search",
-	  "displayName": "BPA San Payment search",
-	  "orderNumber": 1,
-	  "parentModule": "",
-	  "enabled": false,
-	  "serviceCode": "",
-	  "code": "null",
-	  "path": ""
-	},
+    {
+      "id": 883358,
+      "name": "Layout Calculator",
+      "url": "/layout-calculator/v1/_calculate",
+      "parentModule": "",
+      "displayName": "Layout Calculator",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "layout-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 883359,
+      "name": "create Layout application",
+      "url": "/layout-services/v1/layout/_create",
+      "displayName": "create Layout application",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "layout-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 883360,
+      "name": "update Layout application",
+      "url": "/layout-services/v1/layout/_update",
+      "displayName": "update layout application",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "layout-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 883361,
+      "name": "Search Layout Applications",
+      "url": "/layout-services/v1/layout/_search",
+      "parentModule": "",
+      "displayName": "Search Layout Applications",
+      "orderNumber": 3,
+      "enabled": true,
+      "serviceCode": "layout-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 883362,
+      "name": "Layout document CheckList Create",
+      "url": "/layout-services/v1/checklist/_create",
+      "displayName": "CheckList Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "layout-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 883363,
+      "name": "Layout document CheckList Update",
+      "url": "/layout-services/v1/checklist/_update",
+      "displayName": "CheckList update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "layout-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 883364,
+      "name": "Layout document CheckList Search",
+      "url": "/layout-services/v1/checklist/_search",
+      "displayName": "CheckList search",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "layout-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 883365,
+      "name": "Layout Collection Search Reciept",
+      "url": "/collection-services/payments/LAYOUT.PAY1/_search",
+      "displayName": "Search Payment",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 883366,
+      "name": "Layout Collection Search Reciept",
+      "url": "/collection-services/payments/LAYOUT.PAY2/_search",
+      "displayName": "Search Payment",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 883367,
+      "name": "BPA document CheckList Create",
+      "url": "/bpa-services/v1/checklist/_create",
+      "displayName": "CheckList Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "bpa-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 883368,
+      "name": "BPA document CheckList Update",
+      "url": "/bpa-services/v1/checklist/_update",
+      "displayName": "CheckList update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "bpa-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 883369,
+      "name": "BPA document CheckList Search",
+      "url": "/bpa-services/v1/checklist/_search",
+      "displayName": "CheckList search",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "bpa-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 883370,
+      "name": "BPA OC Application Payment search",
+      "url": "/collection-services/payments/BPA.OC_APP_FEE/_search",
+      "displayName": "BPA Application Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 883371,
+      "name": "BPA OC San Payment search",
+      "url": "/collection-services/payments/BPA.OC_SAN_FEE/_search",
+      "displayName": "BPA San Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
     {
       "id": 22982,
       "name": "Challan Summary Report",
@@ -21639,7 +21639,7 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-      {
+    {
       "id": 22998,
       "name": "HRMS",
       "url": "url",
@@ -21667,7 +21667,7 @@
       "code": "null",
       "path": ""
     },
-	 {
+    {
       "id": 111781,
       "name": "Employee Update",
       "url": "/egov-hrms/obpass/employees/_delete",
@@ -21679,7 +21679,7 @@
       "code": "null",
       "path": ""
     },
-	{
+    {
       "id": 111780,
       "name": "Employee Create",
       "url": "/egov-hrms/obpass/employees/_create",
@@ -21854,7 +21854,7 @@
       "code": "null",
       "path": ""
     },
-        {
+    {
       "id": 883321,
       "name": "create advertisement  application",
       "url": "/adv-services/booking/v1/_create",
@@ -21920,7 +21920,7 @@
       "code": "null",
       "path": ""
     },
-      {
+    {
       "id": 8900959,
       "name": "create Garbage connection",
       "url": "/gc-services/gc/_create",
@@ -22124,7 +22124,7 @@
       "leftIcon": "custom:open-NDCMODULE",
       "rightIcon": ""
     },
-     {
+    {
       "id": 8900096,
       "name": "CreateAllotment",
       "url": "/rl-services/allotment/_create",
@@ -22301,6 +22301,22 @@
       "rightIcon": ""
     },
     {
+      "id": 229820,
+      "name": "Bill Generate",
+      "url": "url",
+      "displayName": "Bill Generate",
+      "orderNumber": 3,
+      "queryParams": "",
+      "parentModule": "rainmaker-hrms",
+      "enabled": true,
+      "serviceCode": "RentAndLease",
+      "code": "null",
+      "path": "RentAndLease.RentAndLease Reports.HRMSEmployee wise Report",
+      "navigationURL": "/digit-ui/employee/rentandlease/bill-generate",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
       "id": 882828,
       "name": "ADS_BOOK",
       "url": "digit-ui-card",
@@ -22369,4 +22385,4 @@
       "rightIcon": ""
     }
   ]
-} 
+}
