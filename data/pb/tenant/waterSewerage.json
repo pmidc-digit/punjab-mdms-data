@@ -287,8 +287,8 @@
     {
       "code": "pb.goraya",
       "name": "Goraya",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.gurdaspur",
@@ -679,6 +679,24 @@
       "name": "Garhshankar",
       "iswater": false,
       "issewerage": false
+    },
+    {
+      "code": "pb.mohali",
+      "name": "Mohali",
+      "iswater": true,
+      "issewerage": false
+    },
+    {
+      "code": "pb.fatehgarhchurian",
+      "name": "Fatehgarh Churian",
+      "iswater": true,
+      "issewerage": false
+    },
+    {
+      "code": "pb.tarntaran",
+      "name": "Tarn Taran",
+      "iswater": true,
+      "issewerage": true
     }
   ]
 }
