@@ -1,0 +1,3329 @@
+{
+    "tenantId": "pb",
+    "moduleName": "common-masters",
+    "uiObpsHomePage": {
+        "sectionHeaders": [
+            {
+                "name": "BY_LAWS",
+                "code": "BYLAWS",
+                "links": [
+                    {
+                        "name": "BPA_BYLAWS_MODEL_MUNICIPAL_BUILDING_BYELAWS_2015",
+                        "code": "BYLAWS_2015",
+                        "displayName": "Model Municipal Building Byelaws - 2015",
+                        "sectionCode": "BYLAWS",
+                        "link": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FOBPS%2FMarch%2F25%2F1774420796043ClYdgclPrV.pdf",
+                        "isSubsection": false,
+                        "subsection": []
+                    },
+                    {
+                        "name": "BPA_BYLAWS_PMBBL_2018",
+                        "code": "BYLAWS_2018",
+                        "displayName": "The New Building Byelaws PMBBL - 2018",
+                        "sectionCode": "BYLAWS",
+                        "link": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FOBPS%2FMarch%2F25%2F1774420987792VccWKZNFnH.pdf",
+                        "isSubsection": false,
+                        "subsection": []
+                    },
+                    {
+                        "name": "BPA_BYLAWS_PMBBL_2020",
+                        "code": "BYLAWS_2020",
+                        "displayName": "The New Building Byelaws PMBBL - 2020",
+                        "sectionCode": "BYLAWS",
+                        "link": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FOBPS%2FMarch%2F25%2F1774421074527ICXEqADcjI.pdf",
+                        "isSubsection": false,
+                        "subsection": []
+                    },
+                    {
+                        "name": "BPA_BYLAWS_PUNJAB_UNIFIED_BUILDING_RULES_2025",
+                        "code": "BYLAWS_2025",
+                        "displayName": "The Punjab Unified Building Rules 2025",
+                        "sectionCode": "BYLAWS",
+                        "link": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FOBPS%2FMarch%2F25%2F1774421163610pjEuedOMjQ.pdf",
+                        "isSubsection": false,
+                        "subsection": []
+                    }
+                ]
+            },
+            {
+                "name": "USER_MANUALS",
+                "code": "USERMANUALS",
+                "links": [
+                    {
+                        "name": "BPA_CITIZEN_HOME_ARCHITECT_USER_MANUAL_LABEL",
+                        "code": "USERMANUALS_1",
+                        "displayName": "Professional User manual",
+                        "sectionCode": "USERMANUALS",
+                        "link": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FBPA%2FMarch%2F13%2F1773381471615HJwwGxBMja.pdf",
+                        "isSubsection": false,
+                        "subsection": []
+                    },
+                    {
+                        "name": "BPA_CITIZEN_HOME_SCRUTINY_USER_MANUAL_LABEL",
+                        "code": "USERMANUALS_2",
+                        "displayName": "Scrutiny User manual",
+                        "sectionCode": "USERMANUALS",
+                        "link": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FBPA%2FMarch%2F13%2F1773381813315LWyyZgRJkC.pdf",
+                        "isSubsection": false,
+                        "subsection": []
+                    }
+                ]
+            },
+            {
+                "name": "SAMPLE_FILES",
+                "code": "SAMPLEFILES",
+                "links": [
+                    {
+                        "name": "BPA_CITIZEN_HOME_01_AMRITTSAR_SAMPLE_DXF",
+                        "code": "SAMPLEFILES_1",
+                        "displayName": "Sample File 01 - Amritsar",
+                        "sectionCode": "SAMPLEFILES",
+                        "link": "https://sdc-uat.lgpunjab.gov.in/edcr/rest/dcr/downloadfile?tenantId=amritsar&fileStoreId=cec63f19-d800-4fb9-9cd6-a97a55da6c8c",
+                        "isSubsection": false,
+                        "subsection": []
+                    },
+                    {
+                        "name": "BPA_CITIZEN_HOME_02_AMRITTSAR_SAMPLE_DXF",
+                        "code": "SAMPLEFILES_2",
+                        "displayName": "Sample File 02 - Amritsar",
+                        "sectionCode": "SAMPLEFILES",
+                        "link": "https://sdc-uat.lgpunjab.gov.in/edcr/rest/dcr/downloadfile?tenantId=amritsar&fileStoreId=3834dfdd-04e6-40f8-848c-182fe82d0d48",
+                        "isSubsection": false,
+                        "subsection": []
+                    },
+                    {
+                        "name": "BPA_CITIZEN_HOME_01_TESTING_SAMPLE_DXF",
+                        "code": "SAMPLEFILES_3",
+                        "displayName": "Sample File 01 - Testing",
+                        "sectionCode": "SAMPLEFILES",
+                        "link": "https://mseva-dev.lgpunjab.gov.in/edcr/rest/dcr/downloadfile?tenantId=testing&fileStoreId=ba8183a1-dcc6-4aa8-8f4d-75d525bf12e4",
+                        "isSubsection": false,
+                        "subsection": []
+                    },
+                    {
+                        "name": "BPA_CITIZEN_HOME_02_TESTING_SAMPLE_DXF",
+                        "code": "SAMPLEFILES_4",
+                        "displayName": "Sample File 02 - Testing",
+                        "sectionCode": "SAMPLEFILES",
+                        "link": "https://mseva-dev.lgpunjab.gov.in/edcr/rest/dcr/downloadfile?tenantId=testing&fileStoreId=ee19e32b-a3e3-4c13-86c8-e5c7cbb3993f",
+                        "isSubsection": false,
+                        "subsection": []
+                    },
+                    {
+                        "name": "BPA_CITIZEN_HOME_03_TESTING_SAMPLE_DXF",
+                        "code": "SAMPLEFILES_5",
+                        "displayName": "Sample File 03 - Testing",
+                        "sectionCode": "SAMPLEFILES",
+                        "link": "https://mseva-dev.lgpunjab.gov.in/edcr/rest/dcr/downloadfile?tenantId=testing&fileStoreId=edfb9c3c-4ffb-4fa2-8609-23a9ba5aff43",
+                        "isSubsection": false,
+                        "subsection": []
+                    }
+                ]
+            },
+            {
+                "name": "VIDEO",
+                "code": "VIDEO",
+                "links": [
+                    {
+                        "name": "BPA_CITIZEN_HOME_01_OBPS_VIDEO",
+                        "code": "VIDEO_1",
+                        "displayName": "How To Register",
+                        "sectionCode": "VIDEO",
+                        "link": "https://youtu.be/hA8Tu3M45fg",
+                        "isSubsection": false,
+                        "subsection": []
+                    }
+                ]
+            },
+            {
+                "name": "NOTIFICATIONS",
+                "code": "NOTIFICATIONS",
+                "links": [
+                    {
+                        "name": "BPA_NOTIFICATIONS_CHECKLIST_BUILDING_PLAN_APPROVAL",
+                        "code": "NOTIFICATIONS_1",
+                        "displayName": "Checklist for Building Plan Approval",
+                        "sectionCode": "NOTIFICATIONS",
+                        "link": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FOBPS%2FMarch%2F25%2F1774421684298AntfBsvism.pdf",
+                        "isSubsection": false,
+                        "subsection": []
+                    },
+                    {
+                        "name": "BPA_NOTIFICATIONS_CHECKLIST_CLU",
+                        "code": "NOTIFICATIONS_2",
+                        "displayName": "Checklist for CLU",
+                        "sectionCode": "NOTIFICATIONS",
+                        "link": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FOBPS%2FMarch%2F25%2F1774421821640vAvrCkDoAi.pdf",
+                        "isSubsection": false,
+                        "subsection": []
+                    },
+                    {
+                        "name": "BPA_NOTIFICATIONS_NOTIFICATION_EDU_CLU_ETC_2017",
+                        "code": "NOTIFICATIONS_3",
+                        "displayName": "06.10.17 Notification Of EDU, CLU, ETC.",
+                        "sectionCode": "NOTIFICATIONS",
+                        "link": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FOBPS%2FMarch%2F25%2F1774422682391BhgVrXsYZQ.pdf",
+                        "isSubsection": false,
+                        "subsection": []
+                    },
+                    {
+                        "name": "BPA_NOTIFICATIONS_NOTIFICATION_EDU_CLU_ETC_2025",
+                        "code": "NOTIFICATIONS_4",
+                        "displayName": "04.06.25 Notification Of EDU, CLU, ETC.",
+                        "sectionCode": "NOTIFICATIONS",
+                        "link": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FOBPS%2FMarch%2F25%2F1774422794581mHiUDaGiWJ.pdf",
+                        "isSubsection": false,
+                        "subsection": []
+                    },
+                    {
+                        "name": "BPA_NOTIFICATIONS_CLU_WORKFLOW",
+                        "code": "NOTIFICATIONS_5",
+                        "displayName": "CLU Workflow",
+                        "sectionCode": "NOTIFICATIONS",
+                        "link": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FOBPS%2FMarch%2F25%2F1774422870107WlYXoEhDHs.pdf",
+                        "isSubsection": false,
+                        "subsection": []
+                    }
+                ]
+            },
+            {
+                "name": "AMENDMENTS",
+                "code": "AMENDMENTS",
+                "links": [
+                    {
+                        "name": "BPA_AMENDMENTS_NOTIFICATION_PMBBL_2020",
+                        "code": "AMENDMENTS_1",
+                        "displayName": "Notification PMBBL - 2020",
+                        "sectionCode": "AMENDMENTS",
+                        "link": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FOBPS%2FMarch%2F25%2F1774429422415AcFQqKAtsq.pdf",
+                        "isSubsection": false,
+                        "subsection": []
+                    },
+                    {
+                        "name": "BPA_AMENDMENTS_HOSPITAL_AMENDMENT_NEW",
+                        "code": "AMENDMENTS_2",
+                        "displayName": "Hospital Amendment New",
+                        "sectionCode": "AMENDMENTS",
+                        "link": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FOBPS%2FMarch%2F25%2F1774429505771UTgLRXaniN.pdf",
+                        "isSubsection": false,
+                        "subsection": []
+                    },
+                    {
+                        "name": "BPA_AMENDMENTS_NOTIFICATION_1338_03062020",
+                        "code": "AMENDMENTS_3",
+                        "displayName": "Notification No. 1338 Dated 03.06.2020",
+                        "sectionCode": "AMENDMENTS",
+                        "link": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FOBPS%2FMarch%2F25%2F1774429657852xOjJhAklDG.pdf",
+                        "isSubsection": false,
+                        "subsection": []
+                    },
+                    {
+                        "name": "BPA_AMENDMENTS_NOTIFICATION_THIRD_PARTY_CERTIFICATION",
+                        "code": "AMENDMENTS_4",
+                        "displayName": "Notification Third Party Certification",
+                        "sectionCode": "AMENDMENTS",
+                        "link": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FOBPS%2FMarch%2F25%2F1774429739684JoFUNxXFom.pdf",
+                        "isSubsection": false,
+                        "subsection": []
+                    },
+                    {
+                        "name": "BPA_AMENDMENTS_NOTIFICATION_30_APRIL_2021",
+                        "code": "AMENDMENTS_5",
+                        "displayName": "Notification The 30 April, 2021",
+                        "sectionCode": "AMENDMENTS",
+                        "link": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FOBPS%2FMarch%2F25%2F1774429930864qNXhTmkSPv.pdf",
+                        "isSubsection": false,
+                        "subsection": []
+                    },
+                    {
+                        "name": "BPA_AMENDMENTS_NOTIFICATION_26_JULY_2021",
+                        "code": "AMENDMENTS_6",
+                        "displayName": "Notification The 26 July, 2021",
+                        "sectionCode": "AMENDMENTS",
+                        "link": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FOBPS%2FMarch%2F25%2F1774430024182LxRhXEVEhO.pdf",
+                        "isSubsection": false,
+                        "subsection": []
+                    },
+                    {
+                        "name": "BPA_AMENDMENTS_NOTIFICATION_19_NOV_2021",
+                        "code": "AMENDMENTS_7",
+                        "displayName": "Notification The 19 November, 2021",
+                        "sectionCode": "AMENDMENTS",
+                        "link": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FOBPS%2FMarch%2F25%2F1774430210363oRsEijsoKV.pdf",
+                        "isSubsection": false,
+                        "subsection": []
+                    },
+                    {
+                        "name": "BPA_AMENDMENTS_NOTIFICATION_1251_1252",
+                        "code": "AMENDMENTS_8",
+                        "displayName": "Notification 1251-1252",
+                        "sectionCode": "AMENDMENTS",
+                        "link": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FOBPS%2FMarch%2F25%2F1774430289646cBCODFpCcu.pdf",
+                        "isSubsection": false,
+                        "subsection": []
+                    },
+                    {
+                        "name": "BPA_AMENDMENTS_NOTIFICATION_GENERAL",
+                        "code": "AMENDMENTS_9",
+                        "displayName": "Notification",
+                        "sectionCode": "AMENDMENTS",
+                        "link": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FOBPS%2FMarch%2F25%2F1774430357360iddpcLCqXk.pdf",
+                        "isSubsection": false,
+                        "subsection": []
+                    },
+                    {
+                        "name": "BPA_AMENDMENTS_BUILDING_SOLUTION_TELECOMMUNICATION",
+                        "code": "AMENDMENTS_10",
+                        "displayName": "Building Solution For Telecommunication",
+                        "sectionCode": "AMENDMENTS",
+                        "link": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FOBPS%2FMarch%2F25%2F1774430455313xmQMhoHmiD.pdf",
+                        "isSubsection": false,
+                        "subsection": []
+                    },
+                    {
+                        "name": "BPA_AMENDMENTS_CLU_MERGE_NOTIFICATION",
+                        "code": "AMENDMENTS_11",
+                        "displayName": "CLU Merge Notification",
+                        "sectionCode": "AMENDMENTS",
+                        "link": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FOBPS%2FMarch%2F25%2F1774431634002pLTsumVBTT.pdf",
+                        "isSubsection": false,
+                        "subsection": []
+                    }
+                ]
+            },
+            {
+                "name": "FEES",
+                "code": "FEES",
+                "links": [
+                    {
+                        "name": "BPA_FEES_BUILDING_FEE",
+                        "code": "FEES_1",
+                        "displayName": "Building Fee",
+                        "sectionCode": "FEES",
+                        "link": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FOBPS%2FMarch%2F25%2F1774423080434UigftpiVfQ.pdf",
+                        "isSubsection": false,
+                        "subsection": []
+                    },
+                    {
+                        "name": "BPA_FEES_MALBA_FEE",
+                        "code": "FEES_2",
+                        "displayName": "Malba Fee",
+                        "sectionCode": "FEES",
+                        "link": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FOBPS%2FMarch%2F25%2F1774423210866ffCHCUMfiZ.pdf",
+                        "isSubsection": false,
+                        "subsection": []
+                    },
+                    {
+                        "name": "BPA_FEES_COMPOUNDING_FEE",
+                        "code": "FEES_3",
+                        "displayName": "Compounding Fee",
+                        "sectionCode": "FEES",
+                        "link": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FOBPS%2FMarch%2F25%2F1774423340898SAGULVyUJg.pdf",
+                        "isSubsection": false,
+                        "subsection": []
+                    }
+                ]
+            },
+            {
+                "name": "APPROVED_COLONIES",
+                "code": "APPROVEDCOLONIES",
+                "links": [
+                    {
+                        "name": "BPA_APPROVEDNOCS_AMRITSAR",
+                        "code": "Amritsar",
+                        "displayName": "Amritsar",
+                        "sectionCode": "APPROVEDCOLONIES",
+                        "link": "",
+                        "isSubsection": true,
+                        "subsection": [
+                            {
+                                "name": "AJNALA",
+                                "code": "Ajnala",
+                                "displayName": "Ajnala",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "AMRITSAR",
+                                "code": "Amritsar",
+                                "displayName": "Amritsar",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "AMRITSAR_REGION",
+                                "code": "Amritsar Region",
+                                "displayName": "Amritsar Region",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "BABA_BAKALA_SAHIB",
+                                "code": "Baba Bakala Sahib",
+                                "displayName": "Baba Bakala Sahib",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "JANDIALA",
+                                "code": "Jandiala",
+                                "displayName": "Jandiala",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "MAJITHA",
+                                "code": "Majitha",
+                                "displayName": "Majitha",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "RAJA_SANSI",
+                                "code": "Raja Sansi",
+                                "displayName": "Raja Sansi",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "RAMDAS",
+                                "code": "Ramdas",
+                                "displayName": "Ramdas",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "RAYYA",
+                                "code": "Rayya",
+                                "displayName": "Rayya",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BPA_APPROVEDNOCS_BARNALA",
+                        "code": "Barnala",
+                        "displayName": "Barnala",
+                        "sectionCode": "APPROVEDCOLONIES",
+                        "link": "",
+                        "isSubsection": true,
+                        "subsection": [
+                            {
+                                "name": "BARNALA",
+                                "code": "Barnala",
+                                "displayName": "Barnala",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "BHADAUR",
+                                "code": "Bhadaur",
+                                "displayName": "Bhadaur",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "DHANAULA",
+                                "code": "DHANAULA",
+                                "displayName": "DHANAULA",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "HANDIAYA",
+                                "code": "Handiaya",
+                                "displayName": "Handiaya",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "TAPA",
+                                "code": "Tapa",
+                                "displayName": "Tapa",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BPA_APPROVEDNOCS_BATHINDA",
+                        "code": "Bathinda",
+                        "displayName": "Bathinda",
+                        "sectionCode": "APPROVEDCOLONIES",
+                        "link": "",
+                        "isSubsection": true,
+                        "subsection": [
+                            {
+                                "name": "BALIAN_WALA",
+                                "code": "Balian Wala",
+                                "displayName": "Balian Wala",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "BATHINDA",
+                                "code": "Bathinda",
+                                "displayName": "Bathinda",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "BATHINDA_REGION",
+                                "code": "Bathinda Region",
+                                "displayName": "Bathinda Region",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "BHAGTA_BHAI_KA",
+                                "code": "Bhagta Bhai Ka",
+                                "displayName": "Bhagta Bhai Ka",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "BHAIROOPA",
+                                "code": "Bhairoopa",
+                                "displayName": "Bhairoopa",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "BHUCHO_MANDI",
+                                "code": "Bhucho Mandi",
+                                "displayName": "Bhucho Mandi",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "CHAUKE",
+                                "code": "Chauke",
+                                "displayName": "Chauke",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "GONIANA",
+                                "code": "Goniana",
+                                "displayName": "Goniana",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "KOT_FATTA",
+                                "code": "Kot Fatta",
+                                "displayName": "Kot Fatta",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "KOT_SHAMIR",
+                                "code": "Kot Shamir",
+                                "displayName": "Kot Shamir",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BPA_APPROVEDNOCS_BATHINDA",
+                        "code": "Bathinda",
+                        "displayName": "Bathinda",
+                        "sectionCode": "APPROVEDCOLONIES",
+                        "link": "",
+                        "isSubsection": true,
+                        "subsection": [
+                            {
+                                "name": "KOTHA_GURU",
+                                "code": "Kotha Guru",
+                                "displayName": "Kotha Guru",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "LEHRA_MOHABBAT",
+                                "code": "Lehra Mohabbat",
+                                "displayName": "Lehra Mohabbat",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "MALUKA",
+                                "code": "Maluka",
+                                "displayName": "Maluka",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "MANDIKALAN",
+                                "code": "Mandikalan",
+                                "displayName": "Mandikalan",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "MAUR",
+                                "code": "Maur",
+                                "displayName": "Maur",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "MEHRAJ",
+                                "code": "Mehraj",
+                                "displayName": "Mehraj",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "NATHANA",
+                                "code": "Nathana",
+                                "displayName": "Nathana",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "RAMAN",
+                                "code": "Raman",
+                                "displayName": "Raman",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "RAMPURA",
+                                "code": "Rampura",
+                                "displayName": "Rampura",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "RAMPURA_PHUL",
+                                "code": "Rampura Phul",
+                                "displayName": "Rampura Phul",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "SANGAT",
+                                "code": "Sangat",
+                                "displayName": "Sangat",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "TALWANDI_SABO",
+                                "code": "Talwandi Sabo",
+                                "displayName": "Talwandi Sabo",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BPA_APPROVEDNOCS_FARIDKOT",
+                        "code": "Faridkot",
+                        "displayName": "Faridkot",
+                        "sectionCode": "APPROVEDCOLONIES",
+                        "link": "",
+                        "isSubsection": true,
+                        "subsection": [
+                            {
+                                "name": "FARIDKOT",
+                                "code": "Faridkot",
+                                "displayName": "Faridkot",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "JAITU",
+                                "code": "Jaitu",
+                                "displayName": "Jaitu",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "KOTKAPURA",
+                                "code": "Kotkapura",
+                                "displayName": "Kotkapura",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BPA_APPROVEDNOCS_FATEHGARH_SAHIB",
+                        "code": "Fatehgarh Sahib",
+                        "displayName": "Fatehgarh Sahib",
+                        "sectionCode": "APPROVEDCOLONIES",
+                        "link": "",
+                        "isSubsection": true,
+                        "subsection": [
+                            {
+                                "name": "AMLOH",
+                                "code": "AMLOH",
+                                "displayName": "AMLOH",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "BASSI_PATHANA",
+                                "code": "BASSI PATHANA",
+                                "displayName": "BASSI PATHANA",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "GOBINDGARH",
+                                "code": "GOBINDGARH (MANDI Gobindgarh)",
+                                "displayName": "GOBINDGARH (MANDI Gobindgarh)",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "KHAMANON",
+                                "code": "KHAMANON",
+                                "displayName": "KHAMANON",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "SIRHIND",
+                                "code": "SIRHIND FATEHGARH SAHIB",
+                                "displayName": "SIRHIND FATEHGARH SAHIB",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BPA_APPROVEDNOCS_FAZILKA",
+                        "code": "Fazilka",
+                        "displayName": "Fazilka",
+                        "sectionCode": "APPROVEDCOLONIES",
+                        "link": "",
+                        "isSubsection": true,
+                        "subsection": [
+                            {
+                                "name": "ABOHAR",
+                                "code": "ABOHAR",
+                                "displayName": "ABOHAR",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "ARNIWALA_SHEIKH_SUBHAN",
+                                "code": "ARNIWALA SHEIKH SUBHAN",
+                                "displayName": "ARNIWALA SHEIKH SUBHAN",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "FAZILKA",
+                                "code": "FAZILKA",
+                                "displayName": "FAZILKA",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "JALALABAD",
+                                "code": "JALALABAD",
+                                "displayName": "JALALABAD",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BPA_APPROVEDNOCS_FIROZPUR",
+                        "code": "Firozpur",
+                        "displayName": "Firozpur",
+                        "sectionCode": "APPROVEDCOLONIES",
+                        "link": "",
+                        "isSubsection": true,
+                        "subsection": [
+                            {
+                                "name": "FIROZPUR",
+                                "code": "Firozpur",
+                                "displayName": "Firozpur",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "FIROZPUR_REGION",
+                                "code": "Firozpur Region",
+                                "displayName": "Firozpur Region",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "GURU_HAR_SAHAI",
+                                "code": "Guru Har Sahai",
+                                "displayName": "Guru Har Sahai",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "MAKHU",
+                                "code": "Makhu",
+                                "displayName": "Makhu",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "MALLANWALA_KHASS",
+                                "code": "Mallanwala Khass",
+                                "displayName": "Mallanwala Khass",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "MAMDOT",
+                                "code": "Mamdot",
+                                "displayName": "Mamdot",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "MUDKI",
+                                "code": "Mudki",
+                                "displayName": "Mudki",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "TALWANDI_BHAI",
+                                "code": "Talwandi Bhai",
+                                "displayName": "Talwandi Bhai",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "ZIRA",
+                                "code": "Zira",
+                                "displayName": "Zira",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BPA_APPROVEDNOCS_GURDASPUR",
+                        "code": "Gurdaspur",
+                        "displayName": "Gurdaspur",
+                        "sectionCode": "APPROVEDCOLONIES",
+                        "link": "",
+                        "isSubsection": true,
+                        "subsection": [
+                            {
+                                "name": "BATALA",
+                                "code": "Batala",
+                                "displayName": "Batala",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "DERA_BABA_NANAK",
+                                "code": "Dera Baba Nanak",
+                                "displayName": "Dera Baba Nanak",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "DHARIWAL",
+                                "code": "Dhariwal",
+                                "displayName": "Dhariwal",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "DINA_NAGAR",
+                                "code": "Dina Nagar",
+                                "displayName": "Dina Nagar",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "FATEHGARH_CHURIAN",
+                                "code": "Fatehgarh Churian",
+                                "displayName": "Fatehgarh Churian",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "GURDASPUR",
+                                "code": "Gurdaspur",
+                                "displayName": "Gurdaspur",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "QADIAN",
+                                "code": "Qadian",
+                                "displayName": "Qadian",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "SRI_HARGOBINDPUR",
+                                "code": "Sri Hargobindpur",
+                                "displayName": "Sri Hargobindpur",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BPA_APPROVEDNOCS_HOSHIARPUR",
+                        "code": "Hoshiarpur",
+                        "displayName": "Hoshiarpur",
+                        "sectionCode": "APPROVEDCOLONIES",
+                        "link": "",
+                        "isSubsection": true,
+                        "subsection": [
+                            {
+                                "name": "DASUYA",
+                                "code": "Dasua (Dasuya)",
+                                "displayName": "Dasua (Dasuya)",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "GARHDIWALA",
+                                "code": "Garhdiwala",
+                                "displayName": "Garhdiwala",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "GARHSHANKAR",
+                                "code": "Garhshankar (Garhshanker)",
+                                "displayName": "Garhshankar (Garhshanker)",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "HARIANA",
+                                "code": "Hariana",
+                                "displayName": "Hariana",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "HOSHIARPUR",
+                                "code": "Hoshiarpur",
+                                "displayName": "Hoshiarpur",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "MAHILPUR",
+                                "code": "Mahilpur",
+                                "displayName": "Mahilpur",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "MUKERIAN",
+                                "code": "Mukerian",
+                                "displayName": "Mukerian",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "SHAM_CHAURASI",
+                                "code": "Sham Chaurasi",
+                                "displayName": "Sham Chaurasi",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "TALWARA",
+                                "code": "Talwara",
+                                "displayName": "Talwara",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "URMAR_TANDA",
+                                "code": "Urmar Tanda",
+                                "displayName": "Urmar Tanda",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BPA_APPROVEDNOCS_JALANDHAR",
+                        "code": "Jalandhar",
+                        "displayName": "Jalandhar",
+                        "sectionCode": "APPROVEDCOLONIES",
+                        "link": "",
+                        "isSubsection": true,
+                        "subsection": [
+                            {
+                                "name": "ADAMPUR",
+                                "code": "Adampur",
+                                "displayName": "Adampur",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "ALAWALPUR",
+                                "code": "Alawalpur",
+                                "displayName": "Alawalpur",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "BHOGPUR",
+                                "code": "Bhogpur",
+                                "displayName": "Bhogpur",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "BILGA",
+                                "code": "Bilga",
+                                "displayName": "Bilga",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "GORAYA",
+                                "code": "Goraya",
+                                "displayName": "Goraya",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "JALANDHAR",
+                                "code": "Jalandhar",
+                                "displayName": "Jalandhar",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "JALANDHAR_REGION",
+                                "code": "Jalandhar Region",
+                                "displayName": "Jalandhar Region",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "KARTARPUR",
+                                "code": "Kartarpur",
+                                "displayName": "Kartarpur",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "LOHIAN_KHASS",
+                                "code": "Lohian Khass",
+                                "displayName": "Lohian Khass",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "MEHATPUR",
+                                "code": "Mehatpur",
+                                "displayName": "Mehatpur",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "NAKODAR",
+                                "code": "Nakodar",
+                                "displayName": "Nakodar",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "NURMAHAL",
+                                "code": "Nurmahal",
+                                "displayName": "Nurmahal",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "PHILLAUR",
+                                "code": "Phillaur",
+                                "displayName": "Phillaur",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "SHAHKOT",
+                                "code": "Shahkot",
+                                "displayName": "Shahkot",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BPA_APPROVEDNOCS_KAPURTHALA",
+                        "code": "Kapurthala",
+                        "displayName": "Kapurthala",
+                        "sectionCode": "APPROVEDCOLONIES",
+                        "link": "",
+                        "isSubsection": true,
+                        "subsection": [
+                            {
+                                "name": "BEGOWAL",
+                                "code": "Begowal",
+                                "displayName": "Begowal",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "BHULATH",
+                                "code": "Bhulath",
+                                "displayName": "Bhulath",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "DHILWAN",
+                                "code": "Dhilwan",
+                                "displayName": "Dhilwan",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "KAPURTHALA",
+                                "code": "Kapurthala",
+                                "displayName": "Kapurthala",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "NADALA",
+                                "code": "Nadala",
+                                "displayName": "Nadala",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "PHAGWARA",
+                                "code": "Phagwara",
+                                "displayName": "Phagwara",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "SULTANPUR",
+                                "code": "Sultanpur",
+                                "displayName": "Sultanpur",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BPA_APPROVEDNOCS_LUDHIANA",
+                        "code": "Ludhiana",
+                        "displayName": "Ludhiana",
+                        "sectionCode": "APPROVEDCOLONIES",
+                        "link": "",
+                        "isSubsection": true,
+                        "subsection": [
+                            {
+                                "name": "DORAHA",
+                                "code": "Doraha",
+                                "displayName": "Doraha",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "JAGRAON",
+                                "code": "Jagraon",
+                                "displayName": "Jagraon",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "KHANNA",
+                                "code": "Khanna",
+                                "displayName": "Khanna",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "LUDHIANA",
+                                "code": "Ludhiana",
+                                "displayName": "Ludhiana",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "LUDHIANA_REGION",
+                                "code": "Ludhiana Region",
+                                "displayName": "Ludhiana Region",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "MACHHIWARA",
+                                "code": "Machhiwara",
+                                "displayName": "Machhiwara",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "MALOUD",
+                                "code": "Maloud (Malaudh)",
+                                "displayName": "Maloud (Malaudh)",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "MULLANPUR_DAKHA",
+                                "code": "Mullanpur Dakha",
+                                "displayName": "Mullanpur Dakha",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "PAYAL",
+                                "code": "Payal",
+                                "displayName": "Payal",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "RAIKOT",
+                                "code": "Raikot",
+                                "displayName": "Raikot",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "SAHNEWAL",
+                                "code": "Sahnewal",
+                                "displayName": "Sahnewal",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "SAMRALA",
+                                "code": "Samrala",
+                                "displayName": "Samrala",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BPA_APPROVEDNOCS_MALERKOTLA",
+                        "code": "Malerkotla",
+                        "displayName": "Malerkotla",
+                        "sectionCode": "APPROVEDCOLONIES",
+                        "link": "",
+                        "isSubsection": true,
+                        "subsection": [
+                            {
+                                "name": "AHMEDGARH",
+                                "code": "Ahmedgarh",
+                                "displayName": "Ahmedgarh",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "AMARGARH",
+                                "code": "Amargarh",
+                                "displayName": "Amargarh",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "MALERKOTLA",
+                                "code": "Malerkotla",
+                                "displayName": "Malerkotla",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BPA_APPROVEDNOCS_MANSA",
+                        "code": "Mansa",
+                        "displayName": "Mansa",
+                        "sectionCode": "APPROVEDCOLONIES",
+                        "link": "",
+                        "isSubsection": true,
+                        "subsection": [
+                            {
+                                "name": "BARETA",
+                                "code": "Bareta",
+                                "displayName": "Bareta",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "BHIKHI",
+                                "code": "Bhikhi",
+                                "displayName": "Bhikhi",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "BOHA",
+                                "code": "Boha",
+                                "displayName": "Boha",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "BUDHLADA",
+                                "code": "Budhlada",
+                                "displayName": "Budhlada",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "JOGA",
+                                "code": "Joga",
+                                "displayName": "Joga",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "MANSA",
+                                "code": "Mansa",
+                                "displayName": "Mansa",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "SARDULGARH",
+                                "code": "Sardulgarh",
+                                "displayName": "Sardulgarh",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BPA_APPROVEDNOCS_MOGA",
+                        "code": "Moga",
+                        "displayName": "Moga",
+                        "sectionCode": "APPROVEDCOLONIES",
+                        "link": "",
+                        "isSubsection": true,
+                        "subsection": [
+                            {
+                                "name": "BADHNI_KALAN",
+                                "code": "Badhni Kalan",
+                                "displayName": "Badhni Kalan",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "BAGHA_PURANA",
+                                "code": "Bagha Purana",
+                                "displayName": "Bagha Purana",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "DHARAMKOT",
+                                "code": "Dharamkot",
+                                "displayName": "Dharamkot",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "FATEHGARH_PANJTOO",
+                                "code": "Fatehgarh Panjtoo",
+                                "displayName": "Fatehgarh Panjtoo",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "KOT_ISSE_KHAN",
+                                "code": "Kot Isse Khan",
+                                "displayName": "Kot Isse Khan",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "MOGA",
+                                "code": "Moga",
+                                "displayName": "Moga",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "NIHALSINGH_WALA",
+                                "code": "Nihalsingh Wala",
+                                "displayName": "Nihalsingh Wala",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BPA_APPROVEDNOCS_PATHANKOT",
+                        "code": "Pathankot",
+                        "displayName": "Pathankot",
+                        "sectionCode": "APPROVEDCOLONIES",
+                        "link": "",
+                        "isSubsection": true,
+                        "subsection": [
+                            {
+                                "name": "NAROT_JAIMAL_SINGH",
+                                "code": "Narot Jaimal Singh",
+                                "displayName": "Narot Jaimal Singh",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "PATHANKOT",
+                                "code": "Pathankot",
+                                "displayName": "Pathankot",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "SUJANPUR",
+                                "code": "Sujanpur",
+                                "displayName": "Sujanpur",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BPA_APPROVEDNOCS_PATIALA",
+                        "code": "Patiala",
+                        "displayName": "Patiala",
+                        "sectionCode": "APPROVEDCOLONIES",
+                        "link": "",
+                        "isSubsection": true,
+                        "subsection": [
+                            {
+                                "name": "BHADSON",
+                                "code": "Bhadson",
+                                "displayName": "Bhadson",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "DEVIGARH",
+                                "code": "Devigarh",
+                                "displayName": "Devigarh",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "GHAGGA",
+                                "code": "Ghagga",
+                                "displayName": "Ghagga",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "GHANAUR",
+                                "code": "Ghanaur",
+                                "displayName": "Ghanaur",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "NABHA",
+                                "code": "Nabha",
+                                "displayName": "Nabha",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "PATIALA",
+                                "code": "Patiala",
+                                "displayName": "Patiala",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "PATIALA_REGION",
+                                "code": "Patiala Region",
+                                "displayName": "Patiala Region",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "PATRAN",
+                                "code": "Patran",
+                                "displayName": "Patran",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "RAJPURA",
+                                "code": "Rajpura",
+                                "displayName": "Rajpura",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "SAMANA",
+                                "code": "Samana",
+                                "displayName": "Samana",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "SANAUR",
+                                "code": "Sanaur",
+                                "displayName": "Sanaur",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BPA_APPROVEDNOCS_RUPNAGAR",
+                        "code": "Rupnagar",
+                        "displayName": "Rupnagar",
+                        "sectionCode": "APPROVEDCOLONIES",
+                        "link": "",
+                        "isSubsection": true,
+                        "subsection": [
+                            {
+                                "name": "ANANDPUR_SAHIB",
+                                "code": "Anandpur Sahib",
+                                "displayName": "Anandpur Sahib",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "CHAMKAUR_SAHIB",
+                                "code": "Chamkaur Sahib",
+                                "displayName": "Chamkaur Sahib",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "KIRATPUR_SAHIB",
+                                "code": "Kiratpur Sahib",
+                                "displayName": "Kiratpur Sahib",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "MORINDA",
+                                "code": "Morinda",
+                                "displayName": "Morinda",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "NANGAL",
+                                "code": "Nangal",
+                                "displayName": "Nangal",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "RUPNAGAR",
+                                "code": "Rupnagar",
+                                "displayName": "Rupnagar",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BPA_APPROVEDNOCS_SAS_NAGAR",
+                        "code": "S.A.S Nagar (Mohali, Ajitgarh)",
+                        "displayName": "S.A.S Nagar (Mohali, Ajitgarh)",
+                        "sectionCode": "APPROVEDCOLONIES",
+                        "link": "",
+                        "isSubsection": true,
+                        "subsection": [
+                            {
+                                "name": "BANUR",
+                                "code": "Banur",
+                                "displayName": "Banur",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "DERA_BASSI",
+                                "code": "Dera Bassi",
+                                "displayName": "Dera Bassi",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "GHARUAN",
+                                "code": "Gharuan",
+                                "displayName": "Gharuan",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "KHARAR",
+                                "code": "Kharar",
+                                "displayName": "Kharar",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "KURALI",
+                                "code": "Kurali",
+                                "displayName": "Kurali",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "LALRU",
+                                "code": "Lalru",
+                                "displayName": "Lalru",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "NAYAGAON",
+                                "code": "Nayagaon",
+                                "displayName": "Nayagaon",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "SAS_NAGAR",
+                                "code": "S.A.S. Nagar (Mohali, Ajitgarh)",
+                                "displayName": "S.A.S. Nagar (Mohali, Ajitgarh)",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "ZIRAKPUR",
+                                "code": "Zirakpur",
+                                "displayName": "Zirakpur",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BPA_APPROVEDNOCS_SANGRUR",
+                        "code": "Sangrur",
+                        "displayName": "Sangrur",
+                        "sectionCode": "APPROVEDCOLONIES",
+                        "link": "",
+                        "isSubsection": true,
+                        "subsection": [
+                            {
+                                "name": "BHAWANIGARH",
+                                "code": "Bhawanigarh",
+                                "displayName": "Bhawanigarh",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "CHEEMA",
+                                "code": "Cheema",
+                                "displayName": "Cheema",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "DHURI",
+                                "code": "Dhuri",
+                                "displayName": "Dhuri",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "DIRBA",
+                                "code": "Dirba",
+                                "displayName": "Dirba",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "KHANAURI",
+                                "code": "Khanauri",
+                                "displayName": "Khanauri",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "LEHRAGAGA",
+                                "code": "Lehragaga",
+                                "displayName": "Lehragaga",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "LONGOWAL",
+                                "code": "Longowal",
+                                "displayName": "Longowal",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "MOONAK",
+                                "code": "Moonak",
+                                "displayName": "Moonak",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "SANGRUR",
+                                "code": "Sangrur",
+                                "displayName": "Sangrur",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "SUNAM",
+                                "code": "Sunam",
+                                "displayName": "Sunam",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BPA_APPROVEDNOCS_SBS_NAGAR",
+                        "code": "Shaheed Bhagat Singh Nagar",
+                        "displayName": "Shaheed Bhagat Singh Nagar",
+                        "sectionCode": "APPROVEDCOLONIES",
+                        "link": "",
+                        "isSubsection": true,
+                        "subsection": [
+                            {
+                                "name": "BALACHAUR",
+                                "code": "Balachaur",
+                                "displayName": "Balachaur",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "BANGA",
+                                "code": "Banga",
+                                "displayName": "Banga",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "NAWANSHAHR",
+                                "code": "Nawanshahr",
+                                "displayName": "Nawanshahr",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "RAHON",
+                                "code": "Rahon",
+                                "displayName": "Rahon",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BPA_APPROVEDNOCS_SRI_MUKTSAR",
+                        "code": "Sri Muktsar Sahib",
+                        "displayName": "Sri Muktsar Sahib",
+                        "sectionCode": "APPROVEDCOLONIES",
+                        "link": "",
+                        "isSubsection": true,
+                        "subsection": [
+                            {
+                                "name": "BARIWALA",
+                                "code": "Bariwala",
+                                "displayName": "Bariwala",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "GIDDERBAHA",
+                                "code": "Gidderbaha (Giddarbaha)",
+                                "displayName": "Gidderbaha (Giddarbaha)",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "MALOUT",
+                                "code": "Malout",
+                                "displayName": "Malout",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "SRI_MUKTSAR",
+                                "code": "Sri Muktsar Sahib",
+                                "displayName": "Sri Muktsar Sahib",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BPA_APPROVEDNOCS_TARN_TARAN",
+                        "code": "Tarn Taran",
+                        "displayName": "Tarn Taran",
+                        "sectionCode": "APPROVEDCOLONIES",
+                        "link": "",
+                        "isSubsection": true,
+                        "subsection": [
+                            {
+                                "name": "BHIKHIWIND",
+                                "code": "Bhikhiwind",
+                                "displayName": "Bhikhiwind",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "KHEM_KARAN",
+                                "code": "Khem Karan",
+                                "displayName": "Khem Karan",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "PATTI",
+                                "code": "Patti",
+                                "displayName": "Patti",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            },
+                            {
+                                "name": "TARN_TARAN",
+                                "code": "Tarn Taran",
+                                "displayName": "Tarn Taran",
+                                "sectionCode": "APPROVEDCOLONIES",
+                                "link": ""
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "APPROVED_NOCS",
+                "code": "APPROVEDNOCS",
+                "links": [
+                    {
+                        "name": "BPA_APPROVEDNOCS_AMRITSAR",
+                        "code": "Amritsar",
+                        "displayName": "Amritsar",
+                        "sectionCode": "APPROVEDNOCS",
+                        "link": "",
+                        "isSubsection": true,
+                        "subsection": [
+                            {
+                                "name": "AJNALA",
+                                "code": "Ajnala",
+                                "displayName": "Ajnala",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=QWpuYWxh"
+                            },
+                            {
+                                "name": "AMRITSAR",
+                                "code": "Amritsar",
+                                "displayName": "Amritsar",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=QW1yaXRzYXI="
+                            },
+                            {
+                                "name": "AMRITSAR_REGION",
+                                "code": "Amritsar Region",
+                                "displayName": "Amritsar Region",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=QW1yaXRzYXIgUmVnaW9u"
+                            },
+                            {
+                                "name": "BABA_BAKALA_SAHIB",
+                                "code": "Baba Bakala Sahib",
+                                "displayName": "Baba Bakala Sahib",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=QmFiYSBCYWthbGEgU2FoaWI="
+                            },
+                            {
+                                "name": "JANDIALA",
+                                "code": "Jandiala",
+                                "displayName": "Jandiala",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=SmFuZGlhbGE="
+                            },
+                            {
+                                "name": "MAJITHA",
+                                "code": "Majitha",
+                                "displayName": "Majitha",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=TWFqaXRoYQ=="
+                            },
+                            {
+                                "name": "RAJA_SANSI",
+                                "code": "Raja Sansi",
+                                "displayName": "Raja Sansi",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=UmFqYSBTYW5zaQ=="
+                            },
+                            {
+                                "name": "RAMDAS",
+                                "code": "Ramdas",
+                                "displayName": "Ramdas",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=UmFtZGFz"
+                            },
+                            {
+                                "name": "RAYYA",
+                                "code": "Rayya",
+                                "displayName": "Rayya",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=UmF5eWE="
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BPA_APPROVEDNOCS_BARNALA",
+                        "code": "Barnala",
+                        "displayName": "Barnala",
+                        "sectionCode": "APPROVEDNOCS",
+                        "link": "",
+                        "isSubsection": true,
+                        "subsection": [
+                            {
+                                "name": "BARNALA",
+                                "code": "Barnala",
+                                "displayName": "Barnala",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=QmFybmFsYQ=="
+                            },
+                            {
+                                "name": "BHADAUR",
+                                "code": "Bhadaur",
+                                "displayName": "Bhadaur",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=QmhhZGF1cg=="
+                            },
+                            {
+                                "name": "DHANAULA",
+                                "code": "DHANAULA",
+                                "displayName": "DHANAULA",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=RGhhbmF1bGE="
+                            },
+                            {
+                                "name": "HANDIAYA",
+                                "code": "Handiaya",
+                                "displayName": "Handiaya",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=SGFuZGlheWE="
+                            },
+                            {
+                                "name": "TAPA",
+                                "code": "Tapa",
+                                "displayName": "Tapa",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=VGFwYQ=="
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BPA_APPROVEDNOCS_BATHINDA",
+                        "code": "Bathinda",
+                        "displayName": "Bathinda",
+                        "sectionCode": "APPROVEDNOCS",
+                        "link": "",
+                        "isSubsection": true,
+                        "subsection": [
+                            {
+                                "name": "BALIAN_WALA",
+                                "code": "Balian Wala",
+                                "displayName": "Balian Wala",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=QmFsaWFuIFdhbGE="
+                            },
+                            {
+                                "name": "BATHINDA",
+                                "code": "Bathinda",
+                                "displayName": "Bathinda",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=QmF0aGluZGE="
+                            },
+                            {
+                                "name": "BATHINDA_REGION",
+                                "code": "Bathinda Region",
+                                "displayName": "Bathinda Region",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=QmF0aGluZGEgUmVnaW9u"
+                            },
+                            {
+                                "name": "BHAGTA_BHAI_KA",
+                                "code": "Bhagta Bhai Ka",
+                                "displayName": "Bhagta Bhai Ka",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=QmhhZ3RhIEJoYWkgS2E="
+                            },
+                            {
+                                "name": "BHAIROOPA",
+                                "code": "Bhairoopa",
+                                "displayName": "Bhairoopa",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=QmhhaXJvb3Bh"
+                            },
+                            {
+                                "name": "BHUCHO_MANDI",
+                                "code": "Bhucho Mandi",
+                                "displayName": "Bhucho Mandi",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=Qmh1Y2hvIE1hbmRp"
+                            },
+                            {
+                                "name": "CHAUKE",
+                                "code": "Chauke",
+                                "displayName": "Chauke",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=Q2hhdWtl"
+                            },
+                            {
+                                "name": "GONIANA",
+                                "code": "Goniana",
+                                "displayName": "Goniana",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=R29uaWFuYQ=="
+                            },
+                            {
+                                "name": "KOT_FATTA",
+                                "code": "Kot Fatta",
+                                "displayName": "Kot Fatta",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=S290IEZhdHRh"
+                            },
+                            {
+                                "name": "KOT_SHAMIR",
+                                "code": "Kot Shamir",
+                                "displayName": "Kot Shamir",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=S290IFNoYW1pcg=="
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BPA_APPROVEDNOCS_BATHINDA",
+                        "code": "Bathinda",
+                        "displayName": "Bathinda",
+                        "sectionCode": "APPROVEDNOCS",
+                        "link": "",
+                        "isSubsection": true,
+                        "subsection": [
+                            {
+                                "name": "KOTHA_GURU",
+                                "code": "Kotha Guru",
+                                "displayName": "Kotha Guru",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=S290aGEgR3VydQ=="
+                            },
+                            {
+                                "name": "LEHRA_MOHABBAT",
+                                "code": "Lehra Mohabbat",
+                                "displayName": "Lehra Mohabbat",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=TGVocmEgTW9oYWJiYXQ="
+                            },
+                            {
+                                "name": "MALUKA",
+                                "code": "Maluka",
+                                "displayName": "Maluka",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=TWFsdWth"
+                            },
+                            {
+                                "name": "MANDIKALAN",
+                                "code": "Mandikalan",
+                                "displayName": "Mandikalan",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=TWFuZGlrYWxhbg=="
+                            },
+                            {
+                                "name": "MAUR",
+                                "code": "Maur",
+                                "displayName": "Maur",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=TWF1cg=="
+                            },
+                            {
+                                "name": "MEHRAJ",
+                                "code": "Mehraj",
+                                "displayName": "Mehraj",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=TWVocmFq"
+                            },
+                            {
+                                "name": "NATHANA",
+                                "code": "Nathana",
+                                "displayName": "Nathana",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=TmF0aGFuYQ=="
+                            },
+                            {
+                                "name": "RAMAN",
+                                "code": "Raman",
+                                "displayName": "Raman",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=UmFtYW4="
+                            },
+                            {
+                                "name": "RAMPURA",
+                                "code": "Rampura",
+                                "displayName": "Rampura",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=UmFtcHVyYQ=="
+                            },
+                            {
+                                "name": "RAMPURA_PHUL",
+                                "code": "Rampura Phul",
+                                "displayName": "Rampura Phul",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=UmFtcHVyYSBQaHVs"
+                            },
+                            {
+                                "name": "SANGAT",
+                                "code": "Sangat",
+                                "displayName": "Sangat",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=U2FuZ2F0"
+                            },
+                            {
+                                "name": "TALWANDI_SABO",
+                                "code": "Talwandi Sabo",
+                                "displayName": "Talwandi Sabo",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=VGFsd2FuZGkgU2Fibw=="
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BPA_APPROVEDNOCS_FARIDKOT",
+                        "code": "Faridkot",
+                        "displayName": "Faridkot",
+                        "sectionCode": "APPROVEDNOCS",
+                        "link": "",
+                        "isSubsection": true,
+                        "subsection": [
+                            {
+                                "name": "FARIDKOT",
+                                "code": "Faridkot",
+                                "displayName": "Faridkot",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=RmFyaWRrb3Q="
+                            },
+                            {
+                                "name": "JAITU",
+                                "code": "Jaitu",
+                                "displayName": "Jaitu",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=SmFpdHU="
+                            },
+                            {
+                                "name": "KOTKAPURA",
+                                "code": "Kotkapura",
+                                "displayName": "Kotkapura",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=S290S2FwdXJh"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BPA_APPROVEDNOCS_FATEHGARH_SAHIB",
+                        "code": "Fatehgarh Sahib",
+                        "displayName": "Fatehgarh Sahib",
+                        "sectionCode": "APPROVEDNOCS",
+                        "link": "",
+                        "isSubsection": true,
+                        "subsection": [
+                            {
+                                "name": "AMLOH",
+                                "code": "AMLOH",
+                                "displayName": "AMLOH",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=QW1sb2g="
+                            },
+                            {
+                                "name": "BASSI_PATHANA",
+                                "code": "BASSI PATHANA",
+                                "displayName": "BASSI PATHANA",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=QmFzc2kgUGF0aGFuYQ=="
+                            },
+                            {
+                                "name": "GOBINDGARH",
+                                "code": "GOBINDGARH (MANDI Gobindgarh)",
+                                "displayName": "GOBINDGARH (MANDI Gobindgarh)",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=R29iaW5kZ2FyaCAoTWFuZGkgR29iaW5kZ2FyaCk="
+                            },
+                            {
+                                "name": "KHAMANON",
+                                "code": "KHAMANON",
+                                "displayName": "KHAMANON",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=S2hhbWFub24="
+                            },
+                            {
+                                "name": "SIRHIND",
+                                "code": "SIRHIND FATEHGARH SAHIB",
+                                "displayName": "SIRHIND FATEHGARH SAHIB",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=U2lyaGluZCBGYXRlaGdhcmggU2FoaWI="
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BPA_APPROVEDNOCS_FAZILKA",
+                        "code": "Fazilka",
+                        "displayName": "Fazilka",
+                        "sectionCode": "APPROVEDNOCS",
+                        "link": "",
+                        "isSubsection": true,
+                        "subsection": [
+                            {
+                                "name": "ABOHAR",
+                                "code": "ABOHAR",
+                                "displayName": "ABOHAR",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=QWJvaGFy"
+                            },
+                            {
+                                "name": "ARNIWALA_SHEIKH_SUBHAN",
+                                "code": "ARNIWALA SHEIKH SUBHAN",
+                                "displayName": "ARNIWALA SHEIKH SUBHAN",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=QXJuaXdhbGEgU2hlaWtoIFN1Ymhhbg=="
+                            },
+                            {
+                                "name": "FAZILKA",
+                                "code": "FAZILKA",
+                                "displayName": "FAZILKA",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=RmF6aWxrYQ=="
+                            },
+                            {
+                                "name": "JALALABAD",
+                                "code": "JALALABAD",
+                                "displayName": "JALALABAD",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=SmFsYWxhYmFk"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BPA_APPROVEDNOCS_FIROZPUR",
+                        "code": "Firozpur",
+                        "displayName": "Firozpur",
+                        "sectionCode": "APPROVEDNOCS",
+                        "link": "",
+                        "isSubsection": true,
+                        "subsection": [
+                            {
+                                "name": "FIROZPUR",
+                                "code": "Firozpur",
+                                "displayName": "Firozpur",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=Rmlyb3pwdXI="
+                            },
+                            {
+                                "name": "FIROZPUR_REGION",
+                                "code": "Firozpur Region",
+                                "displayName": "Firozpur Region",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=Rmlyb3pwdXIgUmVnaW9u"
+                            },
+                            {
+                                "name": "GURU_HAR_SAHAI",
+                                "code": "Guru Har Sahai",
+                                "displayName": "Guru Har Sahai",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=R3VydSBIYXIgU2FoYWk="
+                            },
+                            {
+                                "name": "MAKHU",
+                                "code": "Makhu",
+                                "displayName": "Makhu",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=TWFraHU="
+                            },
+                            {
+                                "name": "MALLANWALA_KHASS",
+                                "code": "Mallanwala Khass",
+                                "displayName": "Mallanwala Khass",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=TWFsbGFud2FsYSBLaGFzcw=="
+                            },
+                            {
+                                "name": "MAMDOT",
+                                "code": "Mamdot",
+                                "displayName": "Mamdot",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=TWFtZG90"
+                            },
+                            {
+                                "name": "MUDKI",
+                                "code": "Mudki",
+                                "displayName": "Mudki",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=TXVka2k="
+                            },
+                            {
+                                "name": "TALWANDI_BHAI",
+                                "code": "Talwandi Bhai",
+                                "displayName": "Talwandi Bhai",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=VGFsd2FuZGkgQmhhaQ=="
+                            },
+                            {
+                                "name": "ZIRA",
+                                "code": "Zira",
+                                "displayName": "Zira",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=WmlyYQ=="
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BPA_APPROVEDNOCS_GURDASPUR",
+                        "code": "Gurdaspur",
+                        "displayName": "Gurdaspur",
+                        "sectionCode": "APPROVEDNOCS",
+                        "link": "",
+                        "isSubsection": true,
+                        "subsection": [
+                            {
+                                "name": "BATALA",
+                                "code": "Batala",
+                                "displayName": "Batala",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=QmF0YWxh"
+                            },
+                            {
+                                "name": "DERA_BABA_NANAK",
+                                "code": "Dera Baba Nanak",
+                                "displayName": "Dera Baba Nanak",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=RGVyYSBCYWJhIE5hbmFr"
+                            },
+                            {
+                                "name": "DHARIWAL",
+                                "code": "Dhariwal",
+                                "displayName": "Dhariwal",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=RGhhcml3YWw="
+                            },
+                            {
+                                "name": "DINA_NAGAR",
+                                "code": "Dina Nagar",
+                                "displayName": "Dina Nagar",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=RGluYSBOYWdhcg=="
+                            },
+                            {
+                                "name": "FATEHGARH_CHURIAN",
+                                "code": "Fatehgarh Churian",
+                                "displayName": "Fatehgarh Churian",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=RmF0ZWhnYXJoIENodXJpYW4="
+                            },
+                            {
+                                "name": "GURDASPUR",
+                                "code": "Gurdaspur",
+                                "displayName": "Gurdaspur",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=R3VyZGFzcHVy"
+                            },
+                            {
+                                "name": "QADIAN",
+                                "code": "Qadian",
+                                "displayName": "Qadian",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=UWFkaWFu"
+                            },
+                            {
+                                "name": "SRI_HARGOBINDPUR",
+                                "code": "Sri Hargobindpur",
+                                "displayName": "Sri Hargobindpur",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=U3JpIEhhcmdvYmluZHB1cg=="
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BPA_APPROVEDNOCS_HOSHIARPUR",
+                        "code": "Hoshiarpur",
+                        "displayName": "Hoshiarpur",
+                        "sectionCode": "APPROVEDNOCS",
+                        "link": "",
+                        "isSubsection": true,
+                        "subsection": [
+                            {
+                                "name": "DASUYA",
+                                "code": "Dasua (Dasuya)",
+                                "displayName": "Dasua (Dasuya)",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=RGFzdWEgKERhc3V5YSk="
+                            },
+                            {
+                                "name": "GARHDIWALA",
+                                "code": "Garhdiwala",
+                                "displayName": "Garhdiwala",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=R2FyZGhpd2FsYQ=="
+                            },
+                            {
+                                "name": "GARHSHANKAR",
+                                "code": "Garhshankar (Garhshanker)",
+                                "displayName": "Garhshankar (Garhshanker)",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=R2FyaHNoYW5rYXIgKEdhcmhzaGFua2VyKQ=="
+                            },
+                            {
+                                "name": "HARIANA",
+                                "code": "Hariana",
+                                "displayName": "Hariana",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=SGFyaWFuYQ=="
+                            },
+                            {
+                                "name": "HOSHIARPUR",
+                                "code": "Hoshiarpur",
+                                "displayName": "Hoshiarpur",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=SG9zaGlhcnB1cg=="
+                            },
+                            {
+                                "name": "MAHILPUR",
+                                "code": "Mahilpur",
+                                "displayName": "Mahilpur",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=TWFoaWxwdXI="
+                            },
+                            {
+                                "name": "MUKERIAN",
+                                "code": "Mukerian",
+                                "displayName": "Mukerian",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=TXVrZXJpYW4="
+                            },
+                            {
+                                "name": "SHAM_CHAURASI",
+                                "code": "Sham Chaurasi",
+                                "displayName": "Sham Chaurasi",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=U2hhbSBDaGF1cmFzSQ=="
+                            },
+                            {
+                                "name": "TALWARA",
+                                "code": "Talwara",
+                                "displayName": "Talwara",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=VGFsd2FyYQ=="
+                            },
+                            {
+                                "name": "URMAR_TANDA",
+                                "code": "Urmar Tanda",
+                                "displayName": "Urmar Tanda",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=VXJtYXIgVGFuZGE="
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BPA_APPROVEDNOCS_JALANDHAR",
+                        "code": "Jalandhar",
+                        "displayName": "Jalandhar",
+                        "sectionCode": "APPROVEDNOCS",
+                        "link": "",
+                        "isSubsection": true,
+                        "subsection": [
+                            {
+                                "name": "ADAMPUR",
+                                "code": "Adampur",
+                                "displayName": "Adampur",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=QWRhbXB1cg=="
+                            },
+                            {
+                                "name": "ALAWALPUR",
+                                "code": "Alawalpur",
+                                "displayName": "Alawalpur",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=QWxhd2FscHVy"
+                            },
+                            {
+                                "name": "BHOGPUR",
+                                "code": "Bhogpur",
+                                "displayName": "Bhogpur",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=QmhvZ3B1cg=="
+                            },
+                            {
+                                "name": "BILGA",
+                                "code": "Bilga",
+                                "displayName": "Bilga",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=QmlsZ2E="
+                            },
+                            {
+                                "name": "GORAYA",
+                                "code": "Goraya",
+                                "displayName": "Goraya",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=R29yYXlh"
+                            },
+                            {
+                                "name": "JALANDHAR",
+                                "code": "Jalandhar",
+                                "displayName": "Jalandhar",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=SmFsYW5kaGFy"
+                            },
+                            {
+                                "name": "JALANDHAR_REGION",
+                                "code": "Jalandhar Region",
+                                "displayName": "Jalandhar Region",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=SmFsYW5kaGFyIFJlZ2lvbg=="
+                            },
+                            {
+                                "name": "KARTARPUR",
+                                "code": "Kartarpur",
+                                "displayName": "Kartarpur",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=S2FydGFycHVy"
+                            },
+                            {
+                                "name": "LOHIAN_KHASS",
+                                "code": "Lohian Khass",
+                                "displayName": "Lohian Khass",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=TG9oaWFuIEtoYXNz"
+                            },
+                            {
+                                "name": "MEHATPUR",
+                                "code": "Mehatpur",
+                                "displayName": "Mehatpur",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=TWVoYXRwdXI="
+                            },
+                            {
+                                "name": "NAKODAR",
+                                "code": "Nakodar",
+                                "displayName": "Nakodar",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=TmFrb2Rhcg=="
+                            },
+                            {
+                                "name": "NURMAHAL",
+                                "code": "Nurmahal",
+                                "displayName": "Nurmahal",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=TnVybWFoYWw="
+                            },
+                            {
+                                "name": "PHILLAUR",
+                                "code": "Phillaur",
+                                "displayName": "Phillaur",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=UGhpbGxhdXI="
+                            },
+                            {
+                                "name": "SHAHKOT",
+                                "code": "Shahkot",
+                                "displayName": "Shahkot",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=U2hhaGtvdA=="
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BPA_APPROVEDNOCS_KAPURTHALA",
+                        "code": "Kapurthala",
+                        "displayName": "Kapurthala",
+                        "sectionCode": "APPROVEDNOCS",
+                        "link": "",
+                        "isSubsection": true,
+                        "subsection": [
+                            {
+                                "name": "BEGOWAL",
+                                "code": "Begowal",
+                                "displayName": "Begowal",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=QmVnb3dhbA=="
+                            },
+                            {
+                                "name": "BHULATH",
+                                "code": "Bhulath",
+                                "displayName": "Bhulath",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=Qmh1bGF0aA=="
+                            },
+                            {
+                                "name": "DHILWAN",
+                                "code": "Dhilwan",
+                                "displayName": "Dhilwan",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=RGhpbHdhbg=="
+                            },
+                            {
+                                "name": "KAPURTHALA",
+                                "code": "Kapurthala",
+                                "displayName": "Kapurthala",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=S2FwdXJ0aGFsYQ=="
+                            },
+                            {
+                                "name": "NADALA",
+                                "code": "Nadala",
+                                "displayName": "Nadala",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=TmFkYWxh"
+                            },
+                            {
+                                "name": "PHAGWARA",
+                                "code": "Phagwara",
+                                "displayName": "Phagwara",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=UGhhZ3dhcmE="
+                            },
+                            {
+                                "name": "SULTANPUR",
+                                "code": "Sultanpur",
+                                "displayName": "Sultanpur",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=U3VsdGFucHVy"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BPA_APPROVEDNOCS_LUDHIANA",
+                        "code": "Ludhiana",
+                        "displayName": "Ludhiana",
+                        "sectionCode": "APPROVEDNOCS",
+                        "link": "",
+                        "isSubsection": true,
+                        "subsection": [
+                            {
+                                "name": "DORAHA",
+                                "code": "Doraha",
+                                "displayName": "Doraha",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=RG9yYWhh"
+                            },
+                            {
+                                "name": "JAGRAON",
+                                "code": "Jagraon",
+                                "displayName": "Jagraon",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=SmFncmFvbg=="
+                            },
+                            {
+                                "name": "KHANNA",
+                                "code": "Khanna",
+                                "displayName": "Khanna",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=S2hhbm5h"
+                            },
+                            {
+                                "name": "LUDHIANA",
+                                "code": "Ludhiana",
+                                "displayName": "Ludhiana",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=THVkaGlhbmE="
+                            },
+                            {
+                                "name": "LUDHIANA_REGION",
+                                "code": "Ludhiana Region",
+                                "displayName": "Ludhiana Region",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=THVkaGlhbmEgUmVnaW9u"
+                            },
+                            {
+                                "name": "MACHHIWARA",
+                                "code": "Machhiwara",
+                                "displayName": "Machhiwara",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=TWFjaGhpd2FyYQ=="
+                            },
+                            {
+                                "name": "MALOUD",
+                                "code": "Maloud (Malaudh)",
+                                "displayName": "Maloud (Malaudh)",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=TWFsb3VkIChNYWxhdWRoKQ=="
+                            },
+                            {
+                                "name": "MULLANPUR_DAKHA",
+                                "code": "Mullanpur Dakha",
+                                "displayName": "Mullanpur Dakha",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=TXVsbGFucHVyIERha2hh"
+                            },
+                            {
+                                "name": "PAYAL",
+                                "code": "Payal",
+                                "displayName": "Payal",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=UGF5YWw="
+                            },
+                            {
+                                "name": "RAIKOT",
+                                "code": "Raikot",
+                                "displayName": "Raikot",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=UmFpa290"
+                            },
+                            {
+                                "name": "SAHNEWAL",
+                                "code": "Sahnewal",
+                                "displayName": "Sahnewal",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=U2FobmV3YWw="
+                            },
+                            {
+                                "name": "SAMRALA",
+                                "code": "Samrala",
+                                "displayName": "Samrala",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=U2FtcmFsYQ=="
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BPA_APPROVEDNOCS_MALERKOTLA",
+                        "code": "Malerkotla",
+                        "displayName": "Malerkotla",
+                        "sectionCode": "APPROVEDNOCS",
+                        "link": "",
+                        "isSubsection": true,
+                        "subsection": [
+                            {
+                                "name": "AHMEDGARH",
+                                "code": "Ahmedgarh",
+                                "displayName": "Ahmedgarh",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=QWhtZWRnYXJo"
+                            },
+                            {
+                                "name": "AMARGARH",
+                                "code": "Amargarh",
+                                "displayName": "Amargarh",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=QW1hcmdhcmg="
+                            },
+                            {
+                                "name": "MALERKOTLA",
+                                "code": "Malerkotla",
+                                "displayName": "Malerkotla",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=TWFsZXJrb3RsYQ=="
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BPA_APPROVEDNOCS_MANSA",
+                        "code": "Mansa",
+                        "displayName": "Mansa",
+                        "sectionCode": "APPROVEDNOCS",
+                        "link": "",
+                        "isSubsection": true,
+                        "subsection": [
+                            {
+                                "name": "BARETA",
+                                "code": "Bareta",
+                                "displayName": "Bareta",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=QmFyZXRh"
+                            },
+                            {
+                                "name": "BHIKHI",
+                                "code": "Bhikhi",
+                                "displayName": "Bhikhi",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=Qmhpa2hp"
+                            },
+                            {
+                                "name": "BOHA",
+                                "code": "Boha",
+                                "displayName": "Boha",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=Qm9oYQ=="
+                            },
+                            {
+                                "name": "BUDHLADA",
+                                "code": "Budhlada",
+                                "displayName": "Budhlada",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=QnVkaGxhZGE="
+                            },
+                            {
+                                "name": "JOGA",
+                                "code": "Joga",
+                                "displayName": "Joga",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=Sm9nYQ=="
+                            },
+                            {
+                                "name": "MANSA",
+                                "code": "Mansa",
+                                "displayName": "Mansa",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=TWFuc2E="
+                            },
+                            {
+                                "name": "SARDULGARH",
+                                "code": "Sardulgarh",
+                                "displayName": "Sardulgarh",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=U2FyZHVsZ2FyaA=="
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BPA_APPROVEDNOCS_MOGA",
+                        "code": "Moga",
+                        "displayName": "Moga",
+                        "sectionCode": "APPROVEDNOCS",
+                        "link": "",
+                        "isSubsection": true,
+                        "subsection": [
+                            {
+                                "name": "BADHNI_KALAN",
+                                "code": "Badhni Kalan",
+                                "displayName": "Badhni Kalan",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=QmFkaG5pIEthbGFu"
+                            },
+                            {
+                                "name": "BAGHA_PURANA",
+                                "code": "Bagha Purana",
+                                "displayName": "Bagha Purana",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=QmFnaGEgUHVyYW5h"
+                            },
+                            {
+                                "name": "DHARAMKOT",
+                                "code": "Dharamkot",
+                                "displayName": "Dharamkot",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=RGhhcmFta290"
+                            },
+                            {
+                                "name": "FATEHGARH_PANJTOO",
+                                "code": "Fatehgarh Panjtoo",
+                                "displayName": "Fatehgarh Panjtoo",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=RmF0ZWhnYXJoIFBhbmp0b28="
+                            },
+                            {
+                                "name": "KOT_ISSE_KHAN",
+                                "code": "Kot Isse Khan",
+                                "displayName": "Kot Isse Khan",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=S290IElzc2UgS2hhbg=="
+                            },
+                            {
+                                "name": "MOGA",
+                                "code": "Moga",
+                                "displayName": "Moga",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=TW9nYQ=="
+                            },
+                            {
+                                "name": "NIHALSINGH_WALA",
+                                "code": "Nihalsingh Wala",
+                                "displayName": "Nihalsingh Wala",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=TmloYWxzaW5naCBXYWxh"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BPA_APPROVEDNOCS_PATHANKOT",
+                        "code": "Pathankot",
+                        "displayName": "Pathankot",
+                        "sectionCode": "APPROVEDNOCS",
+                        "link": "",
+                        "isSubsection": true,
+                        "subsection": [
+                            {
+                                "name": "NAROT_JAIMAL_SINGH",
+                                "code": "Narot Jaimal Singh",
+                                "displayName": "Narot Jaimal Singh",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=TmFyb3QgSmFpbWFsIFNpbmdo"
+                            },
+                            {
+                                "name": "PATHANKOT",
+                                "code": "Pathankot",
+                                "displayName": "Pathankot",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=UGF0aGFua290"
+                            },
+                            {
+                                "name": "SUJANPUR",
+                                "code": "Sujanpur",
+                                "displayName": "Sujanpur",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=U3VqYW5wdXI="
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BPA_APPROVEDNOCS_PATIALA",
+                        "code": "Patiala",
+                        "displayName": "Patiala",
+                        "sectionCode": "APPROVEDNOCS",
+                        "link": "",
+                        "isSubsection": true,
+                        "subsection": [
+                            {
+                                "name": "BHADSON",
+                                "code": "Bhadson",
+                                "displayName": "Bhadson",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=QmhhZHNvbg=="
+                            },
+                            {
+                                "name": "DEVIGARH",
+                                "code": "Devigarh",
+                                "displayName": "Devigarh",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=RGV2aWdhcmg="
+                            },
+                            {
+                                "name": "GHAGGA",
+                                "code": "Ghagga",
+                                "displayName": "Ghagga",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=R2hhZ2dh"
+                            },
+                            {
+                                "name": "GHANAUR",
+                                "code": "Ghanaur",
+                                "displayName": "Ghanaur",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=R2hhbmF1cg=="
+                            },
+                            {
+                                "name": "NABHA",
+                                "code": "Nabha",
+                                "displayName": "Nabha",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=TmFiaGE="
+                            },
+                            {
+                                "name": "PATIALA",
+                                "code": "Patiala",
+                                "displayName": "Patiala",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=UGF0aWFsYQ=="
+                            },
+                            {
+                                "name": "PATIALA_REGION",
+                                "code": "Patiala Region",
+                                "displayName": "Patiala Region",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=UGF0aWFsYSBSZWdpb24="
+                            },
+                            {
+                                "name": "PATRAN",
+                                "code": "Patran",
+                                "displayName": "Patran",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=UGF0cmFu"
+                            },
+                            {
+                                "name": "RAJPURA",
+                                "code": "Rajpura",
+                                "displayName": "Rajpura",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=UmFqcHVyYQ=="
+                            },
+                            {
+                                "name": "SAMANA",
+                                "code": "Samana",
+                                "displayName": "Samana",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=U2FtYW5h"
+                            },
+                            {
+                                "name": "SANAUR",
+                                "code": "Sanaur",
+                                "displayName": "Sanaur",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=U2FuYXVy"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BPA_APPROVEDNOCS_RUPNAGAR",
+                        "code": "Rupnagar",
+                        "displayName": "Rupnagar",
+                        "sectionCode": "APPROVEDNOCS",
+                        "link": "",
+                        "isSubsection": true,
+                        "subsection": [
+                            {
+                                "name": "ANANDPUR_SAHIB",
+                                "code": "Anandpur Sahib",
+                                "displayName": "Anandpur Sahib",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=QW5hbmRwdXIgU2FoaWI="
+                            },
+                            {
+                                "name": "CHAMKAUR_SAHIB",
+                                "code": "Chamkaur Sahib",
+                                "displayName": "Chamkaur Sahib",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=Q2hhbWthdXIgU2FoaWI="
+                            },
+                            {
+                                "name": "KIRATPUR_SAHIB",
+                                "code": "Kiratpur Sahib",
+                                "displayName": "Kiratpur Sahib",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=S2lyYXRwdXIgU2FoaWI="
+                            },
+                            {
+                                "name": "MORINDA",
+                                "code": "Morinda",
+                                "displayName": "Morinda",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=TW9yaW5kYQ=="
+                            },
+                            {
+                                "name": "NANGAL",
+                                "code": "Nangal",
+                                "displayName": "Nangal",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=TmFuZ2Fs"
+                            },
+                            {
+                                "name": "RUPNAGAR",
+                                "code": "Rupnagar",
+                                "displayName": "Rupnagar",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=UnVwbmFnYXI="
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BPA_APPROVEDNOCS_SAS_NAGAR",
+                        "code": "S.A.S Nagar (Mohali, Ajitgarh)",
+                        "displayName": "S.A.S Nagar (Mohali, Ajitgarh)",
+                        "sectionCode": "APPROVEDNOCS",
+                        "link": "",
+                        "isSubsection": true,
+                        "subsection": [
+                            {
+                                "name": "BANUR",
+                                "code": "Banur",
+                                "displayName": "Banur",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=QmFudXI="
+                            },
+                            {
+                                "name": "DERA_BASSI",
+                                "code": "Dera Bassi",
+                                "displayName": "Dera Bassi",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=RGVyYSBCYXNzaQ=="
+                            },
+                            {
+                                "name": "GHARUAN",
+                                "code": "Gharuan",
+                                "displayName": "Gharuan",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=R2hhcnVhbg=="
+                            },
+                            {
+                                "name": "KHARAR",
+                                "code": "Kharar",
+                                "displayName": "Kharar",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=S2hhcmFy"
+                            },
+                            {
+                                "name": "KURALI",
+                                "code": "Kurali",
+                                "displayName": "Kurali",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=S3VyYWxp"
+                            },
+                            {
+                                "name": "LALRU",
+                                "code": "Lalru",
+                                "displayName": "Lalru",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=TGFscnU="
+                            },
+                            {
+                                "name": "NAYAGAON",
+                                "code": "Nayagaon",
+                                "displayName": "Nayagaon",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=TmF5YWdhb24="
+                            },
+                            {
+                                "name": "SAS_NAGAR",
+                                "code": "S.A.S. Nagar (Mohali, Ajitgarh)",
+                                "displayName": "S.A.S. Nagar (Mohali, Ajitgarh)",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=Uy5BLlMuIE5hZ2FyIChNb2hhbGksIEFqaXRnYXJoKQ=="
+                            },
+                            {
+                                "name": "ZIRAKPUR",
+                                "code": "Zirakpur",
+                                "displayName": "Zirakpur",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=WmlyYWtwdXI="
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BPA_APPROVEDNOCS_SANGRUR",
+                        "code": "Sangrur",
+                        "displayName": "Sangrur",
+                        "sectionCode": "APPROVEDNOCS",
+                        "link": "",
+                        "isSubsection": true,
+                        "subsection": [
+                            {
+                                "name": "BHAWANIGARH",
+                                "code": "Bhawanigarh",
+                                "displayName": "Bhawanigarh",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=Qmhhd2FuaWdhcmg="
+                            },
+                            {
+                                "name": "CHEEMA",
+                                "code": "Cheema",
+                                "displayName": "Cheema",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=Q2hlZW1h"
+                            },
+                            {
+                                "name": "DHURI",
+                                "code": "Dhuri",
+                                "displayName": "Dhuri",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=RGh1cmk="
+                            },
+                            {
+                                "name": "DIRBA",
+                                "code": "Dirba",
+                                "displayName": "Dirba",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=RGlyYmE="
+                            },
+                            {
+                                "name": "KHANAURI",
+                                "code": "Khanauri",
+                                "displayName": "Khanauri",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=S2hhbmF1cmk="
+                            },
+                            {
+                                "name": "LEHRAGAGA",
+                                "code": "Lehragaga",
+                                "displayName": "Lehragaga",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=TGVocmFnYWdh"
+                            },
+                            {
+                                "name": "LONGOWAL",
+                                "code": "Longowal",
+                                "displayName": "Longowal",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=TG9uZ293YWw="
+                            },
+                            {
+                                "name": "MOONAK",
+                                "code": "Moonak",
+                                "displayName": "Moonak",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=TW9vbmFr"
+                            },
+                            {
+                                "name": "SANGRUR",
+                                "code": "Sangrur",
+                                "displayName": "Sangrur",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=U2FuZ3J1cg=="
+                            },
+                            {
+                                "name": "SUNAM",
+                                "code": "Sunam",
+                                "displayName": "Sunam",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=U3VuYW0="
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BPA_APPROVEDNOCS_SBS_NAGAR",
+                        "code": "Shaheed Bhagat Singh Nagar",
+                        "displayName": "Shaheed Bhagat Singh Nagar",
+                        "sectionCode": "APPROVEDNOCS",
+                        "link": "",
+                        "isSubsection": true,
+                        "subsection": [
+                            {
+                                "name": "BALACHAUR",
+                                "code": "Balachaur",
+                                "displayName": "Balachaur",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=QmFsYWNoYXVy"
+                            },
+                            {
+                                "name": "BANGA",
+                                "code": "Banga",
+                                "displayName": "Banga",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=QmFuZ2E="
+                            },
+                            {
+                                "name": "NAWANSHAHR",
+                                "code": "Nawanshahr",
+                                "displayName": "Nawanshahr",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=TmF3YW5zaGFocg=="
+                            },
+                            {
+                                "name": "RAHON",
+                                "code": "Rahon",
+                                "displayName": "Rahon",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=UmFob24="
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BPA_APPROVEDNOCS_SRI_MUKTSAR",
+                        "code": "Sri Muktsar Sahib",
+                        "displayName": "Sri Muktsar Sahib",
+                        "sectionCode": "APPROVEDNOCS",
+                        "link": "",
+                        "isSubsection": true,
+                        "subsection": [
+                            {
+                                "name": "BARIWALA",
+                                "code": "Bariwala",
+                                "displayName": "Bariwala",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=QmFyaXdhbGE="
+                            },
+                            {
+                                "name": "GIDDERBAHA",
+                                "code": "Gidderbaha (Giddarbaha)",
+                                "displayName": "Gidderbaha (Giddarbaha)",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=R2lkZGVyYmFoYSAoR2lkZGFyYmFoYSk="
+                            },
+                            {
+                                "name": "MALOUT",
+                                "code": "Malout",
+                                "displayName": "Malout",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=TWFsb3V0"
+                            },
+                            {
+                                "name": "SRI_MUKTSAR",
+                                "code": "Sri Muktsar Sahib",
+                                "displayName": "Sri Muktsar Sahib",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=U3JpIE11a3RzYXIgU2FoaWIgKFNyaSBTcmkgTXVrdHNhciBTYWhpYiBTYWhpYik="
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BPA_APPROVEDNOCS_TARN_TARAN",
+                        "code": "Tarn Taran",
+                        "displayName": "Tarn Taran",
+                        "sectionCode": "APPROVEDNOCS",
+                        "link": "",
+                        "isSubsection": true,
+                        "subsection": [
+                            {
+                                "name": "BHIKHIWIND",
+                                "code": "Bhikhiwind",
+                                "displayName": "Bhikhiwind",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=Qmhpa2hpd2luZA=="
+                            },
+                            {
+                                "name": "KHEM_KARAN",
+                                "code": "Khem Karan",
+                                "displayName": "Khem Karan",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=S2hlbSBLYXJhbg=="
+                            },
+                            {
+                                "name": "PATTI",
+                                "code": "Patti",
+                                "displayName": "Patti",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=S2hlbSBLYXJhbg=="
+                            },
+                            {
+                                "name": "TARN_TARAN",
+                                "code": "Tarn Taran",
+                                "displayName": "Tarn Taran",
+                                "sectionCode": "APPROVEDNOCS",
+                                "link": "https://enaksha.lgpunjab.gov.in/listNoc_fileview.php?dfssdfd=VGFybiBUYXJhbg=="
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "OTHERS",
+                "code": "OTHERS",
+                "links": [
+                    {
+                        "name": "LIST_OF_APPROVED",
+                        "code": "LIST_OF_APPROVED",
+                        "displayName": "List of approved professional",
+                        "sectionCode": "OTHERS",
+                        "link": "",
+                        "isSubsection": true,
+                        "subsection": [
+                            {
+                                "name": "BPA_OTHERS_ARCHITECT",
+                                "code": "OTHERS_1",
+                                "displayName": "Architect",
+                                "sectionCode": "OTHERS",
+                                "link": "https://enaksha.lgpunjab.gov.in/list_professional.php?dsfXX=Mg=="
+                            },
+                            {
+                                "name": "BPA_OTHERS_BUILDING_DESIGNER_SUPERVISOR",
+                                "code": "OTHERS_2",
+                                "displayName": "Building designer and supervisor",
+                                "sectionCode": "OTHERS",
+                                "link": "https://enaksha.lgpunjab.gov.in/list_professional.php?dsfXX=MTQ="
+                            },
+                            {
+                                "name": "BPA_OTHERS_ENGINEER",
+                                "code": "OTHERS_3",
+                                "displayName": "Engineer",
+                                "sectionCode": "OTHERS",
+                                "link": "https://enaksha.lgpunjab.gov.in/list_professional.php?dsfXX=MTI="
+                            },
+                            {
+                                "name": "BPA_OTHERS_EMPANELED_ARCHITECT_LIST",
+                                "code": "OTHERS_4",
+                                "displayName": "Empaneled Architect List",
+                                "sectionCode": "OTHERS",
+                                "link": "https://enaksha.lgpunjab.gov.in/architect_sc_p.php?dsfXX=MTI="
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
