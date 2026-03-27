@@ -1677,7 +1677,8 @@
       "module": "CHB",
       "action": "PAY",
       "channelNames": [
-        "SMS"
+        "SMS",
+        "EMAIL"
       ]
     },
         {
