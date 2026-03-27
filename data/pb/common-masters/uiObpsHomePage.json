@@ -1,7 +1,7 @@
 {
     "tenantId": "pb",
     "moduleName": "common-masters",
-    "uiObpsHomePage": {
+    "uiObpsHomePage": [{
         "sectionHeaders": [
             {
                 "name": "BY_LAWS",
@@ -3325,5 +3325,5 @@
                 ]
             }
         ]
-    }
+    }]
 }
