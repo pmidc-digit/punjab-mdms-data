@@ -25241,7 +25241,7 @@
       "parentModule": "OBPAS NOC REPORTS",
       "enabled": true,
       "serviceCode": "OBPASNOCREPORTS",
-      "path": "OBPAS REPORTS.NOC.Application Detail Report",
+      "path": "OBPAS REPORTS.OBPAS NOC REPORTS.Application Detail Report",
       "navigationURL": "report/rainmaker-obpas_noc/ApplicationDetailReportNOC",
       "leftIcon": "action:assignment",
       "rightIcon": ""
