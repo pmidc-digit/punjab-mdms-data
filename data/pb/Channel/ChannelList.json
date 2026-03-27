@@ -1681,6 +1681,16 @@
         "EMAIL"
       ]
     },
+
+      {
+      "businessService": "chb-services",
+      "module": "CHB",
+      "action": "BOOKED",
+      "channelNames": [
+        "SMS",
+        "EMAIL"
+      ]
+    },
         {
       "businessService": "chb-services",
       "module": "CHB",
