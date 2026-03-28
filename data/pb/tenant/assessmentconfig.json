@@ -4601,16 +4601,23 @@
     },
 	{
       "tenant": "pb.derabassi",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2025-26",
       "isRented": false
     },
 	{
       "tenant": "pb.banur",
+      "enabled": false,
+      "financialyear": "2025-26",
+      "isRented": false
+    },
+	{
+      "tenant": "pb.fazilka",
       "enabled": true,
       "financialyear": "2025-26",
       "isRented": false
     }
+
 
 	  
   ]
