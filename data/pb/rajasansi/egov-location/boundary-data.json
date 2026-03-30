@@ -1296,6 +1296,18 @@
                     "code": "RS_89",
                     "area": "AREA2",
                     "children": []
+                  },
+                  {
+                    "id": "e7a1a053-ace6-4ec0-837a-0cbe95d0fe4e",
+                    "boundaryNum": 1,
+                    "name": "UNKNOWN - B13 - A2",
+                    "localname": "UNKNOWN - B13 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "UNKNOWN",
+                    "area": "AREA2",
+                    "children": []
                   }
                 ]
               }
