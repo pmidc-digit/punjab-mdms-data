@@ -1089,6 +1089,12 @@
       "description": "OBPAS Layout workflow Approver",
       "groupId": "012"
     },
+	{
+	  "code": "VIEW_LAYOUT_CARD",
+	  "name": "VIEW Layout Card",
+	  "description": "For Layout Card Display in Dashboard",
+	  "groupId": "012"
+	},
     {
       "code": "VIEW_GARBAGE_COLLECTION_CARD",
       "name": "Garbage Collection",
