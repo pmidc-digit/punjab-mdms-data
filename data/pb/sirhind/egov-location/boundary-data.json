@@ -61,7 +61,7 @@
                     "area": "AREA1",
                     "children": []
                   },
-                     {
+                  {
                     "id": "a146d808-ef6b-4deb-910c-0bc2258a6607",
                     "boundaryNum": 1,
                     "name": "UNKOWN- B1 - A1",
@@ -2698,6 +2698,18 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "SIR200",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a443c790-5de0-47eb-b70d-54445a5d8aee",
+                    "boundaryNum": 1,
+                    "name": "UNKNOWN - B15 - A1",
+                    "localname": "UNKNOWN - B15 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "UNKNOWN",
                     "area": "AREA1",
                     "children": []
                   }

@@ -2004,6 +2004,18 @@
                     "code": "MGG_145",
                     "area": "AREA1",
                     "children": []
+                  },
+                  {
+                    "id": "ef3d1411-2506-44e6-bce6-b05ceea4985b",
+                    "boundaryNum": 1,
+                    "name": "UNKNOWN - B20 - A1",
+                    "localname": "UNKNOWN - B20 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "UNKNOWN",
+                    "area": "AREA1",
+                    "children": []
                   }
                 ]
               }
