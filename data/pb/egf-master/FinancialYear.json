@@ -516,7 +516,7 @@
         "startingDate": 1743445800000,
         "endingDate": 1774981799000,
         "active": true,
-        "visible": true,
+        "visible": false,
         "isActiveForPosting": true,
         "isClosed": false,
         "transferClosingBalance": false,
