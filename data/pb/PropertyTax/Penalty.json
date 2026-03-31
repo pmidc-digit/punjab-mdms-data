@@ -67,11 +67,11 @@
       "mutationPaymentPeriodInMonth": "06"           
     },
     {	
-      "rate": 10,
+      "rate": 20,
       "minAmount": null,
       "flatAmount": null,
       "fromFY": "2025-26",
-      "startingDay": "01/01/2026",
+      "startingDay": "01/04/2026",
       "mutationPaymentPeriodInMonth": "06"           
     }
   ]
