@@ -36,6 +36,13 @@
       "size":1.50,
       "sizeinmilimeter": 38.1,
       "isActive": true
+    },
+    {
+      "id": "6",
+      "code": "ONENHALF_INCH_test(1.5)",
+      "size":1.50,
+      "sizeinmilimeter": 38.1,
+      "isActive": true
     }
   ]
 }
