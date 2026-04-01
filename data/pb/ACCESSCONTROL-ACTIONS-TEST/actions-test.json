@@ -27717,7 +27717,7 @@
       "path": ""
     },
     {
-      "id": 8900973,
+      "id": 882512,
       "name": "OBPAS_NOC_REPORTS",
       "url": "url",
       "displayName": "OBPAS NOC REPORTS",
@@ -27729,6 +27729,28 @@
       "navigationURL": "report/rainmaker-obpas_noc/OBPAS_NOC_REPORTS",
       "path": "OBPAS REPORTS.OBPAS NOC REPORTS"
     },
+    {
+      "id": 8900973,
+      "name": "OBPAS_NOC_REPORTS",
+      "url": "/report/rainmaker-obpas_noc/_get",
+      "displayName": "OBPAS NOC REPORTS",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "OBPASNOCREPORTS",
+      "code": "null",
+      "path": "OBPAS REPORTS.OBPAS NOC REPORTS"
+    },
+    {
+      "id": 8900974,
+      "name": "OBPAS_NOC_REPORTS",
+      "url": "/report/rainmaker-obpas_noc/metadata/_get",
+      "displayName": "OBPAS NOC REPORTS",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "OBPASNOCREPORTS",
+      "code": "null",
+      "path": "OBPAS REPORTS.OBPAS NOC REPORTS"
+    },    
     {
       "id": 8900975,
       "name": "Application Detail Report",
