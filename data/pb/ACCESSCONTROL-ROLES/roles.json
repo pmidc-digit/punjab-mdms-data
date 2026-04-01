@@ -1202,6 +1202,12 @@
       "name": "View Rent And Lease Card",
       "description": "For Rent and Lease Card Display in Dashboard",
       "groupId": "006"
+    },
+    {
+      "code": "OBPAS_TEHSILDAR",
+      "name": "OBPAS_TEHSILDAR",
+      "description": "OBPAS NOC workflow Approver",
+      "groupId": "025"
     }
   ]
 }

@@ -38314,6 +38314,42 @@
       "actionid": 229820,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_TEHSILDAR",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_TEHSILDAR",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_TEHSILDAR",
+      "actionid": 883341,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_TEHSILDAR",
+      "actionid": 883346,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_TEHSILDAR",
+      "actionid": 883345,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_TEHSILDAR",
+      "actionid": 7007,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
