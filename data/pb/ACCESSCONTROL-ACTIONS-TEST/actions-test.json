@@ -27726,7 +27726,7 @@
       "serviceCode": "OBPASNOCREPORTS",
       "code": "null",
       "leftIcon": "action:description",
-      "navigationURL": "report/rainmaker-obpas_noc/ApplicationDetailReportNOC",
+      "navigationURL": "report/rainmaker-obpas_noc/OBPAS_NOC_REPORTS",
       "path": "OBPAS REPORTS.OBPAS NOC REPORTS"
     },
     {
