@@ -27785,7 +27785,7 @@
       "parentModule": "OBPAS NOC REPORTS",
       "enabled": true,
       "serviceCode": "",
-      "path": "OBPAS REPORTS.NOC.Collection Report",
+      "path": "OBPAS REPORTS.OBPAS NOC REPORTS.Collection Report",
       "navigationURL": "report/rainmaker-obpas_noc/CollectionsReportNOC",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -27822,7 +27822,7 @@
       "parentModule": "OBPAS NOC REPORTS",
       "enabled": true,
       "serviceCode": "",
-      "path": "OBPAS REPORTS.NOC.SLA Report",
+      "path": "OBPAS REPORTS.OBPAS NOC REPORTS.SLA Report",
       "navigationURL": "report/rainmaker-obpas_noc/SLAReportNOC",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -27859,7 +27859,7 @@
       "parentModule": "OBPAS NOC REPORTS",
       "enabled": true,
       "serviceCode": "OBPASNOCREPORTS",
-      "path": "OBPAS REPORTS.NOC.Receipt Register NOC",
+      "path": "OBPAS REPORTS.OBPAS NOC REPORTS.Receipt Register NOC",
       "navigationURL": "report/rainmaker-obpas_noc/ReceiptRegisterNOC",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -27887,17 +27887,6 @@
       "path": ""
     },
     {
-      "id": 8900987,
-      "name": "OBPAS CLU REPORTS",
-      "url": "/report/rainmaker-obpas_clu/_get",
-      "displayName": "OBPAS CLU REPORTS",
-      "orderNumber": 0,
-      "enabled": true,
-      "serviceCode": "OBPASCLUREPORTS",
-      "code": "null",
-      "path": "OBPAS CLU REPORTS"
-    },
-    {
       "id": 882491,
       "name": "Detailed List Beyond Timeline Summary",
       "url": "url",
@@ -27907,7 +27896,7 @@
       "parentModule": "OBPAS NOC REPORTS",
       "enabled": true,
       "serviceCode": "OBPASNOCREPORTS",
-      "path": "OBPAS REPORTS.NOC.Detailed List Beyond Timeline Summary",
+      "path": "OBPAS REPORTS.OBPAS NOC REPORTS.Detailed List Beyond Timeline Summary",
       "navigationURL": "report/rainmaker-obpas_noc/DetailedListBeyondTimelineSummary",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -27944,7 +27933,7 @@
       "parentModule": "OBPAS NOC REPORTS",
       "enabled": true,
       "serviceCode": "OBPASNOCREPORTS",
-      "path": "OBPAS REPORTS.NOC.Application Detail Report",
+      "path": "OBPAS REPORTS.OBPAS NOC REPORTS.Application Detail Report",
       "navigationURL": "report/rainmaker-obpas_noc/officers_wise_pendency",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -27981,7 +27970,7 @@
       "parentModule": "OBPAS NOC REPORTS",
       "enabled": true,
       "serviceCode": "OBPASNOCREPORTS",
-      "path": "OBPAS REPORTS.NOC.Files Near Timeline Breach Summary",
+      "path": "OBPAS REPORTS.OBPAS NOC REPORTS.Files Near Timeline Breach Summary",
       "navigationURL": "report/rainmaker-obpas_noc/FilesNearTimelineBreachSummary",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -28018,7 +28007,7 @@
       "parentModule": "OBPAS NOC REPORTS",
       "enabled": true,
       "serviceCode": "OBPASNOCREPORTS",
-      "path": "OBPAS REPORTS.NOC.Detailed Files Near Timeline Breach",
+      "path": "OBPAS REPORTS.OBPAS NOC REPORTS.Detailed Files Near Timeline Breach",
       "navigationURL": "report/rainmaker-obpas_noc/DetailedFilesNearTimelineBreach",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -28055,7 +28044,7 @@
       "parentModule": "OBPAS NOC REPORTS",
       "enabled": true,
       "serviceCode": "OBPASNOCREPORTS",
-      "path": "OBPAS REPORTS.NOC.Top 7 officers with Highest Pendency",
+      "path": "OBPAS REPORTS.OBPAS NOC REPORTS.Top 7 officers with Highest Pendency",
       "navigationURL": "report/rainmaker-obpas_noc/officers_with_highest_pendency",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -28092,7 +28081,7 @@
       "parentModule": "OBPAS NOC REPORTS",
       "enabled": true,
       "serviceCode": "OBPASNOCREPORTS",
-      "path": "OBPAS REPORTS.NOC.Beyond Timeline Summary",
+      "path": "OBPAS REPORTS.OBPAS NOC REPORTS.Beyond Timeline Summary",
       "navigationURL": "report/rainmaker-obpas_noc/BeyondTimelineSummary",
       "leftIcon": "action:assignment",
       "rightIcon": ""
