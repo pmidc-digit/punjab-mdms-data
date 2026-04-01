@@ -27715,6 +27715,65 @@
       "serviceCode": "NDCREPORTS",
       "code": "null",
       "path": ""
-    } 
+    },
+    {
+      "id": 8900973,
+      "name": "OBPAS NOC REPORTS",
+      "url": "/report/rainmaker-obpas_noc/_get",
+      "displayName": "OBPAS NOC REPORTS",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "OBPASNOCREPORTS",
+      "code": "null",
+      "path": "OBPAS NOC REPORTS"
+    },
+    {
+      "id": 8900974,
+      "name": "OBPAS NOC REPORTS",
+      "url": "/report/rainmaker-obpas_noc/metadata/_get",
+      "displayName": "OBPAS NOC REPORTS",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "OBPASNOCREPORTS",
+      "code": "null",
+      "path": "OBPAS NOC REPORTS"
+    },
+    {
+      "id": 8900975,
+      "name": "Application Detail Report",
+      "url": "url",
+      "displayName": "Application Detail Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "OBPAS NOC REPORTS",
+      "enabled": true,
+      "serviceCode": "OBPASNOCREPORTS",
+      "path": "OBPAS REPORTS.OBPAS NOC REPORTS.Application Detail Report",
+      "navigationURL": "report/rainmaker-obpas_noc/ApplicationDetailReportNOC",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900976,
+      "name": "Application Detail Report",
+      "url": "/report/rainmaker-obpas_noc/ApplicationDetailReportNOC/metadata/_get",
+      "displayName": "Application Detail Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "OBPASNOCREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900977,
+      "name": "Application Detail Report",
+      "url": "/report/rainmaker-obpas_noc/ApplicationDetailReportNOC/_get",
+      "displayName": "Application Detail Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "OBPASNOCREPORTS",
+      "code": "null",
+      "path": ""
+    }     
   ]
 }
