@@ -6,7 +6,9 @@
       "tenantId": "pb.amritsar",
       "status": "Active",
       "usageCategory": [
-        "NONRESIDENTIAL.COMMERCIAL"
+        "NONRESIDENTIAL.COMMERCIAL",
+		"NONRESIDENTIAL.INDUSTRIAL",
+		"NONRESIDENTIAL.INSTITUTIONAL"
       ]
     }
   ]
