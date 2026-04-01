@@ -27718,24 +27718,15 @@
     },
     {
       "id": 8900973,
-      "name": "OBPAS NOC REPORTS",
-      "url": "/report/rainmaker-obpas_noc/_get",
+      "name": "OBPAS_NOC_REPORTS",
+      "url": "url",
       "displayName": "OBPAS NOC REPORTS",
-      "orderNumber": 0,
-      "enabled": true,
+      "orderNumber": 1,
+      "enabled": false,
       "serviceCode": "OBPASNOCREPORTS",
       "code": "null",
-      "path": "OBPAS REPORTS.OBPAS NOC REPORTS"
-    },
-    {
-      "id": 8900974,
-      "name": "OBPAS NOC REPORTS",
-      "url": "/report/rainmaker-obpas_noc/metadata/_get",
-      "displayName": "OBPAS NOC REPORTS",
-      "orderNumber": 0,
-      "enabled": true,
-      "serviceCode": "OBPASNOCREPORTS",
-      "code": "null",
+      "leftIcon": "action:description",
+      "navigationURL": "report/rainmaker-obpas_noc/ApplicationDetailReportNOC",
       "path": "OBPAS REPORTS.OBPAS NOC REPORTS"
     },
     {
