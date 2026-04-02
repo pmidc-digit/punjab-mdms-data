@@ -41,6 +41,11 @@
       "name": "Birthday Party",
       "code": "BIRTHDAY_PARTY",
       "active": true
+    },
+    {
+      "name": "BHOG",
+      "code": "BHOG",
+      "active": true
     }
   ]
 }
