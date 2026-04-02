@@ -22383,6 +22383,80 @@
       "navigationURL": "/digit-ui/employee/ads/bookad",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    }
+    },
+  {
+    "id": 8900917,
+    "name": "ULB Wise Application Count",
+    "url": "url",
+    "displayName": "ULB Wise Application Count",
+    "orderNumber": 4,
+    "queryParams": "",
+    "parentModule": "NDC REPORTS",
+    "enabled": true,
+    "serviceCode": "",
+    "path": "State Reports.ULB Wise Application Count",
+    "navigationURL": "report/rainmaker-ndc/ULB_Wise_Applicationcount",
+    "leftIcon": "action:assignment",
+    "rightIcon": ""
+  },
+  {
+    "id": 8900918,
+    "name": "ULB Wise Application Count",
+    "url": "/report/rainmaker-ndc/ULB_Wise_Applicationcount/metadata/_get",
+    "displayName": "ULB Wise Application Count",
+    "orderNumber": 4,
+    "enabled": true,
+    "serviceCode": "NDCREPORTS",
+    "code": "null",
+    "path": ""
+  },
+  {
+    "id": 8900919,
+    "name": "ULB Wise Application Count",
+    "url": "/report/rainmaker-ndc/ULB_Wise_Applicationcount/_get",
+    "displayName": "ULB Wise Application Count",
+    "orderNumber": 4,
+    "enabled": true,
+    "serviceCode": "NDCREPORTS",
+    "code": "null",
+    "path": ""
+  },
+    {
+      "id": 8900920,
+      "name": "Receipt Register SW mseva",
+      "url": "url",
+      "displayName": "Receipt Register SW mseva",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.Collections.Receipt RegisterSW_mseva",
+      "navigationURL": "report/rainmaker-ws/ReceiptRegisterSW_mseva",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900921,
+      "name": "WS Report",
+      "url": "/report/rainmaker-ws/ReceiptRegisterSW_mseva/metadata/_get",
+      "displayName": "WS Report metadata",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900922,
+      "name": "WS Report",
+      "url": "/report/rainmaker-ws/ReceiptRegisterSW_mseva/_get",
+      "displayName": "WS Report metadata",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    }      
   ]
 }
