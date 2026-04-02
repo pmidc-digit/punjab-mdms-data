@@ -22383,6 +22383,43 @@
       "navigationURL": "/digit-ui/employee/ads/bookad",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    }
+    },
+  {
+    "id": 8900917,
+    "name": "ULB Wise Application Count",
+    "url": "url",
+    "displayName": "ULB Wise Application Count",
+    "orderNumber": 4,
+    "queryParams": "",
+    "parentModule": "NDC REPORTS",
+    "enabled": true,
+    "serviceCode": "",
+    "path": "State Reports.ULB Wise Application Count",
+    "navigationURL": "report/rainmaker-ndc/ULB_Wise_Applicationcount",
+    "leftIcon": "action:assignment",
+    "rightIcon": ""
+  },
+  {
+    "id": 8900918,
+    "name": "ULB Wise Application Count",
+    "url": "/report/rainmaker-ndc/ULB_Wise_Applicationcount/metadata/_get",
+    "displayName": "ULB Wise Application Count",
+    "orderNumber": 4,
+    "enabled": true,
+    "serviceCode": "NDCREPORTS",
+    "code": "null",
+    "path": ""
+  },
+  {
+    "id": 8900919,
+    "name": "ULB Wise Application Count",
+    "url": "/report/rainmaker-ndc/ULB_Wise_Applicationcount/_get",
+    "displayName": "ULB Wise Application Count",
+    "orderNumber": 4,
+    "enabled": true,
+    "serviceCode": "NDCREPORTS",
+    "code": "null",
+    "path": ""
+  }    
   ]
 }

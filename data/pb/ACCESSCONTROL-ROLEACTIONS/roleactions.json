@@ -4,6 +4,24 @@
   "roleactions": [
     {
       "rolecode": "STADMIN",
+      "actionid": 8900917,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 8900918,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 8900919,
+      "actioncode": "",
+      "tenantId": "pb"
+    },       
+    {
+      "rolecode": "STADMIN",
       "actionid": 22994,
       "actioncode": "",
       "tenantId": "pb"
