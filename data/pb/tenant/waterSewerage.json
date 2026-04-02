@@ -221,8 +221,8 @@
     {
       "code": "pb.dhariwal",
       "name": "Dhariwal",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.dhilwan",
@@ -407,8 +407,8 @@
     {
       "code": "pb.malerkotla",
       "name": "Malerkotla",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.maloud",
@@ -509,8 +509,8 @@
     {
       "code": "pb.phagwara",
       "name": "Phagwara",
-      "iswater":true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.phillaur",
@@ -545,8 +545,8 @@
     {
       "code": "pb.samana",
       "name": "Samana",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.sangrur",
@@ -696,6 +696,12 @@
       "code": "pb.tarntaran",
       "name": "Tarn Taran",
       "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.shahkot",
+      "name": "Shahkot",
+      "iswater": true,
       "issewerage": false
     }
   ]
