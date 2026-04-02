@@ -106,7 +106,7 @@
           "serviceType": "NEW_BOOKING",
           "feeType": "BOOKING_FEES",
           "amount": 0,
-          "taxApplicable": false
+          "taxApplicable": true
         }
       ]
     }
