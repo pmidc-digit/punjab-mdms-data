@@ -2641,6 +2641,14 @@
 	  "code": "EG_BS_TAXPERIODS_BUINESSSERVICE",
 	  "financialYear": "2025-26"
 	},
+	  {
+	  "fromDate": 1774981800000,
+	  "toDate": 1806517740000,
+	  "periodCycle": "ANNUAL",
+	  "service": "BPAREG",
+	  "code": "EG_BS_TAXPERIODS_BUINESSSERVICE",
+	  "financialYear": "2026-27"
+	},
 	{
 	  "fromDate": 1743445800000,
 	  "toDate": 1774981799000,
