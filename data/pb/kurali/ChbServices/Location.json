@@ -19,6 +19,15 @@
         "latitude": null,
         "longitude": null
       }
-    }
+    },
+      {
+        "name": "Community Center, Kurali ShahpurPatti",
+        "code": "COMMUNITY_CENTER_KURALI_SHAHPURPATTI",
+        "active": true,
+        "geo_tag": {
+          "latitude": null,
+          "longitude": null
+        }
+      }
   ]
 }
