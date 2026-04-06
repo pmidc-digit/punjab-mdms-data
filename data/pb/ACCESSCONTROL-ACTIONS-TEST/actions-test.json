@@ -25540,7 +25540,7 @@
       "enabled": true,
       "serviceCode": "OBPASBPAREPORTS",
       "code": "null",
-      "path": "OBPAS REPORTS.BUILDING PLAN REPORTS"
+      "path": "OBPAS BPA REPORTS"
     },
     {
       "id": 8900016,
@@ -25551,7 +25551,7 @@
       "enabled": true,
       "serviceCode": "OBPASBPAREPORTS",
       "code": "null",
-      "path": "OBPAS REPORTS.BUILDING PLAN REPORTS"
+      "path": "OBPAS BPA REPORTS"
     },
     {
       "id": 8900017,
@@ -26797,7 +26797,7 @@
       "parentModule": "BUILDING PLAN REPORTS",
       "enabled": true,
       "serviceCode": "OBPASBPAREPORTS",
-      "path": "BUILDING PLAN REPORTS.Beyond Timeline Summary",
+      "path": "OBPAS REPORTS.BUILDING PLAN REPORTS.Beyond Timeline Summary",
       "navigationURL": "report/rainmaker-obpas_bpa/BeyondTimelineSummary",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -26834,7 +26834,7 @@
       "parentModule": "BUILDING PLAN REPORTS",
       "enabled": true,
       "serviceCode": "OBPASBPAREPORTS",
-      "path": "BUILDING PLAN REPORTS.Detailed List Beyond Timeline Summary",
+      "path": "OBPAS REPORTS.BUILDING PLAN REPORTS.Detailed List Beyond Timeline Summary",
       "navigationURL": "report/rainmaker-obpas_bpa/DetailedListBeyondTimelineSummary",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -26871,7 +26871,7 @@
       "parentModule": "BUILDING PLAN REPORTS",
       "enabled": true,
       "serviceCode": "OBPASBPAREPORTS",
-      "path": "BUILDING PLAN REPORTS.Detailed Files Near Timeline Breach",
+      "path": "OBPAS REPORTS.BUILDING PLAN REPORTS.Detailed Files Near Timeline Breach",
       "navigationURL": "report/rainmaker-obpas_bpa/DetailedFilesNearTimelineBreach",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -26908,7 +26908,7 @@
       "parentModule": "BUILDING PLAN REPORTS",
       "enabled": true,
       "serviceCode": "OBPASBPAREPORTS",
-      "path": "BUILDING PLAN REPORTS.Files Near Timeline Breach Summary",
+      "path": "OBPAS REPORTS.BUILDING PLAN REPORTS.Files Near Timeline Breach Summary",
       "navigationURL": "report/rainmaker-obpas_bpa/FilesNearTimelineBreachSummary",
       "leftIcon": "action:assignment",
       "rightIcon": ""
