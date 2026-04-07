@@ -407,8 +407,8 @@
     {
       "code": "pb.malerkotla",
       "name": "Malerkotla",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.maloud",
@@ -443,8 +443,8 @@
     {
       "code": "pb.morinda",
       "name": "Morinda",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.mudki",
@@ -683,7 +683,7 @@
     {
       "code": "pb.mohali",
       "name": "Mohali",
-      "iswater": false,
+      "iswater": true,
       "issewerage": false
     },
     {
@@ -701,7 +701,7 @@
     {
       "code": "pb.shahkot",
       "name": "Shahkot",
-      "iswater": true,
+      "iswater": false,
       "issewerage": false
     }
   ]
