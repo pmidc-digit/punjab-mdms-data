@@ -14219,6 +14219,54 @@
       "navigationURL": "report/rainmaker-pt/Count_UsageCategory_V2",
       "leftIcon": "action:assignment",
       "rightIcon": ""      
-      }
+      },
+	  {
+      "id": 89001471,
+      "name": "Search Challan",
+      "url": "url",
+      "displayName": "Search Challan",
+      "orderNumber": 3,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MCollect",
+      "code": "null",
+      "path": "MCollect.MCollect Reports.HRMSEmployee wise Report",
+      "navigationURL": "/digit-ui/employee/mcollect/search-challan",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 89001472,
+      "name": "Search Receipt",
+      "url": "url",
+      "displayName": "Search Receipt",
+      "orderNumber": 4,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MCollect",
+      "code": "null",
+      "path": "MCollect.MCollect Reports.HRMSEmployee wise Report",
+      "navigationURL": "/digit-ui/employee/mcollect/search-receipt",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 89001473,
+      "name": "Search Bill",
+      "url": "url",
+      "displayName": "Search Bill",
+      "orderNumber": 5,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MCollect",
+      "code": "null",
+      "path": "MCollect.MCollect Reports.HRMSEmployee wise Report",
+      "navigationURL": "/digit-ui/employee/mcollect/search-bill",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
   ]
 }
