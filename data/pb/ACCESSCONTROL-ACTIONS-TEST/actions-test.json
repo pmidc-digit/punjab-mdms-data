@@ -23160,6 +23160,43 @@
       "serviceCode": "OBPASLAYOUTREPORTS",
       "code": "null",
       "path": ""
-    }    
+    },
+    {
+      "id": 882547,
+      "name": "Scrutiny Count Report",
+      "url": "url",
+      "displayName": "Scrutiny Count Report",
+      "orderNumber": 10,
+      "queryParams": "",
+      "parentModule": "OBPAS LAYOUT REPORTS",
+      "enabled": true,
+      "serviceCode": "OBPASLAYOUTREPORTS",
+      "path": "OBPAS REPORTS.OBPAS LAYOUT REPORTS.Scrutiny Count Report",
+      "navigationURL": "report/rainmaker-obpas_bpa/ScrutinyCountReportBPA",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 882548,
+      "name": "Scrutiny Count Report",
+      "url": "/report/rainmaker-obpas_bpa/ScrutinyCountReportBPA/metadata/_get",
+      "displayName": "Scrutiny Count Report",
+      "orderNumber": 10,
+      "enabled": true,
+      "serviceCode": "OBPASLAYOUTREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 882549,
+      "name": "Beyond Timeline Summary",
+      "url": "/report/rainmaker-obpas_bpa/ScrutinyCountReportBPA/_get",
+      "displayName": "Scrutiny Count Report",
+      "orderNumber": 10,
+      "enabled": true,
+      "serviceCode": "OBPASLAYOUTREPORTS",
+      "code": "null",
+      "path": ""
+    }   
   ]
 }
