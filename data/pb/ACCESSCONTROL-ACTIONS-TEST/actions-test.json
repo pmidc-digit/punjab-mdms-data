@@ -28588,6 +28588,43 @@
       "serviceCode": "OBPASLAYOUTREPORTS",
       "code": "null",
       "path": ""
-    }      
+    },
+	{
+      "id": 882547,
+      "name": "Scrutiny Count Report",
+      "url": "url",
+      "displayName": "Scrutiny Count Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "BUILDING PLAN REPORTS",
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "path": "OBPAS REPORTS.BUILDING PLAN REPORTS.Application Detail Report",
+      "navigationURL": "report/rainmaker-obpas_bpa/ScrutinyCountReportBPA",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 882548,
+      "name": "Scrutiny Count Report",
+      "url": "/report/rainmaker-obpas_bpa/ScrutinyCountReportBPA/metadata/_get",
+      "displayName": "Scrutiny Count Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 882549,
+      "name": "Scrutiny Count Report",
+      "url": "/report/rainmaker-obpas_bpa/ScrutinyCountReportBPA/_get",
+      "displayName": "Scrutiny Count Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "code": "null",
+      "path": ""
+    }
   ]
 }
