@@ -153,9 +153,9 @@
       "description": "PET.VACCINATIONCERTIFICATE.CERTIFICATE_DESCRIPTION"
     },
     {
-      "code": "PET.FITNESSCERTIFICATE",
-      "documentType": "PET.FITNESSCERTIFICATE",
-      "required": true,
+      "code": "PET.OTHERDOCUMENTS",
+      "documentType": "PET.OTHERDOCUMENTS",
+      "required": false,
       "active": true,
       "hasDropdown": false,
       "additionalDetails": {
@@ -172,11 +172,11 @@
       },
       "dropdownData": [
         {
-          "code": "PET.FITNESSCERTIFICATE",
+          "code": "PET.OTHERDOCUMENTS",
           "active": true
         }
       ],
-      "description": "PET.FITNESSCERTIFICATE.CERTIFICATE_DESCRIPTION"
+      "description": "PET.OTHERDOCUMENTS_DESCRIPTION"
     },
     {
       "code": "PET.ANTI-RABIESCERTIFICATE",
