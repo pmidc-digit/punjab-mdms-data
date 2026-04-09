@@ -153,8 +153,8 @@
       "description": "PET.VACCINATIONCERTIFICATE.CERTIFICATE_DESCRIPTION"
     },
     {
-      "code": "PET.OTHERDOCUMENTS",
-      "documentType": "PET.OTHERDOCUMENTS",
+      "code": "PET.FITNESSCERTIFICATE",
+      "documentType": "PET.FITNESSCERTIFICATE",
       "required": false,
       "active": true,
       "hasDropdown": false,
@@ -172,11 +172,11 @@
       },
       "dropdownData": [
         {
-          "code": "PET.OTHERDOCUMENTS",
+          "code": "PET.FITNESSCERTIFICATE",
           "active": true
         }
       ],
-      "description": "PET.OTHERDOCUMENTS_DESCRIPTION"
+      "description": "PET.FITNESSCERTIFICATE.CERTIFICATE_DESCRIPTION"
     },
     {
       "code": "PET.ANTI-RABIESCERTIFICATE",
@@ -203,6 +203,32 @@
         }
       ],
       "description": "PET.ANTI-RABIESCERTIFICATE.CERTIFICATE_DESCRIPTION"
+    },
+    {
+      "code": "PET.OTHERDOCUMENTS",
+      "documentType": "PET.OTHERDOCUMENTS",
+      "required": false,
+      "active": true,
+      "hasDropdown": false,
+      "additionalDetails": {
+        "enabledActions": {
+          "update": {
+            "disableUpload": true,
+            "disableDropdown": true
+          },
+          "create": {
+            "disableUpload": false,
+            "disableDropdown": false
+          }
+        }
+      },
+      "dropdownData": [
+        {
+          "code": "PET.OTHERDOCUMENTS",
+          "active": true
+        }
+      ],
+      "description": "PET.OTHERDOCUMENTS_DESCRIPTION"
     }
   ]
 }
