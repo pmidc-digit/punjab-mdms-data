@@ -107,8 +107,8 @@
     {
       "code": "pb.bareta",
       "name": "Bareta",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.bariwala",
@@ -258,7 +258,7 @@
       "code": "pb.faridkot",
       "name": "Faridkot",
       "iswater": false,
-      "issewerage": true
+      "issewerage": false
     },
     {
       "code": "pb.garhdiwala",
@@ -306,7 +306,7 @@
       "code": "pb.hoshiarpur",
       "name": "Hoshiarpur",
       "iswater": false,
-      "issewerage": true
+      "issewerage": false
     },
     {
       "code": "pb.itpatiala",
@@ -431,7 +431,7 @@
     {
       "code": "pb.moga",
       "name": "Moga",
-      "iswater": true,
+      "iswater": false,
       "issewerage": false
     },
     {
@@ -443,8 +443,8 @@
     {
       "code": "pb.morinda",
       "name": "Morinda",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.mudki",
@@ -545,8 +545,8 @@
     {
       "code": "pb.samana",
       "name": "Samana",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.sangrur",
@@ -683,7 +683,7 @@
     {
       "code": "pb.mohali",
       "name": "Mohali",
-      "iswater": true,
+      "iswater": false,
       "issewerage": false
     },
     {
