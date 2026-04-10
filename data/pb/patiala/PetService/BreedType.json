@@ -152,7 +152,7 @@
       "active": true,
       "petType": "DOG",
       "newapplication": 500,
-      "renewapplication": 500,
+      "renewapplication": 300,
       "feeType": "PET_REGISTRATION_FEE"
     },
     {
