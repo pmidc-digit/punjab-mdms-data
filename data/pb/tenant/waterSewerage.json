@@ -53,8 +53,8 @@
     {
       "code": "pb.amritsar",
       "name": "Amritsar",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.anandpursahib",
