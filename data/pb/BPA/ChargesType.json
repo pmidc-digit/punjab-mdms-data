@@ -6,9 +6,9 @@
 			"code": "101",
 			"name": "Bulding Plan",
 			"Category": "A",
-			"fromFY": "2025-26",
-			"startingDate": 1743465600000,
-			"endingDate": 1774981799000,
+			"fromFY": "2026-27",
+			"startingDate": 1775001600000,
+			"endingDate": 1806537599000,
 			"active": true,
 			"Charges": [
 				{
@@ -164,9 +164,9 @@
 			"code": "101",
 			"name": "Bulding Plan",
 			"Category": "F",
-			"fromFY": "2025-26",
-			"startingDate": 1743465600000,
-			"endingDate": 1774981799000,
+			"fromFY": "2026-27",
+			"startingDate": 1775001600000,
+			"endingDate": 1806537599000,
 			"active": true,
 			"Charges": [
 				{
@@ -316,9 +316,9 @@
 			"code": "101",
 			"name": "Bulding Plan",
 			"Category": "Educational",
-			"fromFY": "2025-26",
-			"startingDate": 1743465600000,
-			"endingDate": 1774981799000,
+			"fromFY": "2026-27",
+			"startingDate": 1775001600000,
+			"endingDate": 1806537599000,
 			"active": true,
 			"Charges": [
 				{
@@ -468,9 +468,9 @@
 			"code": "101",
 			"name": "Bulding Plan",
 			"Category": "Medical",
-			"fromFY": "2025-26",
-			"startingDate": 1743465600000,
-			"endingDate": 1774981799000,
+			"fromFY": "2026-27",
+			"startingDate": 1775001600000,
+			"endingDate": 1806537599000,
 			"active": true,
 			"Charges": [
 				{
@@ -620,9 +620,9 @@
 			"code": "101",
 			"name": "Bulding Plan",
 			"Category": "Assembly",
-			"fromFY": "2025-26",
-			"startingDate": 1743465600000,
-			"endingDate": 1774981799000,
+			"fromFY": "2026-27",
+			"startingDate": 1775001600000,
+			"endingDate": 1806537599000,
 			"active": true,
 			"Charges": [
 				{
@@ -772,9 +772,9 @@
 			"code": "101",
 			"name": "Bulding Plan",
 			"Category": "Office",
-			"fromFY": "2025-26",
-			"startingDate": 1743465600000,
-			"endingDate": 1774981799000,
+			"fromFY": "2026-27",
+			"startingDate": 1775001600000,
+			"endingDate": 1806537599000,
 			"active": true,
 			"Charges": [
 				{
@@ -924,9 +924,9 @@
 			"code": "101",
 			"name": "Bulding Plan",
 			"Category": "G",
-			"fromFY": "2025-26",
-			"startingDate": 1743465600000,
-			"endingDate": 1774981799000,
+			"fromFY": "2026-27",
+			"startingDate": 1775001600000,
+			"endingDate": 1806537599000,
 			"active": true,
 			"Charges": [
 				{
@@ -1076,9 +1076,9 @@
 			"code": "101",
 			"name": "Bulding Plan",
 			"Category": "Storage",
-			"fromFY": "2025-26",
-			"startingDate": 1743465600000,
-			"endingDate": 1774981799000,
+			"fromFY": "2026-27",
+			"startingDate": 1775001600000,
+			"endingDate": 1806537599000,
 			"active": true,
 			"Charges": [
 				{
@@ -1228,9 +1228,9 @@
 			"code": "101",
 			"name": "Bulding Plan",
 			"Category": "Hazardous",
-			"fromFY": "2025-26",
-			"startingDate": 1743465600000,
-			"endingDate": 1774981799000,
+			"fromFY": "2026-27",
+			"startingDate": 1775001600000,
+			"endingDate": 1806537599000,
 			"active": true,
 			"Charges": [
 				{
