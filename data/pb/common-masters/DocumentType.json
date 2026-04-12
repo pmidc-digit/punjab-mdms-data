@@ -96,6 +96,10 @@
         "active": true
     },
     {
+        "code": "SITEPHOTOGRAPH_TWO",
+        "active": true
+    },
+    {
         "code": "OWNERSHIP_DOCUMENT_FARD_JAMABANDI_REGISTERED_DEED_POA",
         "active": true
     },
