@@ -5,8 +5,8 @@
     {
       "code": "pb.abohar",
       "name": "Abohar",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.adampur",
@@ -185,13 +185,13 @@
     {
       "code": "pb.bhulath",
       "name": "Bhulath",
-      "iswater": false,
+      "iswater": true,
       "issewerage": false
     },
     {
       "code": "pb.boha",
       "name": "Boha",
-      "iswater": false,
+      "iswater": true,
       "issewerage": false
     },
     {
@@ -251,7 +251,7 @@
     {
       "code": "pb.ferozepur",
       "name": "Ferozepur",
-      "iswater": false,
+      "iswater": true,
       "issewerage": false
     },
     {
@@ -281,8 +281,8 @@
     {
       "code": "pb.gidderbaha",
       "name": "Gidderbaha",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.goraya",
@@ -299,7 +299,7 @@
     {
       "code": "pb.hariana",
       "name": "Hariana",
-      "iswater": false,
+      "iswater": true,
       "issewerage": false
     },
     {
@@ -444,7 +444,7 @@
       "code": "pb.morinda",
       "name": "Morinda",
       "iswater": false,
-      "issewerage": false
+      "issewerage": true
     },
     {
       "code": "pb.mudki",
@@ -491,7 +491,7 @@
     {
       "code": "pb.payal",
       "name": "Payal",
-      "iswater": false,
+      "iswater": true,
       "issewerage": false
     },
     {
@@ -503,7 +503,7 @@
     {
       "code": "pb.patran",
       "name": "Patran",
-      "iswater": false,
+      "iswater": true,
       "issewerage": false
     },
     {
@@ -521,8 +521,8 @@
     {
       "code": "pb.raikot",
       "name": "Raikot",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.rajpura",
@@ -641,7 +641,7 @@
     {
       "code": "pb.khanauri",
       "name": "Khanauri",
-      "iswater": false,
+      "iswater": true,
       "issewerage": false
     },
     {
@@ -666,7 +666,7 @@
       "code": "pb.budhlada",
       "name": "Budhlada",
       "iswater": false,
-      "issewerage": false
+      "issewerage": true
     },
     {
       "code": "pb.nawanshahr",
