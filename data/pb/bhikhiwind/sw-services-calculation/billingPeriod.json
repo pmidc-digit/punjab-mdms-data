@@ -2,15 +2,14 @@
   "tenantId": "pb.bhikhiwind",
   "moduleName": "sw-services-calculation",
   "billingPeriod": [
-   
     {
       "active": false,
       "connectionType": "Non Metered",
       "billingCycle": "quarterly",
       "demandEndDateMillis": 2592000000,
       "demandExpiryDate": 2592000000,
-      "taxPeriodFrom": 1633046400000,
-      "taxPeriodTo": 1640908800000,
+      "taxPeriodFrom": 1775001600000,
+      "taxPeriodTo": 1782844199000,
       "demandGenerationDateMillis": 345600000
     },
     {
@@ -19,8 +18,8 @@
       "billingCycle": "quarterly",
       "demandEndDateMillis": 2592000000,
       "demandExpiryDate": 2592000000,
-      "taxPeriodFrom": 1633046400000,
-      "taxPeriodTo": 1640908800000,
+      "taxPeriodFrom": 1775001600000,
+      "taxPeriodTo": 1782844199000,
       "demandGenerationDateMillis": 345600000
     }
   ]

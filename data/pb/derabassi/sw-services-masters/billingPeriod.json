@@ -2,7 +2,6 @@
   "tenantId": "pb.derabassi",
   "moduleName": "sw-services-masters",
   "billingPeriod": [
-   
     {
       "active": true,
       "connectionType": "Non Metered",

@@ -2,7 +2,6 @@
   "tenantId": "pb.derabassi",
   "moduleName": "sw-services-calculation",
   "billingPeriod": [
-   
     {
       "active": true,
       "connectionType": "Non Metered",
@@ -15,6 +14,3 @@
     }
   ]
 }
-
-
-
