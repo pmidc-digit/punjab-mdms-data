@@ -192,7 +192,7 @@
       "code": "pb.boha",
       "name": "Boha",
       "iswater": false,
-      "issewerage": false
+      "issewerage": true
     },
     {
       "code": "pb.chamkaursahib",
@@ -305,7 +305,7 @@
     {
       "code": "pb.hoshiarpur",
       "name": "Hoshiarpur",
-      "iswater": false,
+      "iswater": true,
       "issewerage": false
     },
     {
@@ -413,7 +413,7 @@
     {
       "code": "pb.maloud",
       "name": "Maloud",
-      "iswater": false,
+      "iswater": true,
       "issewerage": false
     },
     {
@@ -449,13 +449,13 @@
     {
       "code": "pb.mudki",
       "name": "Mudki",
-      "iswater": false,
+      "iswater": true,
       "issewerage": false
     },
     {
       "code": "pb.mullanpur",
       "name": "Mullanpur",
-      "iswater": false,
+      "iswater": true,
       "issewerage": false
     },
     {
@@ -467,8 +467,8 @@
     {
       "code": "pb.nadala",
       "name": "Nadala",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.nangal",
