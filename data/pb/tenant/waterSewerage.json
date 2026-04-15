@@ -305,7 +305,7 @@
     {
       "code": "pb.hoshiarpur",
       "name": "Hoshiarpur",
-      "iswater": true,
+      "iswater": false,
       "issewerage": false
     },
     {
