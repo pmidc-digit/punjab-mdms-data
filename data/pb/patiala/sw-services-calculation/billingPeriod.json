@@ -2,19 +2,15 @@
   "tenantId": "pb.patiala",
   "moduleName": "sw-services-calculation",
   "billingPeriod": [
-   
     {
       "active": true,
       "connectionType": "Non Metered",
       "billingCycle": "quarterly",
       "demandEndDateMillis": 1382400000,
       "demandExpiryDate": 1382400000,
-      "taxPeriodFrom": 1759276800000,
-      "taxPeriodTo": 1767205799000,
+      "taxPeriodFrom": 1767225600000,
+      "taxPeriodTo": 1774981799000,
       "demandGenerationDateMillis": 345600000
     }
   ]
 }
-
-
-
