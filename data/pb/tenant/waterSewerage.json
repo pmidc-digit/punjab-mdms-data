@@ -317,8 +317,8 @@
     {
       "code": "pb.jaitu",
       "name": "Jaitu",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.jagraon",
@@ -497,8 +497,8 @@
     {
       "code": "pb.patiala",
       "name": "Patiala",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.patran",
@@ -665,8 +665,8 @@
     {
       "code": "pb.budhlada",
       "name": "Budhlada",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.nawanshahr",
