@@ -28625,6 +28625,43 @@
       "serviceCode": "OBPASBPAREPORTS",
       "code": "null",
       "path": ""
-    }
+    },
+    {
+      "id": 882550,
+      "name": "Daily Bill Generate report",
+      "url": "url",
+      "displayName": "Daily Bill Generate report",
+      "orderNumber": 3,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.Demands and Bills.DailyBillGenerate",
+      "navigationURL": "report/rainmaker-ws/DailyBillGenerate",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 882551,
+      "name": "Daily Bill Generate report",
+      "url": "/report/rainmaker-ws/DailyBillGenerate/metadata/_get",
+      "displayName": "Daily Bill Generate report",
+      "orderNumber": 3,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 882552,
+      "name": "Daily Bill Generate report",
+      "url": "/report/rainmaker-ws/DailyBillGenerate/_get",
+      "displayName": "Daily Bill Generate report",
+      "orderNumber": 3,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    }	  
   ]
 }
