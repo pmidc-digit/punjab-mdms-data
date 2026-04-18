@@ -118,7 +118,7 @@
         },
        {
           "code": "SITEPHOTOGRAPH_TWO",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 19
         }
@@ -240,7 +240,7 @@
         },
        {
           "code": "SITEPHOTOGRAPH_TWO",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 19
         }
@@ -810,7 +810,7 @@
 	          },
             {
                 "code": "SITEPHOTOGRAPH_TWO",
-                "required": true,
+                "required": false,
                 "allow": true,
                 "order": 19
               }
@@ -1374,7 +1374,7 @@
 	          },
             {
                 "code": "SITEPHOTOGRAPH_TWO",
-                "required": true,
+                "required": false,
                 "allow": true,
                 "order": 19
               }
@@ -2632,7 +2632,7 @@
 	          },
             {
                 "code": "SITEPHOTOGRAPH_TWO",
-                "required": true,
+                "required": false,
                 "allow": true,
                 "order": 19
               }
@@ -2754,7 +2754,7 @@
 	          },
             {
                 "code": "SITEPHOTOGRAPH_TWO",
-                "required": true,
+                "required": false,
                 "allow": true,
                 "order": 19
               }
@@ -4102,7 +4102,7 @@
 	          },
             {
                 "code": "SITEPHOTOGRAPH_TWO",
-                "required": true,
+                "required": false,
                 "allow": true,
                 "order": 19
               }
@@ -4852,7 +4852,7 @@
 	          },
             {
                 "code": "SITEPHOTOGRAPH_TWO",
-                "required": true,
+                "required": false,
                 "allow": true,
                 "order": 19
               }
@@ -5602,7 +5602,7 @@
 	          },
             {
                 "code": "SITEPHOTOGRAPH_TWO",
-                "required": true,
+                "required": false,
                 "allow": true,
                 "order": 19
               }
@@ -5724,7 +5724,7 @@
 	          },
             {
                 "code": "SITEPHOTOGRAPH_TWO",
-                "required": true,
+                "required": false,
                 "allow": true,
                 "order": 19
               }
@@ -5846,7 +5846,7 @@
 	          },
             {
                 "code": "SITEPHOTOGRAPH_TWO",
-                "required": true,
+                "required": false,
                 "allow": true,
                 "order": 19
               }
@@ -6702,7 +6702,7 @@
 	          },
             {
                 "code": "SITEPHOTOGRAPH_TWO",
-                "required": true,
+                "required": false,
                 "allow": true,
                 "order": 19
               }
@@ -7936,7 +7936,7 @@
 	          },
             {
                 "code": "SITEPHOTOGRAPH_TWO",
-                "required": true,
+                "required": false,
                 "allow": true,
                 "order": 19
               }
@@ -8686,7 +8686,7 @@
 	          },
             {
                 "code": "SITEPHOTOGRAPH_TWO",
-                "required": true,
+                "required": false,
                 "allow": true,
                 "order": 19
               }
@@ -9436,7 +9436,7 @@
 	          },
             {
                 "code": "SITEPHOTOGRAPH_TWO",
-                "required": true,
+                "required": false,
                 "allow": true,
                 "order": 19
               }
@@ -10186,7 +10186,7 @@
 	          },
             {
                 "code": "SITEPHOTOGRAPH_TWO",
-                "required": true,
+                "required": false,
                 "allow": true,
                 "order": 19
               }
@@ -10936,7 +10936,7 @@
 	          },
             {
                 "code": "SITEPHOTOGRAPH_TWO",
-                "required": true,
+                "required": false,
                 "allow": true,
                 "order": 19
               }
