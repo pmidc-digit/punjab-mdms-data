@@ -503,8 +503,8 @@
     {
       "code": "pb.patran",
       "name": "Patran",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.phagwara",
@@ -571,6 +571,12 @@
       "name": "Talwandi Bhai",
       "iswater": false,
       "issewerage": false
+    },
+    {
+      "code": "pb.talwandisabo",
+      "name": "Talwandi Sabo",
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.tarntaran",
