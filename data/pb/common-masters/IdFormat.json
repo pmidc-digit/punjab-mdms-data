@@ -796,9 +796,8 @@
       "idname": "ptr.registrationid"
     },
     {
-      "format": "PB-PTR[cy:yyyy-MM-dd]-[SEQ_EG_PTR_TOKEN_ID]",
+      "format": "[SEQ_EG_PTR_TOKEN_ID]",
       "idname": "ptr.tokennumber"
-
     },
     {
       "format": "PB-PTR-REG-[cy:yyyy-MM-dd]-[SEQ_EG_PTR_REGNUM]",
