@@ -28795,6 +28795,43 @@
       "serviceCode": "RLREPORTS",
       "code": "null",
       "path": ""
+    },
+	{
+      "id": 882564,
+      "name": "File Submission Summary Report",
+      "url": "url",
+      "displayName": "File Submission Summary Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "BUILDING PLAN REPORTS",
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "path": "OBPAS REPORTS.BUILDING PLAN REPORTS.File Submission Summary Report",
+      "navigationURL": "report/rainmaker-obpas_bpa/Filesubmissionsummaryreport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 882565,
+      "name": "File Submission Summary Report",
+      "url": "/report/rainmaker-obpas_bpa/Filesubmissionsummaryreport/metadata/_get",
+      "displayName": "File Submission Summary Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 882566,
+      "name": "File Submission Summary Report",
+      "url": "/report/rainmaker-obpas_bpa/Filesubmissionsummaryreport/_get",
+      "displayName": "File Submission Summary Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "code": "null",
+      "path": ""
     }	  
   ]
 }
