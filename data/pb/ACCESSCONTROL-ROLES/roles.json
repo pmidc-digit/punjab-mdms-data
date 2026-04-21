@@ -1603,6 +1603,12 @@
       "name": "OBPAS_TEHSILDAR",
       "description": "OBPAS NOC workflow Approver",
       "groupId": "025"
+    },
+    {
+      "code": "RENT&LEASE_REPORTS",
+      "name": "Rent And Lease Reports",
+      "description": "For Rent and Lease Reports",
+      "groupId": "006"
     }
   ]
 }
