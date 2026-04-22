@@ -17,7 +17,7 @@
       "feeType": "PenaltyFee"
     },
     {
-      "startingDay": "93",
+      "startingDay": "92",
       "flatAmount": 500,
       "active": "true",
       "fromFY": "2026-27",
