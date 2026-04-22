@@ -28833,6 +28833,28 @@
       "code": "null",
       "path": ""
     },	  
+	    {
+      "id": 882579,
+      "name": "PROFESSIONAL REGISTRATION REPORTS",
+      "url": "/report/rainmaker-prof_reg/_get",
+      "displayName": "PROFESSIONAL REGISTRATION REPORTS",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "PROFESSIONALREGISTRATIONREPORTS",
+      "code": "null",
+      "path": "PROFESSIONAL REGISTRATION REPORTS"
+    },
+    {
+      "id": 882580,
+      "name": "PROFESSIONAL REGISTRATION REPORTS",
+      "url": "/report/rainmaker-prof_reg/metadata/_get",
+      "displayName": "PROFESSIONAL REGISTRATION REPORTS",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "PROFESSIONALREGISTRATIONREPORTS",
+      "code": "null",
+      "path": "PROFESSIONAL REGISTRATION REPORTS"
+    },  
 	{
       "id": 882567,
       "name": "Professional Registration Collection Report",
