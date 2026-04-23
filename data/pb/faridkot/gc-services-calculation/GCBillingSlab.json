@@ -26,7 +26,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non Metered",
       "billingCycle": "Monthly",
-      "minimumCharge": 0,
+      "minimumCharge": 200,
       "slabs": []
     },
     {
@@ -35,7 +35,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non Metered",
       "billingCycle": "Quarterly",
-      "minimumCharge": 0,
+      "minimumCharge": 600,
       "slabs": []
     },
     {
@@ -80,7 +80,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non Metered",
       "billingCycle": "Monthly",
-      "minimumCharge": 0,
+      "minimumCharge": 200,
       "slabs": []
     },
     {
@@ -89,7 +89,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non Metered",
       "billingCycle": "Quarterly",
-      "minimumCharge": 0,
+      "minimumCharge": 600,
       "slabs": []
     },
     {
@@ -98,7 +98,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non Metered",
       "billingCycle": "Monthly",
-      "minimumCharge": 0,
+      "minimumCharge": 200,
       "slabs": []
     },
     {
@@ -107,7 +107,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non Metered",
       "billingCycle": "Quarterly",
-      "minimumCharge": 0,
+      "minimumCharge": 600,
       "slabs": []
     },
     {
@@ -116,7 +116,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non Metered",
       "billingCycle": "Monthly",
-      "minimumCharge": 1000,
+      "minimumCharge": 2000,
       "slabs": []
     },
     {
@@ -125,7 +125,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non Metered",
       "billingCycle": "Quarterly",
-      "minimumCharge": 3000,
+      "minimumCharge": 6000,
       "slabs": []
     },
     {
@@ -134,7 +134,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non Metered",
       "billingCycle": "Monthly",
-      "minimumCharge": 1000,
+      "minimumCharge": 2000,
       "slabs": []
     },
     {
@@ -143,7 +143,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non Metered",
       "billingCycle": "Quarterly",
-      "minimumCharge": 3000,
+      "minimumCharge": 6000,
       "slabs": []
     },
     {
@@ -152,7 +152,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non Metered",
       "billingCycle": "Monthly",
-      "minimumCharge": 0,
+      "minimumCharge": 200,
       "slabs": []
     },
     {
@@ -161,7 +161,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non Metered",
       "billingCycle": "Quarterly",
-      "minimumCharge": 0,
+      "minimumCharge": 600,
       "slabs": []
     },
     {
@@ -170,7 +170,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non Metered",
       "billingCycle": "Monthly",
-      "minimumCharge": 500,
+      "minimumCharge": 2000,
       "slabs": []
     },
     {
@@ -179,7 +179,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non Metered",
       "billingCycle": "Quarterly",
-      "minimumCharge": 1500,
+      "minimumCharge": 6000,
       "slabs": []
     },
     {
@@ -188,7 +188,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non Metered",
       "billingCycle": "Monthly",
-      "minimumCharge": 0,
+      "minimumCharge": 3000,
       "slabs": []
     },
     {
@@ -197,7 +197,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non Metered",
       "billingCycle": "Quarterly",
-      "minimumCharge": 0,
+      "minimumCharge": 9000,
       "slabs": []
     },
     {
@@ -206,7 +206,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non Metered",
       "billingCycle": "Monthly",
-      "minimumCharge": 0,
+      "minimumCharge": 1000,
       "slabs": []
     },
     {
@@ -215,7 +215,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non Metered",
       "billingCycle": "Quarterly",
-      "minimumCharge": 0,
+      "minimumCharge": 3000,
       "slabs": []
     },
     {
@@ -224,7 +224,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non Metered",
       "billingCycle": "Monthly",
-      "minimumCharge": 0,
+      "minimumCharge": 1000,
       "slabs": []
     },
     {
@@ -233,7 +233,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non Metered",
       "billingCycle": "Quarterly",
-      "minimumCharge": 0,
+      "minimumCharge": 3000,
       "slabs": []
     },
     {
@@ -242,7 +242,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non Metered",
       "billingCycle": "Monthly",
-      "minimumCharge": 0,
+      "minimumCharge": 300,
       "slabs": []
     },
     {
@@ -251,7 +251,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non Metered",
       "billingCycle": "Quarterly",
-      "minimumCharge": 0,
+      "minimumCharge": 900,
       "slabs": []
     },
     {
@@ -260,7 +260,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non Metered",
       "billingCycle": "Monthly",
-      "minimumCharge": 0,
+      "minimumCharge": 300,
       "slabs": []
     },
     {
@@ -269,7 +269,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non Metered",
       "billingCycle": "Quarterly",
-      "minimumCharge": 0,
+      "minimumCharge": 900,
       "slabs": []
     },
     {
@@ -278,7 +278,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non Metered",
       "billingCycle": "Monthly",
-      "minimumCharge": 0,
+      "minimumCharge": 300,
       "slabs": []
     },
     {
@@ -287,7 +287,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non Metered",
       "billingCycle": "Quarterly",
-      "minimumCharge": 0,
+      "minimumCharge": 900,
       "slabs": []
     },
     {
@@ -296,7 +296,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non Metered",
       "billingCycle": "Monthly",
-      "minimumCharge": 0,
+      "minimumCharge": 200,
       "slabs": []
     },
     {
@@ -305,7 +305,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non Metered",
       "billingCycle": "Quarterly",
-      "minimumCharge": 0,
+      "minimumCharge": 600,
       "slabs": []
     },
     {
@@ -314,7 +314,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non Metered",
       "billingCycle": "Monthly",
-      "minimumCharge": 0,
+      "minimumCharge": 200,
       "slabs": []
     },
     {
@@ -323,7 +323,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non Metered",
       "billingCycle": "Quarterly",
-      "minimumCharge": 0,
+      "minimumCharge": 600,
       "slabs": []
     },
     {
@@ -332,7 +332,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non Metered",
       "billingCycle": "Monthly",
-      "minimumCharge": 0,
+      "minimumCharge": 200,
       "slabs": []
     },
     {
@@ -341,7 +341,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non Metered",
       "billingCycle": "Quarterly",
-      "minimumCharge": 0,
+      "minimumCharge": 600,
       "slabs": []
     },
     {
@@ -350,7 +350,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non Metered",
       "billingCycle": "Monthly",
-      "minimumCharge": 0,
+      "minimumCharge": 200,
       "slabs": []
     },
     {
@@ -359,7 +359,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non Metered",
       "billingCycle": "Quarterly",
-      "minimumCharge": 0,
+      "minimumCharge": 600,
       "slabs": []
     },
     {
@@ -368,7 +368,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non Metered",
       "billingCycle": "Monthly",
-      "minimumCharge": 500,
+      "minimumCharge": 200,
       "slabs": []
     },
     {
@@ -377,7 +377,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non Metered",
       "billingCycle": "Quarterly",
-      "minimumCharge": 1500,
+      "minimumCharge": 600,
       "slabs": []
     },
     {
@@ -386,7 +386,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non Metered",
       "billingCycle": "Monthly",
-      "minimumCharge": 100,
+      "minimumCharge": 200,
       "slabs": []
     },
     {
@@ -395,7 +395,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non Metered",
       "billingCycle": "Quarterly",
-      "minimumCharge": 300,
+      "minimumCharge": 600,
       "slabs": []
     },
     {
@@ -458,7 +458,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non Metered",
       "billingCycle": "Monthly",
-      "minimumCharge": 500,
+      "minimumCharge": 2000,
       "slabs": []
     },
     {
@@ -467,7 +467,7 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non Metered",
       "billingCycle": "Quarterly",
-      "minimumCharge": 1500,
+      "minimumCharge": 6000,
       "slabs": []
     }
   ]
