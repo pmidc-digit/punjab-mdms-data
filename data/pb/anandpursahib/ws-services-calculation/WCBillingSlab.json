@@ -9,12 +9,12 @@
          "waterSubUsageType": "USAGE_DOM_NA",
          "calculationAttribute": "Water consumption",
          "connectionType": "Metered",
-         "minimumCharge": 201,
+         "minimumCharge": 222,
          "slabs": [
            {
              "from": 0,
              "to": 30,
-             "charge": 6.7,
+             "charge": 7.4,
              "meterCharge": 0,
              "effectiveFrom":1522584000000,
              "effectiveTo":1895229252000
@@ -32,7 +32,7 @@
 		   {
              "from": 61,
              "to": 90,
-             "charge": 14.18,
+             "charge": 15.60,
              "meterCharge": 0,
              "effectiveFrom":1522584000000,
              "effectiveTo":1895229252000
@@ -41,7 +41,7 @@
 		   {
              "from": 91,
              "to": 100000,
-             "charge": 26.58,
+             "charge": 29.24,
              "meterCharge": 0,
              "effectiveFrom":1522584000000,
              "effectiveTo":1895229252000
@@ -55,12 +55,12 @@
          "waterSubUsageType": "USAGE_COMM_NA",
          "calculationAttribute": "Water consumption",
          "connectionType": "Metered",
-         "minimumCharge": 1062,
+         "minimumCharge": 1167,
          "slabs": [
            {
              "from": 0,
              "to": 30,
-             "charge": 35.4,
+             "charge": 38.9,
              "meterCharge": 0,
              "effectiveFrom":1522584000000,
              "effectiveTo":1895229252000
@@ -69,7 +69,7 @@
 		   {
              "from": 31,
              "to": 60,
-             "charge": 17.71,
+             "charge": 19.29,
              "meterCharge": 0,
              "effectiveFrom":1522584000000,
              "effectiveTo":1895229252000
@@ -78,7 +78,7 @@
 		   {
              "from": 61,
              "to": 90,
-             "charge": 28.35,
+             "charge": 31.19,
              "meterCharge": 0,
              "effectiveFrom":1522584000000,
              "effectiveTo":1895229252000
@@ -87,7 +87,7 @@
 		   {
              "from": 91,
              "to": 100000,
-             "charge": 53.14,
+             "charge": 58.45,
              "meterCharge": 0,
              "effectiveFrom":1522584000000,
              "effectiveTo":1895229252000
@@ -101,12 +101,12 @@
          "waterSubUsageType": "USAGE_DOM_NA",
          "calculationAttribute": "Water consumption",
          "connectionType": "Metered",
-         "minimumCharge": 201,
+         "minimumCharge": 222,
          "slabs": [
            {
              "from": 0,
              "to": 30,
-             "charge": 6.7,
+             "charge": 7.4,
              "meterCharge": 0,
              "effectiveFrom":1522584000000,
              "effectiveTo":1895229252000
@@ -124,7 +124,7 @@
 		   {
              "from": 61,
              "to": 90,
-             "charge": 14.18,
+             "charge": 15.60,
              "meterCharge": 0,
              "effectiveFrom":1522584000000,
              "effectiveTo":1895229252000
@@ -133,7 +133,7 @@
 		   {
              "from": 91,
              "to": 100000,
-             "charge": 26.58,
+             "charge": 29.24,
              "meterCharge": 0,
              "effectiveFrom":1522584000000,
              "effectiveTo":1895229252000
@@ -147,12 +147,12 @@
          "waterSubUsageType": "USAGE_COMM_NA",
          "calculationAttribute": "Water consumption",
          "connectionType": "Metered",
-         "minimumCharge": 1062,
+         "minimumCharge": 1167,
          "slabs": [
            {
              "from": 0,
              "to": 30,
-             "charge": 35.4,
+             "charge": 38.9,
              "meterCharge": 0,
              "effectiveFrom":1522584000000,
              "effectiveTo":1895229252000
@@ -161,7 +161,7 @@
 		   {
              "from": 31,
              "to": 60,
-             "charge": 17.71,
+             "charge": 19.29,
              "meterCharge": 0,
              "effectiveFrom":1522584000000,
              "effectiveTo":1895229252000
@@ -170,7 +170,7 @@
 		   {
              "from": 61,
              "to": 90,
-             "charge": 28.35,
+             "charge": 31.19,
              "meterCharge": 0,
              "effectiveFrom":1522584000000,
              "effectiveTo":1895229252000
@@ -179,7 +179,7 @@
 		   {
              "from": 91,
              "to": 100000,
-             "charge": 53.14,
+             "charge": 58.45,
              "meterCharge": 0,
              "effectiveFrom":1522584000000,
              "effectiveTo":1895229252000
@@ -193,12 +193,12 @@
          "waterSubUsageType": "USAGE_COMM_NA",
          "calculationAttribute": "Water consumption",
          "connectionType": "Metered",
-         "minimumCharge": 1062,
+         "minimumCharge": 1167,
          "slabs": [
            {
              "from": 0,
              "to": 30,
-             "charge": 35.4,
+             "charge": 38.9,
              "meterCharge": 0,
              "effectiveFrom":1522584000000,
              "effectiveTo":1895229252000
@@ -207,7 +207,7 @@
 		   {
              "from": 31,
              "to": 60,
-             "charge": 17.71,
+             "charge": 19.29,
              "meterCharge": 0,
              "effectiveFrom":1522584000000,
              "effectiveTo":1895229252000
@@ -216,7 +216,7 @@
 		   {
              "from": 61,
              "to": 90,
-             "charge": 28.35,
+             "charge": 31.19,
              "meterCharge": 0,
              "effectiveFrom":1522584000000,
              "effectiveTo":1895229252000
@@ -225,7 +225,7 @@
 		   {
              "from": 91,
              "to": 100000,
-             "charge": 53.14,
+             "charge": 58.45,
              "meterCharge": 0,
              "effectiveFrom":1522584000000,
              "effectiveTo":1895229252000
@@ -239,12 +239,12 @@
          "waterSubUsageType": "USAGE_DOM_NA",
          "calculationAttribute": "Water consumption",
          "connectionType": "Metered",
-         "minimumCharge": 201,
+         "minimumCharge": 222,
          "slabs": [
            {
              "from": 0,
              "to": 30,
-             "charge": 6.7,
+             "charge": 7.4,
              "meterCharge": 0,
              "effectiveFrom":1522584000000,
              "effectiveTo":1895229252000
@@ -262,7 +262,7 @@
 		   {
              "from": 61,
              "to": 90,
-             "charge": 14.18,
+             "charge": 15.60,
              "meterCharge": 0,
              "effectiveFrom":1522584000000,
              "effectiveTo":1895229252000
@@ -271,7 +271,7 @@
 		   {
              "from": 91,
              "to": 100000,
-             "charge": 26.58,
+             "charge": 29.24,
              "meterCharge": 0,
              "effectiveFrom":1522584000000,
              "effectiveTo":1895229252000
@@ -285,12 +285,12 @@
          "waterSubUsageType": "USAGE_INSTITUTIONAL_NA",
          "calculationAttribute": "Water consumption",
          "connectionType": "Metered",
-         "minimumCharge": 1062,
+         "minimumCharge": 1167,
          "slabs": [
            {
              "from": 0,
              "to": 30,
-             "charge": 35.4,
+             "charge": 38.9,
              "meterCharge": 0,
              "effectiveFrom":1522584000000,
              "effectiveTo":1895229252000
@@ -299,7 +299,7 @@
 		   {
              "from": 31,
              "to": 60,
-             "charge": 17.71,
+             "charge": 19.29,
              "meterCharge": 0,
              "effectiveFrom":1522584000000,
              "effectiveTo":1895229252000
@@ -308,7 +308,7 @@
 		   {
              "from": 61,
              "to": 90,
-             "charge": 28.35,
+             "charge": 31.19,
              "meterCharge": 0,
              "effectiveFrom":1522584000000,
              "effectiveTo":1895229252000
@@ -317,7 +317,7 @@
 		   {
              "from": 91,
              "to": 100000,
-             "charge": 53.14,
+             "charge": 58.45,
              "meterCharge": 0,
              "effectiveFrom":1522584000000,
              "effectiveTo":1895229252000
