@@ -5,7 +5,7 @@
     {
       "name": "Commercial Fee",
       "code": "COMMERCIAL",
-      "flatFee": 1000
+      "flatFee": 500
     },
     {
       "name": "Residential Fee",
