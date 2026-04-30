@@ -1,8 +1,8 @@
 {
   "tenantId": "pb.patran",
-  "moduleName": "ws-services-calculation",
+  "moduleName": "sw-services-calculation",
   "CalculationAttribute": [
-    {
+    { 
       "name": "Metered",
       "code": "Metered",
       "attribute": "PLOT_BASED",
