@@ -1,6 +1,6 @@
 {
   "tenantId": "pb.mohali",
-  "moduleName": "ws-services-calculation",
+  "moduleName": "sw-services-calculation",
   "CalculationAttribute": [
     {
       "name": "Metered",
@@ -11,7 +11,7 @@
     {
       "name": "Non Metered",
       "code": "Non Metered",
-      "attribute": "PLOT_BASED",
+      "attribute": "PLOT_SEAT_BASED",
       "active": true
     }
   ]
