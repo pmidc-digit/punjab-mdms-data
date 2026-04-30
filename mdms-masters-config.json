@@ -854,7 +854,7 @@
     },
     "Rates": {
       "masterName": "Rates",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": ["$.subCategoryId"]
     },
     "Documents": {
