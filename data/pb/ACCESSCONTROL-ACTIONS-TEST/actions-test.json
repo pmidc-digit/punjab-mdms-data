@@ -22688,7 +22688,7 @@
       "orderNumber": 1,
       "queryParams": "",
       "parentModule": "BUILDING PLAN REPORTS",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "OBPASBPAREPORTS",
       "path": "OBPAS REPORTS.BUILDING PLAN REPORTS.Application Detail Report",
       "navigationURL": "report/rainmaker-obpas_bpa/UserLoginDetailReportBPA",
@@ -22701,7 +22701,7 @@
       "url": "/report/rainmaker-obpas_bpa/UserLoginDetailReportBPA/metadata/_get",
       "displayName": "User Login Session Report",
       "orderNumber": 1,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "OBPASBPAREPORTS",
       "code": "null",
       "path": ""
@@ -22712,7 +22712,7 @@
       "url": "/report/rainmaker-obpas_bpa/UserLoginDetailReportBPA/_get",
       "displayName": "User Login Session Report",
       "orderNumber": 1,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "OBPASBPAREPORTS",
       "code": "null",
       "path": ""

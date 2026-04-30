@@ -573,6 +573,12 @@
       "issewerage": false
     },
     {
+      "code": "pb.talwandisabo",
+      "name": "Talwandi Sabo",
+      "iswater": false,
+      "issewerage": false
+    },
+    {
       "code": "pb.tarntaran",
       "name": "Tarn Taran",
       "iswater": false,
