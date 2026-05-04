@@ -1,0 +1,111 @@
+{
+  "tenantId": "pb.kapurthala",
+  "moduleName": "ws-services-masters",
+  "groups": [
+    {
+      "name": "Z1B1",
+      "code": "Z1B1",
+      "active": true
+    },
+    {
+      "name": "Z1B2",
+      "code": "Z1B2",
+      "active": true
+    },
+    {
+      "name": "Z1B3",
+      "code": "Z1B3",
+      "active": true
+    },
+    {
+      "name": "Z1B4",
+      "code": "Z1B4",
+      "active": true
+    },
+    {
+      "name": "Z1B5",
+      "code": "Z1B5",
+      "active": true
+    },
+    {
+      "name": "Z1B6",
+      "code": "Z1B6",
+      "active": true
+    },
+    {
+      "name": "Z1B7",
+      "code": "Z1B7",
+      "active": true
+    },
+    {
+      "name": "Z2B8",
+      "code": "Z2B8",
+      "active": true
+    },
+    {
+      "name": "Z2B9",
+      "code": "Z2B9",
+      "active": true
+    },
+    {
+      "name": "Z2B10",
+      "code": "Z2B10",
+      "active": true
+    },
+    {
+      "name": "Z2B11",
+      "code": "Z2B11",
+      "active": true
+    },
+    {
+      "name": "Z2B12",
+      "code": "Z2B12",
+      "active": true
+    },
+    {
+      "name": "Z2B13",
+      "code": "Z2B13",
+      "active": true
+    },
+    {
+      "name": "Z2B14",
+      "code": "Z2B14",
+      "active": true
+    },
+    {
+      "name": "Z3B15",
+      "code": "Z3B15",
+      "active": true
+    },
+    {
+      "name": "Z3B16",
+      "code": "Z3B16",
+      "active": true
+    },
+    {
+      "name": "Z3B17",
+      "code": "Z3B17",
+      "active": true
+    },
+    {
+      "name": "Z3B18",
+      "code": "Z3B18",
+      "active": true
+    },
+    {
+      "name": "Z3B19",
+      "code": "Z3B19",
+      "active": true
+    },
+    {
+      "name": "Z3B20",
+      "code": "Z3B20",
+      "active": true
+    },
+    {
+      "name": "Z3B21",
+      "code": "Z3B21",
+      "active": true
+    }
+  ]
+}
