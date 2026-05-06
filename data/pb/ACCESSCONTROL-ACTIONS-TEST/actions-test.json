@@ -29012,7 +29012,7 @@
       "queryParams": "",
       "parentModule": "rainmaker-swach",
       "enabled": true,
-      "serviceCode": "PGR",
+      "serviceCode": "MiscReceipt",
       "path": "Swach Reports.Swach Event Report",
       "navigationURL": "report/rainmaker-swach/SwachEventReport",
       "leftIcon": "action:assignment",
