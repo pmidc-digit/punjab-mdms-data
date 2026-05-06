@@ -69391,7 +69391,7 @@
     "actionid": 882578,
     "actioncode": "",
     "tenantId": "pb"
-  }	,
+  },
   {
     "rolecode": "OBPAS REPORTS",
     "actionid": 882579,
@@ -69403,8 +69403,8 @@
     "actionid": 882580,
     "actioncode": "",
     "tenantId": "pb"
-  }	,
- {
+  },
+  {
       "rolecode": "SWACH_STATE_EMP",
       "actionid": 882581,
       "actioncode": "",
