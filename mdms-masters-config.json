@@ -1199,7 +1199,7 @@
     },
     "PropertyUsageType": {
       "masterName": "PropertyUsageType",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": []
     },
     "FeeSlab": {
