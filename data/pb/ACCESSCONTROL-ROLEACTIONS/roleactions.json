@@ -69421,6 +69421,24 @@
       "actionid": 882583,
       "actioncode": "",
       "tenantId": "pb"
-    }
+    },
+	{
+      "rolecode": "STADMIN",
+      "actionid": 882581,
+      "actioncode": "",
+      "tenantId": "pb"
+    },  
+	{
+      "rolecode": "STADMIN",
+      "actionid": 882582,
+      "actioncode": "",
+      "tenantId": "pb"
+    },  
+	{
+      "rolecode": "STADMIN",
+      "actionid": 882583,
+      "actioncode": "",
+      "tenantId": "pb"
+    }   
   ]
 }
