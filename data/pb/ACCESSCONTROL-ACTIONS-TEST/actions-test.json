@@ -29013,7 +29013,7 @@
       "parentModule": "rainmaker-swach",
       "enabled": true,
       "serviceCode": "MiscReceipt",
-      "path": "Swach.Reports.Swach Event Report",
+      "path": "Swach Reports.Swach Event Report",
       "navigationURL": "report/rainmaker-swach/SwachEventReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
