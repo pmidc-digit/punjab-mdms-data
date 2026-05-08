@@ -14144,6 +14144,12 @@
 	  "actioncode": "",
 	  "tenantId": "pb"
 	},
+	{
+	  "rolecode": "OBPAS_READ_ONLY",
+	  "actionid": 1757,
+	  "actioncode": "",
+	  "tenantId": "pb"
+	},
     {
       "rolecode": "CITIZEN",
       "actionid": 1930,
