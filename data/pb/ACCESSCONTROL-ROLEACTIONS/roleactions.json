@@ -39009,6 +39009,60 @@
       "actionid": 882583,
       "actioncode": "",
       "tenantId": "pb"
-    }
+    },
+	  {
+      "rolecode": "SWACH_STATE_EMP",
+      "actionid": 882584,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SWACH_STATE_EMP",
+      "actionid": 882585,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SWACH_STATE_EMP",
+      "actionid": 882586,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SWACH_ADMIN",
+      "actionid": 882584,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SWACH_ADMIN",
+      "actionid": 882585,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SWACH_ADMIN",
+      "actionid": 882586,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	{
+      "rolecode": "STADMIN",
+      "actionid": 882584,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 882585,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 882586,
+      "actioncode": "",
+      "tenantId": "pb"
+    } 	  
   ]
 }
