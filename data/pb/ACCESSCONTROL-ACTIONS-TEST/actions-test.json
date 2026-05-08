@@ -23245,6 +23245,43 @@
       "serviceCode": "MiscReceipt",
       "code": "null",
       "path": ""
-    } 
+    },
+    {
+      "id": 882584,
+      "name": "ULB wise Event Count Report",
+      "url": "url",
+      "displayName": "ULB wise Event Count Report",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "rainmaker-swach",
+      "enabled": true,
+      "serviceCode": "PGR",
+      "path": "Swach Reports.ULB wise Event Count Report",
+      "navigationURL": "report/rainmaker-swach/ULBwiseEventCountReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 882585,
+      "name": "ULB wise Event Count Report",
+      "url": "/report/rainmaker-swach/ULBwiseEventCountReport/metadata/_get",
+      "displayName": "ULB wise Event Count Report",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 882586,
+      "name": "ULB wise Event Count Report",
+      "url": "/report/rainmaker-swach/ULBwiseEventCountReport/_get",
+      "displayName": "ULB wise Event Count Report",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "path": ""
+    }
   ]
 }
