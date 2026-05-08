@@ -29039,6 +29039,17 @@
       "serviceCode": "MiscReceipt",
       "code": "null",
       "path": ""
-    }  
+    } ,
+	{
+	  "id": 882584,
+	  "name": "merge sanction letter edcr",
+	  "url": "/edcr/rest/dcr/mergeSanctionLetter",
+	  "displayName": "merge sanction letter edcr",
+	  "orderNumber": 1,
+	  "enabled": true,
+	  "serviceCode": "EDCR",
+	  "code": "null",
+	  "path": ""
+	 }  
   ]
 }
