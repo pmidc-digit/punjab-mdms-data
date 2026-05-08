@@ -39063,6 +39063,18 @@
       "actionid": 882586,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_READ_ONLY",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_READ_ONLY",
+      "actionid": 5033,
+      "actioncode": "",
+      "tenantId": "pb"
     } 	  
   ]
 }
