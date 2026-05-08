@@ -29039,7 +29039,44 @@
       "serviceCode": "MiscReceipt",
       "code": "null",
       "path": ""
-    } ,
+    },
+	{
+      "id": 882584,
+      "name": "ULB wise Complaint Count Report",
+      "url": "url",
+      "displayName": "ULB wise Complaint Count Report",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "rainmaker-swach",
+      "enabled": true,
+      "serviceCode": "PGR",
+      "path": "Swach Reports.ULB wise Complaint Count Report",
+      "navigationURL": "report/rainmaker-swach/SwachEventULBTypeCountReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 882585,
+      "name": "ULB wise Complaint Count Report",
+      "url": "/report/rainmaker-swach/SwachEventULBTypeCountReport/metadata/_get",
+      "displayName": "ULB wise Complaint Count Report",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 882586,
+      "name": "ULB wise Complaint Count Report",
+      "url": "/report/rainmaker-swach/SwachEventULBTypeCountReport/_get",
+      "displayName": "ULB wise Complaint Count Report",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "path": ""
+    },  
 	{
 	  "id": 882584,
 	  "name": "merge sanction letter edcr",
