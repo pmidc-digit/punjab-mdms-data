@@ -23219,7 +23219,7 @@
       "parentModule": "rainmaker-swach",
       "enabled": true,
       "serviceCode": "PGR",
-      "path": "Swach Reports.Swach Event Report",
+      "path": "Swach.Reports.ULBwiseEventCountReport",
       "navigationURL": "report/rainmaker-swach/SwachEventReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -23256,7 +23256,7 @@
       "parentModule": "rainmaker-swach",
       "enabled": true,
       "serviceCode": "PGR",
-      "path": "Swach Reports.ULB wise Event Count Report",
+      "path": "Swach.Reports.ULBwiseEventCountReport",
       "navigationURL": "report/rainmaker-swach/ULBwiseEventCountReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
