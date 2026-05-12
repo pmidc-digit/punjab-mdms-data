@@ -137,8 +137,8 @@
     {
       "code": "pb.begowal",
       "name": "Begowal",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.bhadaur",
@@ -179,7 +179,7 @@
     {
       "code": "pb.bhuchomandi",
       "name": "Bhuchomandi",
-      "iswater": true,
+      "iswater": false,
       "issewerage": false
     },
     {
@@ -402,7 +402,7 @@
       "code": "pb.khanauri",
       "name": "Khanauri",
       "iswater": false,
-      "issewerage": true
+      "issewerage": false
     },
     {
       "code": "pb.khanna",
@@ -431,8 +431,8 @@
     {
       "code": "pb.mansa",
       "name": "Mansa",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     }
   ]
 }
