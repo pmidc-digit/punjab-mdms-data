@@ -23,6 +23,10 @@
       "active": true
     },
     {
+      "code": "FOR_ELECTION_PURPOSE",
+      "active": true
+    },
+    {
       "code": "OTHERS",
       "active": true
     }
