@@ -11756,6 +11756,24 @@
       "actioncode": "",
       "tenantId": "pb"
     },
+	{
+      "rolecode": "EMPLOYEE",
+      "actionid": 3203,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	{
+      "rolecode": "TL_CEMP",
+      "actionid": 3203,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "TL_REPORT_VIEWER",
+      "actionid": 3203,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
     {
       "rolecode": "EMPLOYEE",
       "actionid": 1914,
@@ -39061,6 +39079,12 @@
     {
       "rolecode": "STADMIN",
       "actionid": 882586,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	{
+      "rolecode": "EMPLOYEE",
+      "actionid": 882587,
       "actioncode": "",
       "tenantId": "pb"
     },
