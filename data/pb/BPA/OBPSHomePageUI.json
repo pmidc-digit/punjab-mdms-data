@@ -36,42 +36,6 @@
             ]
         },
         {
-            "title": "ACTION_TEST_BPA_STAKE_HOLDER_HOME",
-            "name": "citizenCard",
-            "isCitizen": true,
-            "kpis": [],
-            "links": [                
-                {
-                    "link": "edcrscrutiny/oc-apply",
-                    "i18nKey": "BPA_OC_PLAN_SCRUTINY_FOR_NEW_CONSTRUCTION_LABEL"
-                },
-                {
-                    "link": "ocbpa/building_oc_plan_scrutiny/new_construction",
-                    "i18nKey": "BPA_HOME_BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_LABEL"
-                }
-            ]
-        },
-        {
-            "title": "ACTION_TEST_LAYOUT_HOME",
-            "name": "citizenCard",
-            "isCitizen": true,
-            "kpis": [],
-            "links": [
-                {
-                    "link": "layout/apply",
-                    "i18nKey": "BPA_LAYOUT_LABEL"
-                },
-                {
-                    "link": "layout/my-applications",
-                    "i18nKey": "BPA_MY_APPLICATIONS_LABEL"
-                },
-                {
-                    "link": "layout/search-application",
-                    "i18nKey": "BPA_SEARCH_APPLICATIONS_LABEL"
-                }
-            ]
-        },
-        {
             "title": "ACTION_TEST_CLU_HOME",
             "name": "citizenCard",
             "isCitizen": true,
