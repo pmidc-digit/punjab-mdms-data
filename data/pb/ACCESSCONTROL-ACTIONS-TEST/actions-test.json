@@ -29188,6 +29188,80 @@
     "queryParams": "",
     "sidebar": "digit-ui-links",
     "sidebarURL": "/digit-ui/citizen/obps-home"
-  }
+  },
+    {
+      "id": 882587,
+      "name": "Water Demand status report",
+      "url": "url",
+      "displayName": "Water Demand status report",
+      "orderNumber": 4,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.Demands and Bills.water_demand_status_report",
+      "navigationURL": "report/rainmaker-ws/water_demand_status_report",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 882588,
+      "name": "Water Demand status report",
+      "url": "/report/rainmaker-ws/water_demand_status_report/metadata/_get",
+      "displayName": "Water Demand status report",
+      "orderNumber": 4,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 882589,
+      "name": "Water Demand status report",
+      "url": "/report/rainmaker-ws/water_demand_status_report/_get",
+      "displayName": "Water Demand status report",
+      "orderNumber": 4,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 882590,
+      "name": "Sewerage Demand status report",
+      "url": "url",
+      "displayName": "Sewerage Demand status report",
+      "orderNumber": 5,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.Demands and Bills.sewerage_demand_status_report",
+      "navigationURL": "report/rainmaker-ws/sewerage_demand_status_report",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 882591,
+      "name": "Sewerage Demand status report",
+      "url": "/report/rainmaker-ws/sewerage_demand_status_report/metadata/_get",
+      "displayName": "Sewerage Demand status report",
+      "orderNumber": 5,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 882592,
+      "name": "Sewerage Demand status report",
+      "url": "/report/rainmaker-ws/sewerage_demand_status_report/_get",
+      "displayName": "Sewerage Demand status report",
+      "orderNumber": 5,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    }	  
   ]
 }
