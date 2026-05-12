@@ -15,6 +15,10 @@
       "active": true
     },
     {
+      "code": "FOR_ELECTION_PURPOSE",
+      "active": true
+    },
+    {
       "code": "PETROLEUM_SITES",
       "active": true
     },
