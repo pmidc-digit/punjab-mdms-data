@@ -2,6 +2,11 @@
   "tenantId": "pb.mansa",
   "moduleName": "ws-services-masters",
   "groups": [
+     { 
+      "name":"BL1", 
+      "code":"BL1",
+      "active": true 
+    },
     {
       "name": "BL1A",
       "code": "BL1A",
