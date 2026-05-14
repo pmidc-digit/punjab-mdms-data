@@ -2,6 +2,11 @@
   "tenantId": "pb.sardulgarh",
   "moduleName": "ws-services-masters",
   "groups": [
+    { 
+      "name":"BL4", 
+      "code":"BL4",
+      "active": true 
+    },
     {
       "name": "BL1",
       "code": "BL1",
