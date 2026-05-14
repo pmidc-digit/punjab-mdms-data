@@ -23487,7 +23487,7 @@
       "orderNumber": 4,
       "queryParams": "",
       "parentModule": "PROFESSIONAL REGISTRATION REPORTS",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "PROFESSIONALREGISTRATIONREPORTS",
       "path": "OBPAS REPORTS.PROFESSIONAL REGISTRATION REPORTS.Officers Pendency – Professional Registration Report",
       "navigationURL": "report/rainmaker-prof_reg/officers_wise_pendency_professional",
@@ -23500,7 +23500,7 @@
       "url": "/report/rainmaker-prof_reg/officers_wise_pendency_professional/metadata/_get",
       "displayName": "Officers Pendency – Professional Registration Report",
       "orderNumber": 4,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "PROFESSIONALREGISTRATIONREPORTS",
       "code": "null",
       "path": ""
@@ -23511,7 +23511,7 @@
       "url": "/report/rainmaker-prof_reg/officers_wise_pendency_professional/_get",
       "displayName": "Officers Pendency – Professional Registration Report",
       "orderNumber": 4,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "PROFESSIONALREGISTRATIONREPORTS",
       "code": "null",
       "path": ""
