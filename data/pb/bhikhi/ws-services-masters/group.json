@@ -1,0 +1,71 @@
+{
+  "tenantId": "pb.bhikhi",
+  "moduleName": "ws-services-masters",
+  "groups": [
+    {
+      "name": "BL1",
+      "code": "BL1",
+      "active": true
+    },
+    {
+      "name": "BL1A",
+      "code": "BL1A",
+      "active": true
+    },
+    {
+      "name": "BL2",
+      "code": "BL2",
+      "active": true
+    },
+    {
+      "name": "BL2A",
+      "code": "BL2A",
+      "active": true
+    },
+    {
+      "name": "BL3",
+      "code": "BL3",
+      "active": true
+    },
+    {
+      "name": "BL3A",
+      "code": "BL3A",
+      "active": true
+    },
+    {
+      "name": "BL4",
+      "code": "BL4",
+      "active": true
+    },
+    {
+      "name": "BL4A",
+      "code": "BL4A",
+      "active": true
+    },
+    {
+      "name": "BL5",
+      "code": "BL5",
+      "active": true
+    },
+    {
+      "name": "BL5A",
+      "code": "BL5A",
+      "active": true
+    },
+    {
+      "name": "BL6",
+      "code": "BL6",
+      "active": true
+    },
+    {
+      "name": "BL6A",
+      "code": "BL6A",
+      "active": true
+    },
+    {
+      "name": "BL6B",
+      "code": "BL6B",
+      "active": true
+    }
+  ]
+}
