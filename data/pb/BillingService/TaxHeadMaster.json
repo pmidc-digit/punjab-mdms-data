@@ -7083,6 +7083,16 @@
       "order": 8,
       "isRequired": false
     },
+       {
+      "category": "FEE",
+      "service": "chb-services",
+      "name": "CHB_ROUND_OFF",
+      "code": "CHB_ROUND_OFF",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 8,
+      "isRequired": false
+    },
     {
       "category": "FEE",
       "service": "pet-services",
