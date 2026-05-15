@@ -1567,6 +1567,24 @@
 					}
 				},
 				{
+					"OccupancyType": "F-MPMT",
+					"OccupancyName": "Miniplex/Multiplex",
+					"minPlotArea":  4046.85,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": 1.75,
+					"PurchasableFAR": 0.00,
+					"isActive": true,
+					"minRoad": 24.38,
+					"maxRoad": 999,
+					"minHeight": 0,
+					"maxHeight": 4.5,
+					"frontSetBack": 25,
+					"rearSetBack": 0.0,
+					"sideSetBack1": 0.0,
+					"sideSetBack2": 0.0,
+					"siteCoverage": 40
+				},
+				{
 					"OccupancyType": "G",
 					"OccupancyName": "Industrial",
 					"minPlotArea": 0,
