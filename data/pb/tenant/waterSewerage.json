@@ -135,6 +135,12 @@
       "issewerage": false
     },
     {
+      "code": "pb.patiala",
+      "name": "Patiala",
+      "iswater": false,
+      "issewerage": false
+    },
+    {
       "code": "pb.begowal",
       "name": "Begowal",
       "iswater": false,
