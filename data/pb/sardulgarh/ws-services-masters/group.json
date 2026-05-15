@@ -1,0 +1,71 @@
+{
+  "tenantId": "pb.sardulgarh",
+  "moduleName": "ws-services-masters",
+  "groups": [
+    { 
+      "name":"BL4", 
+      "code":"BL4",
+      "active": true 
+    },
+    {
+      "name": "BL1",
+      "code": "BL1",
+      "active": true
+    },
+    {
+      "name": "BL5",
+      "code": "BL5",
+      "active": true
+    },
+    {
+      "name": "BL11",
+      "code": "BL11",
+      "active": true
+    },
+    {
+      "name": "BL6",
+      "code": "BL6",
+      "active": true
+    },
+    {
+      "name": "BL10",
+      "code": "BL10",
+      "active": true
+    },
+    {
+      "name": "BL12",
+      "code": "BL12",
+      "active": true
+    },
+    {
+      "name": "BL3",
+      "code": "BL3",
+      "active": true
+    },
+    {
+      "name": "BL8",
+      "code": "BL8",
+      "active": true
+    },
+    {
+      "name": "BL7",
+      "code": "BL7",
+      "active": true
+    },
+    {
+      "name": "BL2",
+      "code": "BL2",
+      "active": true
+    },
+    {
+      "name": "BL9",
+      "code": "BL9",
+      "active": true
+    },
+    {
+      "name": "BL13",
+      "code": "BL13",
+      "active": true
+    }
+  ]
+}
