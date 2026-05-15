@@ -1,0 +1,41 @@
+{
+  "tenantId": "pb.boha",
+  "moduleName": "ws-services-masters",
+  "groups": [
+    {
+      "name": "BL1",
+      "code": "BL1",
+      "active": true
+    },
+    {
+      "name": "BL2",
+      "code": "BL2",
+      "active": true
+    },
+    {
+      "name": "BL4",
+      "code": "BL4",
+      "active": true
+    },
+    {
+      "name": "BL6",
+      "code": "BL6",
+      "active": true
+    },
+    {
+      "name": "BL7",
+      "code": "BL7",
+      "active": true
+    },
+    {
+      "name": "BL8",
+      "code": "BL8",
+      "active": true
+    },
+    {
+      "name": "BL9",
+      "code": "BL9",
+      "active": true
+    }
+  ]
+}
