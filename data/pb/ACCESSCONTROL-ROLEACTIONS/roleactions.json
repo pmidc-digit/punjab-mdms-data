@@ -69745,6 +69745,24 @@
       "actionid": 882592,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC REPORTS",
+      "actionid": 882593,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC REPORTS",
+      "actionid": 882594,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC REPORTS",
+      "actionid": 882595,
+      "actioncode": "",
+      "tenantId": "pb"
     }	  
   ]
 }
