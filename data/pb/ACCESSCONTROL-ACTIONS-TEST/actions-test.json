@@ -29302,9 +29302,9 @@
     },
     {
       "id": 882596,
-      "name": "Overview",
+      "name": "Overview Kibana",
       "url": "url",
-      "displayName": "Overview",
+      "displayName": "Overview Kibana",
       "orderNumber": 1,
       "parentModule": "rainmaker",
       "enabled": true,
