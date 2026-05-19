@@ -29299,6 +29299,21 @@
       "serviceCode": "NDCREPORTS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 882596,
+      "name": "Overview",
+      "url": "url",
+      "displayName": "Overview",
+      "orderNumber": 1,
+      "parentModule": "rainmaker",
+      "enabled": true,
+      "serviceCode": "rainmaker",
+      "code": "null",
+      "path": "Dashboard.Overview Kibana",
+      "navigationURL": "https://sdc-uat.lgpunjab.gov.in/kibana-v2/s/anonymous-user/app/dashboards#/view/3c78ecc9-c1f4-42c5-8e16-a4f0474c5976",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }	  
   ]
 }
