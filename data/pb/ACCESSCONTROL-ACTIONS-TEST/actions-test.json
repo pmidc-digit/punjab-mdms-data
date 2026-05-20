@@ -23450,7 +23450,7 @@
       "orderNumber": 3,
       "queryParams": "",
       "parentModule": "PROFESSIONAL REGISTRATION REPORTS",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "PROFESSIONALREGISTRATIONREPORTS",
       "path": "OBPAS REPORTS.PROFESSIONAL REGISTRATION REPORTS.Highest Pendency – Professional Registration Report",
       "navigationURL": "report/rainmaker-prof_reg/officers_with_highest_pendency_professional",
@@ -23463,7 +23463,7 @@
       "url": "/report/rainmaker-prof_reg/officers_with_highest_pendency_professional/metadata/_get",
       "displayName": "Highest Pendency – Professional Registration Report",
       "orderNumber": 3,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "PROFESSIONALREGISTRATIONREPORTS",
       "code": "null",
       "path": ""
@@ -23474,7 +23474,7 @@
       "url": "/report/rainmaker-prof_reg/officers_with_highest_pendency_professional/_get",
       "displayName": "Highest pendency – Professional Registration Report",
       "orderNumber": 3,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "PROFESSIONALREGISTRATIONREPORTS",
       "code": "null",
       "path": ""
@@ -23487,7 +23487,7 @@
       "orderNumber": 4,
       "queryParams": "",
       "parentModule": "PROFESSIONAL REGISTRATION REPORTS",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "PROFESSIONALREGISTRATIONREPORTS",
       "path": "OBPAS REPORTS.PROFESSIONAL REGISTRATION REPORTS.Officers Pendency – Professional Registration Report",
       "navigationURL": "report/rainmaker-prof_reg/officers_wise_pendency_professional",
@@ -23500,7 +23500,7 @@
       "url": "/report/rainmaker-prof_reg/officers_wise_pendency_professional/metadata/_get",
       "displayName": "Officers Pendency – Professional Registration Report",
       "orderNumber": 4,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "PROFESSIONALREGISTRATIONREPORTS",
       "code": "null",
       "path": ""
@@ -23511,7 +23511,7 @@
       "url": "/report/rainmaker-prof_reg/officers_wise_pendency_professional/_get",
       "displayName": "Officers Pendency – Professional Registration Report",
       "orderNumber": 4,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "PROFESSIONALREGISTRATIONREPORTS",
       "code": "null",
       "path": ""
@@ -23626,6 +23626,43 @@
       "serviceCode": "WSREPORTS",
       "code": "null",
       "path": ""
-    }    
+    },
+    {
+      "id": 882596,
+      "name": "Application Search By ID",
+      "url": "url",
+      "displayName": "Application Search By ID",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "NDC REPORTS",
+      "enabled": true,
+      "serviceCode": "NDCREPORTS",
+      "path": "NDC Reports.Application Search By ID",
+      "navigationURL": "report/rainmaker-ndc/ApplicationSearchByID",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 882594,
+      "name": "Application Search By ID",
+      "url": "/report/rainmaker-ndc/ApplicationSearchByID/metadata/_get",
+      "displayName": "Application Search By ID",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "NDCREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 882595,
+      "name": "Application Search By ID",
+      "url": "/report/rainmaker-ndc/ApplicationSearchByID/_get",
+      "displayName": "Application Search By ID",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "NDCREPORTS",
+      "code": "null",
+      "path": ""
+    }
   ]
 }
