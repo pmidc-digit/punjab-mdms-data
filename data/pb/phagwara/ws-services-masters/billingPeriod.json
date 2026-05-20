@@ -6,6 +6,8 @@
       "active": true,
       "connectionType": "Metered",
       "billingCycle": "quarterly",
+      "meterMaxReading": 10000,
+      "bulkMeterMaxReading": 100000,
       "isBreakdownPenaltyEnabled": true,
       "isBreakdownAverageApplicable": true,
       "breakdownPenaltyRate": 2,

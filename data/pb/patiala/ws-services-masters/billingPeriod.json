@@ -6,6 +6,8 @@
       "active": true,
       "connectionType": "Metered",
       "billingCycle": "quarterly",
+      "meterMaxReading": 10000,
+      "bulkMeterMaxReading": 100000,
       "demandEndDateMillis": 1382400000,
       "demandExpiryDate": 1382400000,
       "demandGenerationDateMillis": 345600000
