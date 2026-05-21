@@ -35384,6 +35384,12 @@
       "actioncode": "",
       "tenantId": "pb"
     },
+        {
+        "rolecode": "EMPLOYEE",
+        "actionid": 30001,
+        "actioncode": "",
+        "tenantId": "pb"
+      },
 	 {
       "rolecode": "SW_CEMP",
       "actionid": 30002,

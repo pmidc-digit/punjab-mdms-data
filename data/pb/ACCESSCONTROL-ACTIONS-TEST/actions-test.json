@@ -7001,7 +7001,7 @@
       "url": "/ws-calculator/meterConnection/_createmultiple",
       "displayName": "ws bulk meterreading",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "ws-calculator",
       "code": "null",
       "path": ""
@@ -7012,7 +7012,7 @@
       "url": "/sw-calculator/meterConnection/_createmultiple",
       "displayName": "sw bulk meterreading",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "sw-calculator",
       "code": "null",
       "path": ""
