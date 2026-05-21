@@ -29303,7 +29303,7 @@
     {
       "id": 882596,
       "name": "Overview Kibana",
-      "url": "https://sdc-uat.lgpunjab.gov.in/kibana-v2/s/anonymous-user/app/dashboards?auth_provider_hint=anonymous1#/view/b759a62a-0a14-4807-a633-6e9eccb70912?embed=true&hide-filter-bar=true&_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))",
+      "url": "https://sdc-uat.lgpunjab.gov.in/kibana-v2/s/anonymous-user/app/dashboards?auth_provider_hint=anonymous1#/view/389a13c6-ae5e-45b2-99ac-2ae4a431b50f?embed=true&hide-filter-bar=true&_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))",
       "displayName": "Overview Kibana",
       "orderNumber": 1,
       "parentModule": "rainmaker",
