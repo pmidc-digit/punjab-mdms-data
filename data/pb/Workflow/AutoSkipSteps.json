@@ -5,7 +5,7 @@
         {
             "moduleName": "bpa-service",
             "comment": "Auto Skip Stete",
-            "active": false,
+            "active": true,
             "businessService": [
                 "BPA_MC",
                 "BPA_MC_HIGH",
@@ -15,7 +15,7 @@
                 "BPA_NP_OTH"
             ],
             "terminateActionRoles": [
-                "CITIZEN"
+                "BPA_APPROVER"
             ]
         },
         {
@@ -37,13 +37,13 @@
         {
             "moduleName": "noc-service",
             "comment": "Auto Skip Stete",
-            "active": false,
+            "active": true,
             "businessService": [
                 "NOC_MC",
                 "NOC_NP"
             ],
             "terminateActionRoles": [
-                "CITIZEN"
+                "NOC_APPROVER"
             ]
         }
     ]
