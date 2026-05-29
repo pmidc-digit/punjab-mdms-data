@@ -9,7 +9,17 @@
           "applicationType": "COMMUNITY_HALL_BOOKING",
           "serviceType": "NEW_BOOKING",
           "feeType": "BOOKING_FEES",
+          "functionType": "HAPPY",
           "amount": 2100,
+          "taxApplicable": true
+        },
+        {
+          "sector": "Nasrali_Road_Near_Gouwashalla",
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "functionType": "SAD",
+          "amount": 1200,
           "taxApplicable": true
         }
       ]
@@ -21,7 +31,17 @@
           "applicationType": "COMMUNITY_HALL_BOOKING",
           "serviceType": "NEW_BOOKING",
           "feeType": "BOOKING_FEES",
+          "functionType": "HAPPY",
           "amount": 3500,
+          "taxApplicable": true
+        },
+        {
+          "sector": "Sabzi_Mandi_Opp_Dusahara_Ground",
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "functionType": "SAD",
+          "amount": 1200,
           "taxApplicable": true
         }
       ]
@@ -33,7 +53,17 @@
           "applicationType": "COMMUNITY_HALL_BOOKING",
           "serviceType": "NEW_BOOKING",
           "feeType": "BOOKING_FEES",
+          "functionType": "HAPPY",
           "amount": 2100,
+          "taxApplicable": true
+        },
+        {
+          "sector": "Near_Masster_Colony",
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "functionType": "SAD",
+          "amount": 1200,
           "taxApplicable": true
         }
       ]
@@ -45,7 +75,17 @@
           "applicationType": "COMMUNITY_HALL_BOOKING",
           "serviceType": "NEW_BOOKING",
           "feeType": "BOOKING_FEES",
+          "functionType": "HAPPY",
           "amount": 3500,
+          "taxApplicable": true
+        },
+        {
+          "sector": "Guru_Nanak_Colony",
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "functionType": "SAD",
+          "amount": 1200,
           "taxApplicable": true
         }
       ]
@@ -57,7 +97,17 @@
           "applicationType": "COMMUNITY_HALL_BOOKING",
           "serviceType": "NEW_BOOKING",
           "feeType": "BOOKING_FEES",
+          "functionType": "HAPPY",
           "amount": 2100,
+          "taxApplicable": true
+        },
+        {
+          "sector": "Gandhi_Nagar_Sector_21_C",
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "functionType": "SAD",
+          "amount": 1200,
           "taxApplicable": true
         }
       ]
@@ -69,7 +119,17 @@
           "applicationType": "COMMUNITY_HALL_BOOKING",
           "serviceType": "NEW_BOOKING",
           "feeType": "BOOKING_FEES",
+          "functionType": "HAPPY",
           "amount": 2100,
+          "taxApplicable": true
+        },
+        {
+          "sector": "Shanti_Nagar_Near_Disposal_Road",
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "functionType": "SAD",
+          "amount": 1200,
           "taxApplicable": true
         }
       ]
@@ -81,7 +141,17 @@
           "applicationType": "COMMUNITY_HALL_BOOKING",
           "serviceType": "NEW_BOOKING",
           "feeType": "BOOKING_FEES",
+          "functionType": "HAPPY",
           "amount": 3500,
+          "taxApplicable": true
+        },
+        {
+          "sector": "Prem_Nagar_Near_Gymikhaana_Club",
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "functionType": "SAD",
+          "amount": 1200,
           "taxApplicable": true
         }
       ]
@@ -93,102 +163,16 @@
           "applicationType": "COMMUNITY_HALL_BOOKING",
           "serviceType": "NEW_BOOKING",
           "feeType": "BOOKING_FEES",
+          "functionType": "HAPPY",
           "amount": 2100,
           "taxApplicable": true
-        }
-      ]
-    },
-    {
-      "9": [
-        {
-          "sector": "Nasrali_Road_Near_Gouwashalla",
-          "applicationType": "COMMUNITY_HALL_BOOKING",
-          "serviceType": "NEW_BOOKING",
-          "feeType": "BOOKING_FEES",
-          "amount": 1200,
-          "taxApplicable": true
-        }
-      ]
-    },
-    {
-      "10": [
-        {
-          "sector": "Sabzi_Mandi_Opp_Dusahara_Ground",
-          "applicationType": "COMMUNITY_HALL_BOOKING",
-          "serviceType": "NEW_BOOKING",
-          "feeType": "BOOKING_FEES",
-          "amount": 1200,
-          "taxApplicable": true
-        }
-      ]
-    },
-    {
-      "11": [
-        {
-          "sector": "Near_Masster_Colony",
-          "applicationType": "COMMUNITY_HALL_BOOKING",
-          "serviceType": "NEW_BOOKING",
-          "feeType": "BOOKING_FEES",
-          "amount": 1200,
-          "taxApplicable": true
-        }
-      ]
-    },
-    {
-      "12": [
-        {
-          "sector": "Guru_Nanak_Colony",
-          "applicationType": "COMMUNITY_HALL_BOOKING",
-          "serviceType": "NEW_BOOKING",
-          "feeType": "BOOKING_FEES",
-          "amount": 1200,
-          "taxApplicable": true
-        }
-      ]
-    },
-    {
-      "13": [
-        {
-          "sector": "Gandhi_Nagar_Sector_21_C",
-          "applicationType": "COMMUNITY_HALL_BOOKING",
-          "serviceType": "NEW_BOOKING",
-          "feeType": "BOOKING_FEES",
-          "amount": 1200,
-          "taxApplicable": true
-        }
-      ]
-    },
-    {
-      "14": [
-        {
-          "sector": "Shanti_Nagar_Near_Disposal_Road",
-          "applicationType": "COMMUNITY_HALL_BOOKING",
-          "serviceType": "NEW_BOOKING",
-          "feeType": "BOOKING_FEES",
-          "amount": 1200,
-          "taxApplicable": true
-        }
-      ]
-    },
-    {
-      "15": [
-        {
-          "sector": "Prem_Nagar_Near_Gymikhaana_Club",
-          "applicationType": "COMMUNITY_HALL_BOOKING",
-          "serviceType": "NEW_BOOKING",
-          "feeType": "BOOKING_FEES",
-          "amount": 1200,
-          "taxApplicable": true
-        }
-      ]
-    },
-    {
-      "16": [
+        },
         {
           "sector": "Trilok_Puri_Near_Ajnali",
           "applicationType": "COMMUNITY_HALL_BOOKING",
           "serviceType": "NEW_BOOKING",
           "feeType": "BOOKING_FEES",
+          "functionType": "SAD",
           "amount": 1200,
           "taxApplicable": true
         }
