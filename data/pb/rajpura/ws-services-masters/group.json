@@ -1,0 +1,336 @@
+{
+  "tenantId": "pb.rajpura",
+  "moduleName": "ws-services-masters",
+  "groups": [
+    {
+      "name": "B-1",
+      "code": "B-1",
+      "active": true
+    },
+    {
+      "name": "B-10",
+      "code": "B-10",
+      "active": true
+    },
+    {
+      "name": "B-11",
+      "code": "B-11",
+      "active": true
+    },
+    {
+      "name": "B-12",
+      "code": "B-12",
+      "active": true
+    },
+    {
+      "name": "B-13",
+      "code": "B-13",
+      "active": true
+    },
+    {
+      "name": "B-14",
+      "code": "B-14",
+      "active": true
+    },
+    {
+      "name": "B-15",
+      "code": "B-15",
+      "active": true
+    },
+    {
+      "name": "B-16",
+      "code": "B-16",
+      "active": true
+    },
+    {
+      "name": "B-17",
+      "code": "B-17",
+      "active": true
+    },
+    {
+      "name": "B-18",
+      "code": "B-18",
+      "active": true
+    },
+    {
+      "name": "B-19",
+      "code": "B-19",
+      "active": true
+    },
+    {
+      "name": "B-2",
+      "code": "B-2",
+      "active": true
+    },
+    {
+      "name": "B-20",
+      "code": "B-20",
+      "active": true
+    },
+    {
+      "name": "B-21",
+      "code": "B-21",
+      "active": true
+    },
+    {
+      "name": "B-22",
+      "code": "B-22",
+      "active": true
+    },
+    {
+      "name": "B-23",
+      "code": "B-23",
+      "active": true
+    },
+    {
+      "name": "B-24",
+      "code": "B-24",
+      "active": true
+    },
+    {
+      "name": "B-25",
+      "code": "B-25",
+      "active": true
+    },
+    {
+      "name": "B-26",
+      "code": "B-26",
+      "active": true
+    },
+    {
+      "name": "B-27",
+      "code": "B-27",
+      "active": true
+    },
+    {
+      "name": "B-28",
+      "code": "B-28",
+      "active": true
+    },
+    {
+      "name": "B-29",
+      "code": "B-29",
+      "active": true
+    },
+    {
+      "name": "B-3",
+      "code": "B-3",
+      "active": true
+    },
+    {
+      "name": "B-30",
+      "code": "B-30",
+      "active": true
+    },
+    {
+      "name": "B-31",
+      "code": "B-31",
+      "active": true
+    },
+    {
+      "name": "B-32",
+      "code": "B-32",
+      "active": true
+    },
+    {
+      "name": "B-33",
+      "code": "B-33",
+      "active": true
+    },
+    {
+      "name": "B-34",
+      "code": "B-34",
+      "active": true
+    },
+    {
+      "name": "B-35",
+      "code": "B-35",
+      "active": true
+    },
+    {
+      "name": "B-36",
+      "code": "B-36",
+      "active": true
+    },
+    {
+      "name": "B-37",
+      "code": "B-37",
+      "active": true
+    },
+    {
+      "name": "B-38",
+      "code": "B-38",
+      "active": true
+    },
+    {
+      "name": "B-39",
+      "code": "B-39",
+      "active": true
+    },
+    {
+      "name": "B-4",
+      "code": "B-4",
+      "active": true
+    },
+    {
+      "name": "B-40",
+      "code": "B-40",
+      "active": true
+    },
+    {
+      "name": "B-41",
+      "code": "B-41",
+      "active": true
+    },
+    {
+      "name": "B-42",
+      "code": "B-42",
+      "active": true
+    },
+    {
+      "name": "B-43",
+      "code": "B-43",
+      "active": true
+    },
+    {
+      "name": "B-44",
+      "code": "B-44",
+      "active": true
+    },
+    {
+      "name": "B-45",
+      "code": "B-45",
+      "active": true
+    },
+    {
+      "name": "B-46",
+      "code": "B-46",
+      "active": true
+    },
+    {
+      "name": "B-47",
+      "code": "B-47",
+      "active": true
+    },
+    {
+      "name": "B-48",
+      "code": "B-48",
+      "active": true
+    },
+    {
+      "name": "B-49",
+      "code": "B-49",
+      "active": true
+    },
+    {
+      "name": "B-5",
+      "code": "B-5",
+      "active": true
+    },
+    {
+      "name": "B-50",
+      "code": "B-50",
+      "active": true
+    },
+    {
+      "name": "B-51",
+      "code": "B-51",
+      "active": true
+    },
+    {
+      "name": "B-52",
+      "code": "B-52",
+      "active": true
+    },
+    {
+      "name": "B-53",
+      "code": "B-53",
+      "active": true
+    },
+    {
+      "name": "B-54",
+      "code": "B-54",
+      "active": true
+    },
+    {
+      "name": "B-55",
+      "code": "B-55",
+      "active": true
+    },
+    {
+      "name": "B-56",
+      "code": "B-56",
+      "active": true
+    },
+    {
+      "name": "B-58",
+      "code": "B-58",
+      "active": true
+    },
+    {
+      "name": "B-59",
+      "code": "B-59",
+      "active": true
+    },
+    {
+      "name": "B-6",
+      "code": "B-6",
+      "active": true
+    },
+    {
+      "name": "B-60",
+      "code": "B-60",
+      "active": true
+    },
+    {
+      "name": "B-61",
+      "code": "B-61",
+      "active": true
+    },
+    {
+      "name": "B-62",
+      "code": "B-62",
+      "active": true
+    },
+    {
+      "name": "B-63",
+      "code": "B-63",
+      "active": true
+    },
+    {
+      "name": "B-64",
+      "code": "B-64",
+      "active": true
+    },
+    {
+      "name": "B-65",
+      "code": "B-65",
+      "active": true
+    },
+    {
+      "name": "B-66",
+      "code": "B-66",
+      "active": true
+    },
+    {
+      "name": "B-67",
+      "code": "B-67",
+      "active": true
+    },
+    {
+      "name": "B-7",
+      "code": "B-7",
+      "active": true
+    },
+    {
+      "name": "B-8",
+      "code": "B-8",
+      "active": true
+    },
+    {
+      "name": "B-9",
+      "code": "B-9",
+      "active": true
+    }
+  ]
+}
