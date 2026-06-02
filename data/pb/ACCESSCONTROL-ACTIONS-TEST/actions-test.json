@@ -25404,7 +25404,7 @@
       "parentModule": "OBPAS LAYOUT REPORTS",
       "enabled": true,
       "serviceCode": "OBPASLAYOUTREPORTS",
-      "path": "OBPAS REPORTS.OBPAS LAYOUT REPORTS.Application Detail Report",
+      "path": "OBPAS REPORTS.OBPAS LAYOUT REPORTS.Application Detail Report Layout",
       "navigationURL": "report/rainmaker-obpas_layout/ApplicationDetailReportlayout",
       "leftIcon": "action:assignment",
       "rightIcon": ""
