@@ -25234,7 +25234,7 @@
       "parentModule": "OBPAS CLU REPORTS",
       "enabled": true,
       "serviceCode": "OBPASCLUREPORTS",
-      "path": "OBPAS REPORTS.OBPAS CLU REPORTS.Application Detail Report",
+      "path": "OBPAS REPORTS.OBPAS CLU REPORTS.Application Detail Report CLU",
       "navigationURL": "report/rainmaker-obpas_clu/ApplicationDetailReportCLU",
       "leftIcon": "action:assignment",
       "rightIcon": ""
