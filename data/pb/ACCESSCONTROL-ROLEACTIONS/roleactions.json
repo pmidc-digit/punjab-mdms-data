@@ -32504,6 +32504,12 @@
         "actioncode": "",
         "tenantId": "pb"
       },
+	  {
+	    "rolecode": "OBPAS_READ_ONLY",
+	    "actionid": 5003,
+	    "actioncode": "",
+	    "tenantId": "pb"
+	  },
       {
         "rolecode": "CITIZEN",
         "actionid": 5004,
@@ -39615,6 +39621,12 @@
         "actionid": 882595,
         "actioncode": "",
         "tenantId": "pb"
-      }
+      },
+	  {
+	    "rolecode": "OBPAS_READ_ONLY",
+	    "actionid": 1782,
+	    "actioncode": "",
+	    "tenantId": "pb"
+	  }
     ]
   }
