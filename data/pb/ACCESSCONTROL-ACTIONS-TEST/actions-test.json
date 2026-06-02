@@ -27796,7 +27796,7 @@
       "parentModule": "OBPAS NOC REPORTS",
       "enabled": true,
       "serviceCode": "",
-      "path": "OBPAS REPORTS.OBPAS NOC REPORTS.Collection Report",
+      "path": "OBPAS REPORTS.OBPAS NOC REPORTS.Collection Report NOC",
       "navigationURL": "report/rainmaker-obpas_noc/CollectionsReportNOC",
       "leftIcon": "action:assignment",
       "rightIcon": ""
