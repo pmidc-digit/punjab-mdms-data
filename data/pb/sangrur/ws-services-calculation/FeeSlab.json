@@ -20,7 +20,7 @@
         },
         {
           "fromPlotSize":"251",
-          "toPlotSize":"500",
+          "toPlotSize":"10000",
           "securityCharge":"500",
           "usageType":"DOMESTIC"
         },
