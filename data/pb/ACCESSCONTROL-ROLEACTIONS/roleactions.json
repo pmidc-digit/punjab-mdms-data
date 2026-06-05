@@ -32648,6 +32648,12 @@
         "actioncode": "",
         "tenantId": "pb"
       },
+	  {
+	    "rolecode": "OBPAS_READ_ONLY",
+	    "actionid": 5026,
+	    "actioncode": "",
+	    "tenantId": "pb"
+	  },
       {
         "rolecode": "CITIZEN",
         "actionid": 882461,
