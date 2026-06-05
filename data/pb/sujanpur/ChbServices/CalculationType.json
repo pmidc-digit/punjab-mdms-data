@@ -9,30 +9,25 @@
           "applicationType": "COMMUNITY_HALL_BOOKING",
           "serviceType": "NEW_BOOKING",
           "feeType": "BOOKING_FEES",
+          "functionType": "MARRIAGE",
           "amount": 3900,
           "taxApplicable": true
-        }
-      ]
-    },
-    {
-      "2": [
+        },
         {
           "sector": "Near_Tempu_Stand_Sujanpur",
           "applicationType": "COMMUNITY_HALL_BOOKING",
           "serviceType": "NEW_BOOKING",
           "feeType": "BOOKING_FEES",
+          "functionType": "HAPPY",
           "amount": 1900,
           "taxApplicable": true
-        }
-      ]
-    },
-    {
-      "3": [
+        },
         {
           "sector": "Near_Tempu_Stand_Sujanpur",
           "applicationType": "COMMUNITY_HALL_BOOKING",
           "serviceType": "NEW_BOOKING",
           "feeType": "BOOKING_FEES",
+          "functionType": "SAD",
           "amount": 1100,
           "taxApplicable": true
         }
