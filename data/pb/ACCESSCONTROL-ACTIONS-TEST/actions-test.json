@@ -27185,8 +27185,8 @@
       "serviceCode": "",
       "tenantId": "pb",
       "code": "",
-      "path": "Bulk Meter Reading",
-      "navigationURL": "abg/bulkmeterreading",
+      "path": "w_s.Bulk Meter Reading",
+      "navigationURL": "wns/bulkmeterreading",
       "leftIcon": "editor:insert-chart",
       "rightIcon": "",
       "queryParams": ""
