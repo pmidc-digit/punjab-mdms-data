@@ -17,21 +17,21 @@
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true
     },
-    {
-      "id": 2,
-      "poleNo": "2",
-      "name": "Udhom Singh Chowk",
-      "adType": "UNIPOLAR",
-      "width": 16,
-      "height": 8,
-      "imageSrc": "https://advertisement.mcbathinda.com/Uploads/Unipole/18X8_1.jpg",
-      "light": "With Light",
-      "amount": 6144.0,
-      "available": true,
-      "locationCode": "UDHOM_SINGH_CHOWK",
-      "feeType": "ADV_BOOKING_FEES",
-      "taxApplicable": true
-    },
+{
+  "id": 2,
+  "poleNo": "2",
+  "name": "Udhom Singh Chowk - Aasa Rani Mandir Side",
+  "adType": "UNIPOLAR",
+  "width": 16,
+  "height": 8,
+  "imageSrc": "https://advertisement.mcbathinda.com/Uploads/Unipole/18X8_1.jpg",
+  "light": "With Light",
+  "amount": 6144.0,
+  "available": true,
+  "locationCode": "UDHOM_SINGH_CHOWK_AASA_RANI_MANDIR",
+  "feeType": "ADV_BOOKING_FEES",
+  "taxApplicable": true
+},
     {
       "id": 3,
       "poleNo": "3",
