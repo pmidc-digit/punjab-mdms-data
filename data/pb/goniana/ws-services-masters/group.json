@@ -1,0 +1,51 @@
+{
+  "tenantId": "pb.goniana",
+  "moduleName": "ws-services-masters",
+  "groups": [
+    {
+      "name": "B-1",
+      "code": "B-1",
+      "active": true
+    },
+    {
+      "name": "B-2",
+      "code": "B-2",
+      "active": true
+    },
+    {
+      "name": "B-3",
+      "code": "B-3",
+      "active": true
+    },
+    {
+      "name": "B-4",
+      "code": "B-4",
+      "active": true
+    },
+    {
+      "name": "B-5",
+      "code": "B-5",
+      "active": true
+    },
+    {
+      "name": "B-6",
+      "code": "B-6",
+      "active": true
+    },
+    {
+      "name": "B-7",
+      "code": "B-7",
+      "active": true
+    },
+    {
+      "name": "B-8",
+      "code": "B-8",
+      "active": true
+    },
+    {
+      "name": "B-9",
+      "code": "B-9",
+      "active": true
+    }
+  ]
+}
