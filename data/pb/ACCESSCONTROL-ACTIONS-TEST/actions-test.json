@@ -19242,7 +19242,7 @@
       "parentModule": "BUILDING PLAN REPORTS",
       "enabled": true,
       "serviceCode": "OBPASBPAREPORTS",
-      "path": "OBPAS REPORTS.BUILDING PLAN REPORTS.Beyond Timeline Summary BPA",
+      "path": "BUILDING PLAN REPORTS.Beyond Timeline Summary BPA",
       "navigationURL": "report/rainmaker-obpas_bpa/BeyondTimelineSummary",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -19279,7 +19279,7 @@
       "parentModule": "BUILDING PLAN REPORTS",
       "enabled": true,
       "serviceCode": "OBPASBPAREPORTS",
-      "path": "OBPAS REPORTS.BUILDING PLAN REPORTS.Detailed List Beyond Timeline Summary BPA",
+      "path": "BUILDING PLAN REPORTS.Detailed List Beyond Timeline Summary BPA",
       "navigationURL": "report/rainmaker-obpas_bpa/DetailedListBeyondTimelineSummary",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -19316,7 +19316,7 @@
       "parentModule": "BUILDING PLAN REPORTS",
       "enabled": true,
       "serviceCode": "OBPASBPAREPORTS",
-      "path": "OBPAS REPORTS.BUILDING PLAN REPORTS.Detailed Files Near Timeline Breach BPA",
+      "path": "BUILDING PLAN REPORTS.Detailed Files Near Timeline Breach BPA",
       "navigationURL": "report/rainmaker-obpas_bpa/DetailedFilesNearTimelineBreach",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -19353,7 +19353,7 @@
       "parentModule": "BUILDING PLAN REPORTS",
       "enabled": true,
       "serviceCode": "OBPASBPAREPORTS",
-      "path": "OBPAS REPORTS.BUILDING PLAN REPORTS.Files Near Timeline Breach Summary BPA",
+      "path": "BUILDING PLAN REPORTS.Files Near Timeline Breach Summary BPA",
       "navigationURL": "report/rainmaker-obpas_bpa/FilesNearTimelineBreachSummary",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -19412,7 +19412,7 @@
       "parentModule": "BUILDING PLAN REPORTS",
       "enabled": true,
       "serviceCode": "OBPASBPAREPORTS",
-      "path": "OBPAS REPORTS.BUILDING PLAN REPORTS.Application Detail Report BPA",
+      "path": "BUILDING PLAN REPORTS.Application Detail Report BPA",
       "navigationURL": "report/rainmaker-obpas_bpa/ApplicationDetailReportBPA",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -19449,7 +19449,7 @@
       "parentModule": "BUILDING PLAN REPORTS",
       "enabled": true,
       "serviceCode": "",
-      "path": "OBPAS REPORTS.BUILDING PLAN REPORTS.Collection Report BPA",
+      "path": "BUILDING PLAN REPORTS.Collection Report BPA",
       "navigationURL": "report/rainmaker-obpas_bpa/CollectionsReportBPA",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -19486,7 +19486,7 @@
       "parentModule": "BUILDING PLAN REPORTS",
       "enabled": true,
       "serviceCode": "",
-      "path": "OBPAS REPORTS.BUILDING PLAN REPORTS.SLA Report BPA",
+      "path": "BUILDING PLAN REPORTS.SLA Report BPA",
       "navigationURL": "report/rainmaker-obpas_bpa/SLAReportbpa",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -19523,7 +19523,7 @@
       "parentModule": "BUILDING PLAN REPORTS",
       "enabled": true,
       "serviceCode": "OBPASBPAREPORTS",
-      "path": "OBPAS REPORTS.BUILDING PLAN REPORTS.Receipt Register BPA",
+      "path": "BUILDING PLAN REPORTS.Receipt Register BPA",
       "navigationURL": "report/rainmaker-obpas_bpa/ReceiptRegisterbpa",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -19560,7 +19560,7 @@
       "parentModule": "BUILDING PLAN REPORTS",
       "enabled": true,
       "serviceCode": "OBPASBPAREPORTS",
-      "path": "OBPAS REPORTS.BUILDING PLAN REPORTS.Beyond Time Line Pending Files Summary BPA",
+      "path": "BUILDING PLAN REPORTS.Beyond Time Line Pending Files Summary BPA",
       "navigationURL": "report/rainmaker-obpas_bpa/Pending_Files_Summary",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -19597,7 +19597,7 @@
       "parentModule": "BUILDING PLAN REPORTS",
       "enabled": true,
       "serviceCode": "OBPASBPAREPORTS",
-      "path": "OBPAS REPORTS.BUILDING PLAN REPORTS.Detailed File List BPA",
+      "path": "BUILDING PLAN REPORTS.Detailed File List BPA",
       "navigationURL": "report/rainmaker-obpas_bpa/Detailed_File_List",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -19634,7 +19634,7 @@
       "parentModule": "BUILDING PLAN REPORTS",
       "enabled": true,
       "serviceCode": "OBPASBPAREPORTS",
-      "path": "OBPAS REPORTS.BUILDING PLAN REPORTS.Top 7 officers with Highest Pendency BPA",
+      "path": "BUILDING PLAN REPORTS.Top 7 officers with Highest Pendency BPA",
       "navigationURL": "report/rainmaker-obpas_bpa/officers_with_highest_pendency",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -19671,7 +19671,7 @@
       "parentModule": "BUILDING PLAN REPORTS",
       "enabled": true,
       "serviceCode": "OBPASBPAREPORTS",
-      "path": "OBPAS REPORTS.BUILDING PLAN REPORTS.Application Detail Report BPA",
+      "path": "BUILDING PLAN REPORTS.Application Detail Report BPA",
       "navigationURL": "report/rainmaker-obpas_bpa/officers_wise_pendency",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -20214,7 +20214,7 @@
       "parentModule": "OBPAS CLU REPORTS",
       "enabled": true,
       "serviceCode": "OBPASCLUREPORTS",
-      "path": "OBPAS REPORTS.OBPAS CLU REPORTS.Application Detail Report CLU",
+      "path": "OBPAS CLU REPORTS.Application Detail Report CLU",
       "navigationURL": "report/rainmaker-obpas_clu/ApplicationDetailReportCLU",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -20251,7 +20251,7 @@
       "parentModule": "OBPAS CLU REPORTS",
       "enabled": true,
       "serviceCode": "",
-      "path": "OBPAS REPORTS.OBPAS CLU REPORTS.Collection Report CLU",
+      "path": "OBPAS CLU REPORTS.Collection Report CLU",
       "navigationURL": "report/rainmaker-obpas_clu/CollectionsReportCLU",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -20288,7 +20288,7 @@
       "parentModule": "OBPAS CLU REPORTS",
       "enabled": true,
       "serviceCode": "",
-      "path": "OBPAS REPORTS.OBPAS CLU REPORTS.SLA Report CLU",
+      "path": "OBPAS CLU REPORTS.SLA Report CLU",
       "navigationURL": "report/rainmaker-obpas_clu/SLAReportCLU",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -20325,7 +20325,7 @@
       "parentModule": "OBPAS CLU REPORTS",
       "enabled": true,
       "serviceCode": "OBPASCLUREPORTS",
-      "path": "OBPAS REPORTS.OBPAS CLU REPORTS.Receipt Register clu",
+      "path": "OBPAS CLU REPORTS.Receipt Register clu",
       "navigationURL": "report/rainmaker-obpas_clu/ReceiptRegisterCLU",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -20384,7 +20384,7 @@
       "parentModule": "OBPAS LAYOUT REPORTS",
       "enabled": true,
       "serviceCode": "OBPASLAYOUTREPORTS",
-      "path": "OBPAS REPORTS.OBPAS LAYOUT REPORTS.Application Detail Report Layout",
+      "path": "OBPAS LAYOUT REPORTS.Application Detail Report Layout",
       "navigationURL": "report/rainmaker-obpas_layout/ApplicationDetailReportlayout",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -20421,7 +20421,7 @@
       "parentModule": "OBPAS LAYOUT REPORTS",
       "enabled": true,
       "serviceCode": "",
-      "path": "OBPAS REPORTS.OBPAS LAYOUT REPORTS.Collection Report Layout",
+      "path": "OBPAS LAYOUT REPORTS.Collection Report Layout",
       "navigationURL": "report/rainmaker-obpas_layout/CollectionsReportlayout",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -20458,7 +20458,7 @@
       "parentModule": "OBPAS LAYOUT REPORTS",
       "enabled": true,
       "serviceCode": "",
-      "path": "OBPAS REPORTS.OBPAS LAYOUT REPORTS.SLA Report Layout",
+      "path": "OBPAS LAYOUT REPORTS.SLA Report Layout",
       "navigationURL": "report/rainmaker-obpas_layout/SLAReportlayout",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -20506,7 +20506,7 @@
       "parentModule": "OBPAS LAYOUT REPORTS",
       "enabled": true,
       "serviceCode": "OBPASLAYOUTREPORTS",
-      "path": "OBPAS REPORTS.OBPAS LAYOUT REPORTS.Receipt Register LAYOUT",
+      "path": "OBPAS LAYOUT REPORTS.Receipt Register LAYOUT",
       "navigationURL": "report/rainmaker-obpas_layout/ReceiptRegisterlayout",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -22353,7 +22353,7 @@
       "parentModule": "OBPAS NOC REPORTS",
       "enabled": true,
       "serviceCode": "OBPASNOCREPORTS",
-      "path": "OBPAS REPORTS.OBPAS NOC REPORTS.Application Detail Report NOC",
+      "path": "OBPAS NOC REPORTS.Application Detail Report NOC",
       "navigationURL": "report/rainmaker-obpas_noc/ApplicationDetailReportNOC",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -22390,7 +22390,7 @@
       "parentModule": "OBPAS NOC REPORTS",
       "enabled": true,
       "serviceCode": "",
-      "path": "OBPAS REPORTS.OBPAS NOC REPORTS.Collection Report NOC",
+      "path": "OBPAS NOC REPORTS.Collection Report NOC",
       "navigationURL": "report/rainmaker-obpas_noc/CollectionsReportNOC",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -22427,7 +22427,7 @@
       "parentModule": "OBPAS NOC REPORTS",
       "enabled": true,
       "serviceCode": "",
-      "path": "OBPAS REPORTS.OBPAS NOC REPORTS.SLA Report NOC",
+      "path": "OBPAS NOC REPORTS.SLA Report NOC",
       "navigationURL": "report/rainmaker-obpas_noc/SLAReportNOC",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -22464,7 +22464,7 @@
       "parentModule": "OBPAS NOC REPORTS",
       "enabled": true,
       "serviceCode": "OBPASNOCREPORTS",
-      "path": "OBPAS REPORTS.OBPAS NOC REPORTS.Receipt Register NOC",
+      "path": "OBPAS NOC REPORTS.Receipt Register NOC",
       "navigationURL": "report/rainmaker-obpas_noc/ReceiptRegisterNOC",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -22501,7 +22501,7 @@
       "parentModule": "OBPAS NOC REPORTS",
       "enabled": true,
       "serviceCode": "OBPASNOCREPORTS",
-      "path": "OBPAS REPORTS.OBPAS NOC REPORTS.Detailed List Beyond Timeline Summary NOC",
+      "path": "OBPAS NOC REPORTS.Detailed List Beyond Timeline Summary NOC",
       "navigationURL": "report/rainmaker-obpas_noc/DetailedListBeyondTimelineSummary",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -22538,7 +22538,7 @@
       "parentModule": "OBPAS NOC REPORTS",
       "enabled": true,
       "serviceCode": "OBPASNOCREPORTS",
-      "path": "OBPAS REPORTS.OBPAS NOC REPORTS.Application Detail Report NOC",
+      "path": "OBPAS NOC REPORTS.Application Detail Report NOC",
       "navigationURL": "report/rainmaker-obpas_noc/officers_wise_pendency",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -22575,7 +22575,7 @@
       "parentModule": "OBPAS NOC REPORTS",
       "enabled": true,
       "serviceCode": "OBPASNOCREPORTS",
-      "path": "OBPAS REPORTS.OBPAS NOC REPORTS.Files Near Timeline Breach Summary NOC",
+      "path": "OBPAS NOC REPORTS.Files Near Timeline Breach Summary NOC",
       "navigationURL": "report/rainmaker-obpas_noc/FilesNearTimelineBreachSummary",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -22612,7 +22612,7 @@
       "parentModule": "OBPAS NOC REPORTS",
       "enabled": true,
       "serviceCode": "OBPASNOCREPORTS",
-      "path": "OBPAS REPORTS.OBPAS NOC REPORTS.Detailed Files Near Timeline Breach NOC",
+      "path": "OBPAS NOC REPORTS.Detailed Files Near Timeline Breach NOC",
       "navigationURL": "report/rainmaker-obpas_noc/DetailedFilesNearTimelineBreach",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -22649,7 +22649,7 @@
       "parentModule": "OBPAS NOC REPORTS",
       "enabled": true,
       "serviceCode": "OBPASNOCREPORTS",
-      "path": "OBPAS REPORTS.OBPAS NOC REPORTS.Top 7 officers with Highest Pendency NOC",
+      "path": "OBPAS NOC REPORTS.Top 7 officers with Highest Pendency NOC",
       "navigationURL": "report/rainmaker-obpas_noc/officers_with_highest_pendency",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -22686,7 +22686,7 @@
       "parentModule": "OBPAS NOC REPORTS",
       "enabled": true,
       "serviceCode": "OBPASNOCREPORTS",
-      "path": "OBPAS REPORTS.OBPAS NOC REPORTS.Beyond Timeline Summary NOC",
+      "path": "OBPAS NOC REPORTS.Beyond Timeline Summary NOC",
       "navigationURL": "report/rainmaker-obpas_noc/BeyondTimelineSummary",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -22723,7 +22723,7 @@
       "parentModule": "BUILDING PLAN REPORTS",
       "enabled": false,
       "serviceCode": "OBPASBPAREPORTS",
-      "path": "OBPAS REPORTS.BUILDING PLAN REPORTS.User Login Session Report",
+      "path": "BUILDING PLAN REPORTS.User Login Session Report",
       "navigationURL": "report/rainmaker-obpas_bpa/UserLoginDetailReportBPA",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -22760,7 +22760,7 @@
       "parentModule": "OBPAS CLU REPORTS",
       "enabled": true,
       "serviceCode": "OBPASCLUREPORTS",
-      "path": "OBPAS REPORTS.OBPAS CLU REPORTS.Detailed List Beyond Timeline Summary CLU",
+      "path": "OBPAS CLU REPORTS.Detailed List Beyond Timeline Summary CLU",
       "navigationURL": "report/rainmaker-obpas_clu/DetailedListBeyondTimelineSummary",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -22797,7 +22797,7 @@
       "parentModule": "OBPAS CLU REPORTS",
       "enabled": true,
       "serviceCode": "OBPASCLUREPORTS",
-      "path": "OBPAS REPORTS.OBPAS CLU REPORTS.Officers wise Pendency Trend Analysis CLU",
+      "path": "OBPAS CLU REPORTS.Officers wise Pendency Trend Analysis CLU",
       "navigationURL": "report/rainmaker-obpas_clu/officers_wise_pendency",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -22834,7 +22834,7 @@
       "parentModule": "OBPAS CLU REPORTS",
       "enabled": true,
       "serviceCode": "OBPASCLUREPORTS",
-      "path": "OBPAS REPORTS.OBPAS CLU REPORTS.Files Near Timeline Breach Summary CLU",
+      "path": "OBPAS CLU REPORTS.Files Near Timeline Breach Summary CLU",
       "navigationURL": "report/rainmaker-obpas_clu/FilesNearTimelineBreachSummary",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -22871,7 +22871,7 @@
       "parentModule": "OBPAS CLU REPORTS",
       "enabled": true,
       "serviceCode": "OBPASCLUREPORTS",
-      "path": "OBPAS REPORTS.OBPAS CLU REPORTS.Detailed Files Near Timeline Breach CLU",
+      "path": "OBPAS CLU REPORTS.Detailed Files Near Timeline Breach CLU",
       "navigationURL": "report/rainmaker-obpas_clu/DetailedFilesNearTimelineBreach",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -22908,7 +22908,7 @@
       "parentModule": "OBPAS CLU REPORTS",
       "enabled": true,
       "serviceCode": "OBPASCLUREPORTS",
-      "path": "OBPAS REPORTS.OBPAS CLU REPORTS.Top 7 officers with Highest Pendency CLU",
+      "path": "OBPAS CLU REPORTS.Top 7 officers with Highest Pendency CLU",
       "navigationURL": "report/rainmaker-obpas_clu/officers_with_highest_pendency",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -22945,7 +22945,7 @@
       "parentModule": "OBPAS CLU REPORTS",
       "enabled": true,
       "serviceCode": "OBPASCLUREPORTS",
-      "path": "OBPAS REPORTS.OBPAS CLU REPORTS.Beyond Timeline Summary CLU",
+      "path": "OBPAS CLU REPORTS.Beyond Timeline Summary CLU",
       "navigationURL": "report/rainmaker-obpas_clu/BeyondTimelineSummary",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -22982,7 +22982,7 @@
       "parentModule": "OBPAS LAYOUT REPORTS",
       "enabled": true,
       "serviceCode": "OBPASLAYOUTREPORTS",
-      "path": "OBPAS REPORTS.OBPAS LAYOUT REPORTS.Detailed List Beyond Timeline Summary Layout",
+      "path": "OBPAS LAYOUT REPORTS.Detailed List Beyond Timeline Summary Layout",
       "navigationURL": "report/rainmaker-obpas_layout/DetailedListBeyondTimelineSummary",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -23019,7 +23019,7 @@
       "parentModule": "OBPAS LAYOUT REPORTS",
       "enabled": true,
       "serviceCode": "OBPASLAYOUTREPORTS",
-      "path": "OBPAS REPORTS.OBPAS LAYOUT REPORTS.Application Detail Report Layout",
+      "path": "OBPAS LAYOUT REPORTS.Application Detail Report Layout",
       "navigationURL": "report/rainmaker-obpas_layout/officers_wise_pendency",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -23056,7 +23056,7 @@
       "parentModule": "OBPAS LAYOUT REPORTS",
       "enabled": true,
       "serviceCode": "OBPASLAYOUTREPORTS",
-      "path": "OBPAS REPORTS.OBPAS LAYOUT REPORTS.Files Near Timeline Breach Summary Layout",
+      "path": "OBPAS LAYOUT REPORTS.Files Near Timeline Breach Summary Layout",
       "navigationURL": "report/rainmaker-obpas_layout/FilesNearTimelineBreachSummary",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -23093,7 +23093,7 @@
       "parentModule": "OBPAS LAYOUT REPORTS",
       "enabled": true,
       "serviceCode": "OBPASLAYOUTREPORTS",
-      "path": "OBPAS REPORTS.OBPAS LAYOUT REPORTS.Detailed Files Near Timeline Breach Layout",
+      "path": "OBPAS LAYOUT REPORTS.Detailed Files Near Timeline Breach Layout",
       "navigationURL": "report/rainmaker-obpas_layout/DetailedFilesNearTimelineBreach",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -23130,7 +23130,7 @@
       "parentModule": "OBPAS LAYOUT REPORTS",
       "enabled": true,
       "serviceCode": "OBPASLAYOUTREPORTS",
-      "path": "OBPAS REPORTS.OBPAS LAYOUT REPORTS.Top 7 officers with Highest Pendency Layout",
+      "path": "OBPAS LAYOUT REPORTS.Top 7 officers with Highest Pendency Layout",
       "navigationURL": "report/rainmaker-obpas_layout/officers_with_highest_pendency",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -23167,7 +23167,7 @@
       "parentModule": "OBPAS LAYOUT REPORTS",
       "enabled": true,
       "serviceCode": "OBPASLAYOUTREPORTS",
-      "path": "OBPAS REPORTS.OBPAS LAYOUT REPORTS.Beyond Timeline Summary Layout",
+      "path": "OBPAS LAYOUT REPORTS.Beyond Timeline Summary Layout",
       "navigationURL": "report/rainmaker-obpas_layout/BeyondTimelineSummary",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -23204,7 +23204,7 @@
       "parentModule": "BUILDING PLAN REPORTS",
       "enabled": true,
       "serviceCode": "OBPASBPAREPORTS",
-      "path": "OBPAS REPORTS.BUILDING PLAN REPORTS.Application Detail Report",
+      "path": "BUILDING PLAN REPORTS.Application Detail Report",
       "navigationURL": "report/rainmaker-obpas_bpa/ScrutinyCountReportBPA",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -23341,7 +23341,7 @@
       "parentModule": "BUILDING PLAN REPORTS",
       "enabled": true,
       "serviceCode": "OBPASBPAREPORTS",
-      "path": "OBPAS REPORTS.BUILDING PLAN REPORTS.File Submission Summary Report",
+      "path": "BUILDING PLAN REPORTS.File Submission Summary Report",
       "navigationURL": "report/rainmaker-obpas_bpa/Filesubmissionsummaryreport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -23400,7 +23400,7 @@
       "parentModule": "PROFESSIONAL REGISTRATION REPORTS",
       "enabled": true,
       "serviceCode": "PROFESSIONALREGISTRATIONREPORTS",
-      "path": "OBPAS REPORTS.PROFESSIONAL REGISTRATION REPORTS.Professional Registration Collection Report",
+      "path": "PROFESSIONAL REGISTRATION REPORTS.Professional Registration Collection Report",
       "navigationURL": "report/rainmaker-prof_reg/CollectionsReportProfessionalRegistration",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -23437,7 +23437,7 @@
       "parentModule": "PROFESSIONAL REGISTRATION REPORTS",
       "enabled": true,
       "serviceCode": "PROFESSIONALREGISTRATIONREPORTS",
-      "path": "OBPAS REPORTS.PROFESSIONAL REGISTRATION REPORTS.Receipt Register Professional Registration Report",
+      "path": "PROFESSIONAL REGISTRATION REPORTS.Receipt Register Professional Registration Report",
       "navigationURL": "report/rainmaker-prof_reg/ReceiptRegisterProfessionalRegistration",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -23474,7 +23474,7 @@
       "parentModule": "PROFESSIONAL REGISTRATION REPORTS",
       "enabled": false,
       "serviceCode": "PROFESSIONALREGISTRATIONREPORTS",
-      "path": "OBPAS REPORTS.PROFESSIONAL REGISTRATION REPORTS.Highest Pendency – Professional Registration Report",
+      "path": "PROFESSIONAL REGISTRATION REPORTS.Highest Pendency – Professional Registration Report",
       "navigationURL": "report/rainmaker-prof_reg/officers_with_highest_pendency_professional",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -23511,7 +23511,7 @@
       "parentModule": "PROFESSIONAL REGISTRATION REPORTS",
       "enabled": false,
       "serviceCode": "PROFESSIONALREGISTRATIONREPORTS",
-      "path": "OBPAS REPORTS.PROFESSIONAL REGISTRATION REPORTS.Officers Pendency – Professional Registration Report",
+      "path": "PROFESSIONAL REGISTRATION REPORTS.Officers Pendency – Professional Registration Report",
       "navigationURL": "report/rainmaker-prof_reg/officers_wise_pendency_professional",
       "leftIcon": "action:assignment",
       "rightIcon": ""
