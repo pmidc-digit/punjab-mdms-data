@@ -39633,6 +39633,18 @@
 	    "actionid": 1782,
 	    "actioncode": "",
 	    "tenantId": "pb"
-	  }
+	  },
+      {
+        "rolecode": "CITIZEN",
+        "actionid": 882477,
+        "actioncode": "",
+        "tenantId": "pb"
+      },
+      {
+        "rolecode": "CITIZEN",
+        "actionid": 882553,
+        "actioncode": "",
+        "tenantId": "pb"
+      }
     ]
   }
