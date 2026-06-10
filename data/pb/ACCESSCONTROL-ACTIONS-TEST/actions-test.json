@@ -27186,7 +27186,7 @@
       "tenantId": "pb",
       "code": "",
       "path": "w_s.Bulk Meter Reading",
-      "navigationURL": "wns/bulkmeterreading",
+      "navigationURL": "abg/bulkmeterreading",
       "leftIcon": "editor:insert-chart",
       "rightIcon": "",
       "queryParams": ""
