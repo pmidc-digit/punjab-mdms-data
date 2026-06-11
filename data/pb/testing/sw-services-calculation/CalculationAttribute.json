@@ -7,13 +7,13 @@
       "name": "Non Metered",
       "code": "Non Metered",
       "attribute": "PLOT_BASED",
-      "active": false
+      "active": true
     },
 	{
       "name": "Non Metered",
       "code": "Non Metered",
       "attribute": "SEAT_BASED",
-      "active": true
+      "active": false
     }
 
   ]
