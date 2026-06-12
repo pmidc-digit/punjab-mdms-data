@@ -3025,38 +3025,6 @@
     "code": "WS-2012-13-Q4",
     "financialYear": "2012-13"
   },
-  {
-    "fromDate": 1364774401000,
-    "toDate": 1372616999000,
-    "periodCycle": "QUATERLY",
-    "service": "WS",
-    "code": "WS-2013-14-Q1",
-    "financialYear": "2013-14"
-  },
-  {
-    "fromDate": 1372636801000,
-    "toDate": 1380565799000,
-    "periodCycle": "QUATERLY",
-    "service": "WS",
-    "code": "WS-2013-14-Q2",
-    "financialYear": "2013-14"
-  },
-  {
-    "fromDate": 1380585601000,
-    "toDate": 1388514599000,
-    "periodCycle": "QUATERLY",
-    "service": "WS",
-    "code": "WS-2013-14-Q3",
-    "financialYear": "2013-14"
-  },
-  {
-    "fromDate": 1388534401000,
-    "toDate": 1396290599000,
-    "periodCycle": "QUATERLY",
-    "service": "WS",
-    "code": "WS-2013-14-Q4",
-    "financialYear": "2013-14"
-  },
    {
     "fromDate": 1112313601000,
     "toDate": 1120156199000,
@@ -3312,38 +3280,6 @@
     "service": "SW",
     "code": "SW-2012-13-Q4",
     "financialYear": "2012-13"
-  },
-  {
-    "fromDate": 1364774401000,
-    "toDate": 1372616999000,
-    "periodCycle": "QUATERLY",
-    "service": "SW",
-    "code": "SW-2013-14-Q1",
-    "financialYear": "2013-14"
-  },
-  {
-    "fromDate": 1372636801000,
-    "toDate": 1380565799000,
-    "periodCycle": "QUATERLY",
-    "service": "SW",
-    "code": "SW-2013-14-Q2",
-    "financialYear": "2013-14"
-  },
-  {
-    "fromDate": 1380585601000,
-    "toDate": 1388514599000,
-    "periodCycle": "QUATERLY",
-    "service": "SW",
-    "code": "SW-2013-14-Q3",
-    "financialYear": "2013-14"
-  },
-  {
-    "fromDate": 1388534401000,
-    "toDate": 1396290599000,
-    "periodCycle": "QUATERLY",
-    "service": "SW",
-    "code": "SW-2013-14-Q4",
-    "financialYear": "2013-14"
   },
     {
       "service": "Challan_Generation",
