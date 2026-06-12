@@ -8801,6 +8801,16 @@
       "isActualDemand": true,
       "order": "10",
       "isRequired": false     
+    },
+       {
+      "category": "ADVANCE_COLLECTION",
+      "service": "rl-services",
+      "name": "Fee Arrear",
+      "code": "RL_DAILYINTEREST",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "11",
+      "isRequired": false     
     }
   ]
 }
