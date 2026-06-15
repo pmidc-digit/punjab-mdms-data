@@ -209,7 +209,7 @@
       "renewapplication": 500,
       "feeType": "PET_REGISTRATION_FEE"
     },
-      {
+    {
       "name": "Tibetian Mastiff",
       "code": "TIBETIAN_MASTIFF",
       "active": true,
@@ -217,6 +217,15 @@
       "newapplication": 500,
       "renewapplication": 500,
       "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
+      "name": "Dobermann",
+      "code": "DOBERMANN",
+      "active": true,
+      "petType": "DOG",
+      "feeType": "PET_REGISTRATION_FEE",
+      "newapplication": 500,
+      "renewapplication": 500
     },
     {
       "name": "Indian Billi (Desi)",
