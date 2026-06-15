@@ -79,6 +79,732 @@
           }
         ]
       }
+    },
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Devigarh",
+        "localname": "Devigarh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.devigarh",
+        "children": [
+          {
+            "id": "fc8a472a-b5da-4f20-bdd6-77e1d0558cab",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Zone1",
+            "children": [
+              {
+                "id": "289a8698-e4f1-4794-8c9d-9c42cf6b415f",
+                "boundaryNum": 1,
+                "name": "Ward1",
+                "localname": "Ward1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "61f2d2a1-2033-4558-8ba3-b0a69b75ab7c",
+                    "boundaryNum": 1,
+                    "name": "Patiala Road from Mata Gujri School right via Ramnagar Chunniwale to Ghaghar Bridge",
+                    "localname": "Patiala Road from Mata Gujri School right via Ramnagar Chunniwale to Ghaghar Bridge",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "DGH_1",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f84a61ad-f718-4429-a3ef-b974d2f664a7",
+                "boundaryNum": 1,
+                "name": "Ward 2",
+                "localname": "Ward 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W2",
+                "children": [
+                  {
+                    "id": "6a4c172a-a221-4434-97be-d8997a39cfef",
+                    "boundaryNum": 1,
+                    "name": "Up to Ghaghar Bridge leading up to the electricity grid on the left in front of Mata Gujri School",
+                    "localname": "Up to Ghaghar Bridge leading up to the electricity grid on the left in front of Mata Gujri School",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "DGH_2",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1ab1812b-0b3d-414b-b2ee-2412e0d744fe",
+                "boundaryNum": 1,
+                "name": "Ward 3",
+                "localname": "Ward 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W3",
+                "children": [
+                  {
+                    "id": "3e65ea53-2f7e-4722-981d-4fdb68b376d7",
+                    "boundaryNum": 1,
+                    "name": "Man Road on the left side from the service center to the house of Balihar on both sides",
+                    "localname": "Man Road on the left side from the service center to the house of Balihar on both sides",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "DGH_3",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "875b48a4-85da-4440-ae80-ef89dbfd1665",
+                "boundaryNum": 1,
+                "name": "Ward 4",
+                "localname": "Ward 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W4",
+                "children": [
+                  {
+                    "id": "41f0266f-7cad-493b-b82d-6fcefe1f0290",
+                    "boundaryNum": 1,
+                    "name": "Starting from Ghaghar Bridge to Rimjhim Sweets on the right via Bus Stand Devigarh and passing through Best Bakery to Mihon Puli on both sides of Bus Stand Devigarh and Purana Bazar",
+                    "localname": "Starting from Ghaghar Bridge to Rimjhim Sweets on the right via Bus Stand Devigarh and passing through Best Bakery to Mihon Puli on both sides of Bus Stand Devigarh and Purana Bazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "DGH_4",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b464d9ef-a380-49db-a4e6-a36add9a8ff6",
+                "boundaryNum": 1,
+                "name": "Ward 5",
+                "localname": "Ward 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W5",
+                "children": [
+                  {
+                    "id": "dc55655e-1133-49ce-a80b-6731781e8029",
+                    "boundaryNum": 1,
+                    "name": "Vishkarman Mandir Copitive Back Satinsang Ghar",
+                    "localname": "Vishkarman Mandir Copitive Back Satinsang Ghar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "DGH_5",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5e869f73-9be5-49a8-bd5a-00a4cabf6c1c",
+                "boundaryNum": 1,
+                "name": "Ward 6",
+                "localname": "Ward 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W6",
+                "children": [
+                  {
+                    "id": "0a0e3ea8-e59b-468d-acfe-b088a6c83401",
+                    "boundaryNum": 1,
+                    "name": "colony of Subhas' house on the right side of Kapuri Road from Mihon Puli to Guru Nanak colony on the right left",
+                    "localname": "colony of Subhas' house on the right side of Kapuri Road from Mihon Puli to Guru Nanak colony on the right left",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "DGH_6",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4a45261e-23ac-4a88-a7ec-74a4f5fe8af3",
+                "boundaryNum": 1,
+                "name": "Ward 7",
+                "localname": "Ward 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W7",
+                "children": [
+                  {
+                    "id": "9035f9df-806e-4a58-b0d7-392c06328c32",
+                    "boundaryNum": 1,
+                    "name": "Baba Shankar Gir colony is from Left Right Vegetable Mandi and Baba Shankar Gir colony is from Manchanda Book Depot to Chawla Market, Master Market to Bhambuan Puli to Shiva Temple.",
+                    "localname": "Baba Shankar Gir colony is from Left Right Vegetable Mandi and Baba Shankar Gir colony is from Manchanda Book Depot to Chawla Market, Master Market to Bhambuan Puli to Shiva Temple.",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "DGH_7",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a67d44e2-732c-4c86-89e0-4d018203d91a",
+                "boundaryNum": 1,
+                "name": "Ward 8",
+                "localname": "Ward 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W8",
+                "children": [
+                  {
+                    "id": "88caad9f-3586-4cd8-80a2-5b85d4bd1a0e",
+                    "boundaryNum": 1,
+                    "name": "From Bhambuan Pooley to Bhambuan village on the left Dinspessery Street on the right and left from Dinspessery Street to Aare Wali Gali to Khalsa Electronic House from colony to Rest House from Master colony to Dashmesh colony, from the end of Master colony",
+                    "localname": "From Bhambuan Pooley to Bhambuan village on the left Dinspessery Street on the right and left from Dinspessery Street to Aare Wali Gali to Khalsa Electronic House from colony to Rest House from Master colony to Dashmesh colony, from the end of Master colony",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "DGH_8",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3ae3b1de-77a6-4da8-93c2-4376950fb2a7",
+                "boundaryNum": 1,
+                "name": "Ward 9",
+                "localname": "Ward 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W9",
+                "children": [
+                  {
+                    "id": "7c00ced4-90fd-4583-b666-1f6c0890bfb7",
+                    "boundaryNum": 1,
+                    "name": "Dashmesh colony's backside is on both sides of the grain market via Julkan Road.",
+                    "localname": "Dashmesh colony's backside is on both sides of the grain market via Julkan Road.",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "DGH_9",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "99122439-ebe9-42d1-acaf-f9f34175aa9b",
+                "boundaryNum": 1,
+                "name": "Ward 10",
+                "localname": "Ward 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W10",
+                "children": [
+                  {
+                    "id": "1d9087ca-a816-4b7d-8a21-3de64cd4ef07",
+                    "boundaryNum": 1,
+                    "name": "From Mihonwali Pooli, Kaka Jewelraj turns the sieve through Hari Krishna colony",
+                    "localname": "From Mihonwali Pooli, Kaka Jewelraj turns the sieve through Hari Krishna colony",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "DGH_10",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8bba08be-67c9-47d8-923f-7e4f0d8540b3",
+                "boundaryNum": 1,
+                "name": "Ward 11",
+                "localname": "Ward 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11",
+                "children": [
+                  {
+                    "id": "812139ad-e7ad-4f90-8632-cea12b4f2bae",
+                    "boundaryNum": 1,
+                    "name": "Hari Krishna colony",
+                    "localname": "Hari Krishna colony",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "DGH_11",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "57010599-25d1-4be3-a73b-d5dbafaf4a7c",
+                "boundaryNum": 1,
+                "name": "Ward 12",
+                "localname": "Ward 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W12",
+                "children": [
+                  {
+                    "id": "c28ae07a-d687-4071-80ee-e2d2df9181ce",
+                    "boundaryNum": 1,
+                    "name": "Gorve Dairy S from Judge Modren School from Punia Dairy Side. A. Even. Colony behind model school right left all s. A. Also through school to the extent of Foji Kande Nagar Panchayat,",
+                    "localname": "Gorve Dairy S from Judge Modren School from Punia Dairy Side. A. Even. Colony behind model school right left all s. A. Also through school to the extent of Foji Kande Nagar Panchayat,",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "DGH_12",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6242b3d8-d07c-45d9-9dd5-5564cbb12a27",
+                "boundaryNum": 1,
+                "name": "Ward 13",
+                "localname": "Ward 13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W13",
+                "children": [
+                  {
+                    "id": "7eed60cc-e226-419b-83e4-03b2ef8c548c",
+                    "boundaryNum": 1,
+                    "name": "Bute M.C from Gorv Dairy to the house of the sweet puli",
+                    "localname": "Bute M.C from Gorv Dairy to the house of the sweet puli",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "DGH_13",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "496e2e7f-b886-4859-9159-81227bf0f3f5",
+                "boundaryNum": 1,
+                "name": "Ward 14",
+                "localname": "Ward 14",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W14",
+                "children": [
+                  {
+                    "id": "36c6cad6-60cb-4b2b-ab61-a0fb810fb0cc",
+                    "boundaryNum": 1,
+                    "name": "old ice factory on the right and left to the house of Guru Teg Bahadur Ji School to upto  passing through the house of former Sarpanch Bhajan Singh.",
+                    "localname": "old ice factory on the right and left to the house of Guru Teg Bahadur Ji School to upto  passing through the house of former Sarpanch Bhajan Singh.",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "DGH_14",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "98759067-e888-47ce-87cd-4efc15984b96",
+                "boundaryNum": 1,
+                "name": "Ward 15",
+                "localname": "Ward 15",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W15",
+                "children": [
+                  {
+                    "id": "8c970f7b-2201-4013-9836-8f22b98d2cfa",
+                    "boundaryNum": 1,
+                    "name": "Anaj Mandi on the left passing through Baba Shankar Gir Complex from Bhambuan Puli",
+                    "localname": "Anaj Mandi on the left passing through Baba Shankar Gir Complex from Bhambuan Puli",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "DGH_15",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b561bee2-9825-47e3-baf6-4c16f90aad2f",
+                "boundaryNum": 1,
+                "name": "Ward 16",
+                "localname": "Ward 16",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16",
+                "children": [
+                  {
+                    "id": "7ba6c42f-984a-4c83-b01b-bbcc809d534b",
+                    "boundaryNum": 1,
+                    "name": "From Gopal Hospital to Nagar Panchayat Devigarh limits, colony Majha motorcycle behind Gopal Hospital and colony, Dilbagh Singh's house",
+                    "localname": "From Gopal Hospital to Nagar Panchayat Devigarh limits, colony Majha motorcycle behind Gopal Hospital and colony, Dilbagh Singh's house",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "DGH_16",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "68d31123-f2fb-4703-b9fd-facc7a60a125",
+                "boundaryNum": 1,
+                "name": "Ward 17",
+                "localname": "Ward 17",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W17",
+                "children": [
+                  {
+                    "id": "e1288e96-e67c-4a35-b453-a9605e2b5e66",
+                    "boundaryNum": 1,
+                    "name": "From Julkan Road to Sanjeevani Hospital Wali colony to St. Michael School Julkan Government School to Nagar Panchayat limits, from Julkan Road to Food Supply Office to Saini Sweets to Nagar Panchayat limits on the left.",
+                    "localname": "From Julkan Road to Sanjeevani Hospital Wali colony to St. Michael School Julkan Government School to Nagar Panchayat limits, from Julkan Road to Food Supply Office to Saini Sweets to Nagar Panchayat limits on the left.",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "DGH_17",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "952364bc-770f-4d87-b16c-48601354c6f3",
+                "boundaryNum": 1,
+                "name": "Ward 18",
+                "localname": "Ward 18",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W18",
+                "children": [
+                  {
+                    "id": "c8922038-ae9a-43bf-a817-c7074e9365c9",
+                    "boundaryNum": 1,
+                    "name": "Inside and outside Ramnagar Chunniwala Phirni",
+                    "localname": "Inside and outside Ramnagar Chunniwala Phirni",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "DGH_18",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "bc9d4248-891d-464f-b8f7-ba7235d1bc48",
+                "boundaryNum": 1,
+                "name": "Ward 19",
+                "localname": "Ward 19",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W19",
+                "children": [
+                  {
+                    "id": "875d7606-adc2-4084-873f-f78c542a5c32",
+                    "boundaryNum": 1,
+                    "name": "From the government school to the former sarpanch's house",
+                    "localname": "From the government school to the former sarpanch's house",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "DGH_19",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3f9eb093-70f1-4c83-9cb9-efeaec2648d0",
+                "boundaryNum": 1,
+                "name": "Ward 20",
+                "localname": "Ward 20",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W20",
+                "children": [
+                  {
+                    "id": "ba4cfc0f-1976-430c-94dc-87b972099272",
+                    "boundaryNum": 1,
+                    "name": "Naib Kaur M. C. From the house of to the extent of Nagar Panchayat",
+                    "localname": "Naib Kaur M. C. From the house of to the extent of Nagar Panchayat",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "DGH_20",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5b5ef7e6-6d69-4917-a3bc-d874a0643719",
+                "boundaryNum": 1,
+                "name": "Ward 21",
+                "localname": "Ward 21",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W21",
+                "children": [
+                  {
+                    "id": "faa00ddf-0c7e-441c-b3ee-0d9fe60e2938",
+                    "boundaryNum": 1,
+                    "name": "Balihar's house to Jai Nagar, the entire village and the houses inside and outside the Phirni of village Roorkee Budh Singh, which come in the red line.",
+                    "localname": "Balihar's house to Jai Nagar, the entire village and the houses inside and outside the Phirni of village Roorkee Budh Singh, which come in the red line.",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "DGH_21",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3369d3e4-c223-4e86-94d3-25d9500b4dcc",
+                "boundaryNum": 1,
+                "name": "Ward 22",
+                "localname": "Ward 22",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W22",
+                "children": [
+                  {
+                    "id": "1ee16176-30c0-4c10-b1cd-886ce9281457",
+                    "boundaryNum": 1,
+                    "name": "Subhash's house of village Kapuri Near government school",
+                    "localname": "Subhash's house of village Kapuri Near government school",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "DGH_22",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2a224273-9edc-4d2b-9873-c15cdd2affa1",
+                "boundaryNum": 1,
+                "name": "Ward 23",
+                "localname": "Ward 23",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W23",
+                "children": [
+                  {
+                    "id": "17ed631a-c529-46fc-9e09-8a689acab4e3",
+                    "boundaryNum": 1,
+                    "name": "Gurudwara Sahib to Gugga Madi to the existing water tank on the Dharamshala.",
+                    "localname": "Gurudwara Sahib to Gugga Madi to the existing water tank on the Dharamshala.",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "DGH_23",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9be22d98-1998-4695-987d-233d38fa02a7",
+                "boundaryNum": 1,
+                "name": "Ward 24",
+                "localname": "Ward 24",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W24",
+                "children": [
+                  {
+                    "id": "b5da5c8e-6c83-48bc-8628-9b0268732236",
+                    "boundaryNum": 1,
+                    "name": "Dashmesh colony to the houses inside and outside the Phirni of village Bhambuan like Dharamshala to Gugga Madi Government School",
+                    "localname": "Dashmesh colony to the houses inside and outside the Phirni of village Bhambuan like Dharamshala to Gugga Madi Government School",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "DGH_24",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6465e1dd-eea5-4b13-ac6a-fdb8cf2fc372",
+                "boundaryNum": 1,
+                "name": "Ward 25",
+                "localname": "Ward 25",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W25",
+                "children": [
+                  {
+                    "id": "7c0e01c7-39b8-4d66-919e-8072be1a74f2",
+                    "boundaryNum": 1,
+                    "name": "Passing through Gurudwara Sahib to Dharamshala, from Bhambuan village to Anaj Mandi side like the houses of the living keys.",
+                    "localname": "Passing through Gurudwara Sahib to Dharamshala, from Bhambuan village to Anaj Mandi side like the houses of the living keys.",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "DGH_25",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3ae8eb11-ab79-4870-abcb-159498821cf9",
+                "boundaryNum": 1,
+                "name": "Ward 26",
+                "localname": "Ward 26",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W26",
+                "children": [
+                  {
+                    "id": "95d48310-ad80-41a6-9a21-a4395ac9ab12",
+                    "boundaryNum": 1,
+                    "name": "Bute M. C. From the house of village Bahadurupar fakirs inside and outside houses like Gurudwara Sahib to government school to Gugga Madi to Bute M.C. to the house of. From Harmesh Gir's house to Nagar Panchayat Devigarh border.",
+                    "localname": "Bute M. C. From the house of village Bahadurupar fakirs inside and outside houses like Gurudwara Sahib to government school to Gugga Madi to Bute M.C. to the house of. From Harmesh Gir's house to Nagar Panchayat Devigarh border.",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "DGH_26",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "04dceddf-30ff-4011-ac01-284bc2903a85",
+                "boundaryNum": 1,
+                "name": "Ward 27",
+                "localname": "Ward 27",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W27",
+                "children": [
+                  {
+                    "id": "f032b6d8-7f97-4688-82f8-ca3bddc74f1f",
+                    "boundaryNum": 1,
+                    "name": "Houses inside and outside the village of Julkan village such as water tank",
+                    "localname": "Houses inside and outside the village of Julkan village such as water tank",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "DGH_27",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4d903176-cdb3-42f9-a220-d2e118005876",
+                "boundaryNum": 1,
+                "name": "Ward 28",
+                "localname": "Ward 28",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W28",
+                "children": [
+                  {
+                    "id": "6c05f817-5cc4-470f-a338-bc0e591659f2",
+                    "boundaryNum": 1,
+                    "name": "Gugga Madi, to the extent of Nagar Panchayat Devigarh",
+                    "localname": "Gugga Madi, to the extent of Nagar Panchayat Devigarh",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "DGH_28",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "42f0a705-8dd9-4a9b-85d9-b113d6fec35a",
+                "boundaryNum": 1,
+                "name": "UNKNOWN Ward",
+                "localname": "UNKNOWN Ward",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "UNKNOWN_WARD",
+                "children": [
+                  {
+                    "id": "437d3e13-35ec-4f25-9b67-1e7f2dafb2fa",
+                    "boundaryNum": 1,
+                    "name": "UNKNOWN",
+                    "localname": "UNKNOWN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "UNKNOWN",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }
