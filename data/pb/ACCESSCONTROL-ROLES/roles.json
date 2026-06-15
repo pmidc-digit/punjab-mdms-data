@@ -1202,6 +1202,11 @@
       "name": "View Rent And Lease Card",
       "description": "For Rent and Lease Card Display in Dashboard",
       "groupId": "006"
-    }
+    },
+	{
+      "code": "PT REPORTS",
+      "name": "PT REPORTS",
+      "description": "Access to all PT Reports"
+    }  
   ]
 }
