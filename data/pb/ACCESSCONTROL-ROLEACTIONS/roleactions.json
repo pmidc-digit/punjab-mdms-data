@@ -39909,6 +39909,522 @@
         "actionid": 882553,
         "actioncode": "",
         "tenantId": "pb"
-      }
+      },
+     {
+    "rolecode": "PT REPORTS",
+    "actionid": 1580,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 1584,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 1758,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 1808,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 1827,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 1883,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 1887,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 1889,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 1890,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2001,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2002,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2006,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2007,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2008,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2009,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2010,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2012,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2028,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2033,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2034,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2040,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2041,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2042,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2043,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2045,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2047,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2048,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2050,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2413,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2419,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2423,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2424,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2425,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2426,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2427,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2436,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2473,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2477,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2479,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2480,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2485,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2486,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2498,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2499,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2500,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2501,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2502,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2503,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2504,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2508,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2516,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2517,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2524,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2525,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2558,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2600,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 1890038,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 1890039,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 3010,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 3011,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 3013,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 3014,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 3015,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 3016,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 3017,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 3018,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 3019,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 3020,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 3021,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 3022,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 3023,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 3024,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+ {
+    "rolecode": "PT REPORTS",
+    "actionid": 23451583,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2821,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2822,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2823,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2824,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2825,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2826,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2527,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2828,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2829,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2830,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 5560,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 22996,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 22997,
+    "actioncode": "",
+    "tenantId": "pb"
+  }
     ]
   }
