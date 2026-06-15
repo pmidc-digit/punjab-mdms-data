@@ -29505,6 +29505,12 @@
       "actionid": 3024,
       "actioncode": "",
       "tenantId": "pb"      
-    }                       	  
+    },
+	{
+      "rolecode": "PT REPORTS",
+      "actionid": 1808,
+      "actioncode": "",
+      "tenantId": "pb"
+    }
    ]
 }
