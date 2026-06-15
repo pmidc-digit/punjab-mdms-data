@@ -455,6 +455,11 @@
       "code": "VIEW_ENGAGEMENT_CARD",
       "name": "View Engagement Card",
       "description": "For Engagement Card Display in Dashboard"
+    },
+	{
+      "code": "PT REPORTS",
+      "name": "PT REPORTS",
+      "description": "Access to all PT Reports"
     }
   ]
 }
