@@ -25095,7 +25095,7 @@
     {
       "id": 8900968,
       "name": "searchAllotment",
-      "url": "/rl-services/allotment/_search",
+      "url": "/rl-services/allotment/v1/_search",
       "displayName": "search Allotment",
       "orderNumber": 3,
       "enabled": false,
