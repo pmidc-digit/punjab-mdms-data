@@ -1,0 +1,26 @@
+{
+  "tenantId": "pb.bhawanigarh",
+  "moduleName": "ws-services-masters",
+  "groups": [
+    {
+      "name": "B-1",
+      "code": "B-1",
+      "active": true
+    },
+    {
+      "name": "B-2",
+      "code": "B-2",
+      "active": true
+    },
+    {
+      "name": "B-3",
+      "code": "B-3",
+      "active": true
+    },
+    {
+      "name": "B-4",
+      "code": "B-4",
+      "active": true
+    }
+  ]
+}
