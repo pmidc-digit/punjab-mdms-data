@@ -197,8 +197,8 @@
     {
       "code": "pb.boha",
       "name": "Boha",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.chamkaursahib",
