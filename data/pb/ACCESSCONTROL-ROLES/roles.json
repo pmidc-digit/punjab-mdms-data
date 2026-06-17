@@ -1207,6 +1207,18 @@
       "code": "PT REPORTS",
       "name": "PT REPORTS",
       "description": "Access to all PT Reports"
-    }  
+    },
+	{
+      "code": "VIEW_TL_CARD",
+      "name": "View TL Card",
+      "description": "For TL Card Display in Dashboard",
+      "groupId": "019"
+    },
+    {
+      "code": "VIEW_MCOLLECT_CARD",
+      "name": "View mCollect Card",
+      "description": "For mCollect Card Display in Dashboard",
+      "groupId": "027"
+    }
   ]
 }
