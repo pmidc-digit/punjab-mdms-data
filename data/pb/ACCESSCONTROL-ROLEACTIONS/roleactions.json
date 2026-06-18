@@ -40455,18 +40455,6 @@
       "actionid": 89001473,
       "actioncode": "",
       "tenantId": "pb"
-    },
-	{
-    "rolecode": "PT REPORTS",
-    "actionid": 1934,
-    "actioncode": "",
-    "tenantId": "pb"
-  },
-{
-    "rolecode": "PT REPORTS",
-    "actionid": 1776,
-    "actioncode": "",
-    "tenantId": "pb"
-  }	  	
+    }	
     ]
   }
