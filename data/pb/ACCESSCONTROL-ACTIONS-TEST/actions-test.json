@@ -29312,7 +29312,7 @@
       "id": 882597,
       "name": "PropertyTax",
       "url": "url",
-      "displayName": "Property Tax - Upgrade",
+      "displayName": "Property Tax Upgrade",
       "orderNumber": 1,
       "queryParams": "",
       "parentModule": "",
@@ -29320,7 +29320,7 @@
       "serviceCode": "",
       "path": "Property Tax",
       "navigationURL": "property-tax",
-      "leftIcon": "communication:business",
+      "leftIcon": "action:store",
       "rightIcon": ""
     }
   ]
