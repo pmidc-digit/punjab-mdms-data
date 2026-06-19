@@ -69781,6 +69781,36 @@
       "actionid": 882596,
       "actioncode": "",
       "tenantId": "pb"
-    }		
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 882597,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 882597,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 882597,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CEMP",
+      "actionid": 882597,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_CEMP",
+      "actionid": 882597,
+      "actioncode": "",
+      "tenantId": "pb"
+    }
   ]
 }

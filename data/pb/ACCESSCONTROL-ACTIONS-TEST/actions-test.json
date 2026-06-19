@@ -29307,6 +29307,21 @@
       "navigationURL": "newTab",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    }  
+    },
+    {
+      "id": 882597,
+      "name": "PropertyTax",
+      "url": "url",
+      "displayName": "Property Tax - Upgrade",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax",
+      "navigationURL": "property-tax",
+      "leftIcon": "communication:business",
+      "rightIcon": ""
+    }
   ]
 }
