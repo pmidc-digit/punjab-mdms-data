@@ -9,6 +9,12 @@
       "issewerage": false
     },
     {
+      "code": "pb.ropar",
+      "name": "Ropar",
+      "iswater": false,
+      "issewerage": false
+    },
+    {
       "code": "pb.adampur",
       "name": "Adampur",
       "iswater": false,
