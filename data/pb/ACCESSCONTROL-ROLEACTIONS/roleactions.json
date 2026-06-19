@@ -70308,6 +70308,12 @@
       "actionid": 882606,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 89001476,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
