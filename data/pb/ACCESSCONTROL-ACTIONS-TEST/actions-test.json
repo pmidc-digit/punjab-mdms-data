@@ -29310,17 +29310,18 @@
     },
     {
       "id": 882597,
-      "name": "PropertyTax",
-      "url": "url",
+      "name": "rainmaker-citizen-propertytax",
+      "url": "card",
       "displayName": "Property Tax Upgrade",
-      "orderNumber": 1,
+      "orderNumber": 2,
       "queryParams": "",
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "Property Tax",
+      "code": "",
+      "path": "",
       "navigationURL": "property-tax",
-      "leftIcon": "action:store",
+      "leftIcon": "custom:home-city-outline",
       "rightIcon": ""
     }
   ]
