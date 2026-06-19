@@ -29310,7 +29310,7 @@
     },
     {
       "id": 882597,
-      "name": "rainmaker-citizen-propertytax",
+      "name": "PropertyTax",
       "url": "card",
       "displayName": "Property Tax Upgrade",
       "orderNumber": 2,
