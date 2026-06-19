@@ -69811,6 +69811,24 @@
       "actionid": 882597,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_DOC_VERIFIER",
+      "actionid": 882597,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_FIELD_INSPECTOR",
+      "actionid": 882597,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_APPROVER",
+      "actionid": 882597,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }

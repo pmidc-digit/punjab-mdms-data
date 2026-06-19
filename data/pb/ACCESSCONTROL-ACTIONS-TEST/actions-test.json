@@ -29310,18 +29310,20 @@
     },
     {
       "id": 882597,
-      "name": "PropertyTax",
-      "url": "card",
-      "displayName": "Property Tax Upgrade",
+      "name": "Assess And Search Properties",
+      "url": "quickAction",
+      "displayName": "Search Property",
       "orderNumber": 1,
       "queryParams": "",
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
+      "tenantId": "pb",
       "code": "",
-      "path": "",
-      "navigationURL": "property-tax",
-      "leftIcon": "custom:home-city-outline",
+      "path": "Property Tax Upgrade.Assess And Search Properties",
+      "navigationURL": "digit-ui/pt-mutation/propertySearch",
+      "quickAction": true,
+      "leftIcon": "communication:business",
       "rightIcon": ""
     }
   ]
