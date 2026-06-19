@@ -23793,6 +23793,17 @@
       "navigationURL": "/digit-ui/employee/mcollect/search-bill",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 89001474,
+      "name": "Update BPA Details in Plan Scrutiny",
+      "url": "/edcr/rest/dcr/updateBPADetails",
+      "displayName": "Building Plan Scrutiny",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "EDCR",
+      "code": "null",
+      "path": ""
     }
   ]
 }

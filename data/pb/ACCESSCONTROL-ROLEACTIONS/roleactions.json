@@ -40450,11 +40450,17 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-     {
+    {
       "rolecode": "EMPLOYEE",
       "actionid": 89001473,
       "actioncode": "",
       "tenantId": "pb"
-    }	
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 89001474,
+      "actioncode": "",
+      "tenantId": "pb"
+    }
     ]
   }
