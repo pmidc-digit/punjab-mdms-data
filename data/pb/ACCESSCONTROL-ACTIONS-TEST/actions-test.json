@@ -29313,7 +29313,7 @@
       "name": "PropertyTax",
       "url": "card",
       "displayName": "Property Tax Upgrade",
-      "orderNumber": 2,
+      "orderNumber": 1,
       "queryParams": "",
       "parentModule": "",
       "enabled": true,
