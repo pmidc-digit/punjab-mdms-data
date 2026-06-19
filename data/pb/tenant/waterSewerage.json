@@ -445,6 +445,54 @@
       "name": "Mansa",
       "iswater": false,
       "issewerage": false
-    }
+    },
+    {
+    "code": "pb.mohali",
+    "name": "Mohali",
+    "iswater": false,
+    "issewerage": false
+  },
+  {
+    "code": "pb.moonak",
+    "name": "Moonak",
+    "iswater": false,
+    "issewerage": false
+  },
+  {
+    "code": "pb.sirhind",
+    "name": "Sirhind",
+    "iswater": false,
+    "issewerage": false
+  },
+  {
+    "code": "pb.sardulgarh",
+    "name": "Sardulgarh",
+    "iswater": false,
+    "issewerage": false
+  },
+  {
+    "code": "pb.budhlada",
+    "name": "Budhlada",
+    "iswater": false,
+    "issewerage": false
+  },
+  {
+    "code": "pb.srihargobindpur",
+    "name": "Sri Hargobindpur",
+    "iswater": false,
+    "issewerage": false
+  },
+  {
+    "code": "pb.samana",
+    "name": "Samana",
+    "iswater": false,
+    "issewerage": false
+  },
+  {
+    "code": "pb.sangrur",
+    "name": "Sangrur",
+    "iswater": false,
+    "issewerage": false
+  }
   ]
 }
