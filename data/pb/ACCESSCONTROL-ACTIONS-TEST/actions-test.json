@@ -6518,7 +6518,7 @@
       "displayName": "PGR",
       "orderNumber": 6,
       "parentModule": "dss-dashboard",
-      "enabled": fals,
+      "enabled": false,
       "serviceCode": "DSS",
       "code": "null",
       "path": "Dashboard.PGR",
