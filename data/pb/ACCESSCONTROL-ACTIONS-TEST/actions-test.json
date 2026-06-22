@@ -23858,6 +23858,21 @@
       "quickAction": true,
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 882607,
+      "name": "Overview Kibana",
+      "url": "https://mseva.lgpunjab.gov.in/kibana-v2/s/anonymous-user/app/dashboards?auth_provider_hint=anonymous1#/view/3c3e12ff-e588-4ae9-ad31-57fb662d57b3?embed=true&hide-filter-bar=true&_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))",
+      "displayName": "Overview Kibana",
+      "orderNumber": 1,
+      "parentModule": "rainmaker",
+      "enabled": true,
+      "serviceCode": "rainmaker",
+      "code": "null",
+      "path": "Dashboard.Overview Kibana",
+      "navigationURL": "newTab",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }

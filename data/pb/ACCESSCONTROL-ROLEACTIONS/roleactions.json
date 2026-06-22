@@ -3,6 +3,12 @@
     "moduleName": "ACCESSCONTROL-ROLEACTIONS",
     "roleactions": [
       {
+        "rolecode": "STADMIN",
+        "actionid": 882607,
+        "actioncode": "",
+        "tenantId": "pb"
+      },		
+      {
         "rolecode": "OBPAS REPORTS",
         "actionid": 882512,
         "actioncode": "",
