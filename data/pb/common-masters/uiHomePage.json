@@ -101,7 +101,7 @@
             "name": "Fire NOC",
             "label": "ACTION_TEST_FIRE_NOC",
             "enabled": true,
-            "navigationUrl": "/citizen/fire-noc/home"
+            "navigationUrl": "/digit-ui/citizen/firenoc-home"
           },
           {
             "code": "CITIZEN_SERVICE_CHALLANGENERATION",
