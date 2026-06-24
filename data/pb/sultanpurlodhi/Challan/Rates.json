@@ -105,34 +105,6 @@
     {
       "offenceTypeId": "OT26",
       "amount": 250
-    },
-    {
-      "offenceTypeId": "OT27",
-      "amount": 0
-    },
-    {
-      "offenceTypeId": "OT28",
-      "amount": 0
-    },
-    {
-      "offenceTypeId": "OT29",
-      "amount": 0
-    },
-    {
-      "offenceTypeId": "OT30",
-      "amount": 0
-    },
-    {
-      "offenceTypeId": "OT31",
-      "amount": 0
-    },
-    {
-      "offenceTypeId": "OT32",
-      "amount": 0
-    },
-    {
-      "offenceTypeId": "OT33",
-      "amount": 0
     }
   ]
 }

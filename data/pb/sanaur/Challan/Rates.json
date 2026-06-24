@@ -84,27 +84,27 @@
     },
     {
       "offenceTypeId": "OT21",
-      "amount": 500
-    },
-    {
-      "offenceTypeId": "OT22",
-      "amount": 500
-    },
-    {
-      "offenceTypeId": "OT23",
-      "amount": 500
-    },
-    {
-      "offenceTypeId": "OT24",
-      "amount": 500
-    },
-    {
-      "offenceTypeId": "OT25",
       "amount": 1000
     },
     {
+      "offenceTypeId": "OT22",
+      "amount": 750
+    },
+    {
+      "offenceTypeId": "OT23",
+      "amount": 1500
+    },
+    {
+      "offenceTypeId": "OT24",
+      "amount": 1000
+    },
+    {
+      "offenceTypeId": "OT25",
+      "amount": 2000
+    },
+    {
       "offenceTypeId": "OT26",
-      "amount": 250
+      "amount": 500
     },
     {
       "offenceTypeId": "OT27",

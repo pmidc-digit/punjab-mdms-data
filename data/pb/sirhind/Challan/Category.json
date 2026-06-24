@@ -1,0 +1,10 @@
+{
+  "tenantId": "pb.sirhind",
+  "moduleName": "Challan",
+  "Category": [
+    {
+      "id": "C10",
+      "name": "Solid Waste Management"
+    }
+  ]
+}

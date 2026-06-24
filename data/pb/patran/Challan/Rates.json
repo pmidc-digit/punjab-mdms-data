@@ -1,0 +1,42 @@
+{
+  "tenantId": "pb.patran",
+  "moduleName": "Challan",
+  "Rates": [
+    {
+      "offenceTypeId": "OT1",
+      "amount": 250
+    },
+    {
+      "offenceTypeId": "OT2",
+      "amount": 5000
+    },
+    {
+      "offenceTypeId": "OT3",
+      "amount": 5000
+    },
+    {
+      "offenceTypeId": "OT4",
+      "amount": 500
+    },
+    {
+      "offenceTypeId": "OT5",
+      "amount": 500
+    },
+    {
+      "offenceTypeId": "OT6",
+      "amount": 500
+    },
+    {
+      "offenceTypeId": "OT7",
+      "amount": 500
+    },
+    {
+      "offenceTypeId": "OT8",
+      "amount": 1000
+    },
+    {
+      "offenceTypeId": "OT9",
+      "amount": 5000
+    }
+  ]
+}

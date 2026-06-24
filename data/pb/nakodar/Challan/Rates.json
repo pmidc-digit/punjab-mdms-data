@@ -11,6 +11,10 @@
       "amount": 2000
     },
     {
+      "offenceTypeId": "OT3",
+      "amount": 2500
+    },
+    {
       "offenceTypeId": "OT4",
       "amount": 500
     },

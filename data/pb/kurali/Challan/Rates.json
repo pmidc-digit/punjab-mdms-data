@@ -4,15 +4,15 @@
   "Rates": [
     {
       "offenceTypeId": "OT1",
-      "amount": 200
+      "amount": 250
     },
     {
       "offenceTypeId": "OT2",
-      "amount": 2000
+      "amount": 5000
     },
     {
       "offenceTypeId": "OT3",
-      "amount": 2000
+      "amount": 5000
     },
     {
       "offenceTypeId": "OT4",
@@ -20,31 +20,31 @@
     },
     {
       "offenceTypeId": "OT5",
-      "amount": 200
+      "amount": 1000
     },
     {
       "offenceTypeId": "OT6",
-      "amount": 500
+      "amount": 1000
     },
     {
       "offenceTypeId": "OT7",
-      "amount": 500
+      "amount": 1000
     },
     {
       "offenceTypeId": "OT8",
-      "amount": 1000
+      "amount": 2000
     },
     {
       "offenceTypeId": "OT9",
-      "amount": 2000
+      "amount": 5000
     },
     {
       "offenceTypeId": "OT10",
-      "amount": 1000
+      "amount": 2000
     },
     {
       "offenceTypeId": "OT11",
-      "amount": 2000
+      "amount": 5000
     },
     {
       "offenceTypeId": "OT12",
@@ -52,11 +52,11 @@
     },
     {
       "offenceTypeId": "OT13",
-      "amount": 500
+      "amount": 2000
     },
     {
       "offenceTypeId": "OT14",
-      "amount": 500
+      "amount": 1000
     },
     {
       "offenceTypeId": "OT15",
@@ -64,23 +64,23 @@
     },
     {
       "offenceTypeId": "OT16",
-      "amount": 200
+      "amount": 250
     },
     {
       "offenceTypeId": "OT17",
-      "amount": 500
+      "amount": 5000
     },
     {
       "offenceTypeId": "OT18",
-      "amount": 1000
-    },
-    {
-      "offenceTypeId": "OT19",
       "amount": 2000
     },
     {
+      "offenceTypeId": "OT19",
+      "amount": 5000
+    },
+    {
       "offenceTypeId": "OT20",
-      "amount": 1000
+      "amount": 2000
     },
     {
       "offenceTypeId": "OT21",
@@ -88,19 +88,19 @@
     },
     {
       "offenceTypeId": "OT22",
-      "amount": 500
+      "amount": 750
     },
     {
       "offenceTypeId": "OT23",
-      "amount": 500
+      "amount": 1500
     },
     {
       "offenceTypeId": "OT24",
-      "amount": 500
+      "amount": 1000
     },
     {
       "offenceTypeId": "OT25",
-      "amount": 1000
+      "amount": 2000
     },
     {
       "offenceTypeId": "OT26",

@@ -1,0 +1,10 @@
+{
+  "tenantId": "pb.bhogpur",
+  "moduleName": "Challan",
+  "Rates": [
+    {
+      "offenceTypeId": "OT1",
+      "amount": 50
+    }
+  ]
+}

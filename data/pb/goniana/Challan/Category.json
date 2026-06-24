@@ -1,0 +1,10 @@
+{
+  "tenantId": "pb.goniana",
+  "moduleName": "Challan",
+  "Category": [
+    {
+      "id": "C10",
+      "name": "Solid Waste Management"
+    }
+  ]
+}
