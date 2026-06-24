@@ -362,7 +362,8 @@
       "name": "NOC ATP verifier",
       "description": "NOC ATP verifier",
       "groupId": "004"
-    },{
+    },
+    {
       "code": "OBPAS_NOC_MTP",
       "name": "NOC MTP verifier",
       "description": "NOC MTP verifier",
@@ -1488,6 +1489,12 @@
       "code": "VIEW_GARBAGE_COLLECTION_CARD",
       "name": "Garbage Collection",
       "description": "Garbage Collection",
+      "groupId": "014"
+    },
+    {
+      "code": "VIEW_KIBANA_DASHBOARD",
+      "name": "Kibana Dashboard",
+      "description": "Kibana Dashboard",
       "groupId": "014"
     },
     {
