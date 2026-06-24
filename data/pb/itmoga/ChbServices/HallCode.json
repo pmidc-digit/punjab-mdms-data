@@ -1,0 +1,24 @@
+{
+  "tenantId": "pb.itmoga",
+  "moduleName": "CHB",
+  "HallCode": [
+    {
+      "communityHallId": "1",
+      "hallId": "1",
+      "HallCode": "HallCode-GNAUD",
+      "capacity": "100",
+      "timeSlots": [
+      ],
+      "active": true
+    },
+    {
+      "communityHallId": "2",
+      "hallId": "2",
+      "HallCode": "HallCode-GNAUDFS",
+      "capacity": "150",
+      "timeSlots": [
+      ],
+      "active": true
+    }
+  ]
+}
