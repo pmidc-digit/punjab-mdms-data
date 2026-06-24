@@ -13,16 +13,11 @@
         "longitude": "76.7001"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Prime",
       "baseRent": "2001",
       "securityDeposit": "1501",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "MONTHLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22A_RENT_RES_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000002",
@@ -35,16 +30,11 @@
         "longitude": "76.7002"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Prime",
       "baseRent": "2002",
       "securityDeposit": "1502",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "MONTHLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22A_RENT_RES_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000003",
@@ -57,16 +47,11 @@
         "longitude": "76.7003"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Prime",
       "baseRent": "2003",
       "securityDeposit": "1503",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "MONTHLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22A_RENT_RES_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000004",
@@ -79,16 +64,11 @@
         "longitude": "76.7004"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Prime",
       "baseRent": "2004",
       "securityDeposit": "1504",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "MONTHLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22A_RENT_RES_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000005",
@@ -101,16 +81,11 @@
         "longitude": "76.7005"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Prime",
       "baseRent": "2005",
       "securityDeposit": "1505",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "MONTHLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22A_RENT_RES_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000006",
@@ -123,16 +98,11 @@
         "longitude": "76.7006"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Prime",
       "baseRent": "2006",
       "securityDeposit": "1506",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "QUATERLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22A_RENT_RES_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000007",
@@ -145,16 +115,11 @@
         "longitude": "76.7007"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Prime",
       "baseRent": "2007",
       "securityDeposit": "1507",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "QUATERLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22A_RENT_RES_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000008",
@@ -167,16 +132,11 @@
         "longitude": "76.7008"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Prime",
       "baseRent": "2008",
       "securityDeposit": "1508",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "QUATERLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22A_RENT_RES_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000009",
@@ -189,16 +149,11 @@
         "longitude": "76.7009"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Prime",
       "baseRent": "2009",
       "securityDeposit": "1509",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "QUATERLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22A_RENT_RES_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000010",
@@ -211,16 +166,11 @@
         "longitude": "76.7010"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Prime",
       "baseRent": "2010",
       "securityDeposit": "1510",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "QUATERLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22A_RENT_RES_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000011",
@@ -233,16 +183,11 @@
         "longitude": "76.7011"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Prime",
       "baseRent": "2011",
       "securityDeposit": "1511",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "ANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22A_RENT_RES_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000012",
@@ -255,16 +200,11 @@
         "longitude": "76.7012"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Prime",
       "baseRent": "2012",
       "securityDeposit": "1512",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "ANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22A_RENT_RES_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000013",
@@ -277,16 +217,11 @@
         "longitude": "76.7013"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Prime",
       "baseRent": "2013",
       "securityDeposit": "1513",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "ANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22A_RENT_RES_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000014",
@@ -299,16 +234,11 @@
         "longitude": "76.7014"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Prime",
       "baseRent": "2014",
       "securityDeposit": "1514",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "ANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22A_RENT_RES_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000015",
@@ -321,16 +251,11 @@
         "longitude": "76.7015"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Prime",
       "baseRent": "2015",
       "securityDeposit": "1515",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "ANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22A_RENT_RES_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000016",
@@ -343,16 +268,11 @@
         "longitude": "76.7016"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Prime",
       "baseRent": "2016",
       "securityDeposit": "1516",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "BIANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22A_RENT_RES_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000017",
@@ -365,16 +285,11 @@
         "longitude": "76.7017"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Prime",
       "baseRent": "2017",
       "securityDeposit": "1517",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "BIANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22A_RENT_RES_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000018",
@@ -387,16 +302,11 @@
         "longitude": "76.7018"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Prime",
       "baseRent": "2018",
       "securityDeposit": "1518",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "BIANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22A_RENT_RES_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000019",
@@ -409,16 +319,11 @@
         "longitude": "76.7019"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Prime",
       "baseRent": "2019",
       "securityDeposit": "1519",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "BIANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22A_RENT_RES_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000020",
@@ -431,16 +336,11 @@
         "longitude": "76.7020"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Prime",
       "baseRent": "2020",
       "securityDeposit": "1520",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "BIANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22A_RENT_RES_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000021",
@@ -453,16 +353,11 @@
         "longitude": "76.7021"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Non-Prime",
       "baseRent": "2021",
       "securityDeposit": "1521",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "MONTHLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22B_RENT_RES_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000022",
@@ -475,16 +370,11 @@
         "longitude": "76.7022"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Non-Prime",
       "baseRent": "2022",
       "securityDeposit": "1522",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "MONTHLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22B_RENT_RES_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000023",
@@ -497,16 +387,11 @@
         "longitude": "76.7023"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Non-Prime",
       "baseRent": "2023",
       "securityDeposit": "1523",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "MONTHLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22B_RENT_RES_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000024",
@@ -519,16 +404,11 @@
         "longitude": "76.7024"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Non-Prime",
       "baseRent": "2024",
       "securityDeposit": "1524",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "MONTHLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22B_RENT_RES_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000025",
@@ -541,16 +421,11 @@
         "longitude": "76.7025"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Non-Prime",
       "baseRent": "2025",
       "securityDeposit": "1525",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "MONTHLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22B_RENT_RES_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000026",
@@ -563,16 +438,11 @@
         "longitude": "76.7026"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Non-Prime",
       "baseRent": "2026",
       "securityDeposit": "1526",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "QUATERLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22B_RENT_RES_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000027",
@@ -585,16 +455,11 @@
         "longitude": "76.7027"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Non-Prime",
       "baseRent": "2027",
       "securityDeposit": "1527",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "QUATERLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22B_RENT_RES_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000028",
@@ -607,16 +472,11 @@
         "longitude": "76.7028"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Non-Prime",
       "baseRent": "2028",
       "securityDeposit": "1528",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "QUATERLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22B_RENT_RES_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000029",
@@ -629,16 +489,11 @@
         "longitude": "76.7029"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Non-Prime",
       "baseRent": "2029",
       "securityDeposit": "1529",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "QUATERLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22B_RENT_RES_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000030",
@@ -651,16 +506,11 @@
         "longitude": "76.7030"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Non-Prime",
       "baseRent": "2030",
       "securityDeposit": "1530",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "QUATERLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22B_RENT_RES_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000031",
@@ -673,16 +523,11 @@
         "longitude": "76.7031"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Non-Prime",
       "baseRent": "2031",
       "securityDeposit": "1531",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "ANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22B_RENT_RES_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000032",
@@ -695,16 +540,11 @@
         "longitude": "76.7032"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Non-Prime",
       "baseRent": "2032",
       "securityDeposit": "1532",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "ANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22B_RENT_RES_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000033",
@@ -717,16 +557,11 @@
         "longitude": "76.7033"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Non-Prime",
       "baseRent": "2033",
       "securityDeposit": "1533",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "ANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22B_RENT_RES_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000034",
@@ -739,16 +574,11 @@
         "longitude": "76.7034"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Non-Prime",
       "baseRent": "2034",
       "securityDeposit": "1534",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "ANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22B_RENT_RES_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000035",
@@ -761,16 +591,11 @@
         "longitude": "76.7035"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Non-Prime",
       "baseRent": "2035",
       "securityDeposit": "1535",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "ANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22B_RENT_RES_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000036",
@@ -783,16 +608,11 @@
         "longitude": "76.7036"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Non-Prime",
       "baseRent": "2036",
       "securityDeposit": "1536",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "BIANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22B_RENT_RES_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000037",
@@ -805,16 +625,11 @@
         "longitude": "76.7037"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Non-Prime",
       "baseRent": "2037",
       "securityDeposit": "1537",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "BIANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22B_RENT_RES_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000038",
@@ -827,16 +642,11 @@
         "longitude": "76.7038"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Non-Prime",
       "baseRent": "2038",
       "securityDeposit": "1538",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "BIANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22B_RENT_RES_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000039",
@@ -849,16 +659,11 @@
         "longitude": "76.7039"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Non-Prime",
       "baseRent": "2039",
       "securityDeposit": "1539",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "BIANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22B_RENT_RES_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000040",
@@ -871,16 +676,11 @@
         "longitude": "76.7040"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Non-Prime",
       "baseRent": "2040",
       "securityDeposit": "1540",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "BIANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22B_RENT_RES_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000041",
@@ -893,16 +693,11 @@
         "longitude": "76.7041"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Prime",
       "baseRent": "2041",
       "securityDeposit": "1541",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "MONTHLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22C_RENT_COM_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000042",
@@ -915,16 +710,11 @@
         "longitude": "76.7042"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Prime",
       "baseRent": "2042",
       "securityDeposit": "1542",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "MONTHLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22C_RENT_COM_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000043",
@@ -937,16 +727,11 @@
         "longitude": "76.7043"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Prime",
       "baseRent": "2043",
       "securityDeposit": "1543",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "MONTHLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22C_RENT_COM_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000044",
@@ -959,16 +744,11 @@
         "longitude": "76.7044"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Prime",
       "baseRent": "2044",
       "securityDeposit": "1544",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "MONTHLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22C_RENT_COM_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000045",
@@ -981,16 +761,11 @@
         "longitude": "76.7045"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Prime",
       "baseRent": "2045",
       "securityDeposit": "1545",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "MONTHLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22C_RENT_COM_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000046",
@@ -1003,16 +778,11 @@
         "longitude": "76.7046"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Prime",
       "baseRent": "2046",
       "securityDeposit": "1546",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "QUATERLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22C_RENT_COM_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000047",
@@ -1025,16 +795,11 @@
         "longitude": "76.7047"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Prime",
       "baseRent": "2047",
       "securityDeposit": "1547",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "QUATERLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22C_RENT_COM_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000048",
@@ -1047,16 +812,11 @@
         "longitude": "76.7048"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Prime",
       "baseRent": "2048",
       "securityDeposit": "1548",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "QUATERLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22C_RENT_COM_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000049",
@@ -1069,16 +829,11 @@
         "longitude": "76.7049"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Prime",
       "baseRent": "2049",
       "securityDeposit": "1549",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "QUATERLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22C_RENT_COM_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000050",
@@ -1091,16 +846,11 @@
         "longitude": "76.7050"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Prime",
       "baseRent": "2050",
       "securityDeposit": "1550",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "QUATERLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22C_RENT_COM_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000051",
@@ -1113,16 +863,11 @@
         "longitude": "76.7051"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Prime",
       "baseRent": "2051",
       "securityDeposit": "1551",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "ANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22C_RENT_COM_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000052",
@@ -1135,16 +880,11 @@
         "longitude": "76.7052"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Prime",
       "baseRent": "2052",
       "securityDeposit": "1552",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "ANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22C_RENT_COM_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000053",
@@ -1157,16 +897,11 @@
         "longitude": "76.7053"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Prime",
       "baseRent": "2053",
       "securityDeposit": "1553",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "ANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22C_RENT_COM_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000054",
@@ -1179,16 +914,11 @@
         "longitude": "76.7054"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Prime",
       "baseRent": "2054",
       "securityDeposit": "1554",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "ANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22C_RENT_COM_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000055",
@@ -1201,16 +931,11 @@
         "longitude": "76.7055"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Prime",
       "baseRent": "2055",
       "securityDeposit": "1555",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "ANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22C_RENT_COM_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000056",
@@ -1223,16 +948,11 @@
         "longitude": "76.7056"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Prime",
       "baseRent": "2056",
       "securityDeposit": "1556",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "BIANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22C_RENT_COM_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000057",
@@ -1245,16 +965,11 @@
         "longitude": "76.7057"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Prime",
       "baseRent": "2057",
       "securityDeposit": "1557",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "BIANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22C_RENT_COM_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000058",
@@ -1267,16 +982,11 @@
         "longitude": "76.7058"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Prime",
       "baseRent": "2058",
       "securityDeposit": "1558",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "BIANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22C_RENT_COM_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000059",
@@ -1289,16 +999,11 @@
         "longitude": "76.7059"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Prime",
       "baseRent": "2059",
       "securityDeposit": "1559",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "BIANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22C_RENT_COM_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000060",
@@ -1311,16 +1016,11 @@
         "longitude": "76.7060"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Prime",
       "baseRent": "2060",
       "securityDeposit": "1560",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "BIANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22C_RENT_COM_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000061",
@@ -1333,16 +1033,11 @@
         "longitude": "76.7061"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Non-Prime",
       "baseRent": "2061",
       "securityDeposit": "1561",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "MONTHLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22D_RENT_COM_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000062",
@@ -1355,16 +1050,11 @@
         "longitude": "76.7062"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Non-Prime",
       "baseRent": "2062",
       "securityDeposit": "1562",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "MONTHLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22D_RENT_COM_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000063",
@@ -1377,16 +1067,11 @@
         "longitude": "76.7063"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Non-Prime",
       "baseRent": "2063",
       "securityDeposit": "1563",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "MONTHLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22D_RENT_COM_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000064",
@@ -1399,16 +1084,11 @@
         "longitude": "76.7064"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Non-Prime",
       "baseRent": "2064",
       "securityDeposit": "1564",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "MONTHLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22D_RENT_COM_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000065",
@@ -1421,16 +1101,11 @@
         "longitude": "76.7065"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Non-Prime",
       "baseRent": "2065",
       "securityDeposit": "1565",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "MONTHLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22D_RENT_COM_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000066",
@@ -1443,16 +1118,11 @@
         "longitude": "76.7066"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Non-Prime",
       "baseRent": "2066",
       "securityDeposit": "1566",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "QUATERLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22D_RENT_COM_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000067",
@@ -1465,16 +1135,11 @@
         "longitude": "76.7067"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Non-Prime",
       "baseRent": "2067",
       "securityDeposit": "1567",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "QUATERLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22D_RENT_COM_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000068",
@@ -1487,16 +1152,11 @@
         "longitude": "76.7068"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Non-Prime",
       "baseRent": "2068",
       "securityDeposit": "1568",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "QUATERLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22D_RENT_COM_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000069",
@@ -1509,16 +1169,11 @@
         "longitude": "76.7069"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Non-Prime",
       "baseRent": "2069",
       "securityDeposit": "1569",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "QUATERLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22D_RENT_COM_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000070",
@@ -1531,16 +1186,11 @@
         "longitude": "76.7070"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Non-Prime",
       "baseRent": "2070",
       "securityDeposit": "1570",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "QUATERLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22D_RENT_COM_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000071",
@@ -1553,16 +1203,11 @@
         "longitude": "76.7071"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Non-Prime",
       "baseRent": "2071",
       "securityDeposit": "1571",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "ANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22D_RENT_COM_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000072",
@@ -1575,16 +1220,11 @@
         "longitude": "76.7072"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Non-Prime",
       "baseRent": "2072",
       "securityDeposit": "1572",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "ANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22D_RENT_COM_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000073",
@@ -1597,16 +1237,11 @@
         "longitude": "76.7073"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Non-Prime",
       "baseRent": "2073",
       "securityDeposit": "1573",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "ANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22D_RENT_COM_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000074",
@@ -1619,16 +1254,11 @@
         "longitude": "76.7074"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Non-Prime",
       "baseRent": "2074",
       "securityDeposit": "1574",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "ANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22D_RENT_COM_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000075",
@@ -1641,16 +1271,11 @@
         "longitude": "76.7075"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Non-Prime",
       "baseRent": "2075",
       "securityDeposit": "1575",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "ANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22D_RENT_COM_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000076",
@@ -1663,16 +1288,11 @@
         "longitude": "76.7076"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Non-Prime",
       "baseRent": "2076",
       "securityDeposit": "1576",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "BIANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22D_RENT_COM_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000077",
@@ -1685,16 +1305,11 @@
         "longitude": "76.7077"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Non-Prime",
       "baseRent": "2077",
       "securityDeposit": "1577",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "BIANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22D_RENT_COM_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000078",
@@ -1707,16 +1322,11 @@
         "longitude": "76.7078"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Non-Prime",
       "baseRent": "2078",
       "securityDeposit": "1578",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "BIANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22D_RENT_COM_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000079",
@@ -1729,16 +1339,11 @@
         "longitude": "76.7079"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Non-Prime",
       "baseRent": "2079",
       "securityDeposit": "1579",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "BIANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22D_RENT_COM_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000080",
@@ -1751,16 +1356,11 @@
         "longitude": "76.7080"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Non-Prime",
       "baseRent": "2080",
       "securityDeposit": "1580",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "BIANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22D_RENT_COM_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000081",
@@ -1773,16 +1373,11 @@
         "longitude": "76.7081"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Prime",
       "baseRent": "2081",
       "securityDeposit": "1581",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "MONTHLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22A_LEASE_RES_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000082",
@@ -1795,16 +1390,11 @@
         "longitude": "76.7082"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Prime",
       "baseRent": "2082",
       "securityDeposit": "1582",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "MONTHLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22A_LEASE_RES_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000083",
@@ -1817,16 +1407,11 @@
         "longitude": "76.7083"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Prime",
       "baseRent": "2083",
       "securityDeposit": "1583",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "MONTHLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22A_LEASE_RES_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000084",
@@ -1839,16 +1424,11 @@
         "longitude": "76.7084"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Prime",
       "baseRent": "2084",
       "securityDeposit": "1584",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "MONTHLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22A_LEASE_RES_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000085",
@@ -1861,16 +1441,11 @@
         "longitude": "76.7085"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Prime",
       "baseRent": "2085",
       "securityDeposit": "1585",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "MONTHLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22A_LEASE_RES_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000086",
@@ -1883,16 +1458,11 @@
         "longitude": "76.7086"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Prime",
       "baseRent": "2086",
       "securityDeposit": "1586",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "QUATERLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22A_LEASE_RES_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000087",
@@ -1905,16 +1475,11 @@
         "longitude": "76.7087"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Prime",
       "baseRent": "2087",
       "securityDeposit": "1587",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "QUATERLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22A_LEASE_RES_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000088",
@@ -1927,16 +1492,11 @@
         "longitude": "76.7088"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Prime",
       "baseRent": "2088",
       "securityDeposit": "1588",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "QUATERLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22A_LEASE_RES_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000089",
@@ -1949,16 +1509,11 @@
         "longitude": "76.7089"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Prime",
       "baseRent": "2089",
       "securityDeposit": "1589",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "QUATERLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22A_LEASE_RES_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000090",
@@ -1971,16 +1526,11 @@
         "longitude": "76.7090"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Prime",
       "baseRent": "2090",
       "securityDeposit": "1590",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "QUATERLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22A_LEASE_RES_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000091",
@@ -1993,16 +1543,11 @@
         "longitude": "76.7091"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Prime",
       "baseRent": "2091",
       "securityDeposit": "1591",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "ANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22A_LEASE_RES_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000092",
@@ -2015,16 +1560,11 @@
         "longitude": "76.7092"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Prime",
       "baseRent": "2092",
       "securityDeposit": "1592",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "ANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22A_LEASE_RES_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000093",
@@ -2037,16 +1577,11 @@
         "longitude": "76.7093"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Prime",
       "baseRent": "2093",
       "securityDeposit": "1593",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "ANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22A_LEASE_RES_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000094",
@@ -2059,16 +1594,11 @@
         "longitude": "76.7094"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Prime",
       "baseRent": "2094",
       "securityDeposit": "1594",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "ANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22A_LEASE_RES_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000095",
@@ -2081,16 +1611,11 @@
         "longitude": "76.7095"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Prime",
       "baseRent": "2095",
       "securityDeposit": "1595",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "ANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22A_LEASE_RES_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000096",
@@ -2103,16 +1628,11 @@
         "longitude": "76.7096"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Prime",
       "baseRent": "2096",
       "securityDeposit": "1596",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "BIANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22A_LEASE_RES_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000097",
@@ -2125,16 +1645,11 @@
         "longitude": "76.7097"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Prime",
       "baseRent": "2097",
       "securityDeposit": "1597",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "BIANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22A_LEASE_RES_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000098",
@@ -2147,16 +1662,11 @@
         "longitude": "76.7098"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Prime",
       "baseRent": "2098",
       "securityDeposit": "1598",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "BIANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22A_LEASE_RES_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000099",
@@ -2169,16 +1679,11 @@
         "longitude": "76.7099"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Prime",
       "baseRent": "2099",
       "securityDeposit": "1599",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "BIANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22A_LEASE_RES_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000100",
@@ -2191,16 +1696,11 @@
         "longitude": "76.7100"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Prime",
       "baseRent": "2100",
       "securityDeposit": "1600",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "BIANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22A_LEASE_RES_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000101",
@@ -2213,16 +1713,11 @@
         "longitude": "76.7101"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Non-Prime",
       "baseRent": "2101",
       "securityDeposit": "1601",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "MONTHLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22B_LEASE_RES_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000102",
@@ -2235,16 +1730,11 @@
         "longitude": "76.7102"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Non-Prime",
       "baseRent": "2102",
       "securityDeposit": "1602",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "MONTHLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22B_LEASE_RES_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000103",
@@ -2257,16 +1747,11 @@
         "longitude": "76.7103"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Non-Prime",
       "baseRent": "2103",
       "securityDeposit": "1603",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "MONTHLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22B_LEASE_RES_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000104",
@@ -2279,16 +1764,11 @@
         "longitude": "76.7104"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Non-Prime",
       "baseRent": "2104",
       "securityDeposit": "1604",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "MONTHLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22B_LEASE_RES_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000105",
@@ -2301,16 +1781,11 @@
         "longitude": "76.7105"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Non-Prime",
       "baseRent": "2105",
       "securityDeposit": "1605",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "MONTHLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22B_LEASE_RES_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000106",
@@ -2323,16 +1798,11 @@
         "longitude": "76.7106"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Non-Prime",
       "baseRent": "2106",
       "securityDeposit": "1606",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "QUATERLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22B_LEASE_RES_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000107",
@@ -2345,16 +1815,11 @@
         "longitude": "76.7107"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Non-Prime",
       "baseRent": "2107",
       "securityDeposit": "1607",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "QUATERLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22B_LEASE_RES_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000108",
@@ -2367,16 +1832,11 @@
         "longitude": "76.7108"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Non-Prime",
       "baseRent": "2108",
       "securityDeposit": "1608",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "QUATERLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22B_LEASE_RES_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000109",
@@ -2389,16 +1849,11 @@
         "longitude": "76.7109"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Non-Prime",
       "baseRent": "2109",
       "securityDeposit": "1609",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "QUATERLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22B_LEASE_RES_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000110",
@@ -2411,16 +1866,11 @@
         "longitude": "76.7110"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Non-Prime",
       "baseRent": "2110",
       "securityDeposit": "1610",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "QUATERLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22B_LEASE_RES_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000111",
@@ -2433,16 +1883,11 @@
         "longitude": "76.7111"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Non-Prime",
       "baseRent": "2111",
       "securityDeposit": "1611",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "ANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22B_LEASE_RES_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000112",
@@ -2455,16 +1900,11 @@
         "longitude": "76.7112"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Non-Prime",
       "baseRent": "2112",
       "securityDeposit": "1612",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "ANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22B_LEASE_RES_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000113",
@@ -2477,16 +1917,11 @@
         "longitude": "76.7113"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Non-Prime",
       "baseRent": "2113",
       "securityDeposit": "1613",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "ANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22B_LEASE_RES_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000114",
@@ -2499,16 +1934,11 @@
         "longitude": "76.7114"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Non-Prime",
       "baseRent": "2114",
       "securityDeposit": "1614",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "ANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22B_LEASE_RES_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000115",
@@ -2521,16 +1951,11 @@
         "longitude": "76.7115"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Non-Prime",
       "baseRent": "2115",
       "securityDeposit": "1615",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "ANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22B_LEASE_RES_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000116",
@@ -2543,16 +1968,11 @@
         "longitude": "76.7116"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Non-Prime",
       "baseRent": "2116",
       "securityDeposit": "1616",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "BIANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22B_LEASE_RES_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000117",
@@ -2565,16 +1985,11 @@
         "longitude": "76.7117"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Non-Prime",
       "baseRent": "2117",
       "securityDeposit": "1617",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "BIANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22B_LEASE_RES_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000118",
@@ -2587,16 +2002,11 @@
         "longitude": "76.7118"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Non-Prime",
       "baseRent": "2118",
       "securityDeposit": "1618",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "BIANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22B_LEASE_RES_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000119",
@@ -2609,16 +2019,11 @@
         "longitude": "76.7119"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Non-Prime",
       "baseRent": "2119",
       "securityDeposit": "1619",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "BIANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22B_LEASE_RES_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000120",
@@ -2631,16 +2036,11 @@
         "longitude": "76.7120"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Non-Prime",
       "baseRent": "2120",
       "securityDeposit": "1620",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "BIANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22B_LEASE_RES_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000121",
@@ -2653,16 +2053,11 @@
         "longitude": "76.7121"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Prime",
       "baseRent": "2121",
       "securityDeposit": "1621",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "MONTHLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22C_LEASE_COM_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000122",
@@ -2675,16 +2070,11 @@
         "longitude": "76.7122"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Prime",
       "baseRent": "2122",
       "securityDeposit": "1622",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "MONTHLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22C_LEASE_COM_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000123",
@@ -2697,16 +2087,11 @@
         "longitude": "76.7123"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Prime",
       "baseRent": "2123",
       "securityDeposit": "1623",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "MONTHLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22C_LEASE_COM_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000124",
@@ -2719,16 +2104,11 @@
         "longitude": "76.7124"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Prime",
       "baseRent": "2124",
       "securityDeposit": "1624",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "MONTHLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22C_LEASE_COM_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000125",
@@ -2741,16 +2121,11 @@
         "longitude": "76.7125"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Prime",
       "baseRent": "2125",
       "securityDeposit": "1625",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "MONTHLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22C_LEASE_COM_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000126",
@@ -2763,16 +2138,11 @@
         "longitude": "76.7126"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Prime",
       "baseRent": "2126",
       "securityDeposit": "1626",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "QUATERLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22C_LEASE_COM_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000127",
@@ -2785,16 +2155,11 @@
         "longitude": "76.7127"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Prime",
       "baseRent": "2127",
       "securityDeposit": "1627",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "QUATERLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22C_LEASE_COM_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000128",
@@ -2807,16 +2172,11 @@
         "longitude": "76.7128"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Prime",
       "baseRent": "2128",
       "securityDeposit": "1628",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "QUATERLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22C_LEASE_COM_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000129",
@@ -2829,16 +2189,11 @@
         "longitude": "76.7129"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Prime",
       "baseRent": "2129",
       "securityDeposit": "1629",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "QUATERLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22C_LEASE_COM_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000130",
@@ -2851,16 +2206,11 @@
         "longitude": "76.7130"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Prime",
       "baseRent": "2130",
       "securityDeposit": "1630",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "QUATERLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22C_LEASE_COM_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000131",
@@ -2873,16 +2223,11 @@
         "longitude": "76.7131"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Prime",
       "baseRent": "2131",
       "securityDeposit": "1631",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "ANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22C_LEASE_COM_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000132",
@@ -2895,16 +2240,11 @@
         "longitude": "76.7132"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Prime",
       "baseRent": "2132",
       "securityDeposit": "1632",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "ANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22C_LEASE_COM_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000133",
@@ -2917,16 +2257,11 @@
         "longitude": "76.7133"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Prime",
       "baseRent": "2133",
       "securityDeposit": "1633",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "ANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22C_LEASE_COM_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000134",
@@ -2939,16 +2274,11 @@
         "longitude": "76.7134"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Prime",
       "baseRent": "2134",
       "securityDeposit": "1634",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "ANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22C_LEASE_COM_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000135",
@@ -2961,16 +2291,11 @@
         "longitude": "76.7135"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Prime",
       "baseRent": "2135",
       "securityDeposit": "1635",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "ANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22C_LEASE_COM_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000136",
@@ -2983,16 +2308,11 @@
         "longitude": "76.7136"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Prime",
       "baseRent": "2136",
       "securityDeposit": "1636",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "BIANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22C_LEASE_COM_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000137",
@@ -3005,16 +2325,11 @@
         "longitude": "76.7137"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Prime",
       "baseRent": "2137",
       "securityDeposit": "1637",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "BIANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22C_LEASE_COM_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000138",
@@ -3027,16 +2342,11 @@
         "longitude": "76.7138"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Prime",
       "baseRent": "2138",
       "securityDeposit": "1638",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "BIANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22C_LEASE_COM_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000139",
@@ -3049,16 +2359,11 @@
         "longitude": "76.7139"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Prime",
       "baseRent": "2139",
       "securityDeposit": "1639",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "BIANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22C_LEASE_COM_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000140",
@@ -3071,16 +2376,11 @@
         "longitude": "76.7140"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Prime",
       "baseRent": "2140",
       "securityDeposit": "1640",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "BIANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22C_LEASE_COM_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000141",
@@ -3093,16 +2393,11 @@
         "longitude": "76.7141"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Non-Prime",
       "baseRent": "2141",
       "securityDeposit": "1641",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "MONTHLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22D_LEASE_COM_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000142",
@@ -3115,16 +2410,11 @@
         "longitude": "76.7142"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Non-Prime",
       "baseRent": "2142",
       "securityDeposit": "1642",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "MONTHLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22D_LEASE_COM_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000143",
@@ -3137,16 +2427,11 @@
         "longitude": "76.7143"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Non-Prime",
       "baseRent": "2143",
       "securityDeposit": "1643",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "MONTHLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22D_LEASE_COM_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000144",
@@ -3159,16 +2444,11 @@
         "longitude": "76.7144"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Non-Prime",
       "baseRent": "2144",
       "securityDeposit": "1644",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "MONTHLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22D_LEASE_COM_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000145",
@@ -3181,16 +2461,11 @@
         "longitude": "76.7145"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Non-Prime",
       "baseRent": "2145",
       "securityDeposit": "1645",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "MONTHLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22D_LEASE_COM_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000146",
@@ -3203,16 +2478,11 @@
         "longitude": "76.7146"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Non-Prime",
       "baseRent": "2146",
       "securityDeposit": "1646",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "QUATERLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22D_LEASE_COM_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000147",
@@ -3225,16 +2495,11 @@
         "longitude": "76.7147"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Non-Prime",
       "baseRent": "2147",
       "securityDeposit": "1647",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "QUATERLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22D_LEASE_COM_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000148",
@@ -3247,16 +2512,11 @@
         "longitude": "76.7148"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Non-Prime",
       "baseRent": "2148",
       "securityDeposit": "1648",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "QUATERLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22D_LEASE_COM_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000149",
@@ -3269,16 +2529,11 @@
         "longitude": "76.7149"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Non-Prime",
       "baseRent": "2149",
       "securityDeposit": "1649",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "QUATERLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22D_LEASE_COM_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000150",
@@ -3291,16 +2546,11 @@
         "longitude": "76.7150"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Non-Prime",
       "baseRent": "2150",
       "securityDeposit": "1650",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "QUATERLY",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22D_LEASE_COM_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000151",
@@ -3313,16 +2563,11 @@
         "longitude": "76.7151"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Non-Prime",
       "baseRent": "2151",
       "securityDeposit": "1651",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "ANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22D_LEASE_COM_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000152",
@@ -3335,16 +2580,11 @@
         "longitude": "76.7152"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Non-Prime",
       "baseRent": "2152",
       "securityDeposit": "1652",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "ANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22D_LEASE_COM_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000153",
@@ -3357,16 +2597,11 @@
         "longitude": "76.7153"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Non-Prime",
       "baseRent": "2153",
       "securityDeposit": "1653",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "ANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22D_LEASE_COM_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000154",
@@ -3379,16 +2614,11 @@
         "longitude": "76.7154"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Non-Prime",
       "baseRent": "2154",
       "securityDeposit": "1654",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "ANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22D_LEASE_COM_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000155",
@@ -3401,16 +2631,11 @@
         "longitude": "76.7155"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Non-Prime",
       "baseRent": "2155",
       "securityDeposit": "1655",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "ANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22D_LEASE_COM_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000156",
@@ -3423,16 +2648,11 @@
         "longitude": "76.7156"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Non-Prime",
       "baseRent": "2156",
       "securityDeposit": "1656",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "BIANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22D_LEASE_COM_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000157",
@@ -3445,16 +2665,11 @@
         "longitude": "76.7157"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Non-Prime",
       "baseRent": "2157",
       "securityDeposit": "1657",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "BIANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22D_LEASE_COM_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000158",
@@ -3467,16 +2682,11 @@
         "longitude": "76.7158"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Non-Prime",
       "baseRent": "2158",
       "securityDeposit": "1658",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "BIANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22D_LEASE_COM_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000159",
@@ -3489,16 +2699,11 @@
         "longitude": "76.7159"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Non-Prime",
       "baseRent": "2159",
       "securityDeposit": "1659",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "BIANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22D_LEASE_COM_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000160",
@@ -3511,16 +2716,11 @@
         "longitude": "76.7160"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Non-Prime",
       "baseRent": "2160",
       "securityDeposit": "1660",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "BIANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": true,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_SEC22D_LEASE_COM_NON_PRIME"
     },
     {
       "propertyId": "PB-RL-PT2025000161",
@@ -3533,16 +2733,11 @@
         "longitude": "75.8573"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Prime",
       "baseRent": "5000",
       "securityDeposit": "25000",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "ANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": false,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_CAPITOL_DEED_RES_A"
     },
     {
       "propertyId": "PB-RL-PT2025000162",
@@ -3555,16 +2750,11 @@
         "longitude": "76.7179"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Prime",
       "baseRent": "8000",
       "securityDeposit": "40000",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "ANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": false,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_CAPITOL_DEED_COM_A"
     },
     {
       "propertyId": "PB-RL-PT2025000163",
@@ -3577,16 +2767,11 @@
         "longitude": "75.5762"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Industrial",
-      "locationType": "Non-Prime",
       "baseRent": "12000",
       "securityDeposit": "60000",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "ANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": false,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_INDUSTRIAL_DEED_A"
     },
     {
       "propertyId": "PB-RL-PT2025000164",
@@ -3599,16 +2784,11 @@
         "longitude": "74.8723"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Residential",
-      "locationType": "Prime",
       "baseRent": "6000",
       "securityDeposit": "30000",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "BIANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": false,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_CAPITOL_DEED_RES_B"
     },
     {
       "propertyId": "PB-RL-PT2025000165",
@@ -3621,16 +2801,11 @@
         "longitude": "76.3869"
       },
       "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
-      "propertyType": "Commercial",
-      "locationType": "Prime",
       "baseRent": "15000",
       "securityDeposit": "75000",
-      "financialYear": "2025-26",
       "feesPeriodCycle": "ANNUAL",
-      "taxApplicable": true,
-      "refundApplicableOnDiscontinuation": false,
-      "cowCessApplicable": true,
-      "penaltyType": "Daily"
+      "penaltyType": "Daily",
+      "areaCode": "CHD_CAPITOL_DEED_COM_B"
     }
   ]
 }
