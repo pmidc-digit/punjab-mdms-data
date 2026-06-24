@@ -29437,14 +29437,14 @@
       "enabled": true,
       "serviceCode": "",
       "path": "State Reports.Rent & Lease Reports.State Collection Report",
-      "navigationURL": "report/rainmaker-rl/CollectionsReport",
+      "navigationURL": "report/rainmaker-rl/StateCollectionsReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
     {
       "id": 89009995,
       "name": "State Collections Report",
-      "url": "/report/rainmaker-rl/CollectionsReport/metadata/_get",
+      "url": "/report/rainmaker-rl/StateCollectionsReport/metadata/_get",
       "displayName": "State Collections Report",
       "orderNumber": 2,
       "enabled": true,
@@ -29455,7 +29455,7 @@
     {
       "id": 89009996,
       "name": "State Collections Report",
-      "url": "/report/rainmaker-rl/CollectionsReport/_get",
+      "url": "/report/rainmaker-rl/StateCollectionsReport/_get",
       "displayName": "State Collections Report",
       "orderNumber": 2,
       "enabled": true,
@@ -29474,14 +29474,14 @@
       "enabled": true,
       "serviceCode": "",
       "path": "State Reports.Rent & Lease Reports.State Receipt Register",
-      "navigationURL": "report/rainmaker-ndc/ReceiptRegisterRL",
+      "navigationURL": "report/rainmaker-ndc/StateReceiptRegisterRL",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
     {
       "id": 89009998,
       "name": "State Receipt Register",
-      "url": "/report/rainmaker-rl/ReceiptRegisterRL/metadata/_get",
+      "url": "/report/rainmaker-rl/StateReceiptRegisterRL/metadata/_get",
       "displayName": "State Receipt Register",
       "orderNumber": 3,
       "enabled": true,
@@ -29492,7 +29492,7 @@
     {
       "id": 89009999,
       "name": "State Receipt Register",
-      "url": "/report/rainmaker-rl/ReceiptRegisterRL/_get",
+      "url": "/report/rainmaker-rl/StateReceiptRegisterRL/_get",
       "displayName": "State Receipt Register",
       "orderNumber": 3,
       "enabled": true,
