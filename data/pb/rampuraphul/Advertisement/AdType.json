@@ -6,6 +6,11 @@
         "name": "Unipolar",
         "code": "UNIPOLAR",
         "active": true
+      },
+      {
+        "name": "Hoarding Board",
+        "code": "HOARDING_BOARD",
+        "active": true
       }
     ]
   }

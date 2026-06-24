@@ -55,6 +55,15 @@
         "latitude": 30.147,
         "longitude": 74.212
       }
+    },
+    {
+      "name": "Anywhere",
+      "code": "ANYWHERE",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.147,
+        "longitude": 74.212
+      }
     }
   ]
 }
