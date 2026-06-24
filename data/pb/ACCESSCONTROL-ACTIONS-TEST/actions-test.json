@@ -29474,7 +29474,7 @@
       "enabled": true,
       "serviceCode": "",
       "path": "State Reports.Rent & Lease Reports.State Receipt Register",
-      "navigationURL": "report/rainmaker-ndc/StateReceiptRegisterRL",
+      "navigationURL": "report/rainmaker-rl/StateReceiptRegisterRL",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
