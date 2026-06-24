@@ -717,10 +717,6 @@
       "format": "PTR/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_PTR_RECEIPT_ID_[TENANT_ID]]",
       "idname": "pet-services.receipt.id"
     },
-    {
-     "format":"PB-MH-[fy:yyyy-yy]-[SEQ_EG_RL_APPLICATION]",
-     "idname":"rl.applicationnumber"
-    },
 	{
 	  "format": "BPAREG/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
 	  "idname": "bpareg.receipt.id"
@@ -777,14 +773,14 @@
 	  "format": "BPA/OC/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
 	  "idname": "bpa.nc_oc_app_fee.receipt.id"
 	},
-    {
+  {
       "format": "CB-CH-[cy:yyyy-MM-dd]-[SEQ_EG_CH_APL]",
       "idname": "challan.aplnumber"
-    },
-    {
+  },
+  {
       "format": "CH/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_CH_RECEIPT_ID_[TENANT_ID]]",
       "idname": "challan_generation.receipt.id"
-    },
+  },
 	{
 	  "format": "CLU/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_CL_RECEIPT_ID]",
 	  "idname": "clu.pay1.receipt.id"
