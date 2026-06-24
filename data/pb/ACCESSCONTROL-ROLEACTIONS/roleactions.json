@@ -40523,24 +40523,6 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "CITIZEN",
-      "actionid": 882601,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 882602,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 882603,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
       "rolecode": "TL_CEMP",
       "actionid": 882602,
       "actioncode": "",
@@ -40650,18 +40632,6 @@
     {
       "rolecode": "SUPERUSER",
       "actionid": 882603,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 882602,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 882601,
       "actioncode": "",
       "tenantId": "pb"
     },
