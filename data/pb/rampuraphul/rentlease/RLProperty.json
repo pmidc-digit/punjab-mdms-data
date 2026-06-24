@@ -16,7 +16,7 @@
       "baseRent": "138",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_LEASEMANI_RENT_COM"
     },
     {
@@ -33,7 +33,7 @@
       "baseRent": "4623",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_LEASEMANI_RENT_COM"
     },
     {
@@ -50,7 +50,7 @@
       "baseRent": "2306",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_CHOWK_OBC_BANK_OPPOSITE_RENT_COM"
     },
     {
@@ -67,7 +67,7 @@
       "baseRent": "2306",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_CHOWK_OBC_BANK_OPPOSITE_RENT_COM"
     },
     {
@@ -84,7 +84,7 @@
       "baseRent": "2306",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_CHOWK_OBC_BANK_OPPOSITE_RENT_COM"
     },
     {
@@ -101,7 +101,7 @@
       "baseRent": "829",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_CHUBARE_OBC_BANK_OPPOSITE_RENT_COM"
     },
     {
@@ -118,7 +118,7 @@
       "baseRent": "829",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_CHUBARE_OBC_BANK_OPPOSITE_RENT_COM"
     },
     {
@@ -135,7 +135,7 @@
       "baseRent": "829",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_CHUBARE_OBC_BANK_OPPOSITE_RENT_COM"
     },
     {
@@ -152,7 +152,7 @@
       "baseRent": "2831",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_DR_GYAN_SINGH_WALI_SIDE_MAIN_CHOWK_RENT_COM"
     },
     {
@@ -169,7 +169,7 @@
       "baseRent": "2831",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_DR_GYAN_SINGH_WALI_SIDE_MAIN_CHOWK_RENT_COM"
     },
     {
@@ -186,7 +186,7 @@
       "baseRent": "2831",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_DR_GYAN_SINGH_WALI_SIDE_MAIN_CHOWK_RENT_COM"
     },
     {
@@ -203,7 +203,7 @@
       "baseRent": "5662",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_DR_GYAN_SINGH_WALI_SIDE_MAIN_CHOWK_RENT_COM"
     },
     {
@@ -220,7 +220,7 @@
       "baseRent": "2831",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_DR_GYAN_SINGH_WALI_SIDE_MAIN_CHOWK_RENT_COM"
     },
     {
@@ -237,7 +237,7 @@
       "baseRent": "1341",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_DR_GYAN_SINGH_WALI_SIDE_MAIN_CHOWK_RENT_COM"
     },
     {
@@ -254,7 +254,7 @@
       "baseRent": "813",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_CHUBARE_MAIN_CHOWK_RENT_COM"
     },
     {
@@ -271,7 +271,7 @@
       "baseRent": "1628",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_CHUBARE_MAIN_CHOWK_RENT_COM"
     },
     {
@@ -288,7 +288,7 @@
       "baseRent": "813",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_CHUBARE_MAIN_CHOWK_RENT_COM"
     },
     {
@@ -305,7 +305,7 @@
       "baseRent": "1398",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_CHUBARE_MAIN_CHOWK_RENT_COM"
     },
     {
@@ -322,7 +322,7 @@
       "baseRent": "461",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_DO_VARANDE_MAIN_CHOWK_RENT_COM"
     },
     {
@@ -339,7 +339,7 @@
       "baseRent": "461",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_DO_VARANDE_MAIN_CHOWK_RENT_COM"
     },
     {
@@ -356,7 +356,7 @@
       "baseRent": "352",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SWAMI_RAM_TIRATH_MARKET_RENT_COM"
     },
     {
@@ -373,7 +373,7 @@
       "baseRent": "352",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SWAMI_RAM_TIRATH_MARKET_RENT_COM"
     },
     {
@@ -390,7 +390,7 @@
       "baseRent": "352",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SWAMI_RAM_TIRATH_MARKET_RENT_COM"
     },
     {
@@ -407,7 +407,7 @@
       "baseRent": "352",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SWAMI_RAM_TIRATH_MARKET_RENT_COM"
     },
     {
@@ -424,7 +424,7 @@
       "baseRent": "352",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SWAMI_RAM_TIRATH_MARKET_RENT_COM"
     },
     {
@@ -441,7 +441,7 @@
       "baseRent": "352",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SWAMI_RAM_TIRATH_MARKET_RENT_COM"
     },
     {
@@ -458,7 +458,7 @@
       "baseRent": "352",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SWAMI_RAM_TIRATH_MARKET_RENT_COM"
     },
     {
@@ -475,7 +475,7 @@
       "baseRent": "352",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SWAMI_RAM_TIRATH_MARKET_RENT_COM"
     },
     {
@@ -492,7 +492,7 @@
       "baseRent": "352",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SWAMI_RAM_TIRATH_MARKET_RENT_COM"
     },
     {
@@ -509,7 +509,7 @@
       "baseRent": "352",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SWAMI_RAM_TIRATH_MARKET_RENT_COM"
     },
     {
@@ -526,7 +526,7 @@
       "baseRent": "352",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SWAMI_RAM_TIRATH_MARKET_RENT_COM"
     },
     {
@@ -543,7 +543,7 @@
       "baseRent": "352",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SWAMI_RAM_TIRATH_MARKET_RENT_COM"
     },
     {
@@ -560,7 +560,7 @@
       "baseRent": "352",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SWAMI_RAM_TIRATH_MARKET_RENT_COM"
     },
     {
@@ -577,7 +577,7 @@
       "baseRent": "352",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SWAMI_RAM_TIRATH_MARKET_RENT_COM"
     },
     {
@@ -594,7 +594,7 @@
       "baseRent": "352",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SWAMI_RAM_TIRATH_MARKET_RENT_COM"
     },
     {
@@ -611,7 +611,7 @@
       "baseRent": "352",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SWAMI_RAM_TIRATH_MARKET_RENT_COM"
     },
     {
@@ -628,7 +628,7 @@
       "baseRent": "352",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SWAMI_RAM_TIRATH_MARKET_RENT_COM"
     },
     {
@@ -645,7 +645,7 @@
       "baseRent": "352",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SWAMI_RAM_TIRATH_MARKET_RENT_COM"
     },
     {
@@ -662,7 +662,7 @@
       "baseRent": "352",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SWAMI_RAM_TIRATH_MARKET_RENT_COM"
     },
     {
@@ -679,7 +679,7 @@
       "baseRent": "352",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SWAMI_RAM_TIRATH_MARKET_RENT_COM"
     },
     {
@@ -696,7 +696,7 @@
       "baseRent": "352",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SWAMI_RAM_TIRATH_MARKET_RENT_COM"
     },
     {
@@ -713,7 +713,7 @@
       "baseRent": "352",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SWAMI_RAM_TIRATH_MARKET_RENT_COM"
     },
     {
@@ -730,7 +730,7 @@
       "baseRent": "352",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SWAMI_RAM_TIRATH_MARKET_RENT_COM"
     },
     {
@@ -747,7 +747,7 @@
       "baseRent": "352",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SWAMI_RAM_TIRATH_MARKET_RENT_COM"
     },
     {
@@ -764,7 +764,7 @@
       "baseRent": "352",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SWAMI_RAM_TIRATH_MARKET_RENT_COM"
     },
     {
@@ -781,7 +781,7 @@
       "baseRent": "352",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SWAMI_RAM_TIRATH_MARKET_RENT_COM"
     },
     {
@@ -798,7 +798,7 @@
       "baseRent": "352",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SWAMI_RAM_TIRATH_MARKET_RENT_COM"
     },
     {
@@ -815,7 +815,7 @@
       "baseRent": "352",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SWAMI_RAM_TIRATH_MARKET_RENT_COM"
     },
     {
@@ -832,7 +832,7 @@
       "baseRent": "352",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SWAMI_RAM_TIRATH_MARKET_RENT_COM"
     },
     {
@@ -849,7 +849,7 @@
       "baseRent": "352",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SWAMI_RAM_TIRATH_MARKET_RENT_COM"
     },
     {
@@ -866,7 +866,7 @@
       "baseRent": "352",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SWAMI_RAM_TIRATH_MARKET_RENT_COM"
     },
     {
@@ -883,7 +883,7 @@
       "baseRent": "352",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SWAMI_RAM_TIRATH_MARKET_RENT_COM"
     },
     {
@@ -900,7 +900,7 @@
       "baseRent": "2046",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_TEEN_KONI_GROUND_OPPOSITE_RENT_COM"
     },
     {
@@ -917,7 +917,7 @@
       "baseRent": "1216",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_TEEN_KONI_GROUND_OPPOSITE_RENT_COM"
     },
     {
@@ -934,7 +934,7 @@
       "baseRent": "1822",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_TEEN_KONI_GROUND_OPPOSITE_RENT_COM"
     },
     {
@@ -951,7 +951,7 @@
       "baseRent": "1659",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_TEEN_KONI_GROUND_OPPOSITE_RENT_COM"
     },
     {
@@ -968,7 +968,7 @@
       "baseRent": "6071",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_ZENANA_HOSPITAL_GROUND_OPPOSITE_RENT_COM"
     },
     {
@@ -985,7 +985,7 @@
       "baseRent": "5878",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_ZENANA_HOSPITAL_GROUND_OPPOSITE_RENT_COM"
     },
     {
@@ -1002,7 +1002,7 @@
       "baseRent": "9297",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_ZENANA_HOSPITAL_GROUND_OPPOSITE_RENT_COM"
     },
     {
@@ -1019,7 +1019,7 @@
       "baseRent": null,
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_BUS_STAND_ROAD_RENT_COM"
     },
     {
@@ -1036,7 +1036,7 @@
       "baseRent": "707",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_BUS_STAND_ROAD_RENT_COM"
     },
     {
@@ -1053,7 +1053,7 @@
       "baseRent": "707",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_BUS_STAND_ROAD_RENT_COM"
     },
     {
@@ -1070,7 +1070,7 @@
       "baseRent": "707",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_BUS_STAND_ROAD_RENT_COM"
     },
     {
@@ -1087,7 +1087,7 @@
       "baseRent": "707",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_BUS_STAND_ROAD_RENT_COM"
     },
     {
@@ -1104,7 +1104,7 @@
       "baseRent": "707",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_BUS_STAND_ROAD_RENT_COM"
     },
     {
@@ -1121,7 +1121,7 @@
       "baseRent": "707",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_BUS_STAND_ROAD_RENT_COM"
     },
     {
@@ -1138,7 +1138,7 @@
       "baseRent": "707",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_BUS_STAND_ROAD_RENT_COM"
     },
     {
@@ -1155,7 +1155,7 @@
       "baseRent": "707",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_BUS_STAND_ROAD_RENT_COM"
     },
     {
@@ -1172,7 +1172,7 @@
       "baseRent": "707",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_BUS_STAND_ROAD_RENT_COM"
     },
     {
@@ -1189,7 +1189,7 @@
       "baseRent": "707",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_BUS_STAND_ROAD_RENT_COM"
     },
     {
@@ -1206,7 +1206,7 @@
       "baseRent": "707",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_BUS_STAND_ROAD_RENT_COM"
     },
     {
@@ -1223,7 +1223,7 @@
       "baseRent": "707",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_BUS_STAND_ROAD_RENT_COM"
     },
     {
@@ -1240,7 +1240,7 @@
       "baseRent": "707",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_BUS_STAND_ROAD_RENT_COM"
     },
     {
@@ -1257,7 +1257,7 @@
       "baseRent": "707",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_BUS_STAND_ROAD_RENT_COM"
     },
     {
@@ -1274,7 +1274,7 @@
       "baseRent": "707",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_BUS_STAND_ROAD_RENT_COM"
     },
     {
@@ -1291,7 +1291,7 @@
       "baseRent": "707",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_BUS_STAND_ROAD_RENT_COM"
     },
     {
@@ -1308,7 +1308,7 @@
       "baseRent": "707",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_BUS_STAND_ROAD_RENT_COM"
     },
     {
@@ -1325,7 +1325,7 @@
       "baseRent": "707",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_BUS_STAND_ROAD_RENT_COM"
     },
     {
@@ -1342,7 +1342,7 @@
       "baseRent": "707",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_BUS_STAND_ROAD_RENT_COM"
     },
     {
@@ -1359,7 +1359,7 @@
       "baseRent": "707",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_BUS_STAND_ROAD_RENT_COM"
     },
     {
@@ -1376,7 +1376,7 @@
       "baseRent": "807",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_BUS_STAND_ROAD_RENT_COM"
     },
     {
@@ -1393,7 +1393,7 @@
       "baseRent": "707",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_BUS_STAND_ROAD_RENT_COM"
     },
     {
@@ -1410,7 +1410,7 @@
       "baseRent": "707",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_BUS_STAND_ROAD_RENT_COM"
     },
     {
@@ -1427,7 +1427,7 @@
       "baseRent": "8140",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_OFFICE_NAGAR_COUNCIL_GATE_NEAR_RENT_COM"
     },
     {
@@ -1444,7 +1444,7 @@
       "baseRent": "8371",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_OFFICE_NAGAR_COUNCIL_GATE_NEAR_RENT_COM"
     },
     {
@@ -1461,7 +1461,7 @@
       "baseRent": "874",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_OFFICE_NAGAR_COUNCIL_GATE_NEAR_RENT_COM"
     },
     {
@@ -1478,7 +1478,7 @@
       "baseRent": "874",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_OFFICE_NAGAR_COUNCIL_GATE_NEAR_RENT_COM"
     },
     {
@@ -1495,7 +1495,7 @@
       "baseRent": "874",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_OFFICE_NAGAR_COUNCIL_GATE_NEAR_RENT_COM"
     },
     {
@@ -1512,7 +1512,7 @@
       "baseRent": "830",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_OFFICE_NAGAR_COUNCIL_GATE_NEAR_RENT_COM"
     },
     {
@@ -1529,7 +1529,7 @@
       "baseRent": "830",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_OFFICE_NAGAR_COUNCIL_GATE_NEAR_RENT_COM"
     },
     {
@@ -1546,7 +1546,7 @@
       "baseRent": "830",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_OFFICE_NAGAR_COUNCIL_GATE_NEAR_RENT_COM"
     },
     {
@@ -1563,7 +1563,7 @@
       "baseRent": "830",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_OFFICE_NAGAR_COUNCIL_GATE_NEAR_RENT_COM"
     },
     {
@@ -1580,7 +1580,7 @@
       "baseRent": "830",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_OFFICE_NAGAR_COUNCIL_GATE_NEAR_RENT_COM"
     },
     {
@@ -1597,7 +1597,7 @@
       "baseRent": "830",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_OFFICE_NAGAR_COUNCIL_GATE_NEAR_RENT_COM"
     },
     {
@@ -1614,7 +1614,7 @@
       "baseRent": "788",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_OFFICE_NAGAR_COUNCIL_GATE_NEAR_RENT_COM"
     },
     {
@@ -1631,7 +1631,7 @@
       "baseRent": "788",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_OFFICE_NAGAR_COUNCIL_GATE_NEAR_RENT_COM"
     },
     {
@@ -1648,7 +1648,7 @@
       "baseRent": "874",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_OFFICE_NAGAR_COUNCIL_GATE_NEAR_RENT_COM"
     },
     {
@@ -1665,7 +1665,7 @@
       "baseRent": "874",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_OFFICE_NAGAR_COUNCIL_GATE_NEAR_RENT_COM"
     },
     {
@@ -1682,7 +1682,7 @@
       "baseRent": "874",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_OFFICE_NAGAR_COUNCIL_GATE_NEAR_RENT_COM"
     },
     {
@@ -1699,7 +1699,7 @@
       "baseRent": "279",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_28_THE_BEK_SIDE_RENT_COM"
     },
     {
@@ -1716,7 +1716,7 @@
       "baseRent": "279",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_28_THE_BEK_SIDE_RENT_COM"
     },
     {
@@ -1733,7 +1733,7 @@
       "baseRent": "524",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_28_THE_BEK_SIDE_RENT_COM"
     },
     {
@@ -1750,7 +1750,7 @@
       "baseRent": "569",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_28_THE_BEK_SIDE_RENT_COM"
     },
     {
@@ -1767,7 +1767,7 @@
       "baseRent": "559",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_28_THE_BEK_SIDE_RENT_COM"
     },
     {
@@ -1784,7 +1784,7 @@
       "baseRent": "524",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_28_THE_BEK_SIDE_RENT_COM"
     },
     {
@@ -1801,7 +1801,7 @@
       "baseRent": "543",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_28_THE_BEK_SIDE_RENT_COM"
     },
     {
@@ -1818,7 +1818,7 @@
       "baseRent": "543",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_28_THE_BEK_SIDE_RENT_COM"
     },
     {
@@ -1835,7 +1835,7 @@
       "baseRent": "559",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_28_THE_BEK_SIDE_RENT_COM"
     },
     {
@@ -1852,7 +1852,7 @@
       "baseRent": "524",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_28_THE_BEK_SIDE_RENT_COM"
     },
     {
@@ -1869,7 +1869,7 @@
       "baseRent": "524",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_28_THE_BEK_SIDE_RENT_COM"
     },
     {
@@ -1886,7 +1886,7 @@
       "baseRent": "524",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_28_THE_BEK_SIDE_RENT_COM"
     },
     {
@@ -1903,7 +1903,7 @@
       "baseRent": "524",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_28_THE_BEK_SIDE_RENT_COM"
     },
     {
@@ -1920,7 +1920,7 @@
       "baseRent": "1272",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_ROAD_RENT_COM"
     },
     {
@@ -1937,7 +1937,7 @@
       "baseRent": "1136",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_ROAD_RENT_COM"
     },
     {
@@ -1954,7 +1954,7 @@
       "baseRent": "1136",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_ROAD_RENT_COM"
     },
     {
@@ -1971,7 +1971,7 @@
       "baseRent": "1205",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_ROAD_RENT_COM"
     },
     {
@@ -1988,7 +1988,7 @@
       "baseRent": "1205",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_ROAD_RENT_COM"
     },
     {
@@ -2005,7 +2005,7 @@
       "baseRent": "1136",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_ROAD_RENT_COM"
     },
     {
@@ -2022,7 +2022,7 @@
       "baseRent": "1205",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_ROAD_RENT_COM"
     },
     {
@@ -2039,7 +2039,7 @@
       "baseRent": "1097",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_ROAD_RENT_COM"
     },
     {
@@ -2056,7 +2056,7 @@
       "baseRent": "1097",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_ROAD_RENT_COM"
     },
     {
@@ -2073,7 +2073,7 @@
       "baseRent": "1205",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_ROAD_RENT_COM"
     },
     {
@@ -2090,7 +2090,7 @@
       "baseRent": "1208",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_ROAD_RENT_COM"
     },
     {
@@ -2107,7 +2107,7 @@
       "baseRent": "1208",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_ROAD_RENT_COM"
     },
     {
@@ -2124,7 +2124,7 @@
       "baseRent": "1405",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_ROAD_RENT_COM"
     },
     {
@@ -2141,7 +2141,7 @@
       "baseRent": "5459",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_TEMPLE_WALI_SIDE_RENT_COM"
     },
     {
@@ -2158,7 +2158,7 @@
       "baseRent": "5459",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_TEMPLE_WALI_SIDE_RENT_COM"
     },
     {
@@ -2175,7 +2175,7 @@
       "baseRent": "5459",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_TEMPLE_WALI_SIDE_RENT_COM"
     },
     {
@@ -2192,7 +2192,7 @@
       "baseRent": "5037",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_TEMPLE_WALI_SIDE_RENT_COM"
     },
     {
@@ -2209,7 +2209,7 @@
       "baseRent": "4045",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_TEMPLE_WALI_SIDE_RENT_COM"
     },
     {
@@ -2226,7 +2226,7 @@
       "baseRent": "4045",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_TEMPLE_WALI_SIDE_RENT_COM"
     },
     {
@@ -2243,7 +2243,7 @@
       "baseRent": "3236",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_TEMPLE_WALI_SIDE_RENT_COM"
     },
     {
@@ -2260,7 +2260,7 @@
       "baseRent": "2625",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_TEMPLE_WALI_SIDE_RENT_COM"
     },
     {
@@ -2277,7 +2277,7 @@
       "baseRent": "2023",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_TEMPLE_WALI_SIDE_RENT_COM"
     },
     {
@@ -2294,7 +2294,7 @@
       "baseRent": "2023",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_TEMPLE_WALI_SIDE_RENT_COM"
     },
     {
@@ -2311,7 +2311,7 @@
       "baseRent": "1618",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_TEMPLE_WALI_SIDE_RENT_COM"
     },
     {
@@ -2328,7 +2328,7 @@
       "baseRent": "1618",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_TEMPLE_WALI_SIDE_RENT_COM"
     },
     {
@@ -2345,7 +2345,7 @@
       "baseRent": "1216",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_TEMPLE_WALI_SIDE_RENT_COM"
     },
     {
@@ -2362,7 +2362,7 @@
       "baseRent": "707",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_TEMPLE_WALI_SIDE_RENT_COM"
     },
     {
@@ -2379,7 +2379,7 @@
       "baseRent": "1216",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_TEMPLE_WALI_SIDE_RENT_COM"
     },
     {
@@ -2396,7 +2396,7 @@
       "baseRent": "1216",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_TEMPLE_WALI_SIDE_RENT_COM"
     },
     {
@@ -2413,7 +2413,7 @@
       "baseRent": "2023",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_TEMPLE_WALI_SIDE_RENT_COM"
     },
     {
@@ -2430,7 +2430,7 @@
       "baseRent": "1618",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_TEMPLE_WALI_SIDE_RENT_COM"
     },
     {
@@ -2447,7 +2447,7 @@
       "baseRent": "1705",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_TEMPLE_WALI_SIDE_RENT_COM"
     },
     {
@@ -2464,7 +2464,7 @@
       "baseRent": "2429",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_TEMPLE_WALI_SIDE_RENT_COM"
     },
     {
@@ -2481,7 +2481,7 @@
       "baseRent": "2816",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_TEMPLE_WALI_SIDE_RENT_COM"
     },
     {
@@ -2498,7 +2498,7 @@
       "baseRent": "2832",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_TEMPLE_WALI_SIDE_RENT_COM"
     },
     {
@@ -2515,7 +2515,7 @@
       "baseRent": "6665",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GROVER_VALI_SIIDE_RENT_COM"
     },
     {
@@ -2532,7 +2532,7 @@
       "baseRent": "5238",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GROVER_VALI_SIIDE_RENT_COM"
     },
     {
@@ -2549,7 +2549,7 @@
       "baseRent": "4071",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GROVER_VALI_SIIDE_RENT_COM"
     },
     {
@@ -2566,7 +2566,7 @@
       "baseRent": "4264",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GROVER_VALI_SIIDE_RENT_COM"
     },
     {
@@ -2583,7 +2583,7 @@
       "baseRent": "3287",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GROVER_VALI_SIIDE_RENT_COM"
     },
     {
@@ -2600,7 +2600,7 @@
       "baseRent": "2911",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GROVER_VALI_SIIDE_RENT_COM"
     },
     {
@@ -2617,7 +2617,7 @@
       "baseRent": "2869",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GROVER_VALI_SIIDE_RENT_COM"
     },
     {
@@ -2634,7 +2634,7 @@
       "baseRent": "2946",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GROVER_VALI_SIIDE_RENT_COM"
     },
     {
@@ -2651,7 +2651,7 @@
       "baseRent": "3100",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GROVER_VALI_SIIDE_RENT_COM"
     },
     {
@@ -2668,7 +2668,7 @@
       "baseRent": "3100",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GROVER_VALI_SIIDE_RENT_COM"
     },
     {
@@ -2685,7 +2685,7 @@
       "baseRent": "2452",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GROVER_VALI_SIIDE_RENT_COM"
     },
     {
@@ -2702,7 +2702,7 @@
       "baseRent": "2716",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GROVER_VALI_SIIDE_RENT_COM"
     },
     {
@@ -2719,7 +2719,7 @@
       "baseRent": "2753",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GROVER_VALI_SIIDE_RENT_COM"
     },
     {
@@ -2736,7 +2736,7 @@
       "baseRent": "2753",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GROVER_VALI_SIIDE_RENT_COM"
     },
     {
@@ -2753,7 +2753,7 @@
       "baseRent": "2713",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GROVER_VALI_SIIDE_RENT_COM"
     },
     {
@@ -2770,7 +2770,7 @@
       "baseRent": "2409",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GROVER_VALI_SIIDE_RENT_COM"
     },
     {
@@ -2787,7 +2787,7 @@
       "baseRent": "2445",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GROVER_VALI_SIIDE_RENT_COM"
     },
     {
@@ -2804,7 +2804,7 @@
       "baseRent": "2713",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GROVER_VALI_SIIDE_RENT_COM"
     },
     {
@@ -2821,7 +2821,7 @@
       "baseRent": "2602",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GROVER_VALI_SIIDE_RENT_COM"
     },
     {
@@ -2838,7 +2838,7 @@
       "baseRent": "2713",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GROVER_VALI_SIIDE_RENT_COM"
     },
     {
@@ -2855,7 +2855,7 @@
       "baseRent": "2753",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GROVER_VALI_SIIDE_RENT_COM"
     },
     {
@@ -2872,7 +2872,7 @@
       "baseRent": "3373",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": ""
     },
     {
@@ -2889,7 +2889,7 @@
       "baseRent": "2315",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PO_WALI_SIDE_RENT_COM"
     },
     {
@@ -2906,7 +2906,7 @@
       "baseRent": "2187",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PO_WALI_SIDE_RENT_COM"
     },
     {
@@ -2923,7 +2923,7 @@
       "baseRent": "2187",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PO_WALI_SIDE_RENT_COM"
     },
     {
@@ -2940,7 +2940,7 @@
       "baseRent": "2635",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PO_WALI_SIDE_RENT_COM"
     },
     {
@@ -2957,7 +2957,7 @@
       "baseRent": "2635",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PO_WALI_SIDE_RENT_COM"
     },
     {
@@ -2974,7 +2974,7 @@
       "baseRent": "2614",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PO_WALI_SIDE_RENT_COM"
     },
     {
@@ -2991,7 +2991,7 @@
       "baseRent": "2187",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PO_WALI_SIDE_RENT_COM"
     },
     {
@@ -3008,7 +3008,7 @@
       "baseRent": "2187",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PO_WALI_SIDE_RENT_COM"
     },
     {
@@ -3025,7 +3025,7 @@
       "baseRent": "2187",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PO_WALI_SIDE_RENT_COM"
     },
     {
@@ -3042,7 +3042,7 @@
       "baseRent": "7914",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PO_WALI_SIDE_RENT_COM"
     },
     {
@@ -3059,7 +3059,7 @@
       "baseRent": "6049",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PO_WALI_SIDE_RENT_COM"
     },
     {
@@ -3076,7 +3076,7 @@
       "baseRent": "6511",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PO_WALI_SIDE_RENT_COM"
     },
     {
@@ -3093,7 +3093,7 @@
       "baseRent": "4837",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PO_WALI_SIDE_RENT_COM"
     },
     {
@@ -3110,7 +3110,7 @@
       "baseRent": "3734",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PO_WALI_SIDE_RENT_COM"
     },
     {
@@ -3127,7 +3127,7 @@
       "baseRent": "3726",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PO_WALI_SIDE_RENT_COM"
     },
     {
@@ -3144,7 +3144,7 @@
       "baseRent": "3256",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PO_WALI_SIDE_RENT_COM"
     },
     {
@@ -3161,7 +3161,7 @@
       "baseRent": "3070",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PO_WALI_SIDE_RENT_COM"
     },
     {
@@ -3178,7 +3178,7 @@
       "baseRent": "3070",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PO_WALI_SIDE_RENT_COM"
     },
     {
@@ -3195,7 +3195,7 @@
       "baseRent": "3070",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PO_WALI_SIDE_RENT_COM"
     },
     {
@@ -3212,7 +3212,7 @@
       "baseRent": "5164",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PO_WALI_SIDE_RENT_COM"
     },
     {
@@ -3229,7 +3229,7 @@
       "baseRent": "2667",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PO_WALI_SIDE_RENT_COM"
     },
     {
@@ -3246,7 +3246,7 @@
       "baseRent": "11632",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PO_WALI_SIDE_RENT_COM"
     },
     {
@@ -3263,7 +3263,7 @@
       "baseRent": "532",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SHAHEED_BHAGAT_SINGH_MARKET_RENT_COM"
     },
     {
@@ -3280,7 +3280,7 @@
       "baseRent": "532",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SHAHEED_BHAGAT_SINGH_MARKET_RENT_COM"
     },
     {
@@ -3297,7 +3297,7 @@
       "baseRent": "532",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SHAHEED_BHAGAT_SINGH_MARKET_RENT_COM"
     },
     {
@@ -3314,7 +3314,7 @@
       "baseRent": "532",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SHAHEED_BHAGAT_SINGH_MARKET_RENT_COM"
     },
     {
@@ -3331,7 +3331,7 @@
       "baseRent": "532",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SHAHEED_BHAGAT_SINGH_MARKET_RENT_COM"
     },
     {
@@ -3348,7 +3348,7 @@
       "baseRent": "532",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SHAHEED_BHAGAT_SINGH_MARKET_RENT_COM"
     },
     {
@@ -3365,7 +3365,7 @@
       "baseRent": "532",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SHAHEED_BHAGAT_SINGH_MARKET_RENT_COM"
     },
     {
@@ -3382,7 +3382,7 @@
       "baseRent": "532",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SHAHEED_BHAGAT_SINGH_MARKET_RENT_COM"
     },
     {
@@ -3399,7 +3399,7 @@
       "baseRent": "532",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SHAHEED_BHAGAT_SINGH_MARKET_RENT_COM"
     },
     {
@@ -3416,7 +3416,7 @@
       "baseRent": "532",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SHAHEED_BHAGAT_SINGH_MARKET_RENT_COM"
     },
     {
@@ -3433,7 +3433,7 @@
       "baseRent": "532",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SHAHEED_BHAGAT_SINGH_MARKET_RENT_COM"
     },
     {
@@ -3450,7 +3450,7 @@
       "baseRent": "532",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SHAHEED_BHAGAT_SINGH_MARKET_RENT_COM"
     },
     {
@@ -3467,7 +3467,7 @@
       "baseRent": "532",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SHAHEED_BHAGAT_SINGH_MARKET_RENT_COM"
     },
     {
@@ -3484,7 +3484,7 @@
       "baseRent": "532",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SHAHEED_BHAGAT_SINGH_MARKET_RENT_COM"
     },
     {
@@ -3501,7 +3501,7 @@
       "baseRent": "532",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SHAHEED_BHAGAT_SINGH_MARKET_RENT_COM"
     },
     {
@@ -3518,7 +3518,7 @@
       "baseRent": "532",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SHAHEED_BHAGAT_SINGH_MARKET_RENT_COM"
     },
     {
@@ -3535,7 +3535,7 @@
       "baseRent": "1434",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SHAHEED_BHAGAT_SINGH_MARKET_RENT_COM"
     },
     {
@@ -3552,7 +3552,7 @@
       "baseRent": "532",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SHAHEED_BHAGAT_SINGH_MARKET_RENT_COM"
     },
     {
@@ -3569,7 +3569,7 @@
       "baseRent": "532",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SHAHEED_BHAGAT_SINGH_MARKET_RENT_COM"
     },
     {
@@ -3586,7 +3586,7 @@
       "baseRent": "532",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SHAHEED_BHAGAT_SINGH_MARKET_RENT_COM"
     },
     {
@@ -3603,7 +3603,7 @@
       "baseRent": "532",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SHAHEED_BHAGAT_SINGH_MARKET_RENT_COM"
     },
     {
@@ -3620,7 +3620,7 @@
       "baseRent": "532",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SHAHEED_BHAGAT_SINGH_MARKET_RENT_COM"
     },
     {
@@ -3637,7 +3637,7 @@
       "baseRent": "532",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SHAHEED_BHAGAT_SINGH_MARKET_RENT_COM"
     },
     {
@@ -3654,7 +3654,7 @@
       "baseRent": "532",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SHAHEED_BHAGAT_SINGH_MARKET_RENT_COM"
     },
     {
@@ -3671,7 +3671,7 @@
       "baseRent": "532",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SHAHEED_BHAGAT_SINGH_MARKET_RENT_COM"
     },
     {
@@ -3688,7 +3688,7 @@
       "baseRent": "672",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_NAGAR_COUNCIL_DE_KOL_RENT_COM"
     },
     {
@@ -3705,7 +3705,7 @@
       "baseRent": "813",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_NAGAR_COUNCIL_DE_KOL_RENT_COM"
     },
     {
@@ -3722,7 +3722,7 @@
       "baseRent": "813",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_NAGAR_COUNCIL_DE_KOL_RENT_COM"
     },
     {
@@ -3739,7 +3739,7 @@
       "baseRent": "813",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_NAGAR_COUNCIL_DE_KOL_RENT_COM"
     },
     {
@@ -3756,7 +3756,7 @@
       "baseRent": "813",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_NAGAR_COUNCIL_DE_KOL_RENT_COM"
     },
     {
@@ -3773,7 +3773,7 @@
       "baseRent": "813",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_NAGAR_COUNCIL_DE_KOL_RENT_COM"
     },
     {
@@ -3790,7 +3790,7 @@
       "baseRent": "813",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_NAGAR_COUNCIL_DE_KOL_RENT_COM"
     },
     {
@@ -3807,7 +3807,7 @@
       "baseRent": "1011",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_NAGAR_COUNCIL_DE_KOL_RENT_COM"
     },
     {
@@ -3824,7 +3824,7 @@
       "baseRent": "813",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_NAGAR_COUNCIL_DE_KOL_RENT_COM"
     },
     {
@@ -3841,7 +3841,7 @@
       "baseRent": "813",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_NAGAR_COUNCIL_DE_KOL_RENT_COM"
     },
     {
@@ -3858,7 +3858,7 @@
       "baseRent": "813",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_NAGAR_COUNCIL_DE_KOL_RENT_COM"
     },
     {
@@ -3875,7 +3875,7 @@
       "baseRent": "813",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_NAGAR_COUNCIL_DE_KOL_RENT_COM"
     },
     {
@@ -3892,7 +3892,7 @@
       "baseRent": "1011",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_NAGAR_COUNCIL_DE_KOL_RENT_COM"
     },
     {
@@ -3909,7 +3909,7 @@
       "baseRent": "1011",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_NAGAR_COUNCIL_DE_KOL_RENT_COM"
     },
     {
@@ -3926,7 +3926,7 @@
       "baseRent": "1411",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_NAGAR_COUNCIL_DE_KOL_RENT_COM"
     },
     {
@@ -3943,7 +3943,7 @@
       "baseRent": "1227",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_NAGAR_COUNCIL_DE_KOL_RENT_COM"
     },
     {
@@ -3960,7 +3960,7 @@
       "baseRent": "1411",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_NAGAR_COUNCIL_DE_KOL_RENT_COM"
     },
     {
@@ -3977,7 +3977,7 @@
       "baseRent": "1411",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_NAGAR_COUNCIL_DE_KOL_RENT_COM"
     },
     {
@@ -3994,7 +3994,7 @@
       "baseRent": "1411",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_NAGAR_COUNCIL_DE_KOL_RENT_COM"
     },
     {
@@ -4011,7 +4011,7 @@
       "baseRent": "1227",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_NAGAR_COUNCIL_DE_KOL_RENT_COM"
     },
     {
@@ -4028,7 +4028,7 @@
       "baseRent": "1227",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_NAGAR_COUNCIL_DE_KOL_RENT_COM"
     },
     {
@@ -4045,7 +4045,7 @@
       "baseRent": "1227",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_NAGAR_COUNCIL_DE_KOL_RENT_COM"
     },
     {
@@ -4062,7 +4062,7 @@
       "baseRent": "1618",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_NAGAR_COUNCIL_DE_KOL_RENT_COM"
     },
     {
@@ -4079,7 +4079,7 @@
       "baseRent": "1618",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_NAGAR_COUNCIL_DE_KOL_RENT_COM"
     },
     {
@@ -4096,7 +4096,7 @@
       "baseRent": "2023",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_NAGAR_COUNCIL_DE_KOL_RENT_COM"
     },
     {
@@ -4113,7 +4113,7 @@
       "baseRent": "2223",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_NAGAR_COUNCIL_DE_KOL_RENT_COM"
     },
     {
@@ -4130,7 +4130,7 @@
       "baseRent": "1819",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_NAGAR_COUNCIL_DE_KOL_RENT_COM"
     },
     {
@@ -4147,7 +4147,7 @@
       "baseRent": "2426",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_NAGAR_COUNCIL_DE_KOL_RENT_COM"
     },
     {
@@ -4164,7 +4164,7 @@
       "baseRent": "2023",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_CIVIL_HOSPITAL_SMALL_GATE_NEAR_RENT_COM"
     },
     {
@@ -4181,7 +4181,7 @@
       "baseRent": "2023",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_CIVIL_HOSPITAL_SMALL_GATE_NEAR_RENT_COM"
     },
     {
@@ -4198,7 +4198,7 @@
       "baseRent": "2061",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_CIVIL_HOSPITAL_SMALL_GATE_NEAR_RENT_COM"
     },
     {
@@ -4215,7 +4215,7 @@
       "baseRent": "1820",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_CIVIL_HOSPITAL_SMALL_GATE_NEAR_RENT_COM"
     },
     {
@@ -4232,7 +4232,7 @@
       "baseRent": "1719",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_CIVIL_HOSPITAL_SMALL_GATE_NEAR_RENT_COM"
     },
     {
@@ -4249,7 +4249,7 @@
       "baseRent": "1719",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_CIVIL_HOSPITAL_SMALL_GATE_NEAR_RENT_COM"
     },
     {
@@ -4266,7 +4266,7 @@
       "baseRent": "776",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_CIVIL_HOSPITAL_SMALL_GATE_NEAR_RENT_COM"
     },
     {
@@ -4283,7 +4283,7 @@
       "baseRent": "2992",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SHAHEED_SAMARAK_COLLEGE_ROAD_RENT_COM"
     },
     {
@@ -4300,7 +4300,7 @@
       "baseRent": "1405",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SHAHEED_SAMARAK_COLLEGE_ROAD_RENT_COM"
     },
     {
@@ -4317,7 +4317,7 @@
       "baseRent": "1801",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SHAHEED_SAMARAK_COLLEGE_ROAD_RENT_COM"
     },
     {
@@ -4334,7 +4334,7 @@
       "baseRent": "1757",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SHAHEED_SAMARAK_COLLEGE_ROAD_RENT_COM"
     },
     {
@@ -4351,7 +4351,7 @@
       "baseRent": "1757",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SHAHEED_SAMARAK_COLLEGE_ROAD_RENT_COM"
     },
     {
@@ -4368,7 +4368,7 @@
       "baseRent": "1757",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SHAHEED_SAMARAK_COLLEGE_ROAD_RENT_COM"
     },
     {
@@ -4385,7 +4385,7 @@
       "baseRent": "2122",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SHAHEED_SAMARAK_COLLEGE_ROAD_RENT_COM"
     },
     {
@@ -4402,7 +4402,7 @@
       "baseRent": "2815",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SHAHEED_SAMARAK_COLLEGE_ROAD_RENT_COM"
     },
     {
@@ -4419,7 +4419,7 @@
       "baseRent": "1026",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SHAHEED_SAMARAK_COLLEGE_ROAD_RENT_COM"
     },
     {
@@ -4436,7 +4436,7 @@
       "baseRent": "4045",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_REHRI_MARKET_RENT_COM"
     },
     {
@@ -4453,7 +4453,7 @@
       "baseRent": "4045",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_REHRI_MARKET_RENT_COM"
     },
     {
@@ -4470,7 +4470,7 @@
       "baseRent": "4045",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_REHRI_MARKET_RENT_COM"
     },
     {
@@ -4487,7 +4487,7 @@
       "baseRent": "4045",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_REHRI_MARKET_RENT_COM"
     },
     {
@@ -4504,7 +4504,7 @@
       "baseRent": "4045",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_REHRI_MARKET_RENT_COM"
     },
     {
@@ -4521,7 +4521,7 @@
       "baseRent": "4045",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_REHRI_MARKET_RENT_COM"
     },
     {
@@ -4538,7 +4538,7 @@
       "baseRent": "4045",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_REHRI_MARKET_RENT_COM"
     },
     {
@@ -4555,7 +4555,7 @@
       "baseRent": "4045",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_REHRI_MARKET_RENT_COM"
     },
     {
@@ -4572,7 +4572,7 @@
       "baseRent": "4045",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_REHRI_MARKET_RENT_COM"
     },
     {
@@ -4589,7 +4589,7 @@
       "baseRent": "4045",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_REHRI_MARKET_RENT_COM"
     },
     {
@@ -4606,7 +4606,7 @@
       "baseRent": "4045",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_REHRI_MARKET_RENT_COM"
     },
     {
@@ -4623,7 +4623,7 @@
       "baseRent": "2313",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GOL_MARKET_RENT_COM"
     },
     {
@@ -4640,7 +4640,7 @@
       "baseRent": "2313",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GOL_MARKET_RENT_COM"
     },
     {
@@ -4657,7 +4657,7 @@
       "baseRent": "2313",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GOL_MARKET_RENT_COM"
     },
     {
@@ -4674,7 +4674,7 @@
       "baseRent": "2313",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GOL_MARKET_RENT_COM"
     },
     {
@@ -4691,7 +4691,7 @@
       "baseRent": "2313",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GOL_MARKET_RENT_COM"
     },
     {
@@ -4708,7 +4708,7 @@
       "baseRent": "2313",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GOL_MARKET_RENT_COM"
     },
     {
@@ -4725,7 +4725,7 @@
       "baseRent": "2313",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GOL_MARKET_RENT_COM"
     },
     {
@@ -4742,7 +4742,7 @@
       "baseRent": "2313",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GOL_MARKET_RENT_COM"
     },
     {
@@ -4759,7 +4759,7 @@
       "baseRent": "2313",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GOL_MARKET_RENT_COM"
     },
     {
@@ -4776,7 +4776,7 @@
       "baseRent": "2313",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GOL_MARKET_RENT_COM"
     },
     {
@@ -4793,7 +4793,7 @@
       "baseRent": "2313",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GOL_MARKET_RENT_COM"
     },
     {
@@ -4810,7 +4810,7 @@
       "baseRent": "2313",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GOL_MARKET_RENT_COM"
     },
     {
@@ -4827,7 +4827,7 @@
       "baseRent": "2313",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GOL_MARKET_RENT_COM"
     },
     {
@@ -4844,7 +4844,7 @@
       "baseRent": "2313",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GOL_MARKET_RENT_COM"
     },
     {
@@ -4861,7 +4861,7 @@
       "baseRent": "2313",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GOL_MARKET_RENT_COM"
     },
     {
@@ -4878,7 +4878,7 @@
       "baseRent": "2313",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GOL_MARKET_RENT_COM"
     },
     {
@@ -4895,7 +4895,7 @@
       "baseRent": "2313",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GOL_MARKET_RENT_COM"
     },
     {
@@ -4912,7 +4912,7 @@
       "baseRent": "2313",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GOL_MARKET_RENT_COM"
     },
     {
@@ -4929,7 +4929,7 @@
       "baseRent": "2313",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GOL_MARKET_RENT_COM"
     },
     {
@@ -4946,7 +4946,7 @@
       "baseRent": "2615",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GOL_MARKET_RENT_COM"
     },
     {
@@ -4963,7 +4963,7 @@
       "baseRent": "2313",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GOL_MARKET_RENT_COM"
     },
     {
@@ -4980,7 +4980,7 @@
       "baseRent": "2615",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GOL_MARKET_RENT_COM"
     },
     {
@@ -4997,7 +4997,7 @@
       "baseRent": "2313",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GOL_MARKET_RENT_COM"
     },
     {
@@ -5014,7 +5014,7 @@
       "baseRent": "2313",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GOL_MARKET_RENT_COM"
     },
     {
@@ -5031,7 +5031,7 @@
       "baseRent": "2313",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GOL_MARKET_RENT_COM"
     },
     {
@@ -5048,7 +5048,7 @@
       "baseRent": "2313",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GOL_MARKET_RENT_COM"
     },
     {
@@ -5065,7 +5065,7 @@
       "baseRent": "2313",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GOL_MARKET_RENT_COM"
     },
     {
@@ -5082,7 +5082,7 @@
       "baseRent": "2313",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GOL_MARKET_RENT_COM"
     },
     {
@@ -5099,7 +5099,7 @@
       "baseRent": "2313",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_BUS_STAND_SMALL_GATE_NEAR_RENT_COM"
     },
     {
@@ -5116,7 +5116,7 @@
       "baseRent": "2313",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_BUS_STAND_SMALL_GATE_NEAR_RENT_COM"
     },
     {
@@ -5133,7 +5133,7 @@
       "baseRent": "4022",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_NAGAR_COUNCIL_OFFICE_BEHIND_RENT_COM"
     },
     {
@@ -5150,7 +5150,7 @@
       "baseRent": "3520",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_NAGAR_COUNCIL_OFFICE_BEHIND_RENT_COM"
     },
     {
@@ -5167,7 +5167,7 @@
       "baseRent": "3016",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOP_BUS_STAND_MAIN_GATE_NEAR_RENT_COM"
     },
     {
@@ -5184,7 +5184,7 @@
       "baseRent": "3016",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOP_BUS_STAND_OUTSIDE_RENT_COM"
     },
     {
@@ -5201,7 +5201,7 @@
       "baseRent": "3042",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_MINI_BUS_STAND_OFFICE_THE_DONON_SIDE_RENT_COM"
     },
     {
@@ -5218,7 +5218,7 @@
       "baseRent": "2615",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_MINI_BUS_STAND_OFFICE_THE_DONON_SIDE_RENT_COM"
     },
     {
@@ -5235,7 +5235,7 @@
       "baseRent": "2816",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_MINI_BUS_STAND_OFFICE_THE_DONON_SIDE_RENT_COM"
     },
     {
@@ -5252,7 +5252,7 @@
       "baseRent": "3018",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_MINI_BUS_STAND_OFFICE_THE_DONON_SIDE_RENT_COM"
     },
     {
@@ -5269,7 +5269,7 @@
       "baseRent": "8044",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_BHAGAT_SINGH_COLONY_WALI_SIDE_RENT_COM"
     },
     {
@@ -5286,7 +5286,7 @@
       "baseRent": "9252",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_BHAGAT_SINGH_COLONY_WALI_SIDE_RENT_COM"
     },
     {
@@ -5303,7 +5303,7 @@
       "baseRent": "645",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_BHAGAT_SINGH_COLONY_WALI_SIDE_RENT_COM"
     },
     {
@@ -5320,7 +5320,7 @@
       "baseRent": "653",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_BHAGAT_SINGH_COLONY_WALI_SIDE_RENT_COM"
     },
     {
@@ -5337,7 +5337,7 @@
       "baseRent": "3115",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SEWA_BHARTI_NEAR_RENT_COM"
     },
     {
@@ -5354,7 +5354,7 @@
       "baseRent": "1507",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SEWA_BHARTI_NEAR_RENT_COM"
     },
     {
@@ -5371,7 +5371,7 @@
       "baseRent": "1809",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SEWA_BHARTI_NEAR_RENT_COM"
     },
     {
@@ -5388,7 +5388,7 @@
       "baseRent": "2010",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SEWA_BHARTI_NEAR_RENT_COM"
     },
     {
@@ -5405,7 +5405,7 @@
       "baseRent": "1224",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_VRIDH_ASHRAM_NEAR_TANKI_BEHIND_RENT_COM"
     },
     {
@@ -5422,7 +5422,7 @@
       "baseRent": "1311",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_VRIDH_ASHRAM_NEAR_TANKI_BEHIND_RENT_COM"
     },
     {
@@ -5439,7 +5439,7 @@
       "baseRent": "1710",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_DHOBIGHAT_BEHIND_RENT_COM"
     },
     {
@@ -5456,7 +5456,7 @@
       "baseRent": "1258",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_DHOBIGHAT_BEHIND_RENT_COM"
     },
     {
@@ -5473,7 +5473,7 @@
       "baseRent": "1457",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_DHOBIGHAT_BEHIND_RENT_COM"
     },
     {
@@ -5490,7 +5490,7 @@
       "baseRent": "1258",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_DHOBIGHAT_BEHIND_RENT_COM"
     },
     {
@@ -5507,7 +5507,7 @@
       "baseRent": "1356",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_DHOBIGHAT_BEHIND_RENT_COM"
     },
     {
@@ -5524,7 +5524,7 @@
       "baseRent": "1507",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_DHOBIGHAT_BEHIND_RENT_COM"
     },
     {
@@ -5541,7 +5541,7 @@
       "baseRent": "1356",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_DHOBIGHAT_BEHIND_RENT_COM"
     },
     {
@@ -5558,7 +5558,7 @@
       "baseRent": "1457",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_DHOBIGHAT_BEHIND_RENT_COM"
     },
     {
@@ -5575,7 +5575,7 @@
       "baseRent": "1507",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_DHOBIGHAT_BEHIND_RENT_COM"
     },
     {
@@ -5592,7 +5592,7 @@
       "baseRent": "1171",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_DHOBIGHAT_BEHIND_RENT_COM"
     },
     {
@@ -5609,7 +5609,7 @@
       "baseRent": "1710",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SEWA_BHARTI_NEAR_RENT_COM"
     },
     {
@@ -5626,7 +5626,7 @@
       "baseRent": "2263",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SEWA_BHARTI_NEAR_RENT_COM"
     },
     {
@@ -5643,7 +5643,7 @@
       "baseRent": "2062",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SEWA_BHARTI_NEAR_RENT_COM"
     },
     {
@@ -5660,7 +5660,7 @@
       "baseRent": "2263",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SEWA_BHARTI_NEAR_RENT_COM"
     },
     {
@@ -5677,7 +5677,7 @@
       "baseRent": "1557",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SEWA_BHARTI_NEAR_RENT_COM"
     },
     {
@@ -5694,7 +5694,7 @@
       "baseRent": "1356",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SEWA_BHARTI_NEAR_RENT_COM"
     },
     {
@@ -5711,7 +5711,7 @@
       "baseRent": "517",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_SEWA_BHARTI_NEAR_RENT_COM"
     },
     {
@@ -5728,7 +5728,7 @@
       "baseRent": "813",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_VARIOUS_VKKH_SHOPS_RENT_COM"
     },
     {
@@ -5745,7 +5745,7 @@
       "baseRent": "1133",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_VARIOUS_VKKH_SHOPS_RENT_COM"
     },
     {
@@ -5762,7 +5762,7 @@
       "baseRent": "423",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_VARIOUS_VKKH_SHOPS_RENT_COM"
     },
     {
@@ -5779,7 +5779,7 @@
       "baseRent": "423",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_VARIOUS_VKKH_SHOPS_RENT_COM"
     },
     {
@@ -5796,7 +5796,7 @@
       "baseRent": "822",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_VARIOUS_VKKH_SHOPS_RENT_COM"
     },
     {
@@ -5813,7 +5813,7 @@
       "baseRent": "488",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_VARIOUS_VKKH_SHOPS_RENT_COM"
     },
     {
@@ -5830,7 +5830,7 @@
       "baseRent": "1398",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -5847,7 +5847,7 @@
       "baseRent": "1398",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -5864,7 +5864,7 @@
       "baseRent": "1398",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -5881,7 +5881,7 @@
       "baseRent": "1398",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -5898,7 +5898,7 @@
       "baseRent": "1398",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -5915,7 +5915,7 @@
       "baseRent": "1398",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -5932,7 +5932,7 @@
       "baseRent": "1398",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -5949,7 +5949,7 @@
       "baseRent": "1398",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -5966,7 +5966,7 @@
       "baseRent": "1398",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -5983,7 +5983,7 @@
       "baseRent": "1398",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6000,7 +6000,7 @@
       "baseRent": "1398",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6017,7 +6017,7 @@
       "baseRent": "1398",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6034,7 +6034,7 @@
       "baseRent": "1398",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6051,7 +6051,7 @@
       "baseRent": "1398",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6068,7 +6068,7 @@
       "baseRent": "1398",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6085,7 +6085,7 @@
       "baseRent": "1398",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6102,7 +6102,7 @@
       "baseRent": "1398",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6119,7 +6119,7 @@
       "baseRent": "1398",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6136,7 +6136,7 @@
       "baseRent": "1048",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6153,7 +6153,7 @@
       "baseRent": "1048",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6170,7 +6170,7 @@
       "baseRent": "1048",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6187,7 +6187,7 @@
       "baseRent": "1048",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6204,7 +6204,7 @@
       "baseRent": "1048",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6221,7 +6221,7 @@
       "baseRent": "1048",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6238,7 +6238,7 @@
       "baseRent": "1048",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6255,7 +6255,7 @@
       "baseRent": "1048",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6272,7 +6272,7 @@
       "baseRent": "1048",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6289,7 +6289,7 @@
       "baseRent": "1048",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6306,7 +6306,7 @@
       "baseRent": "1048",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6323,7 +6323,7 @@
       "baseRent": "699",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6340,7 +6340,7 @@
       "baseRent": "699",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6357,7 +6357,7 @@
       "baseRent": "699",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6374,7 +6374,7 @@
       "baseRent": "699",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6391,7 +6391,7 @@
       "baseRent": "699",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6408,7 +6408,7 @@
       "baseRent": "699",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6425,7 +6425,7 @@
       "baseRent": "699",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6442,7 +6442,7 @@
       "baseRent": "699",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6459,7 +6459,7 @@
       "baseRent": "699",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6476,7 +6476,7 @@
       "baseRent": "261",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6493,7 +6493,7 @@
       "baseRent": "1398",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6510,7 +6510,7 @@
       "baseRent": "1398",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6527,7 +6527,7 @@
       "baseRent": "1398",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6544,7 +6544,7 @@
       "baseRent": "1398",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6561,7 +6561,7 @@
       "baseRent": "1398",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6578,7 +6578,7 @@
       "baseRent": "1398",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6595,7 +6595,7 @@
       "baseRent": "1398",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6612,7 +6612,7 @@
       "baseRent": "1398",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6629,7 +6629,7 @@
       "baseRent": "261",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6646,7 +6646,7 @@
       "baseRent": "1398",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6663,7 +6663,7 @@
       "baseRent": "1398",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6680,7 +6680,7 @@
       "baseRent": "1398",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6697,7 +6697,7 @@
       "baseRent": "1398",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6714,7 +6714,7 @@
       "baseRent": "1398",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6731,7 +6731,7 @@
       "baseRent": "1398",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6748,7 +6748,7 @@
       "baseRent": "1398",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6765,7 +6765,7 @@
       "baseRent": "1398",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6782,7 +6782,7 @@
       "baseRent": "174",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6799,7 +6799,7 @@
       "baseRent": "261",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6816,7 +6816,7 @@
       "baseRent": "348",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6833,7 +6833,7 @@
       "baseRent": "174",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6850,7 +6850,7 @@
       "baseRent": "152",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6867,7 +6867,7 @@
       "baseRent": "152",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6884,7 +6884,7 @@
       "baseRent": "345",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6901,7 +6901,7 @@
       "baseRent": "345",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6918,7 +6918,7 @@
       "baseRent": "265",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6935,7 +6935,7 @@
       "baseRent": "174",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6952,7 +6952,7 @@
       "baseRent": "174",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6969,7 +6969,7 @@
       "baseRent": "174",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -6986,7 +6986,7 @@
       "baseRent": "174",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -7003,7 +7003,7 @@
       "baseRent": "265",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -7020,7 +7020,7 @@
       "baseRent": "265",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -7037,7 +7037,7 @@
       "baseRent": "152",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -7054,7 +7054,7 @@
       "baseRent": "265",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -7071,7 +7071,7 @@
       "baseRent": "174",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -7088,7 +7088,7 @@
       "baseRent": "265",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -7105,7 +7105,7 @@
       "baseRent": "132",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -7122,7 +7122,7 @@
       "baseRent": "132",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -7139,7 +7139,7 @@
       "baseRent": "152",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -7156,7 +7156,7 @@
       "baseRent": "152",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -7173,7 +7173,7 @@
       "baseRent": "174",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -7190,7 +7190,7 @@
       "baseRent": "152",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -7207,7 +7207,7 @@
       "baseRent": "198",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -7224,7 +7224,7 @@
       "baseRent": "152",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -7241,7 +7241,7 @@
       "baseRent": "230",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -7258,7 +7258,7 @@
       "baseRent": "132",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -7275,7 +7275,7 @@
       "baseRent": "132",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_AISAIM_COLONY_RENT_COM"
     },
     {
@@ -7292,7 +7292,7 @@
       "baseRent": "428",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GURDWARE_DE_KOL_PHUL_TOWN_RENT_COM"
     },
     {
@@ -7309,7 +7309,7 @@
       "baseRent": "428",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GURDWARE_DE_KOL_PHUL_TOWN_RENT_COM"
     },
     {
@@ -7326,7 +7326,7 @@
       "baseRent": "428",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GURDWARE_DE_KOL_PHUL_TOWN_RENT_COM"
     },
     {
@@ -7343,7 +7343,7 @@
       "baseRent": "428",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GURDWARE_DE_KOL_PHUL_TOWN_RENT_COM"
     },
     {
@@ -7360,7 +7360,7 @@
       "baseRent": "428",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GURDWARE_DE_KOL_PHUL_TOWN_RENT_COM"
     },
     {
@@ -7377,7 +7377,7 @@
       "baseRent": "428",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GURDWARE_DE_KOL_PHUL_TOWN_RENT_COM"
     },
     {
@@ -7394,7 +7394,7 @@
       "baseRent": "428",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GURDWARE_DE_KOL_PHUL_TOWN_RENT_COM"
     },
     {
@@ -7411,7 +7411,7 @@
       "baseRent": "428",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GURDWARE_DE_KOL_PHUL_TOWN_RENT_COM"
     },
     {
@@ -7428,7 +7428,7 @@
       "baseRent": "428",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GURDWARE_DE_KOL_PHUL_TOWN_RENT_COM"
     },
     {
@@ -7445,7 +7445,7 @@
       "baseRent": "428",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GURDWARE_DE_KOL_PHUL_TOWN_RENT_COM"
     },
     {
@@ -7462,7 +7462,7 @@
       "baseRent": "428",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GURDWARE_DE_KOL_PHUL_TOWN_RENT_COM"
     },
     {
@@ -7479,7 +7479,7 @@
       "baseRent": "428",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GURDWARE_DE_KOL_PHUL_TOWN_RENT_COM"
     },
     {
@@ -7496,7 +7496,7 @@
       "baseRent": "428",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GURDWARE_DE_KOL_PHUL_TOWN_RENT_COM"
     },
     {
@@ -7513,7 +7513,7 @@
       "baseRent": "428",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GURDWARE_DE_KOL_PHUL_TOWN_RENT_COM"
     },
     {
@@ -7530,7 +7530,7 @@
       "baseRent": "428",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GURDWARE_DE_KOL_PHUL_TOWN_RENT_COM"
     },
     {
@@ -7547,7 +7547,7 @@
       "baseRent": "428",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GURDWARE_DE_KOL_PHUL_TOWN_RENT_COM"
     },
     {
@@ -7564,7 +7564,7 @@
       "baseRent": "428",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GURDWARE_DE_KOL_PHUL_TOWN_RENT_COM"
     },
     {
@@ -7581,7 +7581,7 @@
       "baseRent": "428",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GURDWARE_DE_KOL_PHUL_TOWN_RENT_COM"
     },
     {
@@ -7598,7 +7598,7 @@
       "baseRent": "428",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GURDWARE_DE_KOL_PHUL_TOWN_RENT_COM"
     },
     {
@@ -7615,7 +7615,7 @@
       "baseRent": "428",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GURDWARE_DE_KOL_PHUL_TOWN_RENT_COM"
     },
     {
@@ -7632,7 +7632,7 @@
       "baseRent": "428",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GURDWARE_DE_KOL_PHUL_TOWN_RENT_COM"
     },
     {
@@ -7649,7 +7649,7 @@
       "baseRent": "428",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GURDWARE_DE_KOL_PHUL_TOWN_RENT_COM"
     },
     {
@@ -7666,7 +7666,7 @@
       "baseRent": "428",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_GURDWARE_DE_KOL_PHUL_TOWN_RENT_COM"
     },
     {
@@ -7683,7 +7683,7 @@
       "baseRent": "371",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PHUL_TOWN_FORT_LEFT_SIDE_RENT_COM"
     },
     {
@@ -7700,7 +7700,7 @@
       "baseRent": "371",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PHUL_TOWN_FORT_LEFT_SIDE_RENT_COM"
     },
     {
@@ -7717,7 +7717,7 @@
       "baseRent": "371",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PHUL_TOWN_FORT_LEFT_SIDE_RENT_COM"
     },
     {
@@ -7734,7 +7734,7 @@
       "baseRent": "371",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PHUL_TOWN_FORT_LEFT_SIDE_RENT_COM"
     },
     {
@@ -7751,7 +7751,7 @@
       "baseRent": "371",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PHUL_TOWN_FORT_LEFT_SIDE_RENT_COM"
     },
     {
@@ -7768,7 +7768,7 @@
       "baseRent": "371",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PHUL_TOWN_FORT_LEFT_SIDE_RENT_COM"
     },
     {
@@ -7785,7 +7785,7 @@
       "baseRent": "371",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PHUL_TOWN_FORT_LEFT_SIDE_RENT_COM"
     },
     {
@@ -7802,7 +7802,7 @@
       "baseRent": "371",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PHUL_TOWN_FORT_LEFT_SIDE_RENT_COM"
     },
     {
@@ -7819,7 +7819,7 @@
       "baseRent": "371",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PHUL_TOWN_FORT_RIGHT_SIDE_RENT_COM"
     },
     {
@@ -7836,7 +7836,7 @@
       "baseRent": "371",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PHUL_TOWN_FORT_RIGHT_SIDE_RENT_COM"
     },
     {
@@ -7853,7 +7853,7 @@
       "baseRent": "371",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PHUL_TOWN_FORT_RIGHT_SIDE_RENT_COM"
     },
     {
@@ -7870,7 +7870,7 @@
       "baseRent": "371",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PHUL_TOWN_FORT_RIGHT_SIDE_RENT_COM"
     },
     {
@@ -7887,7 +7887,7 @@
       "baseRent": "371",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PHUL_TOWN_FORT_RIGHT_SIDE_RENT_COM"
     },
     {
@@ -7904,7 +7904,7 @@
       "baseRent": "371",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PHUL_TOWN_FORT_RIGHT_SIDE_RENT_COM"
     },
     {
@@ -7921,7 +7921,7 @@
       "baseRent": "371",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PHUL_TOWN_FORT_RIGHT_SIDE_RENT_COM"
     },
     {
@@ -7938,7 +7938,7 @@
       "baseRent": "371",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PHUL_TOWN_FORT_RIGHT_SIDE_RENT_COM"
     },
     {
@@ -7955,7 +7955,7 @@
       "baseRent": "371",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PHUL_TOWN_FORT_RIGHT_SIDE_RENT_COM"
     },
     {
@@ -7972,7 +7972,7 @@
       "baseRent": "371",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PHUL_TOWN_FORT_RIGHT_SIDE_RENT_COM"
     },
     {
@@ -7989,7 +7989,7 @@
       "baseRent": "666",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PHUL_TOWN_WATER_WORKS_NEAR_RENT_COM"
     },
     {
@@ -8006,7 +8006,7 @@
       "baseRent": "666",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PHUL_TOWN_WATER_WORKS_NEAR_RENT_COM"
     },
     {
@@ -8023,7 +8023,7 @@
       "baseRent": "666",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PHUL_TOWN_WATER_WORKS_NEAR_RENT_COM"
     },
     {
@@ -8040,7 +8040,7 @@
       "baseRent": "666",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PHUL_TOWN_WATER_WORKS_NEAR_RENT_COM"
     },
     {
@@ -8057,7 +8057,7 @@
       "baseRent": "666",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PHUL_TOWN_WATER_WORKS_NEAR_RENT_COM"
     },
     {
@@ -8074,7 +8074,7 @@
       "baseRent": "1176",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PHUL_TOWN_REST_HOUSE_NEAR_RENT_COM"
     },
     {
@@ -8091,7 +8091,7 @@
       "baseRent": "651",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PHUL_TOWN_REST_HOUSE_NEAR_RENT_COM"
     },
     {
@@ -8108,7 +8108,7 @@
       "baseRent": "813",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PHUL_TOWN_REST_HOUSE_NEAR_RENT_COM"
     },
     {
@@ -8125,7 +8125,7 @@
       "baseRent": "857",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PHUL_TOWN_REST_HOUSE_NEAR_RENT_COM"
     },
     {
@@ -8142,7 +8142,7 @@
       "baseRent": "953",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PHUL_TOWN_REST_HOUSE_NEAR_RENT_COM"
     },
     {
@@ -8159,7 +8159,7 @@
       "baseRent": "1408",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_HANUMANN_MANDIR_PHUL_RENT_COM"
     },
     {
@@ -8176,7 +8176,7 @@
       "baseRent": "1408",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_HANUMANN_MANDIR_PHUL_RENT_COM"
     },
     {
@@ -8193,7 +8193,7 @@
       "baseRent": "1408",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_HANUMANN_MANDIR_PHUL_RENT_COM"
     },
     {
@@ -8210,7 +8210,7 @@
       "baseRent": "1058",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_HANUMANN_MANDIR_PHUL_RENT_COM"
     },
     {
@@ -8227,7 +8227,7 @@
       "baseRent": "1125",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_HANUMANN_MANDIR_PHUL_RENT_COM"
     },
     {
@@ -8244,7 +8244,7 @@
       "baseRent": "882",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_HANUMANN_MANDIR_PHUL_RENT_COM"
     },
     {
@@ -8261,7 +8261,7 @@
       "baseRent": "843",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_HANUMANN_MANDIR_PHUL_RENT_COM"
     },
     {
@@ -8278,7 +8278,7 @@
       "baseRent": "843",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_HANUMANN_MANDIR_PHUL_RENT_COM"
     },
     {
@@ -8295,7 +8295,7 @@
       "baseRent": "843",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_HANUMANN_MANDIR_PHUL_RENT_COM"
     },
     {
@@ -8312,7 +8312,7 @@
       "baseRent": "2430",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PHUL_TOWN_WATER_WORKS_NEAR_RENT_COM"
     },
     {
@@ -8329,7 +8329,7 @@
       "baseRent": "2430",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PHUL_TOWN_WATER_WORKS_NEAR_RENT_COM"
     },
     {
@@ -8346,7 +8346,7 @@
       "baseRent": "760",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOP_WATER_WORKS_NEAR_RENT_COM"
     },
     {
@@ -8363,7 +8363,7 @@
       "baseRent": "1809",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_DUKAAN_AKALGARH_GURUDWARA_NEAR_PHUL_RENT_COM"
     },
     {
@@ -8380,7 +8380,7 @@
       "baseRent": "1557",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PHUL_TOWN_PARK_BAGH_RENT_COM"
     },
     {
@@ -8397,7 +8397,7 @@
       "baseRent": "1356",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PHUL_TOWN_PARK_BAGH_RENT_COM"
     },
     {
@@ -8414,7 +8414,7 @@
       "baseRent": "1406",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PHUL_TOWN_PARK_BAGH_RENT_COM"
     },
     {
@@ -8431,7 +8431,7 @@
       "baseRent": "1406",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PHUL_TOWN_PARK_BAGH_RENT_COM"
     },
     {
@@ -8448,7 +8448,7 @@
       "baseRent": "1356",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PHUL_TOWN_PARK_BAGH_RENT_COM"
     },
     {
@@ -8465,7 +8465,7 @@
       "baseRent": "2062",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PHUL_TOWN_PARK_BAGH_RENT_COM"
     },
     {
@@ -8482,7 +8482,7 @@
       "baseRent": "1809",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PHUL_TOWN_PARK_BAGH_RENT_COM"
     },
     {
@@ -8499,7 +8499,7 @@
       "baseRent": "1406",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PHUL_TOWN_PARK_BAGH_RENT_COM"
     },
     {
@@ -8516,7 +8516,7 @@
       "baseRent": "1658",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PHUL_TOWN_PARK_BAGH_RENT_COM"
     },
     {
@@ -8533,7 +8533,7 @@
       "baseRent": "1508",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PHUL_TOWN_PARK_BAGH_RENT_COM"
     },
     {
@@ -8550,7 +8550,7 @@
       "baseRent": "1308",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PHUL_TOWN_PARK_BAGH_RENT_COM"
     },
     {
@@ -8567,7 +8567,7 @@
       "baseRent": "1258",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PHUL_TOWN_PARK_BAGH_RENT_COM"
     },
     {
@@ -8584,7 +8584,7 @@
       "baseRent": "1308",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PHUL_TOWN_PARK_BAGH_RENT_COM"
     },
     {
@@ -8601,7 +8601,7 @@
       "baseRent": "1257",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PHUL_TOWN_PARK_BAGH_RENT_COM"
     },
     {
@@ -8618,7 +8618,7 @@
       "baseRent": "1355",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PHUL_TOWN_PARK_BAGH_RENT_COM"
     },
     {
@@ -8635,7 +8635,7 @@
       "baseRent": "1359",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PHUL_TOWN_PARK_BAGH_RENT_COM"
     },
     {
@@ -8652,7 +8652,7 @@
       "baseRent": "1286",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PHUL_TOWN_PARK_BAGH_RENT_COM"
     },
     {
@@ -8669,7 +8669,7 @@
       "baseRent": "2798",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PHUL_TOWN_PARK_BAGH_RENT_COM"
     },
     {
@@ -8686,7 +8686,7 @@
       "baseRent": "497",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PHUL_TOWN_PARK_BAGH_RENT_COM"
     },
     {
@@ -8703,7 +8703,7 @@
       "baseRent": "340",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_VALI_SIDE_PHUL_DI_BACK_SIDE_RENT_COM"
     },
     {
@@ -8720,7 +8720,7 @@
       "baseRent": "340",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_VALI_SIDE_PHUL_DI_BACK_SIDE_RENT_COM"
     },
     {
@@ -8737,7 +8737,7 @@
       "baseRent": "340",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_VALI_SIDE_PHUL_DI_BACK_SIDE_RENT_COM"
     },
     {
@@ -8754,7 +8754,7 @@
       "baseRent": "340",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_VALI_SIDE_PHUL_DI_BACK_SIDE_RENT_COM"
     },
     {
@@ -8771,7 +8771,7 @@
       "baseRent": "340",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_VALI_SIDE_PHUL_DI_BACK_SIDE_RENT_COM"
     },
     {
@@ -8788,7 +8788,7 @@
       "baseRent": "340",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_VALI_SIDE_PHUL_DI_BACK_SIDE_RENT_COM"
     },
     {
@@ -8805,7 +8805,7 @@
       "baseRent": "340",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_VALI_SIDE_PHUL_DI_BACK_SIDE_RENT_COM"
     },
     {
@@ -8822,7 +8822,7 @@
       "baseRent": "340",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_VALI_SIDE_PHUL_DI_BACK_SIDE_RENT_COM"
     },
     {
@@ -8839,7 +8839,7 @@
       "baseRent": "340",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_VALI_SIDE_PHUL_DI_BACK_SIDE_RENT_COM"
     },
     {
@@ -8856,7 +8856,7 @@
       "baseRent": "340",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_VALI_SIDE_PHUL_DI_BACK_SIDE_RENT_COM"
     },
     {
@@ -8873,7 +8873,7 @@
       "baseRent": "340",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_VALI_SIDE_PHUL_DI_BACK_SIDE_RENT_COM"
     },
     {
@@ -8890,7 +8890,7 @@
       "baseRent": "340",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_VALI_SIDE_PHUL_DI_BACK_SIDE_RENT_COM"
     },
     {
@@ -8907,7 +8907,7 @@
       "baseRent": "340",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_VALI_SIDE_PHUL_DI_BACK_SIDE_RENT_COM"
     },
     {
@@ -8924,7 +8924,7 @@
       "baseRent": "340",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_VALI_SIDE_PHUL_DI_BACK_SIDE_RENT_COM"
     },
     {
@@ -8941,7 +8941,7 @@
       "baseRent": "340",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_VALI_SIDE_PHUL_DI_BACK_SIDE_RENT_COM"
     },
     {
@@ -8958,7 +8958,7 @@
       "baseRent": "340",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_VALI_SIDE_PHUL_DI_BACK_SIDE_RENT_COM"
     },
     {
@@ -8975,7 +8975,7 @@
       "baseRent": "340",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_VALI_SIDE_PHUL_DI_BACK_SIDE_RENT_COM"
     },
     {
@@ -8992,7 +8992,7 @@
       "baseRent": "340",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_VALI_SIDE_PHUL_DI_BACK_SIDE_RENT_COM"
     },
     {
@@ -9009,7 +9009,7 @@
       "baseRent": "340",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_VALI_SIDE_PHUL_DI_BACK_SIDE_RENT_COM"
     },
     {
@@ -9026,7 +9026,7 @@
       "baseRent": "340",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_VALI_SIDE_PHUL_DI_BACK_SIDE_RENT_COM"
     },
     {
@@ -9043,7 +9043,7 @@
       "baseRent": "340",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_VALI_SIDE_PHUL_DI_BACK_SIDE_RENT_COM"
     },
     {
@@ -9060,7 +9060,7 @@
       "baseRent": "340",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_VALI_SIDE_PHUL_DI_BACK_SIDE_RENT_COM"
     },
     {
@@ -9077,7 +9077,7 @@
       "baseRent": "348",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_VALI_SIDE_PHUL_DI_BACK_SIDE_RENT_COM"
     },
     {
@@ -9094,7 +9094,7 @@
       "baseRent": "340",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PARK_BAGH_VALI_SIDE_PHUL_DI_BACK_SIDE_RENT_COM"
     },
     {
@@ -9111,7 +9111,7 @@
       "baseRent": "531",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_TOBHE_VALI_MARKET_RENT_COM"
     },
     {
@@ -9128,7 +9128,7 @@
       "baseRent": "531",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_TOBHE_VALI_MARKET_RENT_COM"
     },
     {
@@ -9145,7 +9145,7 @@
       "baseRent": "531",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_TOBHE_VALI_MARKET_RENT_COM"
     },
     {
@@ -9162,7 +9162,7 @@
       "baseRent": "531",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_TOBHE_VALI_MARKET_RENT_COM"
     },
     {
@@ -9179,7 +9179,7 @@
       "baseRent": "531",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_TOBHE_VALI_MARKET_RENT_COM"
     },
     {
@@ -9196,7 +9196,7 @@
       "baseRent": "531",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_TOBHE_VALI_MARKET_RENT_COM"
     },
     {
@@ -9213,7 +9213,7 @@
       "baseRent": "531",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_TOBHE_VALI_MARKET_RENT_COM"
     },
     {
@@ -9230,7 +9230,7 @@
       "baseRent": "531",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_TOBHE_VALI_MARKET_RENT_COM"
     },
     {
@@ -9247,7 +9247,7 @@
       "baseRent": "531",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_TOBHE_VALI_MARKET_RENT_COM"
     },
     {
@@ -9264,7 +9264,7 @@
       "baseRent": "531",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_TOBHE_VALI_MARKET_RENT_COM"
     },
     {
@@ -9281,7 +9281,7 @@
       "baseRent": "531",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_TOBHE_VALI_MARKET_RENT_COM"
     },
     {
@@ -9298,7 +9298,7 @@
       "baseRent": "531",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_TOBHE_VALI_MARKET_RENT_COM"
     },
     {
@@ -9315,7 +9315,7 @@
       "baseRent": "531",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_TOBHE_VALI_MARKET_RENT_COM"
     },
     {
@@ -9332,7 +9332,7 @@
       "baseRent": "500",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_TOBHE_VALI_MARKET_RENT_COM"
     },
     {
@@ -9349,7 +9349,7 @@
       "baseRent": "500",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_TOBHE_VALI_MARKET_RENT_COM"
     },
     {
@@ -9366,7 +9366,7 @@
       "baseRent": "531",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_TOBHE_VALI_MARKET_RENT_COM"
     },
     {
@@ -9383,7 +9383,7 @@
       "baseRent": "531",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_TOBHE_VALI_MARKET_RENT_COM"
     },
     {
@@ -9400,7 +9400,7 @@
       "baseRent": "531",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_TOBHE_VALI_MARKET_RENT_COM"
     },
     {
@@ -9417,7 +9417,7 @@
       "baseRent": "265",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_TOBHE_VALI_MARKET_RENT_COM"
     },
     {
@@ -9434,7 +9434,7 @@
       "baseRent": "266",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_TOBHE_VALI_MARKET_RENT_COM"
     },
     {
@@ -9451,7 +9451,7 @@
       "baseRent": "531",
       "securityDeposit": null,
       "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "Daily",
+      "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_TOBHE_VALI_MARKET_RENT_COM"
     }
   ]
