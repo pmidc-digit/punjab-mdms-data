@@ -3,6 +3,72 @@
     "moduleName": "ACCESSCONTROL-ROLEACTIONS",
     "roleactions": [
       {
+        "rolecode": "Rent And Lease Reports",
+        "actionid": 882554,
+        "actioncode": "",
+        "tenantId": "pb"
+      },    
+      {
+        "rolecode": "Rent And Lease Reports",
+        "actionid": 882555,
+        "actioncode": "",
+        "tenantId": "pb"
+      },
+      {
+        "rolecode": "Rent And Lease Reports",
+        "actionid": 882556,
+        "actioncode": "",
+        "tenantId": "pb"
+      },
+      {
+        "rolecode": "Rent And Lease Reports",
+        "actionid": 882557,
+        "actioncode": "",
+        "tenantId": "pb"
+      },
+      {
+        "rolecode": "Rent And Lease Reports",
+        "actionid": 882558,
+        "actioncode": "",
+        "tenantId": "pb"
+      },
+      {
+        "rolecode": "Rent And Lease Reports",
+        "actionid": 882559,
+        "actioncode": "",
+        "tenantId": "pb"
+      },
+      {
+        "rolecode": "Rent And Lease Reports",
+        "actionid": 882560,
+        "actioncode": "",
+        "tenantId": "pb"
+      },
+      {
+        "rolecode": "Rent And Lease Reports",
+        "actionid": 882561,
+        "actioncode": "",
+        "tenantId": "pb"
+      },
+      {
+        "rolecode": "Rent And Lease Reports",
+        "actionid": 882562,
+        "actioncode": "",
+        "tenantId": "pb"
+      },
+      {
+        "rolecode": "Rent And Lease Reports",
+        "actionid": 882553,
+        "actioncode": "",
+        "tenantId": "pb"
+      },
+      {
+        "rolecode": "Rent And Lease Reports",
+        "actionid": 882563,
+        "actioncode": "",
+        "tenantId": "pb"
+      },		
+      {
         "rolecode": "STADMIN",
         "actionid": 882607,
         "actioncode": "",
