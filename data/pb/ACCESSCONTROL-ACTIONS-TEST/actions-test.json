@@ -28736,7 +28736,7 @@
       "parentModule": "Rent & Lease Reports",
       "enabled": true,
       "serviceCode": "",
-      "path": "NDC Reports.Collection Report",
+      "path": "Rent & Lease Reports.Collection Report",
       "navigationURL": "report/rainmaker-rl/CollectionsReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -28773,7 +28773,7 @@
       "parentModule": "Rent & Lease Reports",
       "enabled": true,
       "serviceCode": "",
-      "path": "NDC Reports.Receipt Register",
+      "path": "Rent & Lease Reports.Receipt Register",
       "navigationURL": "report/rainmaker-ndc/ReceiptRegisterRL",
       "leftIcon": "action:assignment",
       "rightIcon": ""
