@@ -4,12 +4,6 @@
   "roleactions": [
     {
       "rolecode": "RENT&LEASE_REPORTS",
-      "actionid": 882553,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "RENT&LEASE_REPORTS",
       "actionid": 882554,
       "actioncode": "",
       "tenantId": "pb"
