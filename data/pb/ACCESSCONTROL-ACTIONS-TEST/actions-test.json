@@ -28774,7 +28774,7 @@
       "enabled": true,
       "serviceCode": "",
       "path": "Rent & Lease Reports.Receipt Register",
-      "navigationURL": "report/rainmaker-ndc/ReceiptRegisterRL",
+      "navigationURL": "report/rainmaker-rl/ReceiptRegisterRL",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
