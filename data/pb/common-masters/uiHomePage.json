@@ -97,6 +97,13 @@
             "navigationUrl": "/digit-ui/citizen/ndc-home"
           },
           {
+            "code": "CITIZEN_SERVICE_NOC",
+            "name": "No Objection Cretificate",
+            "label": "ACTION_TEST_NOC",
+            "enabled": true,
+            "navigationUrl": "/digit-ui/citizen/noc-home"
+          },
+          {
             "code": "CITIZEN_SERVICE_SV",
             "name": "Street Vending",
             "label": "ACTION_TEST_SV",
