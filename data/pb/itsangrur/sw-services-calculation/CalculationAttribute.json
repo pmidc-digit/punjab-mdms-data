@@ -1,0 +1,13 @@
+﻿{
+  "tenantId": "pb.itsangrur",
+  "moduleName": "sw-services-calculation",
+  "CalculationAttribute": [
+   
+    {
+      "name": "Non Metered",
+      "code": "Non Metered",
+      "attribute": "SEAT_BASED",
+      "active": true
+    }
+  ]
+}
