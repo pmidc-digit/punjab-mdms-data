@@ -1,0 +1,20 @@
+{
+  "tenantId": "pb.maur",
+  "moduleName": "PetService",
+  "PenaltyFee": [
+    {
+      "startingDay": "1",
+      "flatAmount": 0,
+      "active": "true",
+      "fromFY": "2026-27",
+      "feeType": "PenaltyFee"
+    },
+    {
+      "startingDay": "31",
+      "flatAmount": 0,
+      "active": "true",
+      "fromFY": "2026-27",
+      "feeType": "PenaltyFee"
+    }
+  ]
+}
