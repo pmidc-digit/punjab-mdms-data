@@ -1,8 +1,8 @@
-{
+﻿{
   "tenantId": "pb.itpatiala",
   "moduleName": "ws-services-calculation",
   "PropertyUsageType": [
-    {
+       {
       "name": "Residential",
       "code": "RESIDENTIAL",
       "unitCost" : 20,
@@ -56,5 +56,7 @@
       "unitCost" : 15,
       "isActive": true
     }
+ 
+
   ]
 }

@@ -1,15 +1,25 @@
-{
+﻿{
   "tenantId": "pb.itpatiala",
   "moduleName": "ws-services-masters",
   "billingPeriod": [
     {
       "active": true,
+      "connectionType": "Metered",
+      "billingCycle": "quarterly",
+      "meterMaxReading": 10000,
+      "bulkMeterMaxReading": 100000,
+      "demandEndDateMillis": 1382400000,
+      "demandExpiryDate": 1382400000,
+      "demandGenerationDateMillis": 345600000
+    },
+    {
+      "active": true,
       "connectionType": "Non Metered",
       "billingCycle": "quarterly",
-      "demandEndDateMillis": 2592000000,
-      "demandExpiryDate": 2592000000,
-      "taxPeriodFrom": 1775001600000,
-      "taxPeriodTo": 1782844199000,
+      "demandEndDateMillis": 1382400000,
+      "demandExpiryDate": 1382400000,
+      "taxPeriodFrom": 1767225600000,
+      "taxPeriodTo": 1774981799000,
       "demandGenerationDateMillis": 345600000
     }
   ]

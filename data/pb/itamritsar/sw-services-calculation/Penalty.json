@@ -1,0 +1,16 @@
+﻿
+{
+  "tenantId": "pb.itamritsar",
+  "moduleName": "sw-services-calculation",
+  "Penalty": [
+    {
+      "rate": 0,
+      "minAmount": null,
+      "applicableAfterDays":30,
+      "flatAmount": null,
+      "maxAmount": null,
+      "fromFY": "2024-25",
+      "startingDay": "15/07/2024"
+    }
+  ]
+}

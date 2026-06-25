@@ -1,4 +1,4 @@
-{
+﻿{
   "tenantId": "pb.itpatiala",
   "moduleName": "ws-services-calculation",
   "RoadType": [
@@ -6,42 +6,42 @@
       "id": 1,
       "name": "Premix Carpet",
       "code": "PREMIXCARPET",
-      "unitCost": 319,
+      "unitCost": 567,
       "isActive": true
     },
     {
       "id": 2,
       "name": "BM and Premix Road",
       "code": "BMPREMIXROAD",
-      "unitCost": 425,
+      "unitCost": 567,
       "isActive": true
     },
     {
       "id": 3,
       "name": "Berm Cutting (Katcha)",
       "code": "BERMCUTTINGKATCHA",
-      "unitCost": 16,
+      "unitCost": 21,
       "isActive": true
     },
     {
       "id": 4,
       "name": "Brick Paving",
       "code": "BRICKPAVING",
-      "unitCost": 80,
+      "unitCost": 107,
       "isActive": true
     },
     {
       "id": 5,
       "name": "CC Road",
       "code": "CCROAD",
-      "unitCost": 286,
+      "unitCost": 425,
       "isActive": true
     },
     {
       "id": 6,
       "name": "Interlocking Paver Block",
       "code": "INTERLOCKINGPAVERBLOCK",
-      "unitCost": 480,
+      "unitCost": 638,
       "isActive": true
     },
     {

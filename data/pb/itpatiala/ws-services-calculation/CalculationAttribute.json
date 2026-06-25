@@ -1,11 +1,11 @@
-{
+﻿{
   "tenantId": "pb.itpatiala",
   "moduleName": "ws-services-calculation",
   "CalculationAttribute": [
     {
       "name": "Metered",
       "code": "Metered",
-      "attribute": "PLOT_BASED",
+      "attribute": "Water consumption",
       "active": true
     },
     {

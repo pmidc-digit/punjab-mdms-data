@@ -1,0 +1,56 @@
+﻿{
+  "tenantId": "pb.itkotkapura",
+  "moduleName": "ws-services-masters",
+  "groups": [
+    {
+      "name": "Block-1",
+      "code": "Block-1",
+      "active": true
+    },
+    {
+      "name": "Block-2",
+      "code": "Block-2",
+      "active": true
+    },
+    {
+      "name": "Block-3",
+      "code": "Block-3",
+      "active": true
+    },
+    {
+      "name": "Block-4",
+      "code": "Block-4",
+      "active": true
+    },
+    {
+      "name": "Block-5",
+      "code": "Block-5",
+      "active": true
+    },
+    {
+      "name": "Block-6",
+      "code": "Block-6",
+      "active": true
+    },
+    {
+      "name": "Block-7",
+      "code": "Block-7",
+      "active": true
+    },
+    {
+      "name": "Block-8",
+      "code": "Block-8",
+      "active": true
+    },
+    {
+      "name": "Block-9",
+      "code": "Block-9",
+      "active": true
+    },
+    {
+      "name": "Block-10",
+      "code": "Block-10",
+      "active": true
+    }
+  ]
+}

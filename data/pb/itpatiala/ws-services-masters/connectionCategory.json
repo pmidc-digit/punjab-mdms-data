@@ -1,4 +1,4 @@
-{
+﻿{
   "tenantId": "pb.itpatiala",
   "moduleName": "ws-services-masters",
   "connectionCategory": [
@@ -10,6 +10,11 @@
     {
       "name": "Regularized Connection",
       "code": "REGULARIZED",
+      "active": true
+    },
+    {
+      "name": "Regularized without OTS",
+      "code": "REGULARIZEDNORMAL",
       "active": true
     },
     {
