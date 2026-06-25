@@ -6984,7 +6984,7 @@
       "code": "null",
       "path": ""
     },
-	{
+    {
       "id": 3203,
       "name": "Search Meter Reading",
       "url": "/ws-calculator/meterConnection/_searchV2",
@@ -22269,43 +22269,43 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-  {
-    "id": 8900917,
-    "name": "ULB Wise Application Count",
-    "url": "url",
-    "displayName": "ULB Wise Application Count",
-    "orderNumber": 4,
-    "queryParams": "",
-    "parentModule": "NDC REPORTS",
-    "enabled": true,
-    "serviceCode": "",
-    "path": "State Reports.ULB Wise Application Count",
-    "navigationURL": "report/rainmaker-ndc/ULB_Wise_Applicationcount",
-    "leftIcon": "action:assignment",
-    "rightIcon": ""
-  },
-  {
-    "id": 8900918,
-    "name": "ULB Wise Application Count",
-    "url": "/report/rainmaker-ndc/ULB_Wise_Applicationcount/metadata/_get",
-    "displayName": "ULB Wise Application Count",
-    "orderNumber": 4,
-    "enabled": true,
-    "serviceCode": "NDCREPORTS",
-    "code": "null",
-    "path": ""
-  },
-  {
-    "id": 8900919,
-    "name": "ULB Wise Application Count",
-    "url": "/report/rainmaker-ndc/ULB_Wise_Applicationcount/_get",
-    "displayName": "ULB Wise Application Count",
-    "orderNumber": 4,
-    "enabled": true,
-    "serviceCode": "NDCREPORTS",
-    "code": "null",
-    "path": ""
-  },
+    {
+      "id": 8900917,
+      "name": "ULB Wise Application Count",
+      "url": "url",
+      "displayName": "ULB Wise Application Count",
+      "orderNumber": 4,
+      "queryParams": "",
+      "parentModule": "NDC REPORTS",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "State Reports.ULB Wise Application Count",
+      "navigationURL": "report/rainmaker-ndc/ULB_Wise_Applicationcount",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900918,
+      "name": "ULB Wise Application Count",
+      "url": "/report/rainmaker-ndc/ULB_Wise_Applicationcount/metadata/_get",
+      "displayName": "ULB Wise Application Count",
+      "orderNumber": 4,
+      "enabled": true,
+      "serviceCode": "NDCREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900919,
+      "name": "ULB Wise Application Count",
+      "url": "/report/rainmaker-ndc/ULB_Wise_Applicationcount/_get",
+      "displayName": "ULB Wise Application Count",
+      "orderNumber": 4,
+      "enabled": true,
+      "serviceCode": "NDCREPORTS",
+      "code": "null",
+      "path": ""
+    },
     {
       "id": 8900920,
       "name": "Receipt Register SW mseva",
@@ -22660,7 +22660,7 @@
       "serviceCode": "OBPASNOCREPORTS",
       "code": "null",
       "path": ""
-    },                
+    },
     {
       "id": 882503,
       "name": "Top 7 officers with Highest Pendency",
@@ -22735,7 +22735,7 @@
       "code": "null",
       "path": ""
     },
-        {
+    {
       "id": 882509,
       "name": "User Login Session Report",
       "url": "url",
@@ -22919,7 +22919,7 @@
       "serviceCode": "OBPASCLUREPORTS",
       "code": "null",
       "path": ""
-    },                
+    },
     {
       "id": 882524,
       "name": "Top 7 officers with Highest Pendency",
@@ -22993,7 +22993,7 @@
       "serviceCode": "OBPASCLUREPORTS",
       "code": "null",
       "path": ""
-    } ,
+    },
     {
       "id": 882530,
       "name": "Detailed List Beyond Timeline Summary",
@@ -23141,7 +23141,7 @@
       "serviceCode": "OBPASLAYOUTREPORTS",
       "code": "null",
       "path": ""
-    },                
+    },
     {
       "id": 882541,
       "name": "Top 7 officers with Highest Pendency",
@@ -23216,7 +23216,7 @@
       "code": "null",
       "path": ""
     },
-        {
+    {
       "id": 882547,
       "name": "Scrutiny Count Report",
       "url": "url",
@@ -23355,7 +23355,7 @@
       "rightIcon": "",
       "queryParams": ""
     },
-	{
+    {
       "id": 882564,
       "name": "File Submission Summary Report",
       "url": "url",
@@ -23392,7 +23392,7 @@
       "code": "null",
       "path": ""
     },
-	{
+    {
       "id": 882579,
       "name": "PROFESSIONAL REGISTRATION REPORTS",
       "url": "/report/rainmaker-prof_reg/_get",
@@ -23414,7 +23414,7 @@
       "code": "null",
       "path": "PROFESSIONAL REGISTRATION REPORTS"
     },
-	{
+    {
       "id": 882567,
       "name": "Professional Registration Collection Report",
       "url": "url",
@@ -23451,7 +23451,7 @@
       "code": "null",
       "path": ""
     },
-	{
+    {
       "id": 882570,
       "name": "Receipt Register Professional Registration Report",
       "url": "url",
@@ -23488,7 +23488,7 @@
       "code": "null",
       "path": ""
     },
-	{
+    {
       "id": 882573,
       "name": "Highest Pendency – Professional Registration Report",
       "url": "url",
@@ -23525,7 +23525,7 @@
       "code": "null",
       "path": ""
     },
-	{
+    {
       "id": 882576,
       "name": "Officers Pendency – Professional Registration Report",
       "url": "url",
@@ -23746,7 +23746,7 @@
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/obps-home"
     },
-	{
+    {
       "id": 89001471,
       "name": "Search Challan",
       "url": "url",
@@ -24042,7 +24042,7 @@
       "serviceCode": "RLREPORTS",
       "code": "null",
       "path": ""
-    },	  
+    },
     {
       "id": 89009991,
       "name": "State Rent & Lease Detail Report",
@@ -24153,6 +24153,22 @@
       "serviceCode": "RLREPORTS",
       "code": "null",
       "path": ""
-    }	  
+    },
+    {
+      "id": 89009990,
+      "name": "Kibana Dashboard",
+      "url": "url",
+      "displayName": "KibanaDashboard",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "rainmaker-hrms",
+      "enabled": true,
+      "serviceCode": "Kibana Dashboard",
+      "code": "null",
+      "path": "KibanaDashboard.Search",
+      "navigationURL": "/kibana-v2/s/anonymous-user/app/dashboards?auth_provider_hint=anonymous1#/view/e5ec2ebd-660c-4d95-90f2-1353c1849b4d?embed=true&hide-filter-bar=true&_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    }
   ]
 }
