@@ -1,0 +1,12 @@
+{
+    "tenantId": "pb.rampuraphul",
+    "moduleName": "Advertisement",
+    "ScheduleType": [
+      {
+        "frequency": "Weekly"
+      },
+      {
+        "frequency": "Monthly"
+      }  
+    ]
+  }

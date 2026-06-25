@@ -1,0 +1,69 @@
+{
+  "tenantId": "pb.rampuraphul",
+  "moduleName": "Advertisement",
+  "Location": [
+    {
+      "name": "Bus Stand Rampuraphul",
+      "code": "BUS_STAND_RAMPURAPHUL",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.144,
+        "longitude": 74.207
+      }
+    },
+    {
+      "name": "T-Point Rampuraphul",
+      "code": "T_POINT_RAMPURAPHUL",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.144,
+        "longitude": 74.207
+      }
+    },
+    {
+      "name": "Maur Chownl Rampuraphul",
+      "code": "MAUR_CHOWNL_RAMPURAPHUL",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.144,
+        "longitude": 74.207
+      }
+    },
+    {
+      "name": "Main Chownk Rampuraphul",
+      "code": "MAIN_CHOWNK_RAMPURAPHUL",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.147,
+        "longitude": 74.212
+      }
+    },
+    {
+      "name": "Suea Wali Road Rampuraphul",
+      "code": "SUEA_WALI_ROAD_RAMPURAPHUL",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.147,
+        "longitude": 74.212
+      }
+    },
+    {
+      "name": "Phul Bus Stand Rampuraphul",
+      "code": "PHUL_BUS_STAND_RAMPURAPHUL",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.147,
+        "longitude": 74.212
+      }
+    },
+    {
+      "name": "Anywhere",
+      "code": "ANYWHERE",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.147,
+        "longitude": 74.212
+      }
+    }
+  ]
+}
