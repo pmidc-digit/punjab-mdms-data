@@ -4,6 +4,9 @@
   "ScheduleType": [
     {
       "frequency": "Weekly"
+    },
+    {
+      "frequency":"Monthly"
     }
   ]
 }
