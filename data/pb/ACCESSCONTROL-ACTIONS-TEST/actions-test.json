@@ -20870,6 +20870,60 @@
       "rightIcon": ""
     },
     {
+      "id": 2200024,
+      "name": "NOC_NEW_APPLICATION",
+      "url": "digit-ui-card",
+      "displayName": "New Application",
+      "orderNumber": 1,
+      "parentModule": "NOC",
+      "enabled": true,
+      "serviceCode": "NOC",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/noc/new-application",
+      "leftIcon": "TLIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/noc-home"
+    },
+    {
+      "id": 2200025,
+      "name": "NOC_MY_APPLICATION",
+      "url": "digit-ui-card",
+      "displayName": "My Application",
+      "orderNumber": 2,
+      "parentModule": "NOC",
+      "enabled": true,
+      "serviceCode": "NOC",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/noc/my-application",
+      "leftIcon": "TLIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/noc-home"
+    },
+    {
+      "id": 2200026,
+      "name": "NOC_SEARCH_APPLICATION",
+      "url": "digit-ui-card",
+      "displayName": "Search Application",
+      "orderNumber": 3,
+      "parentModule": "NOC",
+      "enabled": true,
+      "serviceCode": "NOC",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/noc/search-application",
+      "leftIcon": "TLIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/noc-home"
+    },
+    {
       "id": 8900102,
       "name": "State Receipt Register Challan",
       "url": "url",
@@ -22939,7 +22993,7 @@
       "serviceCode": "OBPASCLUREPORTS",
       "code": "null",
       "path": ""
-    },
+    } ,
     {
       "id": 882530,
       "name": "Detailed List Beyond Timeline Summary",
@@ -24099,22 +24153,6 @@
       "serviceCode": "RLREPORTS",
       "code": "null",
       "path": ""
-    },
-    {
-      "id": 89009990,
-      "name": "Kibana Dashboard",
-      "url": "url",
-      "displayName": "KibanaDashboard",
-      "orderNumber": 2,
-      "queryParams": "",
-      "parentModule": "rainmaker-hrms",
-      "enabled": true,
-      "serviceCode": "Kibana Dashboard",
-      "code": "null",
-      "path": "KibanaDashboard.Search",
-      "navigationURL": "/kibana-v2/s/anonymous-user/app/dashboards?auth_provider_hint=anonymous1#/view/e5ec2ebd-660c-4d95-90f2-1353c1849b4d?embed=true&hide-filter-bar=true&_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))",
-      "leftIcon": "action:assignment",
-      "rightIcon": ""
     }
   ]
 }
