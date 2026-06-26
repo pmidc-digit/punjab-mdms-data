@@ -24115,6 +24115,80 @@
       "navigationURL": "/kibana-v2/s/anonymous-user/app/dashboards?auth_provider_hint=anonymous1#/view/e5ec2ebd-660c-4d95-90f2-1353c1849b4d?embed=true&hide-filter-bar=true&_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    }
+    },
+    {
+      "id": 89009991,
+      "name": "Water Word Wise Quaterly Bill Report",
+      "url": "url",
+      "displayName": "Water Word Wise Quaterly Bill Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.Demands and Bills.WS_Word_wise_Quaterly_Bill_report",
+      "navigationURL": "report/rainmaker-ws/WS_Word_wise_Quaterly_Bill_report",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 89009992,
+      "name": "Water Word Wise Quaterly Bill Report",
+      "url": "/report/rainmaker-ws/WS_Word_wise_Quaterly_Bill_report/metadata/_get",
+      "displayName": "Water Word Wise Quaterly Bill Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89009993,
+      "name": "Water Word Wise Quaterly Bill Report",
+      "url": "/report/rainmaker-ws/WS_Word_wise_Quaterly_Bill_report/_get",
+      "displayName": "Water Word Wise Quaterly Bill Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89009994,
+      "name": "Sewerage Word Wise Quaterly Bill Report",
+      "url": "url",
+      "displayName": "Sewerage Word Wise Quaterly Bill Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.Demands and Bills.SW_Word_wise_Quaterly_Bill_report",
+      "navigationURL": "report/rainmaker-ws/SW_Word_wise_Quaterly_Bill_report",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 89009995,
+      "name": "Sewerage Word Wise Quaterly Bill Report",
+      "url": "/report/rainmaker-ws/SW_Word_wise_Quaterly_Bill_report/metadata/_get",
+      "displayName": "Sewerage Word Wise Quaterly Bill Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89009996,
+      "name": "Sewerage Word Wise Quaterly Bill Report",
+      "url": "/report/rainmaker-ws/SW_Word_wise_Quaterly_Bill_report/_get",
+      "displayName": "Sewerage Word Wise Quaterly Bill Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    }    
   ]
 }
