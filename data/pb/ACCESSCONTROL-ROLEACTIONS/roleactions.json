@@ -41224,6 +41224,156 @@
       "actionid": 89009996,
       "actioncode": "",
       "tenantId": "pb"
-    }        
+    },
+{
+  "rolecode": "PT REPORTS",
+  "actionid": 1823,
+  "actioncode": "",
+  "tenantId": "pb"
+},
+{
+  "rolecode": "PT REPORTS",
+  "actionid": 1824,
+  "actioncode": "",
+  "tenantId": "pb"
+},
+{
+  "rolecode": "PT REPORTS",
+  "actionid": 1825,
+  "actioncode": "",
+  "tenantId": "pb"
+},
+{
+  "rolecode": "PT REPORTS",
+  "actionid": 1826,
+  "actioncode": "",
+  "tenantId": "pb"
+},
+{
+  "rolecode": "PT REPORTS",
+  "actionid": 1828,
+  "actioncode": "",
+  "tenantId": "pb"
+},
+{
+  "rolecode": "PT REPORTS",
+  "actionid": 1829,
+  "actioncode": "",
+  "tenantId": "pb"
+},
+{
+  "rolecode": "PT REPORTS",
+  "actionid": 1830,
+  "actioncode": "",
+  "tenantId": "pb"
+},
+{
+  "rolecode": "PT REPORTS",
+  "actionid": 1841,
+  "actioncode": "",
+  "tenantId": "pb"
+},
+{
+  "rolecode": "PT REPORTS",
+  "actionid": 1842,
+  "actioncode": "",
+  "tenantId": "pb"
+},
+{
+  "rolecode": "PT REPORTS",
+  "actionid": 1957,
+  "actioncode": "",
+  "tenantId": "pb"
+},
+{
+  "rolecode": "PT REPORTS",
+  "actionid": 1958,
+  "actioncode": "",
+  "tenantId": "pb"
+},
+{
+  "rolecode": "PT REPORTS",
+  "actionid": 1959,
+  "actioncode": "",
+  "tenantId": "pb"
+},
+{
+  "rolecode": "PT REPORTS",
+  "actionid": 1960,
+  "actioncode": "",
+  "tenantId": "pb"
+},
+{
+  "rolecode": "PT REPORTS",
+  "actionid": 1961,
+  "actioncode": "",
+  "tenantId": "pb"
+},
+{
+  "rolecode": "PT REPORTS",
+  "actionid": 1962,
+  "actioncode": "",
+  "tenantId": "pb"
+},
+{
+  "rolecode": "PT REPORTS",
+  "actionid": 1963,
+  "actioncode": "",
+  "tenantId": "pb"
+},
+{
+  "rolecode": "PT REPORTS",
+  "actionid": 2052,
+  "actioncode": "",
+  "tenantId": "pb"
+},
+{
+  "rolecode": "PT REPORTS",
+  "actionid": 2442,
+  "actioncode": "",
+  "tenantId": "pb"
+},
+{
+  "rolecode": "PT REPORTS",
+  "actionid": 2446,
+  "actioncode": "",
+  "tenantId": "pb"
+},
+{
+  "rolecode": "PT REPORTS",
+  "actionid": 2447,
+  "actioncode": "",
+  "tenantId": "pb"
+},
+{
+  "rolecode": "PT REPORTS",
+  "actionid": 2460,
+  "actioncode": "",
+  "tenantId": "pb"
+},
+{
+  "rolecode": "PT REPORTS",
+  "actionid": 2468,
+  "actioncode": "",
+  "tenantId": "pb"
+},
+{
+  "rolecode": "PT REPORTS",
+  "actionid": 2469,
+  "actioncode": "",
+  "tenantId": "pb"
+},
+{
+  "rolecode": "PT REPORTS",
+  "actionid": 2475,
+  "actioncode": "",
+  "tenantId": "pb"
+},
+{
+  "rolecode": "PT REPORTS",
+  "actionid": 2534,
+  "actioncode": "",
+  "tenantId": "pb"
+}
   ]
 }
