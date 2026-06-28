@@ -4934,8 +4934,11 @@
       ]
     },
     {
-      "module": "FIRENOC",
+       "module": "FIRENOC",
       "code": "FIRENOC",
+      "order": 5,
+      "active": true,
+      "access": "VIEW_FIRENOC_CARD",
       "tenants": [
         {
           "code": "pb.fatehgarhchurian"
