@@ -74,8 +74,8 @@
       "role": ["BPA_BUILDER"],
       "endstate": "APPROVED",
       "isActive": "false",
-      "applicationFee": 6000,
-	  "renewalFee": 3000,
+      "applicationFee": 3000,
+	  "renewalFee": 1500,
       "docTypes": [
         {
           "code": "APPL.BPAREG_SCANNED_SIGNATURE",
@@ -119,8 +119,8 @@
       "tradeType": "BUILDER.CLASSB",
       "role": ["BPA_BUILDER"],
       "endstate": "APPROVED",
-      "applicationFee": 6000,
-	  "renewalFee": 3000,
+      "applicationFee": 3000,
+	  "renewalFee": 1500,
       "docTypes": null
     },
     {
@@ -128,8 +128,8 @@
       "tradeType": "BUILDER.CLASSC",
       "role": ["BPA_BUILDER"],
       "endstate": "APPROVED",
-      "applicationFee": 6000,
-	  "renewalFee": 3000,
+      "applicationFee": 3000,
+	  "renewalFee": 1500,
       "docTypes": null
     },
     {
@@ -139,8 +139,8 @@
       "role": ["BPA_ENGINEER"],
       "endstate": "APPROVED",
       "isActive": "true",
-      "applicationFee": 6000,
-	  "renewalFee": 3000,
+      "applicationFee": 3000,
+	  "renewalFee": 1500,
       "docTypes": [
         {
           "code": "APPL.BPAREG_SCANNED_SIGNATURE",
@@ -184,8 +184,8 @@
       "tradeType": "ENGINEER.CLASSB",
       "role": ["BPA_ENGINEER"],
       "endstate": "APPROVED",
-      "applicationFee": 6000,
-	  "renewalFee": 3000,
+      "applicationFee": 3000,
+	  "renewalFee": 1500,
       "docTypes": null
     },
     {
@@ -193,8 +193,8 @@
       "tradeType": "ENGINEER.CLASSC",
       "role": ["BPA_ENGINEER"],
       "endstate": "APPROVED",
-      "applicationFee": 6000,
-	  "renewalFee": 3000,
+      "applicationFee": 3000,
+	  "renewalFee": 1500,
       "docTypes": null
     },
     {
@@ -204,8 +204,8 @@
       "role": ["BPA_STRUCTURALENGINEER"],
       "endstate": "APPROVED",
       "isActive": "false",
-      "applicationFee": 6000,
-	  "renewalFee": 3000,
+      "applicationFee": 3000,
+	  "renewalFee": 1500,
       "docTypes": [
         {
           "code": "APPL.BPAREG_SCANNED_SIGNATURE",
@@ -249,8 +249,8 @@
       "tradeType": "STRUCTURALENGINEER.CLASSB",
       "role": ["BPA_STRUCTURALENGINEER"],
       "endstate": "APPROVED",
-      "applicationFee": 6000,
-	  "renewalFee": 3000,
+      "applicationFee": 3000,
+	  "renewalFee": 1500,
       "docTypes": null
     },
     {
@@ -258,8 +258,8 @@
       "tradeType": "STRUCTURALENGINEER.CLASSC",
       "role": ["BPA_STRUCTURALENGINEER"],
       "endstate": "APPROVED",
-      "applicationFee": 6000,
-	  "renewalFee": 3000,
+      "applicationFee": 3000,
+	  "renewalFee": 1500,
       "docTypes": null
     },
     {
@@ -269,8 +269,8 @@
       "role": ["BPA_TOWNPLANNER"],
       "endstate": "APPROVED",
       "isActive": "true",
-      "applicationFee": 6000,
-	  "renewalFee": 3000,
+      "applicationFee": 3000,
+	  "renewalFee": 1500,
       "docTypes": [
         {
           "code": "APPL.BPAREG_SCANNED_SIGNATURE",
@@ -317,8 +317,8 @@
       "role": ["BPA_SUPERVISOR"],
       "endstate": "APPROVED",
       "isActive": "true",
-      "applicationFee": 6000,
-	  "renewalFee": 3000,
+      "applicationFee": 3000,
+	  "renewalFee": 1500,
       "docTypes": [
         {
           "code": "APPL.BPAREG_SCANNED_SIGNATURE",
@@ -364,8 +364,8 @@
       "role": ["BPA_DESIGNER"],
       "endstate": "APPROVED",
       "isActive": "false",
-      "applicationFee": 6000,
-	  "renewalFee": 3000,
+      "applicationFee": 3000,
+	  "renewalFee": 1500,
       "docTypes": [
         {
           "code": "APPL.BPAREG_SCANNED_SIGNATURE",
@@ -409,8 +409,8 @@
       "tradeType": "DESIGNER.CLASSB",
       "role": ["BPA_DESIGNER"],
       "endstate": "APPROVED",
-      "applicationFee": 6000,
-	  "renewalFee": 3000,
+      "applicationFee": 3000,
+	  "renewalFee": 1500,
       "docTypes": null
     },
     {
@@ -418,8 +418,8 @@
       "tradeType": "DESIGNER.CLASSC",
       "role": ["BPA_DESIGNER"],
       "endstate": "APPROVED",
-      "applicationFee": 6000,
-	  "renewalFee": 3000,
+      "applicationFee": 3000,
+	  "renewalFee": 1500,
       "docTypes": null
     },
     {
