@@ -1232,6 +1232,12 @@
       "name": "Kibana Dashboard",
       "description": "Kibana Dashboard",
       "groupId": "014"
-    }
+    },
+    {
+      "code": "VIEW_FIRENOC_CARD",
+      "name": "View FireNOC Card",
+      "description": "For FireNOC Card Display in Dashboard",
+      "groupId": "005"
+    },
   ]
 }
