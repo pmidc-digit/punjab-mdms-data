@@ -1238,6 +1238,6 @@
       "name": "View FireNOC Card",
       "description": "For FireNOC Card Display in Dashboard",
       "groupId": "005"
-    },
+    }
   ]
 }
