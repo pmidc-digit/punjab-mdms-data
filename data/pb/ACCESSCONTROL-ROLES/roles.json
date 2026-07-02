@@ -1616,6 +1616,12 @@
       "name": "Rent And Lease Reports",
       "description": "For Rent and Lease Reports",
       "groupId": "006"
-    }
+    },
+	{
+	  "code": "API_ONLY",
+	  "name": "API Only",
+	  "description": "Default role for API only access",
+	  "groupId": "030"
+	}	
   ]
 }
