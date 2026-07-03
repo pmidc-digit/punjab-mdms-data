@@ -13,7 +13,7 @@
       "light": "With Light",
       "amount": 263,
       "available": true,
-      "locationCode": "BUS_STAND_RAMPURAPHUL",
+      "locationCode": "BUS_STAND",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true
     },
@@ -28,14 +28,14 @@
       "light": "With Light",
       "amount": 263,
       "available": true,
-      "locationCode": "T_POINT_RAMPURAPHUL",
+      "locationCode": "T_POINT",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true
     },
     {
       "id": 3,
       "poleNo": "3",
-      "name": "Maur Chownl Rampuraphul",
+      "name": "Maur Chownk Rampuraphul",
       "adType": "UNIPOLAR",
       "width": 16,
       "height": 8,
@@ -43,7 +43,7 @@
       "light": "With Light",
       "amount": 263,
       "available": true,
-      "locationCode": "MAUR_CHOWNL_RAMPURAPHUL",
+      "locationCode": "MAUR_CHOWNK",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true
     },
@@ -58,7 +58,7 @@
       "light": "With Light",
       "amount": 263,
       "available": true,
-      "locationCode": "MAIN_CHOWNK_RAMPURAPHUL",
+      "locationCode": "MAIN_CHOWNK",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true
     },
@@ -73,7 +73,7 @@
       "light": "With Light",
       "amount": 263,
       "available": true,
-      "locationCode": "SUEA_WALI_ROAD_RAMPURAPHUL",
+      "locationCode": "SUEA_WALI_ROAD",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true
     },
@@ -88,7 +88,7 @@
       "light": "With Light",
       "amount": 263,
       "available": true,
-      "locationCode": "PHUL_BUS_STAND_RAMPURAPHUL",
+      "locationCode": "PHUL_BUS_STAND",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true
     },
