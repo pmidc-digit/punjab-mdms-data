@@ -27583,7 +27583,7 @@
       "serviceCode": "PT",
       "code": "null",
       "path": "Property Tax.Property Inbox",
-      "navigationURL": "digit-ui/employee/pt/inbox",
+      "navigationURL": "/digit-ui/employee/pt/inbox",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
@@ -27598,7 +27598,7 @@
       "serviceCode": "PT",
       "code": "null",
       "path": "Property Tax.Create Property",
-      "navigationURL": "digit-ui/employee/pt/new-application",
+      "navigationURL": "/digit-ui/employee/pt/new-application",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
@@ -27613,7 +27613,7 @@
       "serviceCode": "PT",
       "code": "null",
       "path": "Property Tax.Search Property",
-      "navigationURL": "digit-ui/employee/pt/application-search",
+      "navigationURL": "/digit-ui/employee/pt/application-search",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
@@ -27628,7 +27628,7 @@
       "serviceCode": "PT",
       "code": "null",
       "path": "Property Tax.Search Property",
-      "navigationURL": "digit-ui/employee/pt/search",
+      "navigationURL": "/digit-ui/employee/pt/search",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
