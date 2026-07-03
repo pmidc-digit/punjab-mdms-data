@@ -2409,6 +2409,177 @@
       "isVoucherCreationEnabled": true,
       "cancelReceipt": true,
       "isActive": true
-    }
+    },
+    {
+    "businessService": "Advertisement Tax.Hoardings",
+    "code": "ADVT.Hoardings",
+    "collectionModesNotAllowed": [
+      ""
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "demandUpdateTime": 86400000,
+    "isVoucherCreationEnabled": false,
+    "type": "Adhoc",
+    "cancelReceipt": true,
+    "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+  },
+  {
+    "businessService": "Advertisement Tax.Unipolls",
+    "code": "ADVT.Unipolls",
+    "collectionModesNotAllowed": [
+      ""
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc",
+    "cancelReceipt": true,
+    "demandUpdateTime": 86400000,
+    "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+  },
+  {
+    "businessService": "Advertisement Tax.Light Wala Board",
+    "code": "ADVT.Light_Wala_Board",
+    "collectionModesNotAllowed": [
+      ""
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc",
+    "cancelReceipt": true,
+    "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+  },
+  {
+    "businessService": "Advertisement Tax.Wall Paint Advertisement",
+    "code": "ADVT.Wall_Paint_Advertisement",
+    "collectionModesNotAllowed": [
+      ""
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc",
+    "cancelReceipt": true,
+    "demandUpdateTime": 86400000,
+    "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+  },
+  {
+    "businessService": "Advertisement Tax.Gas Balloon Advertisement",
+    "code": "ADVT.Gas_Balloon_Advertisement",
+    "collectionModesNotAllowed": [
+      ""
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc",
+    "cancelReceipt": true,
+    "demandUpdateTime": 86400000,
+    "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+  },
+  {
+    "businessService": "Advertisement Tax.Canopy Fee",
+    "code": "ADVT.Canopy_Fee",
+    "collectionModesNotAllowed": [
+      ""
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc",
+    "cancelReceipt": true,
+    "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+  },
+  {
+    "businessService": "Advertisement Tax.Outdoor Media Display Fee",
+    "code": "ADVT.Outdoor_Media_Display_Fee",
+    "collectionModesNotAllowed": [
+      ""
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc",
+    "cancelReceipt": true,
+    "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+  },
+  {
+    "businessService": "Advertisement Tax.Composition Fees",
+    "code": "ADVT.Composition_Fees",
+    "collectionModesNotAllowed": [
+      ""
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc",
+    "cancelReceipt": true,
+    "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+  },
+  {
+    "businessService": "Advertisement Tax.Show Tax and Entertainment tax",
+    "code": "ADVT.Show_Tax_and_Entertainment_tax",
+    "collectionModesNotAllowed": [
+      ""
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc",
+    "cancelReceipt": true,
+    "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+  },
+  {
+    "businessService": "Advertisement Tax.Challan Under Section 122 123",
+    "code": "ADVT.Challan_Under_Section_122_123",
+    "collectionModesNotAllowed": [
+      ""
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc",
+    "cancelReceipt": true,
+    "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+  },
+  {
+    "businessService": "Advertisement Tax.Poll Kiosk",
+    "code": "ADVT.Poll_Kiosk",
+    "collectionModesNotAllowed": [
+      ""
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc",
+    "cancelReceipt": true,
+    "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+  },
+  {
+    "businessService": "Advertisement Tax.Gantry",
+    "code": "ADVT.Gantry",
+    "collectionModesNotAllowed": [
+      ""
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc",
+    "cancelReceipt": true,
+    "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+  }
   ]
 }
