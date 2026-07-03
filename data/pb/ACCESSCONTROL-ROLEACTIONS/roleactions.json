@@ -68542,6 +68542,18 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "CITIZEN",
+      "actionid": 8900136,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 8900137,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "BPA_ARCHITECT",
       "actionid": 8900137,
       "actioncode": "",
