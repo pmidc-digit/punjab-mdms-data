@@ -1,59 +1,45 @@
 {
-  "tenantId": "pb.morinda",
+  "tenantId": "pb.moga",
   "moduleName": "CHB",
   "Purpose": [
     {
       "name": "Marriage Function",
       "code": "MARRIAGE_FUNCTION",
-      "type": "HAPPY",
       "active": true
     },
     {
       "name": "Ring Ceremony",
       "code": "RING_CEREMONY",
-      "type": "HAPPY",
       "active": true
     },
     {
       "name": "Shagun",
       "code": "SHAGUN",
-      "type": "HAPPY",
       "active": true
     },
     {
       "name": "Social Gathering",
       "code": "SOCIAL_GATHERING",
-      "type": "HAPPY",
       "active": true
     },
     {
-      "name": "Exhibition",
-      "code": "EXHIBITION",
-      "type": "HAPPY",
+      "name": "Exibhition",
+      "code": "EXIBHITION",
       "active": true
     },
     {
       "name": "Ritual Ceremony",
       "code": "RITUAL_CEREMONY",
-      "type": "HAPPY",
       "active": true
     },
     {
       "name": "Retirement Party",
       "code": "RETIREMENT_PARTY",
-      "type": "HAPPY",
       "active": true
     },
-    {
+         {
       "name": "Birthday Party",
       "code": "BIRTHDAY_PARTY",
-      "type": "HAPPY",
-      "active": true
-    },
-    {
-      "name": "Bhog",
-      "code": "BHOG",
-      "type": "SAD",
       "active": true
     }
   ]

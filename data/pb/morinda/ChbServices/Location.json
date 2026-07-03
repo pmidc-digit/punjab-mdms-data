@@ -3,17 +3,8 @@
   "moduleName": "CHB",
   "Location": [
     {
-      "name": "Dr.Bheem Rao Ambedkar Community Center (Happy)",
-      "code": "DR_BHEEM_RAO_AMBEDKAR_COMMUNITY_CENTER_HAPPY",
-      "active": true,
-      "geo_tag": {
-        "latitude": null,
-        "longitude": null
-      }
-    },
-    {
-      "name": "Dr.Bheem Rao Ambedkar Community Center (Sad)",
-      "code": "DR_BHEEM_RAO_AMBEDKAR_COMMUNITY_CENTER_SAD",
+      "name": "Dr. Bheem Rao Ambedkar Community Center",
+      "code": "DR_BHEEM_RAO_AMBEDKAR_COMMUNITY_CENTER",
       "active": true,
       "geo_tag": {
         "latitude": null,
