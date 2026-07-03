@@ -41374,6 +41374,102 @@
   "actionid": 2534,
   "actioncode": "",
   "tenantId": "pb"
-}
+},
+{
+    "rolecode": "PT REPORTS",
+    "actionid": 2017,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2018,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2019,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2020,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2021,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2022,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2023,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2024,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2025,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2026,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2027,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2030,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2031,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2032,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2035,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT REPORTS",
+    "actionid": 2036,
+    "actioncode": "",
+    "tenantId": "pb"
+  }    
   ]
 }
