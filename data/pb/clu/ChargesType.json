@@ -14,8 +14,8 @@
 			"Charges": [
 				{
 					"name": "CLU PROCESSING FEE",
-					"fee": 7500,
-					"rate": 1500,
+					"fee": 7500.00,
+					"rate": 1500.00,
 					"taxHeadCode": "CLU_PROCESSING_FEE",
 					"applicable": true
 				}
@@ -81,8 +81,8 @@
 			"Charges": [
 				{
 					"name": "CLU PROCESSING FEE",
-					"fee": 7500,
-					"rate": 1500,
+					"fee": 7500.00,
+					"rate": 1500.00,
 					"taxHeadCode": "CLU_PROCESSING_FEE",
 					"applicable": true
 				}
