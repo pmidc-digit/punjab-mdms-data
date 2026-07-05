@@ -33,37 +33,37 @@
 			"Charges": [
 				{
 					"name": "CLU CLU FEE",
-					"rate": 0,
+					"rate": 0.0,
 					"taxHeadCode": "CLU_CLU_FEE",
 					"applicable": true
 				},
 				{
 					"name": "CLU EDC FEE",
-					"rate": 0,
+					"rate": 0.0,
 					"taxHeadCode": "CLU_EDC_FEE",
 					"applicable": true
 				},
 				{
 					"name": "CLU UDC/SIF FEE",
-					"rate": 0,
+					"rate": 0.0,
 					"taxHeadCode": "CLU_UDC_FEE",
 					"applicable": true
 				},
 				{
 					"name": "CLU LF FEE",
-					"rate": 0,
+					"rate": 0.0,
 					"taxHeadCode": "CLU_LF_FEE",
 					"applicable": true
 				},
 				{
 					"name": "CLU OTHER FEE",
-					"rate": 0,
+					"rate": 0.0,
 					"taxHeadCode": "CLU_OTHER1_FEE",
 					"applicable": true
 				},
 				{
 					"name": "CLU_OTHER2_FEE",
-					"rate": 0,
+					"rate": 0.0,
 					"taxHeadCode": "CLU_OTHER2_FEE",
 					"applicable": true
 				}
