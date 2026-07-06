@@ -4,8 +4,12 @@
 	"ChargesType": [
 		{
 			"code": "101",
-			"name": "Bulding Plan",
-			"Category": "A",
+			"name": "Bulding Plan Residential Plotted",
+			"Category": [
+				"A-R",
+				"A-AIF",
+				"A-FH"
+			],
 			"fromFY": "2026-27",
 			"startingDate": 1775001600000,
 			"endingDate": 1806537599000,
@@ -48,7 +52,7 @@
 				},
 				{
 					"name": "Urban Development Cess",
-					"rate": 0.0,
+					"rate": 5.0,
 					"taxHeadCode": "BPA_URBAN_DEVELOPMENT_CESS",
 					"applicable": true
 				},
@@ -162,8 +166,10 @@
 		},
 		{
 			"code": "101",
-			"name": "Bulding Plan",
-			"Category": "F",
+			"name": "Bulding Plan Residential Group Housing",
+			"Category": [
+				"A-AF"
+			],
 			"fromFY": "2026-27",
 			"startingDate": 1775001600000,
 			"endingDate": 1806537599000,
@@ -206,7 +212,178 @@
 				},
 				{
 					"name": "Urban Development Cess",
+					"rate": 5.0,
+					"taxHeadCode": "BPA_URBAN_DEVELOPMENT_CESS",
+					"applicable": true
+				},
+				{
+					"name": "Malba Fees",
+					"rate": 0.5,
+					"slabs": [
+						{
+							"fromPlotArea": 0.0,
+							"toPlotArea": 500.0,
+							"rate": 500.0,
+							"note": "Plot area <=500 sq.ft"
+						},
+						{
+							"fromPlotArea": 501.0,
+							"toPlotArea": 1000.0,
+							"rate": 1000.0,
+							"note": "Plot area >= 501 && <=1000 sq.ft"
+						},
+						{
+							"fromPlotArea": 1001.0,
+							"toPlotArea": 1500.0,
+							"rate": 1500.0,
+							"note": "Plot area >= 1001 && <=1500 sq.ft"
+						},
+						{
+							"fromPlotArea": 1501.0,
+							"toPlotArea": 2000.0,
+							"rate": 2000.0,
+							"note": "Plot area >= 1501 && <=2000 sq.ft"
+						}
+					],
+					"taxHeadCode": "BPA_MALBA_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Water Charges",
+					"rate": 50.0,
+					"taxHeadCode": "BPA_WATER_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Mining Charges",
 					"rate": 0.0,
+					"taxHeadCode": "BPA_MINING_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Guashala Fees",
+					"rate": 50.0,
+					"taxHeadCode": "BPA_GAUSHALA_CHARGES_CESS",
+					"applicable": true
+				},
+				{
+					"name": "Labour Cess",
+					"rate": 11.0,
+					"taxHeadCode": "BPA_LABOUR_CESS",
+					"applicable": true
+				},
+				{
+					"name": "Rain Water Harvesting Charges",
+					"rate": 0.0,
+					"taxHeadCode": "BPA_RAIN_WATER_HARVESTING_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Clubbing Charges",
+					"rate": 50.0,
+					"slabs": [
+						{
+							"fromPlotArea": 0.0,
+							"toPlotArea": 100.0,
+							"rate": 200.0,
+							"note": "Plot area <=100 sq.ft"
+						},
+						{
+							"fromPlotArea": 100.0,
+							"toPlotArea": 200.0,
+							"rate": 150.0,
+							"note": "Plot area > 100 && <=200 sq.ft"
+						},
+						{
+							"fromPlotArea": 200.0,
+							"toPlotArea": 300.0,
+							"rate": 100.0,
+							"note": "Plot area > 200 && <= 300 sq.ft"
+						}
+					],
+					"taxHeadCode": "BPA_CLUBBING_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Sub-Division Charges",
+					"rate": 0.0,
+					"taxHeadCode": "BPA_SUB-DIVISION_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Purchasable FAR fees",
+					"rate": 0.0,
+					"taxHeadCode": "BPA_PURCHASABLE_FAR_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Other Charges",
+					"rate": 0.0,
+					"taxHeadCode": "BPA_OTHER_CHARGES",
+					"applicable": true
+				}
+			]
+		},
+		{
+			"code": "101",
+			"name": "Bulding Plan Commercial",
+			"Category": [
+				"F",
+				"F-RB",
+				"F-MIP",
+				"F-MTP",
+				"F-SCC",
+				"F-PO",
+				"F-B",
+				"F-LB",
+				"F-D",
+				"F-CA",
+				"F-VGP",
+				"F-BU"
+			],
+			"fromFY": "2026-27",
+			"startingDate": 1775001600000,
+			"endingDate": 1806537599000,
+			"active": true,
+			"Charges": [
+				{
+					"name": "Processing Fees",
+					"rate": 0.0,
+					"discount": 0.0,
+					"taxHeadCode": "BPA_PROCESSING_FEES",
+					"applicable": true
+				},
+				{
+					"name": "CLU Charges",
+					"rate": 0.0,
+					"discount": 0.0,
+					"slabs": [
+						{
+							"roadType": "NH",
+							"rate": 0.0
+						},
+						{
+							"roadType": "SH",
+							"rate": 0.0
+						},
+						{
+							"roadType": "OTHER ROAD",
+							"rate": 0.0
+						}
+					],
+					"taxHeadCode": "BPA_CLU_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "External Development Charges",
+					"rate": 0.0,
+					"discount": 0.0,
+					"taxHeadCode": "BPA_EXTERNAL_DEVELOPMENT_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Urban Development Cess",
+					"rate": 5.0,
 					"taxHeadCode": "BPA_URBAN_DEVELOPMENT_CESS",
 					"applicable": true
 				},
@@ -314,8 +491,10 @@
 		},
 		{
 			"code": "101",
-			"name": "Bulding Plan",
-			"Category": "Educational",
+			"name": "Bulding Plan Marriage Palaces",
+			"Category": [
+				"L-MP"
+			],
 			"fromFY": "2026-27",
 			"startingDate": 1775001600000,
 			"endingDate": 1806537599000,
@@ -358,7 +537,7 @@
 				},
 				{
 					"name": "Urban Development Cess",
-					"rate": 0.0,
+					"rate": 5.0,
 					"taxHeadCode": "BPA_URBAN_DEVELOPMENT_CESS",
 					"applicable": true
 				},
@@ -466,8 +645,14 @@
 		},
 		{
 			"code": "101",
-			"name": "Bulding Plan",
-			"Category": "Medical",
+			"name": "Bulding Plan Petrol Pumps",
+			"Category": [
+				"F-PFSF",
+				"F-PFST",
+				"F-PFSS",
+				"F-PS",
+				"F-CNGS"
+			],
 			"fromFY": "2026-27",
 			"startingDate": 1775001600000,
 			"endingDate": 1806537599000,
@@ -510,7 +695,7 @@
 				},
 				{
 					"name": "Urban Development Cess",
-					"rate": 0.0,
+					"rate": 5.0,
 					"taxHeadCode": "BPA_URBAN_DEVELOPMENT_CESS",
 					"applicable": true
 				},
@@ -618,8 +803,11 @@
 		},
 		{
 			"code": "101",
-			"name": "Bulding Plan",
-			"Category": "Assembly",
+			"name": "Bulding Plan Hospital, Multi Media Centre (not multiplexes) & Hotels",
+			"Category": [
+				"F-HM",
+				"L-NH"
+			],
 			"fromFY": "2026-27",
 			"startingDate": 1775001600000,
 			"endingDate": 1806537599000,
@@ -662,7 +850,7 @@
 				},
 				{
 					"name": "Urban Development Cess",
-					"rate": 0.0,
+					"rate": 5.0,
 					"taxHeadCode": "BPA_URBAN_DEVELOPMENT_CESS",
 					"applicable": true
 				},
@@ -770,8 +958,13 @@
 		},
 		{
 			"code": "101",
-			"name": "Bulding Plan",
-			"Category": "Office",
+			"name": "Bulding Plan Institutions",
+			"Category": [
+				"L-NS",
+				"L-PS",
+				"L-CO",
+				"L-ERC"
+			],
 			"fromFY": "2026-27",
 			"startingDate": 1775001600000,
 			"endingDate": 1806537599000,
@@ -814,7 +1007,7 @@
 				},
 				{
 					"name": "Urban Development Cess",
-					"rate": 0.0,
+					"rate": 5.0,
 					"taxHeadCode": "BPA_URBAN_DEVELOPMENT_CESS",
 					"applicable": true
 				},
@@ -922,8 +1115,22 @@
 		},
 		{
 			"code": "101",
-			"name": "Bulding Plan",
-			"Category": "G",
+			"name": "Bulding Plan Industry / Godowns / Warehousing / Cold Store",
+			"Category": [
+				"G-G",
+				"G-F",
+				"G-S",
+				"G-HI",
+				"G-WT",
+				"G-RSI",
+				"G-GIP",
+				"G-GIF",
+				"G-ITP",
+				"G-ITF",
+				"G-TI",
+				"G-KI",
+				"G-SI"
+			],
 			"fromFY": "2026-27",
 			"startingDate": 1775001600000,
 			"endingDate": 1806537599000,
@@ -966,7 +1173,7 @@
 				},
 				{
 					"name": "Urban Development Cess",
-					"rate": 0.0,
+					"rate": 5.0,
 					"taxHeadCode": "BPA_URBAN_DEVELOPMENT_CESS",
 					"applicable": true
 				},
@@ -1074,8 +1281,10 @@
 		},
 		{
 			"code": "101",
-			"name": "Bulding Plan",
-			"Category": "Storage",
+			"name": "Bulding Plan Sports",
+			"Category": [
+				"Sports"
+			],
 			"fromFY": "2026-27",
 			"startingDate": 1775001600000,
 			"endingDate": 1806537599000,
@@ -1118,7 +1327,7 @@
 				},
 				{
 					"name": "Urban Development Cess",
-					"rate": 0.0,
+					"rate": 5.0,
 					"taxHeadCode": "BPA_URBAN_DEVELOPMENT_CESS",
 					"applicable": true
 				},
@@ -1226,8 +1435,10 @@
 		},
 		{
 			"code": "101",
-			"name": "Bulding Plan",
-			"Category": "Hazardous",
+			"name": "Bulding Plan Recreational",
+			"Category": [
+				"Recreational"
+			],
 			"fromFY": "2026-27",
 			"startingDate": 1775001600000,
 			"endingDate": 1806537599000,
@@ -1270,7 +1481,7 @@
 				},
 				{
 					"name": "Urban Development Cess",
-					"rate": 0.0,
+					"rate": 5.0,
 					"taxHeadCode": "BPA_URBAN_DEVELOPMENT_CESS",
 					"applicable": true
 				},
