@@ -12,24 +12,38 @@
          "slabs":[
             {
                "from":0.00,
-               "to":125.00,
-               "charge":0,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1901252691000
+               "to":100000.00,
+               "charge":150,
+               "effectiveFrom":1633046400000,
+               "effectiveTo":1664562599000
             },
             {
-               "from":125.01,
-               "to":250.00,
-               "charge":150,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1901252691000
+               "from":0.00,
+               "to":100000.00,
+               "charge":165,
+               "effectiveFrom":1664582400000,
+               "effectiveTo":1696098599000
             },
             {
-               "from":250.00,
-               "to":1000000000.00,
-               "charge":150,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1901252691000
+               "from":0.00,
+               "to":100000.00,
+               "charge":183,
+               "effectiveFrom":1696118400000,
+               "effectiveTo":1727720999000
+            },
+			{
+               "from":0.00,
+               "to":100000.00,
+               "charge":201,
+               "effectiveFrom":1727740800000,
+               "effectiveTo":1759256999000
+            },
+			{
+               "from":0.00,
+               "to":100000.00,
+               "charge":219,
+               "effectiveFrom":1759276800000,
+               "effectiveTo":1790792999000
             }
          ]
       },
@@ -43,24 +57,38 @@
          "slabs":[
             {
                "from":0.00,
-               "to":125.00,
-               "charge":900,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1901252691000
+               "to":100000.00,
+               "charge":1650,
+               "effectiveFrom":1633046400000,
+               "effectiveTo":1664562599000
             },
             {
-               "from":125.01,
-               "to":250.00,
-               "charge":930,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1901252691000
+               "from":0.00,
+               "to":100000.00,
+               "charge":1998,
+               "effectiveFrom":1664582400000,
+               "effectiveTo":1696098599000
             },
             {
-               "from":250.01,
-               "to":1000000000.00,
-               "charge":1200,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1901252691000
+               "from":0.00,
+               "to":100000.00,
+               "charge":1998,
+               "effectiveFrom":1696118400000,
+               "effectiveTo":1727720999000
+            },
+			{
+               "from":0.00,
+               "to":100000.00,
+               "charge":2199,
+               "effectiveFrom":1727740800000,
+               "effectiveTo":1759256999000
+            },
+			{
+               "from":0.00,
+               "to":100000.00,
+               "charge":2196,
+               "effectiveFrom":1759276800000,
+               "effectiveTo":1790792999000
             }
          ]
       },
@@ -74,24 +102,38 @@
          "slabs":[
             {
                "from":0.00,
-               "to":125.00,
-               "charge":5040,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1901252691000
+               "to":100000.00,
+               "charge":1650,
+               "effectiveFrom":1633046400000,
+               "effectiveTo":1664562599000
             },
             {
-               "from":125.01,
-               "to":250.00,
-               "charge":6720,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1901252691000
+               "from":0.00,
+               "to":100000.00,
+               "charge":1998,
+               "effectiveFrom":1664582400000,
+               "effectiveTo":1696098599000
             },
             {
-               "from":250.01,
-               "to":1000000000.00,
-               "charge":6720,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1901252691000
+               "from":0.00,
+               "to":100000.00,
+               "charge":1998,
+               "effectiveFrom":1696118400000,
+               "effectiveTo":1727720999000
+            },
+			{
+               "from":0.00,
+               "to":100000.00,
+               "charge":2199,
+               "effectiveFrom":1727740800000,
+               "effectiveTo":1759256999000
+            },
+			{
+               "from":0.00,
+               "to":100000.00,
+               "charge":2196,
+               "effectiveFrom":1759276800000,
+               "effectiveTo":1790792999000
             }
          ]
       },
@@ -105,24 +147,38 @@
          "slabs":[
             {
                "from":0.00,
-               "to":125.00,
-               "charge":5040,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1901252691000
+               "to":100000.00,
+               "charge":1650,
+               "effectiveFrom":1633046400000,
+               "effectiveTo":1664562599000
             },
             {
-               "from":125.01,
-               "to":250.00,
-               "charge":6720,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1901252691000
+               "from":0.00,
+               "to":100000.00,
+               "charge":1998,
+               "effectiveFrom":1664582400000,
+               "effectiveTo":1696098599000
             },
             {
-               "from":250.01,
-               "to":1000000000.00,
-               "charge":6720,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1901252691000
+               "from":0.00,
+               "to":100000.00,
+               "charge":1998,
+               "effectiveFrom":1696118400000,
+               "effectiveTo":1727720999000
+            },
+			{
+               "from":0.00,
+               "to":100000.00,
+               "charge":2199,
+               "effectiveFrom":1727740800000,
+               "effectiveTo":1759256999000
+            },
+			{
+               "from":0.00,
+               "to":100000.00,
+               "charge":2196,
+               "effectiveFrom":1759276800000,
+               "effectiveTo":1790792999000
             }
          ]
       },
@@ -136,24 +192,38 @@
          "slabs":[
             {
                "from":0.00,
-               "to":125.00,
-               "charge":0,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1901252691000
+               "to":100000.00,
+               "charge":150,
+               "effectiveFrom":1633046400000,
+               "effectiveTo":1664562599000
             },
             {
-               "from":125.01,
-               "to":250.00,
-               "charge":150,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1901252691000
+               "from":0.00,
+               "to":100000.00,
+               "charge":165,
+               "effectiveFrom":1664582400000,
+               "effectiveTo":1696098599000
             },
             {
-               "from":250.00,
-               "to":1000000000.00,
-               "charge":150,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1901252691000
+               "from":0.00,
+               "to":100000.00,
+               "charge":183,
+               "effectiveFrom":1696118400000,
+               "effectiveTo":1727720999000
+            },
+			{
+               "from":0.00,
+               "to":100000.00,
+               "charge":201,
+               "effectiveFrom":1727740800000,
+               "effectiveTo":1759256999000
+            },
+			{
+               "from":0.00,
+               "to":100000.00,
+               "charge":219,
+               "effectiveFrom":1759276800000,
+               "effectiveTo":1790792999000
             }
          ]
       },
@@ -167,24 +237,38 @@
          "slabs":[
             {
                "from":0.00,
-               "to":125.00,
-               "charge":900,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1901252691000
+               "to":100000.00,
+               "charge":1650,
+               "effectiveFrom":1633046400000,
+               "effectiveTo":1664562599000
             },
             {
-               "from":125.01,
-               "to":250.00,
-               "charge":930,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1901252691000
+               "from":0.00,
+               "to":100000.00,
+               "charge":1998,
+               "effectiveFrom":1664582400000,
+               "effectiveTo":1696098599000
             },
             {
-               "from":250.01,
-               "to":1000000000.00,
-               "charge":1200,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1901252691000
+               "from":0.00,
+               "to":100000.00,
+               "charge":1998,
+               "effectiveFrom":1696118400000,
+               "effectiveTo":1727720999000
+            },
+			{
+               "from":0.00,
+               "to":100000.00,
+               "charge":2199,
+               "effectiveFrom":1727740800000,
+               "effectiveTo":1759256999000
+            },
+			{
+               "from":0.00,
+               "to":100000.00,
+               "charge":2196,
+               "effectiveFrom":1759276800000,
+               "effectiveTo":1790792999000
             }
          ]
       },
@@ -198,24 +282,38 @@
          "slabs":[
             {
                "from":0.00,
-               "to":125.00,
-               "charge":900,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1901252691000
+               "to":100000.00,
+               "charge":1650,
+               "effectiveFrom":1633046400000,
+               "effectiveTo":1664562599000
             },
             {
-               "from":125.01,
-               "to":250.00,
-               "charge":930,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1901252691000
+               "from":0.00,
+               "to":100000.00,
+               "charge":1998,
+               "effectiveFrom":1664582400000,
+               "effectiveTo":1696098599000
             },
             {
-               "from":250.01,
-               "to":1000000000.00,
-               "charge":1200,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1901252691000
+               "from":0.00,
+               "to":100000.00,
+               "charge":1998,
+               "effectiveFrom":1696118400000,
+               "effectiveTo":1727720999000
+            },
+			{
+               "from":0.00,
+               "to":100000.00,
+               "charge":2199,
+               "effectiveFrom":1727740800000,
+               "effectiveTo":1759256999000
+            },
+			{
+               "from":0.00,
+               "to":100000.00,
+               "charge":2196,
+               "effectiveFrom":1759276800000,
+               "effectiveTo":1790792999000
             }
          ]
       }
