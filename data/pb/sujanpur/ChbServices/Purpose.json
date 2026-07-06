@@ -55,6 +55,18 @@
       "code": "BHOG",
       "type": "SAD",
       "active": true
+    },
+    {
+      "name":"Teharvi",
+      "code":"TEHARVI",
+      "type":"SAD",
+      "active":true
+    },
+    {
+      "name":"Chawari",
+      "code":"CHAWARI",
+      "type":"SAD",
+      "active":true
     }
   ]
 }
