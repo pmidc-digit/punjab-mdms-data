@@ -70304,6 +70304,186 @@
       "actionid": 89009990,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_LAYOUT_JE",
+      "actionid": 8900136,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_LAYOUT_BI",
+      "actionid": 8900136,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_LAYOUT_DM",
+      "actionid": 8900136,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_LAYOUT_ATP",
+      "actionid": 8900136,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_LAYOUT_AME",
+      "actionid": 8900136,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_LAYOUT_MTP",
+      "actionid": 8900136,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_LAYOUT_ME",
+      "actionid": 8900136,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_LAYOUT_JC",
+      "actionid": 8900136,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_LAYOUT_CMC",
+      "actionid": 8900136,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_LAYOUT_EO",
+      "actionid": 8900136,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_LAYOUT_STP(Field)",
+      "actionid": 8900136,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_LAYOUT_ADC",
+      "actionid": 8900136,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_LAYOUT_ATP(HQ)",
+      "actionid": 8900136,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_LAYOUT_STP(HQ)",
+      "actionid": 8900136,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_UPDATE_ZONE",
+      "actionid": 8900136,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_LAYOUT_JE",
+      "actionid": 8900137,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_LAYOUT_BI",
+      "actionid": 8900137,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_LAYOUT_DM",
+      "actionid": 8900137,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_LAYOUT_ATP",
+      "actionid": 8900137,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_LAYOUT_AME",
+      "actionid": 8900137,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_LAYOUT_MTP",
+      "actionid": 8900137,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_LAYOUT_ME",
+      "actionid": 8900137,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_LAYOUT_JC",
+      "actionid": 8900137,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_LAYOUT_CMC",
+      "actionid": 8900137,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_LAYOUT_EO",
+      "actionid": 8900137,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_LAYOUT_STP(Field)",
+      "actionid": 8900137,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_LAYOUT_ADC",
+      "actionid": 8900137,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_LAYOUT_ATP(HQ)",
+      "actionid": 8900137,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_LAYOUT_STP(HQ)",
+      "actionid": 8900137,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_UPDATE_ZONE",
+      "actionid": 8900137,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
