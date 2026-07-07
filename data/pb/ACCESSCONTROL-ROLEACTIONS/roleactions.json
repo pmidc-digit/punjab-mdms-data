@@ -41470,6 +41470,24 @@
     "actionid": 2036,
     "actioncode": "",
     "tenantId": "pb"
-  }    
+  },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 89010002,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 89010001,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 89010000,
+      "actioncode": "",
+      "tenantId": "pb"
+    }
   ]
 }
