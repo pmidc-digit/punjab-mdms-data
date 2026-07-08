@@ -6,20 +6,33 @@
       "id": "1",
       "buildingType": "RESIDENTIAL",
       "waterSubUsageType": "USAGE_DOM_NA",
-      "calculationAttribute": "SEAT_BASED",
+      "calculationAttribute": "PLOT_SEAT_BASED",
       "connectionType": "Non Metered",
       "minimumCharge": 0,
       "slabs": [
         {
-          "from": 0,
-          "to": 0,
+          "from": 0.00,
+          "to": 125.00,
           "charge": 0,
           "effectiveFrom": 917523271000,
           "effectiveTo": 1901252691000
         },
         {
-          "from": 1,
-          "to": 150,
+          "from": 125.01,
+          "to": 250.00,
+          "charge": 90,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1901252691000
+        },
+           {
+          "from": 250.01,
+          "to": 500.00,
+          "charge": 90,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1901252691000
+        },{
+          "from": 500.01,
+          "to": 10000.00,
           "charge": 90,
           "effectiveFrom": 917523271000,
           "effectiveTo": 1901252691000
@@ -30,13 +43,27 @@
       "id": "4",
       "buildingType": "COMMERCIAL",
       "waterSubUsageType": "USAGE_COMM_NA",
-      "calculationAttribute": "SEAT_BASED",
+      "calculationAttribute": "PLOT_SEAT_BASED",
       "connectionType": "Non Metered",
       "minimumCharge": 0,
       "slabs": [
         {
-          "from": 1,
-          "to": 125,
+          "from": 0.00,
+          "to": 250.00,
+          "charge": 150,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1901252691000
+        },
+        {
+          "from": 250.01,
+          "to": 500.00,
+          "charge": 150,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1901252691000
+        },
+        {
+          "from": 500.01,
+          "to": 10000.00,
           "charge": 150,
           "effectiveFrom": 917523271000,
           "effectiveTo": 1901252691000
