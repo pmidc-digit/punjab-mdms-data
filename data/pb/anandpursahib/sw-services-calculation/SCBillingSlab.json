@@ -16,20 +16,41 @@
           "charge": 585,
           "effectiveFrom": 917523271000,
           "effectiveTo": 1901252691000
-        },
+			
+        },{
+          "from": 0.00,
+          "to": 125.00,
+          "charge": 531,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1759256999000
+		},
         {
           "from": 125.01,
           "to": 250.00,
           "charge": 819,
           "effectiveFrom": 917523271000,
           "effectiveTo": 1901252691000
-        },
+			
+        },{
+          "from": 125.01,
+          "to": 250.00,
+          "charge": 744,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1759256999000
+		},
            {
           "from": 250.01,
           "to": 500.00,
           "charge": 1053,
           "effectiveFrom": 917523271000,
           "effectiveTo": 1901252691000
+			   
+        }, {
+          "from": 250.01,
+          "to": 500.00,
+          "charge": 957,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1759256999000
         },
         {
           "from": 500.01,
@@ -37,6 +58,13 @@
           "charge": 1053,
           "effectiveFrom": 917523271000,
           "effectiveTo": 1901252691000
+        },
+		  {
+          "from": 500.01,
+          "to": 10000.00,
+          "charge": 957,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1759256999000
         }
       ]
     },
@@ -55,6 +83,13 @@
           "effectiveFrom": 917523271000,
           "effectiveTo": 1901252691000
         },
+		   {
+          "from": 0.00,
+          "to": 150.00,
+          "charge": 1062,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1759256999000
+        },
         {
           "from": 150.01,
           "to": 250.00,
@@ -62,12 +97,26 @@
           "effectiveFrom": 917523271000,
           "effectiveTo": 1901252691000
         },
+		  {
+          "from": 150.01,
+          "to": 250.00,
+          "charge": 1593,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1759256999000
+        },
         {
           "from": 250.01,
           "to": 10000.00,
           "charge": 2046,
           "effectiveFrom": 917523271000,
           "effectiveTo": 1901252691000
+        },
+		   {
+          "from": 250.01,
+          "to": 10000.00,
+          "charge": 1860,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1759256999000
         }
       ]
     },
@@ -86,6 +135,13 @@
           "effectiveFrom": 917523271000,
           "effectiveTo": 1901252691000
         },
+		  {
+          "from": 0.00,
+          "to": 150.00,
+          "charge": 1062,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1759256999000
+        },
         {
           "from": 150.01,
           "to": 250.00,
@@ -93,12 +149,26 @@
           "effectiveFrom": 917523271000,
           "effectiveTo": 1901252691000
         },
+		  {
+          "from": 150.01,
+          "to": 250.00,
+          "charge": 1593,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1759256999000
+        },
         {
           "from": 250.01,
           "to": 10000.00,
           "charge": 2046,
           "effectiveFrom": 917523271000,
           "effectiveTo": 1901252691000
+        },
+		  {
+          "from": 250.01,
+          "to": 10000.00,
+          "charge": 1860,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1759256999000
         }
       ]
     },
@@ -117,6 +187,13 @@
           "effectiveFrom": 917523271000,
           "effectiveTo": 1901252691000
         },
+		  {
+          "from": 0.00,
+          "to": 150.00,
+          "charge": 1062,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1759256999000
+        },
         {
           "from": 150.01,
           "to": 250.00,
@@ -124,12 +201,26 @@
           "effectiveFrom": 917523271000,
           "effectiveTo": 1901252691000
         },
+		   {
+          "from": 150.01,
+          "to": 250.00,
+          "charge": 1593,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1759256999000
+        },
         {
           "from": 250.01,
           "to": 10000.00,
           "charge": 2046,
           "effectiveFrom": 917523271000,
           "effectiveTo": 1901252691000
+        },
+		   {
+          "from": 250.01,
+          "to": 10000.00,
+          "charge": 1860,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1759256999000
         }
       ]
     },
@@ -148,6 +239,13 @@
           "effectiveFrom": 917523271000,
           "effectiveTo": 1901252691000
         },
+		   {
+          "from": 0.00,
+          "to": 150.00,
+          "charge": 1062,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1759256999000
+        },
         {
           "from": 150.01,
           "to": 250.00,
@@ -155,12 +253,26 @@
           "effectiveFrom": 917523271000,
           "effectiveTo": 1901252691000
         },
+		  {
+          "from": 150.01,
+          "to": 250.00,
+          "charge": 1593,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1759256999000
+        },
         {
           "from": 250.01,
           "to": 10000.00,
           "charge": 2046,
           "effectiveFrom": 917523271000,
           "effectiveTo": 1901252691000
+        },
+		   {
+          "from": 250.01,
+          "to": 10000.00,
+          "charge": 1860,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1759256999000
         }
       ]
     },
@@ -179,12 +291,26 @@
           "effectiveFrom": 917523271000,
           "effectiveTo": 1901252691000
         },
+		  {
+          "from": 0.00,
+          "to": 125.00,
+          "charge": 531,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1759256999000
+        },
         {
           "from": 125.01,
           "to": 250.00,
           "charge": 819,
           "effectiveFrom": 917523271000,
           "effectiveTo": 1901252691000
+        },
+		   {
+          "from": 125.01,
+          "to": 250.00,
+          "charge": 744,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1759256999000
         },
            {
           "from": 250.01,
@@ -193,12 +319,26 @@
           "effectiveFrom": 917523271000,
           "effectiveTo": 1901252691000
         },
+		  {
+          "from": 250.01,
+          "to": 500.00,
+          "charge": 1053,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1759256999000
+        },
         {
           "from": 500.01,
           "to": 10000.00,
           "charge": 1053,
           "effectiveFrom": 917523271000,
           "effectiveTo": 1901252691000
+        },
+		  {
+          "from": 500.01,
+          "to": 10000.00,
+          "charge": 957,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1759256999000
         }
       ]
     }
