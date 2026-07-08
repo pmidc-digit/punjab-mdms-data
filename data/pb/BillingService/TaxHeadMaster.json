@@ -8723,7 +8723,7 @@
       "service": "GC"
     },
     {
-      "category": "ADVANCE_COLLECTION",
+      "category": "FEE",
       "service": "rl-services",
       "name": "RL Security deposit fee",
       "code": "RL_SECURITY_DEPOSIT_FEE",
@@ -8733,7 +8733,7 @@
       "isRequired": false
     },
     {
-      "category": "ADVANCE_COLLECTION",
+      "category": "TAX",
       "service": "rl-services",
       "name": "Property rent lease Fee",
       "code": "RENT_LEASE_FEE",
@@ -8743,7 +8743,7 @@
       "isRequired": false
     },
     {
-      "category": "ADVANCE_COLLECTION",
+      "category": "PENALTY",
       "service": "rl-services",
       "name": "RL Penalty Fee",
       "code": "RL_PENALTY_FEE",
@@ -8753,7 +8753,7 @@
       "isRequired": false
     },
     {
-      "category": "ADVANCE_COLLECTION",
+      "category": "TAX",
       "service": "rl-services",
       "name": "RL Cowcess fee",
       "code": "RL_COWCESS_FEE",
@@ -8763,7 +8763,7 @@
       "isRequired": false
     },
     {
-      "category": "ADVANCE_COLLECTION",
+      "category": "TAX",
       "service": "rl-services",
       "name": "RL SGST fee",
       "code": "RL_SGST_FEE",
@@ -8773,7 +8773,7 @@
       "isRequired": false
     },
     {
-      "category": "ADVANCE_COLLECTION",
+      "category": "TAX",
       "service": "rl-services",
       "name": "RL CGST fee",
       "code": "RL_CGST_FEE",
@@ -8783,7 +8783,7 @@
       "isRequired": false
     },
     {
-      "category": "ADVANCE_COLLECTION",
+      "category": "TAX",
       "service": "rl-services",
       "name": "Fee Round Off",
       "code": "RL_FEE_ROUND_OFF",
@@ -8792,8 +8792,8 @@
       "order": "9",
       "isRequired": false     
     },
-        {
-      "category": "ADVANCE_COLLECTION",
+    {
+      "category": "TAX",
       "service": "rl-services",
       "name": "Fee Arrear",
       "code": "RL_ARREAR_FEE",
@@ -8802,8 +8802,8 @@
       "order": "10",
       "isRequired": false     
     },
-       {
-      "category": "ADVANCE_COLLECTION",
+    {
+      "category": "PENALTY",
       "service": "rl-services",
       "name": "Fee Arrear",
       "code": "RL_DAILYINTEREST",
@@ -8811,6 +8811,16 @@
       "isActualDemand": true,
       "order": "11",
       "isRequired": false     
+    },
+    {
+      "category": "ADVANCE_COLLECTION",
+      "service": "rl-services",
+      "name": "Rl advance carry forward",
+      "code": "RL_ADVANCE_CARRYFORWARD",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
     }
   ]
 }

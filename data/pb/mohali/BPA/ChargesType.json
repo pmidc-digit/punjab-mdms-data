@@ -1,0 +1,1591 @@
+{
+	"tenantId": "pb.mohali",
+	"moduleName": "BPA",
+	"ChargesType": [
+		{
+			"code": "101",
+			"name": "Bulding Plan Residential Plotted",
+			"Category": [
+				"A-R",
+				"A-AIF",
+				"A-FH"
+			],
+			"fromFY": "2026-27",
+			"startingDate": 1775001600000,
+			"endingDate": 1806537599000,
+			"active": true,
+			"Charges": [
+				{
+					"name": "Processing Fees",
+					"rate": 288.940067113762,
+					"discount": 0.0,
+					"taxHeadCode": "BPA_PROCESSING_FEES",
+					"applicable": true
+				},
+				{
+					"name": "CLU Charges",
+					"rate": 0.0,
+					"discount": 0.0,
+					"slabs": [
+						{
+							"roadType": "NH",
+							"rate": 722.214259944747
+						},
+						{
+							"roadType": "SH",
+							"rate": 577.880134227525
+						},
+						{
+							"roadType": "OTHER ROAD",
+							"rate": 433.274192830985
+						}
+					],
+					"taxHeadCode": "BPA_CLU_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "External Development Charges",
+					"rate": 2600.18878834454,
+					"discount": 0.0,
+					"taxHeadCode": "BPA_EXTERNAL_DEVELOPMENT_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Urban Development Cess",
+					"rate": 5.0,
+					"taxHeadCode": "BPA_URBAN_DEVELOPMENT_CESS",
+					"applicable": true
+				},
+				{
+					"name": "Malba Fees",
+					"rate": 0.5,
+					"slabs": [
+						{
+							"fromPlotArea": 0.0,
+							"toPlotArea": 500.0,
+							"rate": 500.0,
+							"note": "Plot area <=500 sq.ft"
+						},
+						{
+							"fromPlotArea": 501.0,
+							"toPlotArea": 1000.0,
+							"rate": 1000.0,
+							"note": "Plot area >= 501 && <=1000 sq.ft"
+						},
+						{
+							"fromPlotArea": 1001.0,
+							"toPlotArea": 1500.0,
+							"rate": 1500.0,
+							"note": "Plot area >= 1001 && <=1500 sq.ft"
+						},
+						{
+							"fromPlotArea": 1501.0,
+							"toPlotArea": 2000.0,
+							"rate": 2000.0,
+							"note": "Plot area >= 1501 && <=2000 sq.ft"
+						}
+					],
+					"taxHeadCode": "BPA_MALBA_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Water Charges",
+					"rate": 50.0,
+					"taxHeadCode": "BPA_WATER_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Mining Charges",
+					"rate": 0.0,
+					"taxHeadCode": "BPA_MINING_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Guashala Fees",
+					"rate": 50.0,
+					"taxHeadCode": "BPA_GAUSHALA_CHARGES_CESS",
+					"applicable": true
+				},
+				{
+					"name": "Labour Cess",
+					"rate": 11.0,
+					"taxHeadCode": "BPA_LABOUR_CESS",
+					"applicable": true
+				},
+				{
+					"name": "Rain Water Harvesting Charges",
+					"rate": 0.0,
+					"taxHeadCode": "BPA_RAIN_WATER_HARVESTING_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Clubbing Charges",
+					"rate": 50.0,
+					"slabs": [
+						{
+							"fromPlotArea": 0.0,
+							"toPlotArea": 100.0,
+							"rate": 200.0,
+							"note": "Plot area <=100 sq.ft"
+						},
+						{
+							"fromPlotArea": 100.0,
+							"toPlotArea": 200.0,
+							"rate": 150.0,
+							"note": "Plot area > 100 && <=200 sq.ft"
+						},
+						{
+							"fromPlotArea": 200.0,
+							"toPlotArea": 300.0,
+							"rate": 100.0,
+							"note": "Plot area > 200 && <= 300 sq.ft"
+						}
+					],
+					"taxHeadCode": "BPA_CLUBBING_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Sub-Division Charges",
+					"rate": 0.0,
+					"taxHeadCode": "BPA_SUB-DIVISION_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Purchasable FAR fees",
+					"rate": 0.0,
+					"taxHeadCode": "BPA_PURCHASABLE_FAR_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Other Charges",
+					"rate": 0.0,
+					"taxHeadCode": "BPA_OTHER_CHARGES",
+					"applicable": true
+				}
+			]
+		},
+		{
+			"code": "101",
+			"name": "Bulding Plan Residential Group Housing",
+			"Category": [
+				"A-AF"
+			],
+			"fromFY": "2026-27",
+			"startingDate": 1775001600000,
+			"endingDate": 1806537599000,
+			"active": true,
+			"Charges": [
+				{
+					"name": "Processing Fees",
+					"rate": 3972.58615321509,
+					"discount": 0.0,
+					"taxHeadCode": "BPA_PROCESSING_FEES",
+					"applicable": true
+				},
+				{
+					"name": "CLU Charges",
+					"rate": 0.0,
+					"discount": 0.0,
+					"slabs": [
+						{
+							"roadType": "NH",
+							"rate": 1011.15432705851
+						},
+						{
+							"roadType": "SH",
+							"rate": 866.820201341287
+						},
+						{
+							"roadType": "OTHER ROAD",
+							"rate": 722.214259944747
+						}
+					],
+					"taxHeadCode": "BPA_CLU_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "External Development Charges",
+					"rate": 8378.71831494047,
+					"discount": 0.0,
+					"taxHeadCode": "BPA_EXTERNAL_DEVELOPMENT_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Urban Development Cess",
+					"rate": 5.0,
+					"taxHeadCode": "BPA_URBAN_DEVELOPMENT_CESS",
+					"applicable": true
+				},
+				{
+					"name": "Malba Fees",
+					"rate": 0.5,
+					"slabs": [
+						{
+							"fromPlotArea": 0.0,
+							"toPlotArea": 500.0,
+							"rate": 500.0,
+							"note": "Plot area <=500 sq.ft"
+						},
+						{
+							"fromPlotArea": 501.0,
+							"toPlotArea": 1000.0,
+							"rate": 1000.0,
+							"note": "Plot area >= 501 && <=1000 sq.ft"
+						},
+						{
+							"fromPlotArea": 1001.0,
+							"toPlotArea": 1500.0,
+							"rate": 1500.0,
+							"note": "Plot area >= 1001 && <=1500 sq.ft"
+						},
+						{
+							"fromPlotArea": 1501.0,
+							"toPlotArea": 2000.0,
+							"rate": 2000.0,
+							"note": "Plot area >= 1501 && <=2000 sq.ft"
+						}
+					],
+					"taxHeadCode": "BPA_MALBA_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Water Charges",
+					"rate": 50.0,
+					"taxHeadCode": "BPA_WATER_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Mining Charges",
+					"rate": 0.0,
+					"taxHeadCode": "BPA_MINING_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Guashala Fees",
+					"rate": 50.0,
+					"taxHeadCode": "BPA_GAUSHALA_CHARGES_CESS",
+					"applicable": true
+				},
+				{
+					"name": "Labour Cess",
+					"rate": 11.0,
+					"taxHeadCode": "BPA_LABOUR_CESS",
+					"applicable": true
+				},
+				{
+					"name": "Rain Water Harvesting Charges",
+					"rate": 0.0,
+					"taxHeadCode": "BPA_RAIN_WATER_HARVESTING_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Clubbing Charges",
+					"rate": 50.0,
+					"slabs": [
+						{
+							"fromPlotArea": 0.0,
+							"toPlotArea": 100.0,
+							"rate": 200.0,
+							"note": "Plot area <=100 sq.ft"
+						},
+						{
+							"fromPlotArea": 100.0,
+							"toPlotArea": 200.0,
+							"rate": 150.0,
+							"note": "Plot area > 100 && <=200 sq.ft"
+						},
+						{
+							"fromPlotArea": 200.0,
+							"toPlotArea": 300.0,
+							"rate": 100.0,
+							"note": "Plot area > 200 && <= 300 sq.ft"
+						}
+					],
+					"taxHeadCode": "BPA_CLUBBING_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Sub-Division Charges",
+					"rate": 0.0,
+					"taxHeadCode": "BPA_SUB-DIVISION_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Purchasable FAR fees",
+					"rate": 0.0,
+					"taxHeadCode": "BPA_PURCHASABLE_FAR_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Other Charges",
+					"rate": 0.0,
+					"taxHeadCode": "BPA_OTHER_CHARGES",
+					"applicable": true
+				}
+			]
+		},
+		{
+			"code": "101",
+			"name": "Bulding Plan Commercial",
+			"Category": [
+				"F",
+				"F-RB",
+				"F-MIP",
+				"F-MTP",
+				"F-SCC",
+				"F-PO",
+				"F-B",
+				"F-LB",
+				"F-D",
+				"F-CA",
+				"F-VGP",
+				"F-BU"
+			],
+			"fromFY": "2026-27",
+			"startingDate": 1775001600000,
+			"endingDate": 1806537599000,
+			"active": true,
+			"Charges": [
+				{
+					"name": "Processing Fees",
+					"rate": 108.726271726721,
+					"discount": 0.0,
+					"taxHeadCode": "BPA_PROCESSING_FEES",
+					"applicable": true
+				},
+				{
+					"name": "CLU Charges",
+					"rate": 0.0,
+					"discount": 0.0,
+					"slabs": [
+						{
+							"roadType": "NH",
+							"rate": 2889.12885545831
+						},
+						{
+							"roadType": "SH",
+							"rate": 2528.15763332559
+						},
+						{
+							"roadType": "OTHER ROAD",
+							"rate": 2166.91459551356
+						}
+					],
+					"taxHeadCode": "BPA_CLU_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "External Development Charges",
+					"rate": 5778.52952659593,
+					"discount": 0.0,
+					"taxHeadCode": "BPA_EXTERNAL_DEVELOPMENT_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Urban Development Cess",
+					"rate": 5.0,
+					"taxHeadCode": "BPA_URBAN_DEVELOPMENT_CESS",
+					"applicable": true
+				},
+				{
+					"name": "Malba Fees",
+					"rate": 0.5,
+					"slabs": [
+						{
+							"fromPlotArea": 0.0,
+							"toPlotArea": 500.0,
+							"rate": 500.0,
+							"note": "Plot area <=500 sq.ft"
+						},
+						{
+							"fromPlotArea": 501.0,
+							"toPlotArea": 1000.0,
+							"rate": 1000.0,
+							"note": "Plot area >= 501 && <=1000 sq.ft"
+						},
+						{
+							"fromPlotArea": 1001.0,
+							"toPlotArea": 1500.0,
+							"rate": 1500.0,
+							"note": "Plot area >= 1001 && <=1500 sq.ft"
+						},
+						{
+							"fromPlotArea": 1501.0,
+							"toPlotArea": 2000.0,
+							"rate": 2000.0,
+							"note": "Plot area >= 1501 && <=2000 sq.ft"
+						}
+					],
+					"taxHeadCode": "BPA_MALBA_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Water Charges",
+					"rate": 50.0,
+					"taxHeadCode": "BPA_WATER_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Mining Charges",
+					"rate": 0.0,
+					"taxHeadCode": "BPA_MINING_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Guashala Fees",
+					"rate": 50.0,
+					"taxHeadCode": "BPA_GAUSHALA_CHARGES_CESS",
+					"applicable": true
+				},
+				{
+					"name": "Labour Cess",
+					"rate": 11.0,
+					"taxHeadCode": "BPA_LABOUR_CESS",
+					"applicable": true
+				},
+				{
+					"name": "Rain Water Harvesting Charges",
+					"rate": 0.0,
+					"taxHeadCode": "BPA_RAIN_WATER_HARVESTING_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Clubbing Charges",
+					"rate": 400.0,
+					"slabs": [
+						{
+							"fromPlotArea": 0.0,
+							"toPlotArea": 100.0,
+							"rate": 400.0,
+							"note": "Plot area <=100 sq.ft"
+						},
+						{
+							"fromPlotArea": 100.0,
+							"toPlotArea": 200.0,
+							"rate": 400.0,
+							"note": "Plot area > 100 && <=200 sq.ft"
+						},
+						{
+							"fromPlotArea": 200.0,
+							"toPlotArea": 300.0,
+							"rate": 400.0,
+							"note": "Plot area > 200 && <= 300 sq.ft"
+						}
+					],
+					"taxHeadCode": "BPA_CLUBBING_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Sub-Division Charges",
+					"rate": 0.0,
+					"taxHeadCode": "BPA_SUB-DIVISION_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Purchasable FAR fees",
+					"rate": 0.0,
+					"taxHeadCode": "BPA_PURCHASABLE_FAR_CHARGES",
+					"applicable": true
+				}
+			]
+		},
+		{
+			"code": "101",
+			"name": "Bulding Plan Marriage Palaces",
+			"Category": [
+				"L-MP"
+			],
+			"fromFY": "2026-27",
+			"startingDate": 1775001600000,
+			"endingDate": 1806537599000,
+			"active": true,
+			"Charges": [
+				{
+					"name": "Processing Fees",
+					"rate": 108.726271726721,
+					"discount": 0.0,
+					"taxHeadCode": "BPA_PROCESSING_FEES",
+					"applicable": true
+				},
+				{
+					"name": "CLU Charges",
+					"rate": 0.0,
+					"discount": 0.0,
+					"slabs": [
+						{
+							"roadType": "NH",
+							"rate": 2528.15763332559
+						},
+						{
+							"roadType": "SH",
+							"rate": 2528.15763332559
+						},
+						{
+							"roadType": "OTHER ROAD",
+							"rate": 1805.67155770153
+						}
+					],
+					"taxHeadCode": "BPA_CLU_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "External Development Charges",
+					"rate": 812.728881157243,
+					"discount": 0.0,
+					"taxHeadCode": "BPA_EXTERNAL_DEVELOPMENT_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Urban Development Cess",
+					"rate": 5.0,
+					"taxHeadCode": "BPA_URBAN_DEVELOPMENT_CESS",
+					"applicable": true
+				},
+				{
+					"name": "Malba Fees",
+					"rate": 0.5,
+					"slabs": [
+						{
+							"fromPlotArea": 0.0,
+							"toPlotArea": 500.0,
+							"rate": 500.0,
+							"note": "Plot area <=500 sq.ft"
+						},
+						{
+							"fromPlotArea": 501.0,
+							"toPlotArea": 1000.0,
+							"rate": 1000.0,
+							"note": "Plot area >= 501 && <=1000 sq.ft"
+						},
+						{
+							"fromPlotArea": 1001.0,
+							"toPlotArea": 1500.0,
+							"rate": 1500.0,
+							"note": "Plot area >= 1001 && <=1500 sq.ft"
+						},
+						{
+							"fromPlotArea": 1501.0,
+							"toPlotArea": 2000.0,
+							"rate": 2000.0,
+							"note": "Plot area >= 1501 && <=2000 sq.ft"
+						}
+					],
+					"taxHeadCode": "BPA_MALBA_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Water Charges",
+					"rate": 50.0,
+					"taxHeadCode": "BPA_WATER_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Mining Charges",
+					"rate": 0.0,
+					"taxHeadCode": "BPA_MINING_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Guashala Fees",
+					"rate": 50.0,
+					"taxHeadCode": "BPA_GAUSHALA_CHARGES_CESS",
+					"applicable": true
+				},
+				{
+					"name": "Labour Cess",
+					"rate": 11.0,
+					"taxHeadCode": "BPA_LABOUR_CESS",
+					"applicable": true
+				},
+				{
+					"name": "Rain Water Harvesting Charges",
+					"rate": 0.0,
+					"taxHeadCode": "BPA_RAIN_WATER_HARVESTING_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Clubbing Charges",
+					"rate": 0.0,
+					"slabs": [
+						{
+							"fromPlotArea": 0.0,
+							"toPlotArea": 100.0,
+							"rate": 0.0,
+							"note": "Plot area <=100 sq.ft"
+						},
+						{
+							"fromPlotArea": 100.0,
+							"toPlotArea": 200.0,
+							"rate": 0.0,
+							"note": "Plot area > 100 && <=200 sq.ft"
+						},
+						{
+							"fromPlotArea": 200.0,
+							"toPlotArea": 300.0,
+							"rate": 0.0,
+							"note": "Plot area > 200 && <= 300 sq.ft"
+						}
+					],
+					"taxHeadCode": "BPA_CLUBBING_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Sub-Division Charges",
+					"rate": 0.0,
+					"taxHeadCode": "BPA_SUB-DIVISION_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Purchasable FAR fees",
+					"rate": 0.0,
+					"taxHeadCode": "BPA_PURCHASABLE_FAR_CHARGES",
+					"applicable": true
+				}
+			]
+		},
+		{
+			"code": "101",
+			"name": "Bulding Plan Petrol Pumps",
+			"Category": [
+				"F-PFSF",
+				"F-PFST",
+				"F-PFSS",
+				"F-PS",
+				"F-CNGS"
+			],
+			"fromFY": "2026-27",
+			"startingDate": 1775001600000,
+			"endingDate": 1806537599000,
+			"active": true,
+			"Charges": [
+				{
+					"name": "Processing Fees",
+					"rate": 144.334125717223,
+					"discount": 0.0,
+					"taxHeadCode": "BPA_PROCESSING_FEES",
+					"applicable": true
+				},
+				{
+					"name": "CLU Charges",
+					"rate": 0.0,
+					"discount": 0.0,
+					"slabs": [
+						{
+							"roadType": "NH",
+							"rate": 722.214259944747
+						},
+						{
+							"roadType": "SH",
+							"rate": 577.880134227525
+						},
+						{
+							"roadType": "OTHER ROAD",
+							"rate": 433.274192830985
+						}
+					],
+					"taxHeadCode": "BPA_CLU_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "External Development Charges",
+					"rate": 2600.18878834454,
+					"discount": 0.0,
+					"taxHeadCode": "BPA_EXTERNAL_DEVELOPMENT_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Urban Development Cess",
+					"rate": 5.0,
+					"taxHeadCode": "BPA_URBAN_DEVELOPMENT_CESS",
+					"applicable": true
+				},
+				{
+					"name": "Malba Fees",
+					"rate": 0.5,
+					"slabs": [
+						{
+							"fromPlotArea": 0.0,
+							"toPlotArea": 500.0,
+							"rate": 500.0,
+							"note": "Plot area <=500 sq.ft"
+						},
+						{
+							"fromPlotArea": 501.0,
+							"toPlotArea": 1000.0,
+							"rate": 1000.0,
+							"note": "Plot area >= 501 && <=1000 sq.ft"
+						},
+						{
+							"fromPlotArea": 1001.0,
+							"toPlotArea": 1500.0,
+							"rate": 1500.0,
+							"note": "Plot area >= 1001 && <=1500 sq.ft"
+						},
+						{
+							"fromPlotArea": 1501.0,
+							"toPlotArea": 2000.0,
+							"rate": 2000.0,
+							"note": "Plot area >= 1501 && <=2000 sq.ft"
+						}
+					],
+					"taxHeadCode": "BPA_MALBA_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Water Charges",
+					"rate": 50.0,
+					"taxHeadCode": "BPA_WATER_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Mining Charges",
+					"rate": 0.0,
+					"taxHeadCode": "BPA_MINING_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Guashala Fees",
+					"rate": 50.0,
+					"taxHeadCode": "BPA_GAUSHALA_CHARGES_CESS",
+					"applicable": true
+				},
+				{
+					"name": "Labour Cess",
+					"rate": 11.0,
+					"taxHeadCode": "BPA_LABOUR_CESS",
+					"applicable": true
+				},
+				{
+					"name": "Rain Water Harvesting Charges",
+					"rate": 0.0,
+					"taxHeadCode": "BPA_RAIN_WATER_HARVESTING_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Clubbing Charges",
+					"rate": 0.0,
+					"slabs": [
+						{
+							"fromPlotArea": 0.0,
+							"toPlotArea": 100.0,
+							"rate": 0.0,
+							"note": "Plot area <=100 sq.ft"
+						},
+						{
+							"fromPlotArea": 100.0,
+							"toPlotArea": 200.0,
+							"rate": 0.0,
+							"note": "Plot area > 100 && <=200 sq.ft"
+						},
+						{
+							"fromPlotArea": 200.0,
+							"toPlotArea": 300.0,
+							"rate": 0.0,
+							"note": "Plot area > 200 && <= 300 sq.ft"
+						}
+					],
+					"taxHeadCode": "BPA_CLUBBING_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Sub-Division Charges",
+					"rate": 0.0,
+					"taxHeadCode": "BPA_SUB-DIVISION_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Purchasable FAR fees",
+					"rate": 0.0,
+					"taxHeadCode": "BPA_PURCHASABLE_FAR_CHARGES",
+					"applicable": true
+				}
+			]
+		},
+		{
+			"code": "101",
+			"name": "Bulding Plan Hospital, Multi Media Centre (not multiplexes) & Hotels",
+			"Category": [
+				"F-HM",
+				"L-NH"
+			],
+			"fromFY": "2026-27",
+			"startingDate": 1775001600000,
+			"endingDate": 1806537599000,
+			"active": true,
+			"Charges": [
+				{
+					"name": "Processing Fees",
+					"rate": 72.3029706982698,
+					"discount": 0.0,
+					"taxHeadCode": "BPA_PROCESSING_FEES",
+					"applicable": true
+				},
+				{
+					"name": "CLU Charges",
+					"rate": 0.0,
+					"discount": 0.0,
+					"slabs": [
+						{
+							"roadType": "NH",
+							"rate": 0.0
+						},
+						{
+							"roadType": "SH",
+							"rate": 0.0
+						},
+						{
+							"roadType": "OTHER ROAD",
+							"rate": 0.0
+						}
+					],
+					"taxHeadCode": "BPA_CLU_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "External Development Charges",
+					"rate": 1300.09439417227,
+					"discount": 0.0,
+					"taxHeadCode": "BPA_EXTERNAL_DEVELOPMENT_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Urban Development Cess",
+					"rate": 5.0,
+					"taxHeadCode": "BPA_URBAN_DEVELOPMENT_CESS",
+					"applicable": true
+				},
+				{
+					"name": "Malba Fees",
+					"rate": 0.5,
+					"slabs": [
+						{
+							"fromPlotArea": 0.0,
+							"toPlotArea": 500.0,
+							"rate": 500.0,
+							"note": "Plot area <=500 sq.ft"
+						},
+						{
+							"fromPlotArea": 501.0,
+							"toPlotArea": 1000.0,
+							"rate": 1000.0,
+							"note": "Plot area >= 501 && <=1000 sq.ft"
+						},
+						{
+							"fromPlotArea": 1001.0,
+							"toPlotArea": 1500.0,
+							"rate": 1500.0,
+							"note": "Plot area >= 1001 && <=1500 sq.ft"
+						},
+						{
+							"fromPlotArea": 1501.0,
+							"toPlotArea": 2000.0,
+							"rate": 2000.0,
+							"note": "Plot area >= 1501 && <=2000 sq.ft"
+						}
+					],
+					"taxHeadCode": "BPA_MALBA_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Water Charges",
+					"rate": 50.0,
+					"taxHeadCode": "BPA_WATER_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Mining Charges",
+					"rate": 0.0,
+					"taxHeadCode": "BPA_MINING_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Guashala Fees",
+					"rate": 50.0,
+					"taxHeadCode": "BPA_GAUSHALA_CHARGES_CESS",
+					"applicable": true
+				},
+				{
+					"name": "Labour Cess",
+					"rate": 11.0,
+					"taxHeadCode": "BPA_LABOUR_CESS",
+					"applicable": true
+				},
+				{
+					"name": "Rain Water Harvesting Charges",
+					"rate": 0.0,
+					"taxHeadCode": "BPA_RAIN_WATER_HARVESTING_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Clubbing Charges",
+					"rate": 0.0,
+					"slabs": [
+						{
+							"fromPlotArea": 0.0,
+							"toPlotArea": 100.0,
+							"rate": 0.0,
+							"note": "Plot area <=100 sq.ft"
+						},
+						{
+							"fromPlotArea": 100.0,
+							"toPlotArea": 200.0,
+							"rate": 0.0,
+							"note": "Plot area > 100 && <=200 sq.ft"
+						},
+						{
+							"fromPlotArea": 200.0,
+							"toPlotArea": 300.0,
+							"rate": 0.0,
+							"note": "Plot area > 200 && <= 300 sq.ft"
+						}
+					],
+					"taxHeadCode": "BPA_CLUBBING_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Sub-Division Charges",
+					"rate": 0.0,
+					"taxHeadCode": "BPA_SUB-DIVISION_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Purchasable FAR fees",
+					"rate": 0.0,
+					"taxHeadCode": "BPA_PURCHASABLE_FAR_CHARGES",
+					"applicable": true
+				}
+			]
+		},
+		{
+			"code": "101",
+			"name": "Bulding Plan Institutions",
+			"Category": [
+				"L-NS",
+				"L-PS",
+				"L-CO",
+				"L-ERC"
+			],
+			"fromFY": "2026-27",
+			"startingDate": 1775001600000,
+			"endingDate": 1806537599000,
+			"active": true,
+			"Charges": [
+				{
+					"name": "Processing Fees",
+					"rate": 0.0,
+					"discount": 0.0,
+					"taxHeadCode": "BPA_PROCESSING_FEES",
+					"applicable": true
+				},
+				{
+					"name": "CLU Charges",
+					"rate": 0.0,
+					"discount": 0.0,
+					"slabs": [
+						{
+							"roadType": "NH",
+							"rate": 0.0
+						},
+						{
+							"roadType": "SH",
+							"rate": 0.0
+						},
+						{
+							"roadType": "OTHER ROAD",
+							"rate": 0.0
+						}
+					],
+					"taxHeadCode": "BPA_CLU_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "External Development Charges",
+					"rate": 650.183104925794,
+					"discount": 0.0,
+					"taxHeadCode": "BPA_EXTERNAL_DEVELOPMENT_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Urban Development Cess",
+					"rate": 5.0,
+					"taxHeadCode": "BPA_URBAN_DEVELOPMENT_CESS",
+					"applicable": true
+				},
+				{
+					"name": "Malba Fees",
+					"rate": 0.5,
+					"slabs": [
+						{
+							"fromPlotArea": 0.0,
+							"toPlotArea": 500.0,
+							"rate": 500.0,
+							"note": "Plot area <=500 sq.ft"
+						},
+						{
+							"fromPlotArea": 501.0,
+							"toPlotArea": 1000.0,
+							"rate": 1000.0,
+							"note": "Plot area >= 501 && <=1000 sq.ft"
+						},
+						{
+							"fromPlotArea": 1001.0,
+							"toPlotArea": 1500.0,
+							"rate": 1500.0,
+							"note": "Plot area >= 1001 && <=1500 sq.ft"
+						},
+						{
+							"fromPlotArea": 1501.0,
+							"toPlotArea": 2000.0,
+							"rate": 2000.0,
+							"note": "Plot area >= 1501 && <=2000 sq.ft"
+						}
+					],
+					"taxHeadCode": "BPA_MALBA_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Water Charges",
+					"rate": 50.0,
+					"taxHeadCode": "BPA_WATER_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Mining Charges",
+					"rate": 0.0,
+					"taxHeadCode": "BPA_MINING_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Guashala Fees",
+					"rate": 50.0,
+					"taxHeadCode": "BPA_GAUSHALA_CHARGES_CESS",
+					"applicable": true
+				},
+				{
+					"name": "Labour Cess",
+					"rate": 11.0,
+					"taxHeadCode": "BPA_LABOUR_CESS",
+					"applicable": true
+				},
+				{
+					"name": "Rain Water Harvesting Charges",
+					"rate": 0.0,
+					"taxHeadCode": "BPA_RAIN_WATER_HARVESTING_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Clubbing Charges",
+					"rate": 0.0,
+					"slabs": [
+						{
+							"fromPlotArea": 0.0,
+							"toPlotArea": 100.0,
+							"rate": 0.0,
+							"note": "Plot area <=100 sq.ft"
+						},
+						{
+							"fromPlotArea": 100.0,
+							"toPlotArea": 200.0,
+							"rate": 0.0,
+							"note": "Plot area > 100 && <=200 sq.ft"
+						},
+						{
+							"fromPlotArea": 200.0,
+							"toPlotArea": 300.0,
+							"rate": 0.0,
+							"note": "Plot area > 200 && <= 300 sq.ft"
+						}
+					],
+					"taxHeadCode": "BPA_CLUBBING_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Sub-Division Charges",
+					"rate": 0.0,
+					"taxHeadCode": "BPA_SUB-DIVISION_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Purchasable FAR fees",
+					"rate": 0.0,
+					"taxHeadCode": "BPA_PURCHASABLE_FAR_CHARGES",
+					"applicable": true
+				}
+			]
+		},
+		{
+			"code": "101",
+			"name": "Bulding Plan Industry / Godowns / Warehousing / Cold Store",
+			"Category": [
+				"G-G",
+				"G-F",
+				"G-S",
+				"G-HI",
+				"G-WT",
+				"G-RSI",
+				"G-GIP",
+				"G-GIF",
+				"G-ITP",
+				"G-ITF",
+				"G-TI",
+				"G-KI",
+				"G-SI"
+			],
+			"fromFY": "2026-27",
+			"startingDate": 1775001600000,
+			"endingDate": 1806537599000,
+			"active": true,
+			"Charges": [
+				{
+					"name": "Processing Fees",
+					"rate": 72.3029706982698,
+					"discount": 0.0,
+					"taxHeadCode": "BPA_PROCESSING_FEES",
+					"applicable": true
+				},
+				{
+					"name": "CLU Charges",
+					"rate": 0.0,
+					"discount": 0.0,
+					"slabs": [
+						{
+							"roadType": "NH",
+							"rate": 0.0
+						},
+						{
+							"roadType": "SH",
+							"rate": 0.0
+						},
+						{
+							"roadType": "OTHER ROAD",
+							"rate": 0.0
+						}
+					],
+					"taxHeadCode": "BPA_CLU_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "External Development Charges",
+					"rate": 1192.1835694835,
+					"discount": 0.0,
+					"taxHeadCode": "BPA_EXTERNAL_DEVELOPMENT_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Urban Development Cess",
+					"rate": 5.0,
+					"taxHeadCode": "BPA_URBAN_DEVELOPMENT_CESS",
+					"applicable": true
+				},
+				{
+					"name": "Malba Fees",
+					"rate": 0.5,
+					"slabs": [
+						{
+							"fromPlotArea": 0.0,
+							"toPlotArea": 500.0,
+							"rate": 500.0,
+							"note": "Plot area <=500 sq.ft"
+						},
+						{
+							"fromPlotArea": 501.0,
+							"toPlotArea": 1000.0,
+							"rate": 1000.0,
+							"note": "Plot area >= 501 && <=1000 sq.ft"
+						},
+						{
+							"fromPlotArea": 1001.0,
+							"toPlotArea": 1500.0,
+							"rate": 1500.0,
+							"note": "Plot area >= 1001 && <=1500 sq.ft"
+						},
+						{
+							"fromPlotArea": 1501.0,
+							"toPlotArea": 2000.0,
+							"rate": 2000.0,
+							"note": "Plot area >= 1501 && <=2000 sq.ft"
+						}
+					],
+					"taxHeadCode": "BPA_MALBA_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Water Charges",
+					"rate": 50.0,
+					"taxHeadCode": "BPA_WATER_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Mining Charges",
+					"rate": 0.0,
+					"taxHeadCode": "BPA_MINING_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Guashala Fees",
+					"rate": 50.0,
+					"taxHeadCode": "BPA_GAUSHALA_CHARGES_CESS",
+					"applicable": true
+				},
+				{
+					"name": "Labour Cess",
+					"rate": 11.0,
+					"taxHeadCode": "BPA_LABOUR_CESS",
+					"applicable": true
+				},
+				{
+					"name": "Rain Water Harvesting Charges",
+					"rate": 0.0,
+					"taxHeadCode": "BPA_RAIN_WATER_HARVESTING_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Clubbing Charges",
+					"rate": 0.0,
+					"slabs": [
+						{
+							"fromPlotArea": 0.0,
+							"toPlotArea": 100.0,
+							"rate": 0.0,
+							"note": "Plot area <=100 sq.ft"
+						},
+						{
+							"fromPlotArea": 100.0,
+							"toPlotArea": 200.0,
+							"rate": 0.0,
+							"note": "Plot area > 100 && <=200 sq.ft"
+						},
+						{
+							"fromPlotArea": 200.0,
+							"toPlotArea": 300.0,
+							"rate": 0.0,
+							"note": "Plot area > 200 && <= 300 sq.ft"
+						}
+					],
+					"taxHeadCode": "BPA_CLUBBING_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Sub-Division Charges",
+					"rate": 0.0,
+					"taxHeadCode": "BPA_SUB-DIVISION_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Purchasable FAR fees",
+					"rate": 0.0,
+					"taxHeadCode": "BPA_PURCHASABLE_FAR_CHARGES",
+					"applicable": true
+				}
+			]
+		},
+		{
+			"code": "101",
+			"name": "Bulding Plan Sports",
+			"Category": [
+				"Sports"
+			],
+			"fromFY": "2026-27",
+			"startingDate": 1775001600000,
+			"endingDate": 1806537599000,
+			"active": true,
+			"Charges": [
+				{
+					"name": "Processing Fees",
+					"rate": 72.3029706982698,
+					"discount": 0.0,
+					"taxHeadCode": "BPA_PROCESSING_FEES",
+					"applicable": true
+				},
+				{
+					"name": "CLU Charges",
+					"rate": 0.0,
+					"discount": 0.0,
+					"slabs": [
+						{
+							"roadType": "NH",
+							"rate": 36.6951167077685
+						},
+						{
+							"roadType": "SH",
+							"rate": 36.6951167077685
+						},
+						{
+							"roadType": "OTHER ROAD",
+							"rate": 36.6951167077685
+						}
+					],
+					"taxHeadCode": "BPA_CLU_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "External Development Charges",
+					"rate": 0.0,
+					"discount": 0.0,
+					"taxHeadCode": "BPA_EXTERNAL_DEVELOPMENT_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Urban Development Cess",
+					"rate": 5.0,
+					"taxHeadCode": "BPA_URBAN_DEVELOPMENT_CESS",
+					"applicable": true
+				},
+				{
+					"name": "Malba Fees",
+					"rate": 0.5,
+					"slabs": [
+						{
+							"fromPlotArea": 0.0,
+							"toPlotArea": 500.0,
+							"rate": 500.0,
+							"note": "Plot area <=500 sq.ft"
+						},
+						{
+							"fromPlotArea": 501.0,
+							"toPlotArea": 1000.0,
+							"rate": 1000.0,
+							"note": "Plot area >= 501 && <=1000 sq.ft"
+						},
+						{
+							"fromPlotArea": 1001.0,
+							"toPlotArea": 1500.0,
+							"rate": 1500.0,
+							"note": "Plot area >= 1001 && <=1500 sq.ft"
+						},
+						{
+							"fromPlotArea": 1501.0,
+							"toPlotArea": 2000.0,
+							"rate": 2000.0,
+							"note": "Plot area >= 1501 && <=2000 sq.ft"
+						}
+					],
+					"taxHeadCode": "BPA_MALBA_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Water Charges",
+					"rate": 50.0,
+					"taxHeadCode": "BPA_WATER_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Mining Charges",
+					"rate": 0.0,
+					"taxHeadCode": "BPA_MINING_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Guashala Fees",
+					"rate": 50.0,
+					"taxHeadCode": "BPA_GAUSHALA_CHARGES_CESS",
+					"applicable": true
+				},
+				{
+					"name": "Labour Cess",
+					"rate": 11.0,
+					"taxHeadCode": "BPA_LABOUR_CESS",
+					"applicable": true
+				},
+				{
+					"name": "Rain Water Harvesting Charges",
+					"rate": 0.0,
+					"taxHeadCode": "BPA_RAIN_WATER_HARVESTING_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Clubbing Charges",
+					"rate": 0.0,
+					"slabs": [
+						{
+							"fromPlotArea": 0.0,
+							"toPlotArea": 100.0,
+							"rate": 0.0,
+							"note": "Plot area <=100 sq.ft"
+						},
+						{
+							"fromPlotArea": 100.0,
+							"toPlotArea": 200.0,
+							"rate": 0.0,
+							"note": "Plot area > 100 && <=200 sq.ft"
+						},
+						{
+							"fromPlotArea": 200.0,
+							"toPlotArea": 300.0,
+							"rate": 0.0,
+							"note": "Plot area > 200 && <= 300 sq.ft"
+						}
+					],
+					"taxHeadCode": "BPA_CLUBBING_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Sub-Division Charges",
+					"rate": 0.0,
+					"taxHeadCode": "BPA_SUB-DIVISION_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Purchasable FAR fees",
+					"rate": 0.0,
+					"taxHeadCode": "BPA_PURCHASABLE_FAR_CHARGES",
+					"applicable": true
+				}
+			]
+		},
+		{
+			"code": "101",
+			"name": "Bulding Plan Recreational",
+			"Category": [
+				"Recreational"
+			],
+			"fromFY": "2026-27",
+			"startingDate": 1775001600000,
+			"endingDate": 1806537599000,
+			"active": true,
+			"Charges": [
+				{
+					"name": "Processing Fees",
+					"rate": 72.3029706982698,
+					"discount": 0.0,
+					"taxHeadCode": "BPA_PROCESSING_FEES",
+					"applicable": true
+				},
+				{
+					"name": "CLU Charges",
+					"rate": 0.0,
+					"discount": 0.0,
+					"slabs": [
+						{
+							"roadType": "NH",
+							"rate": 216.637096415493
+						},
+						{
+							"roadType": "SH",
+							"rate": 72.3029706982698
+						},
+						{
+							"roadType": "OTHER ROAD",
+							"rate": 54.0913201840439
+						}
+					],
+					"taxHeadCode": "BPA_CLU_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "External Development Charges",
+					"rate": 433.274192830985,
+					"discount": 0.0,
+					"taxHeadCode": "BPA_EXTERNAL_DEVELOPMENT_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Urban Development Cess",
+					"rate": 5.0,
+					"taxHeadCode": "BPA_URBAN_DEVELOPMENT_CESS",
+					"applicable": true
+				},
+				{
+					"name": "Malba Fees",
+					"rate": 0.5,
+					"slabs": [
+						{
+							"fromPlotArea": 0.0,
+							"toPlotArea": 500.0,
+							"rate": 500.0,
+							"note": "Plot area <=500 sq.ft"
+						},
+						{
+							"fromPlotArea": 501.0,
+							"toPlotArea": 1000.0,
+							"rate": 1000.0,
+							"note": "Plot area >= 501 && <=1000 sq.ft"
+						},
+						{
+							"fromPlotArea": 1001.0,
+							"toPlotArea": 1500.0,
+							"rate": 1500.0,
+							"note": "Plot area >= 1001 && <=1500 sq.ft"
+						},
+						{
+							"fromPlotArea": 1501.0,
+							"toPlotArea": 2000.0,
+							"rate": 2000.0,
+							"note": "Plot area >= 1501 && <=2000 sq.ft"
+						}
+					],
+					"taxHeadCode": "BPA_MALBA_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Water Charges",
+					"rate": 50.0,
+					"taxHeadCode": "BPA_WATER_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Mining Charges",
+					"rate": 0.0,
+					"taxHeadCode": "BPA_MINING_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Guashala Fees",
+					"rate": 50.0,
+					"taxHeadCode": "BPA_GAUSHALA_CHARGES_CESS",
+					"applicable": true
+				},
+				{
+					"name": "Labour Cess",
+					"rate": 11.0,
+					"taxHeadCode": "BPA_LABOUR_CESS",
+					"applicable": true
+				},
+				{
+					"name": "Rain Water Harvesting Charges",
+					"rate": 0.0,
+					"taxHeadCode": "BPA_RAIN_WATER_HARVESTING_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Clubbing Charges",
+					"rate": 0.0,
+					"slabs": [
+						{
+							"fromPlotArea": 0.0,
+							"toPlotArea": 100.0,
+							"rate": 0.0,
+							"note": "Plot area <=100 sq.ft"
+						},
+						{
+							"fromPlotArea": 100.0,
+							"toPlotArea": 200.0,
+							"rate": 0.0,
+							"note": "Plot area > 100 && <=200 sq.ft"
+						},
+						{
+							"fromPlotArea": 200.0,
+							"toPlotArea": 300.0,
+							"rate": 0.0,
+							"note": "Plot area > 200 && <= 300 sq.ft"
+						}
+					],
+					"taxHeadCode": "BPA_CLUBBING_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Sub-Division Charges",
+					"rate": 0.0,
+					"taxHeadCode": "BPA_SUB-DIVISION_CHARGES",
+					"applicable": true
+				},
+				{
+					"name": "Purchasable FAR fees",
+					"rate": 0.0,
+					"taxHeadCode": "BPA_PURCHASABLE_FAR_CHARGES",
+					"applicable": true
+				}
+			]
+		}
+	]
+}

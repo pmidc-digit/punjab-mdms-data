@@ -1,0 +1,5191 @@
+{
+  "tenantId": "pb.maur",
+  "moduleName": "rentAndLease",
+  "RLProperty": [
+    {
+      "propertyId": "PB-RL-MA2026000001",
+      "propertyName": "Unit A-1 - IQBAL SINGH s/o RESHAM SINGH",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1684.83",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000002",
+      "propertyName": "Unit A-2 - SOHAN LAL s/o BABU RAM",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "465.42",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000003",
+      "propertyName": "Unit A-3 - RAVINDER SINGH s/o PREM SINGH",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "232.67",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000004",
+      "propertyName": "Unit A-6 - AMRITPAL, RAJESH KUMAR s/o BIRJ LAL, VED PARKASH",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "621.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000005",
+      "propertyName": "Unit A-7 - VAKIL CHAND s/o BIRJ LAL",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "375.5",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000006",
+      "propertyName": "Unit A-9 - GIAN CHAND s/o MANGAL NATH",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "486.67",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000007",
+      "propertyName": "Unit A-11 - GIRDHARI LAL s/o KISHOR CHAND",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "206.17",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000008",
+      "propertyName": "Unit A-12 - BHOORA RAM s/o RAM SINGH",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "204.92",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000009",
+      "propertyName": "Unit A-13 - RAMESH KUMAR,PAWAN KUMAR s/o KISHOR CHAND",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1685.92",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000010",
+      "propertyName": "Unit A-14 - KRISHNA DEVI s/o SURINDER KUMAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "699.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000011",
+      "propertyName": "Unit A-15 - VIPAN KUMAR s/o SURESH KUMAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "456.25",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000012",
+      "propertyName": "Unit A-17 - TARSEM CHAND s/o HANS RAJ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "997.08",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000013",
+      "propertyName": "Unit A-21 - BALDEV RAJ,SUDESH KUMAR s/o SUNAM DASS",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "485.33",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000014",
+      "propertyName": "Unit A-22 - BALDEV KRISHAN s/o PIRTHI CHAND",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "798.75",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000015",
+      "propertyName": "Unit A-24 - VINOD KUMAR s/o LACHMAN DASS",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "365.0",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000016",
+      "propertyName": "Unit A-25 - PREM CHAND s/o LACHMAN DASS",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "613.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000017",
+      "propertyName": "Unit A-26 - VINOD KUMAR s/o LACHMAN DASS",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "363.67",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000018",
+      "propertyName": "Unit A-27 - VINOD KUMAR s/o LACHMAN DASS",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "726.0",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000019",
+      "propertyName": "Unit A-28 - SOHAN LAL, DHARM PAL s/o PREM CHAND",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "494.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000020",
+      "propertyName": "Unit A-29 - MADAN LAL s/o LACHMAN DASS",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "999.67",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000021",
+      "propertyName": "Unit B-1 - KHEM CHAND s/o TILK RAM",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "489.25",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000022",
+      "propertyName": "Unit B-2 - TILK RAM s/o LAKHMI CHAND",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1155.83",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000023",
+      "propertyName": "Unit B-3 - KRISHNA KUMAR s/o TILK RAM",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "372.92",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000024",
+      "propertyName": "Unit B-7 - KULWANT KAUR s/o KEWAL SINGH",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "226.17",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000025",
+      "propertyName": "Unit B-9 - GIRDHARI LAL s/o JEONA MALL",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "444.33",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000026",
+      "propertyName": "Unit B-10 - MITHU RAM s/o GIRDHARI RAM",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "495.92",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000027",
+      "propertyName": "Unit B-14 - TARSEM CHAND s/o LAJA RAM",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "181.17",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000029",
+      "propertyName": "Unit B-19 - MUNISH KUMAR s/o SUKHWINDER SINGH",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "399.42",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000030",
+      "propertyName": "Unit B-20 - MUNISH KUMAR,SURINDER SINGH s/o SUKHWINDER SINGH, RAM JI DASS",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "198.33",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000031",
+      "propertyName": "Unit B-22 - VED PARKASH s/o BHAGWAN DASS",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "240.67",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000032",
+      "propertyName": "Unit B-23 - RAJINDER SINGH s/o JEET SINGH",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "425.83",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000033",
+      "propertyName": "Unit B-24 - RAJINDER SINGH s/o JEET SINGH",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "437.75",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000034",
+      "propertyName": "Unit B-25 - RAJINDER SINGH s/o JEET SINGH",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "350.42",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000035",
+      "propertyName": "Unit B-32 - RAVI KUMAR,SATISH KUMAR s/o RAMESH KUMAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "982.5",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000036",
+      "propertyName": "Unit B-32A - SATISH KUMAR s/o RAMESH KUMAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1212.75",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000037",
+      "propertyName": "Unit B-33 - DARSHNA DEVI s/o RAM TIRTH",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "485.33",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000038",
+      "propertyName": "Unit B-36 - RAMA NAND LACHI RAM s/o KRISHAN KUMAR DHANA RAM",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "220.83",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000039",
+      "propertyName": "Unit C-1 - MADAN GOPAL,DEV RAJ s/o JUGAL KISHOR,VALITI RAM",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "383.5",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000040",
+      "propertyName": "Unit C-2 - VAS DEV s/o MILKHI RAM",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "43.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000041",
+      "propertyName": "Unit C-3 - SAROJ RANI, MINTU s/o RAJESH KUMAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "170.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000042",
+      "propertyName": "Unit C-4 - MITHU RAM,BUSHAN KUMAR s/o CHAJJU RAM",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "374.17",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000043",
+      "propertyName": "Unit C-5 - RAMESH KUMAR s/o BANT RAM",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "282.92",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000044",
+      "propertyName": "Unit C-6 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "272.42",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000045",
+      "propertyName": "Unit C-13 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "117.67",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000046",
+      "propertyName": "Unit C-17 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "101.83",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000047",
+      "propertyName": "Unit C-19 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "354.33",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000048",
+      "propertyName": "Unit C-23 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "203.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000049",
+      "propertyName": "Unit C-24 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "80.67",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000050",
+      "propertyName": "Unit C-25 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "163.0",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000051",
+      "propertyName": "Unit C-27 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "261.75",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000052",
+      "propertyName": "Unit C-29 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "403.33",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000053",
+      "propertyName": "Unit C-30 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "272.42",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000054",
+      "propertyName": "Unit C-31 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "122.92",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000055",
+      "propertyName": "Unit C-32 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "156.0",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000056",
+      "propertyName": "Unit C-33 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "494.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000057",
+      "propertyName": "Unit C-34 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "612.25",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000058",
+      "propertyName": "Unit D-4 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "208.92",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000059",
+      "propertyName": "Unit D-5 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "130.92",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000060",
+      "propertyName": "Unit D-7 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "230.08",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000061",
+      "propertyName": "Unit D-8 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "80.67",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000062",
+      "propertyName": "Unit D-9 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "128.25",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000063",
+      "propertyName": "Unit D-10 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "321.25",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000064",
+      "propertyName": "Unit D-11 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "493.25",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000065",
+      "propertyName": "Unit D-14 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "203.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000066",
+      "propertyName": "Unit D-15 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "124.25",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000067",
+      "propertyName": "Unit D-16 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "220.92",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000068",
+      "propertyName": "Unit D-18 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "144.17",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000069",
+      "propertyName": "Unit D-19 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "80.67",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000070",
+      "propertyName": "Unit D-20 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "142.75",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000071",
+      "propertyName": "Unit D-21 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "179.83",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000072",
+      "propertyName": "Unit D-22 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "282.92",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000073",
+      "propertyName": "Unit D-23 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "313.42",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000074",
+      "propertyName": "Unit D-24 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "183.75",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000075",
+      "propertyName": "Unit D-29 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "476.08",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000076",
+      "propertyName": "Unit D-30 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MITHU HALWAI ALA AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1134.67",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000077",
+      "propertyName": "Unit E-1 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "435.08",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000078",
+      "propertyName": "Unit E-2 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "251.25",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000079",
+      "propertyName": "Unit E-4A - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "810.67",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000080",
+      "propertyName": "Unit E-6 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "203.67",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000081",
+      "propertyName": "Unit E-8 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "263.08",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000082",
+      "propertyName": "Unit E-9 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "64.75",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000083",
+      "propertyName": "Unit E-10 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "152.92",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000084",
+      "propertyName": "Unit E-12 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "261.0",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000085",
+      "propertyName": "Unit E-13 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "403.5",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000086",
+      "propertyName": "Unit E-14 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "403.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000087",
+      "propertyName": "Unit F-1 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "322.0",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000088",
+      "propertyName": "Unit F-2 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "322.0",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000089",
+      "propertyName": "Unit F-4 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "304.75",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000090",
+      "propertyName": "Unit F-5 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "220.83",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000091",
+      "propertyName": "Unit F-5A - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "220.75",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000092",
+      "propertyName": "Unit F-6 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "242.67",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000093",
+      "propertyName": "Unit F-6A - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "121.92",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000094",
+      "propertyName": "Unit F-7 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "203.5",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000095",
+      "propertyName": "Unit F-8 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "203.5",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000096",
+      "propertyName": "Unit F-9 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "162.17",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000097",
+      "propertyName": "Unit F-10 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "403.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000098",
+      "propertyName": "Unit F-11 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "311.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000099",
+      "propertyName": "Unit F-13 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "359.92",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000100",
+      "propertyName": "Unit F-14 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "253.0",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000101",
+      "propertyName": "Unit F-15 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "169.08",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000102",
+      "propertyName": "Unit F-16 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "226.5",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000103",
+      "propertyName": "Unit F-17 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "169.0",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000104",
+      "propertyName": "Unit G-1 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MAIN BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "152.08",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MAIN_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000105",
+      "propertyName": "Unit G-2 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MAIN BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "228.75",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MAIN_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000106",
+      "propertyName": "Unit G-3 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MAIN BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "64.83",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MAIN_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000107",
+      "propertyName": "Unit G-4 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MAIN BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "64.83",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MAIN_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000108",
+      "propertyName": "Unit G-5 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MAIN BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "128.25",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MAIN_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000109",
+      "propertyName": "Unit G-6 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MAIN BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "83.25",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MAIN_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000110",
+      "propertyName": "Unit G-7 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MAIN BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "64.83",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MAIN_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000111",
+      "propertyName": "Unit G-9 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MAIN BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "251.25",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MAIN_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000112",
+      "propertyName": "Unit G-10 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MAIN BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "128.25",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MAIN_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000113",
+      "propertyName": "Unit G-11 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MAIN BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "128.33",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MAIN_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000114",
+      "propertyName": "Unit G-15 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MAIN BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "160.0",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MAIN_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000115",
+      "propertyName": "Unit G-16 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MAIN BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "101.83",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MAIN_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000116",
+      "propertyName": "Unit G-17 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MAIN BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "80.75",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MAIN_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000117",
+      "propertyName": "Unit H-2 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MAIN BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "215.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MAIN_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000118",
+      "propertyName": "Unit H-3 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MAIN BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "179.92",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MAIN_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000119",
+      "propertyName": "Unit H-4 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MAIN BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "179.83",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MAIN_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000120",
+      "propertyName": "Unit H-9 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MAIN BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "132.25",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MAIN_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000121",
+      "propertyName": "Unit H-10 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MAIN BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "88.67",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MAIN_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000122",
+      "propertyName": "Unit H-11 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MAIN BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "50.33",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MAIN_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000123",
+      "propertyName": "Unit H-12 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MAIN BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "80.75",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MAIN_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000124",
+      "propertyName": "Unit H-21 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MAIN BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "373.0",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MAIN_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000125",
+      "propertyName": "Unit H-22 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MAIN BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "589.92",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MAIN_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000126",
+      "propertyName": "Unit H-23 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MAIN BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "124.33",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MAIN_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000127",
+      "propertyName": "Unit H-24 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MAIN BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "71.42",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MAIN_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000128",
+      "propertyName": "Unit H-25 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MAIN BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "91.25",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MAIN_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000129",
+      "propertyName": "Unit I-2 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "450.83",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000130",
+      "propertyName": "Unit I-9 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "822.67",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000131",
+      "propertyName": "Unit I-11 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "490.5",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000132",
+      "propertyName": "Unit I-12 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "446.92",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000133",
+      "propertyName": "Unit I-14 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "404.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000134",
+      "propertyName": "Unit I-15 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "490.5",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000135",
+      "propertyName": "Unit I-16 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "465.5",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000136",
+      "propertyName": "Unit I-17 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "456.33",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000137",
+      "propertyName": "Unit I-18 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "543.5",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000138",
+      "propertyName": "Unit I-19 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "704.92",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000139",
+      "propertyName": "Unit I-22 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "691.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000140",
+      "propertyName": "Unit I-23 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "538.25",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000141",
+      "propertyName": "Unit I-24 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "521.0",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000142",
+      "propertyName": "Unit I-25 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "617.67",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000143",
+      "propertyName": "Unit I-28 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "387.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000144",
+      "propertyName": "Unit I-29 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "438.17",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000145",
+      "propertyName": "Unit I-30 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "362.25",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000146",
+      "propertyName": "Unit I-31 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "253.0",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000147",
+      "propertyName": "Unit I-32 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "493.42",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000148",
+      "propertyName": "Unit I-33 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "327.75",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000149",
+      "propertyName": "Unit I-34 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "327.75",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000150",
+      "propertyName": "Unit I-35 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "514.08",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000153",
+      "propertyName": "Unit J-1 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "97.83",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000154",
+      "propertyName": "Unit J-2 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "184.17",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000155",
+      "propertyName": "Unit J-4 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "115.08",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000156",
+      "propertyName": "Unit J-5 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "350.5",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000158",
+      "propertyName": "Unit J-5A - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "80.67",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000159",
+      "propertyName": "Unit J-6 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "71.42",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000160",
+      "propertyName": "Unit J-7 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "PURANI SABJI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "123.0",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_PURANI_SABJI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000161",
+      "propertyName": "Unit K-1 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "NAGAR COUNCIL AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "80.75",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_NAGAR_COUNCIL_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000162",
+      "propertyName": "Unit K-2 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "NAGAR COUNCIL AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "189.08",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_NAGAR_COUNCIL_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000163",
+      "propertyName": "Unit K-3 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "NAGAR COUNCIL AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "247.42",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_NAGAR_COUNCIL_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000164",
+      "propertyName": "Unit K-4 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "NAGAR COUNCIL AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "247.25",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_NAGAR_COUNCIL_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000165",
+      "propertyName": "Unit K-5 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "NAGAR COUNCIL AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "383.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_NAGAR_COUNCIL_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000166",
+      "propertyName": "Unit K-6 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "NAGAR COUNCIL AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "97.92",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_NAGAR_COUNCIL_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000167",
+      "propertyName": "Unit K-7 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "NAGAR COUNCIL AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "97.92",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_NAGAR_COUNCIL_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000168",
+      "propertyName": "Unit K-8A - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "NAGAR COUNCIL AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "121.67",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_NAGAR_COUNCIL_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000169",
+      "propertyName": "Unit K-9 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "NAGAR COUNCIL AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "190.42",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_NAGAR_COUNCIL_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000170",
+      "propertyName": "Unit K-9A - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "NAGAR COUNCIL AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "190.5",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_NAGAR_COUNCIL_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000171",
+      "propertyName": "Unit K-10 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "NAGAR COUNCIL AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "208.92",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_NAGAR_COUNCIL_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000172",
+      "propertyName": "Unit K-11 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "NAGAR COUNCIL AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "416.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_NAGAR_COUNCIL_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000173",
+      "propertyName": "Unit K-12 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "NAGAR COUNCIL AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "208.92",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_NAGAR_COUNCIL_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000174",
+      "propertyName": "Unit K-13 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "NAGAR COUNCIL AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "189.08",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_NAGAR_COUNCIL_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000175",
+      "propertyName": "Unit K-14 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "NAGAR COUNCIL AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "150.67",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_NAGAR_COUNCIL_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000176",
+      "propertyName": "Unit K-15 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "NAGAR COUNCIL AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "189.08",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_NAGAR_COUNCIL_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000177",
+      "propertyName": "Unit K-16 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MALL GODAM ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "189.08",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MALL_GODAM_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000178",
+      "propertyName": "Unit K-18 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MALL GODAM ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "189.08",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MALL_GODAM_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000179",
+      "propertyName": "Unit K-20 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MALL GODAM ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "350.42",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MALL_GODAM_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000180",
+      "propertyName": "Unit K-24 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MALL GODAM ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "214.42",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MALL_GODAM_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000181",
+      "propertyName": "Unit K-25 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MALL GODAM ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "247.42",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MALL_GODAM_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000182",
+      "propertyName": "Unit K-26 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MALL GODAM ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "214.42",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MALL_GODAM_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000183",
+      "propertyName": "Unit K-27 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MALL GODAM ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "154.83",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MALL_GODAM_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000184",
+      "propertyName": "Unit L-1 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MALL GODAM ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "52.92",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MALL_GODAM_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000185",
+      "propertyName": "Unit L-2 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MALL GODAM ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "63.5",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MALL_GODAM_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000186",
+      "propertyName": "Unit L-2A - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MALL GODAM ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "27.83",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MALL_GODAM_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000187",
+      "propertyName": "Unit L-3 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MALL GODAM ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "66.42",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MALL_GODAM_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000188",
+      "propertyName": "Unit L-4 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MALL GODAM ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "227.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MALL_GODAM_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000189",
+      "propertyName": "Unit L-6 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MALL GODAM ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "141.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MALL_GODAM_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000190",
+      "propertyName": "Unit L-12 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "MALL GODAM ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "149.42",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_MALL_GODAM_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000191",
+      "propertyName": "Unit L-13A - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "DARSHAB PHOTO GRAPHER AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "10.5",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_DARSHAB_PHOTO_GRAPHER_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000192",
+      "propertyName": "Unit L-14 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "DARSHAB PHOTO GRAPHER AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "244.67",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_DARSHAB_PHOTO_GRAPHER_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000193",
+      "propertyName": "Unit L-15 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "DARSHAB PHOTO GRAPHER AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "97.92",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_DARSHAB_PHOTO_GRAPHER_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000194",
+      "propertyName": "Unit L-15 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "DARSHAB PHOTO GRAPHER AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "56.83",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_DARSHAB_PHOTO_GRAPHER_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000195",
+      "propertyName": "Unit L-15A - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "DARSHAB PHOTO GRAPHER AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "108.5",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_DARSHAB_PHOTO_GRAPHER_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000196",
+      "propertyName": "Unit L-16 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "DARSHAB PHOTO GRAPHER AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "120.42",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_DARSHAB_PHOTO_GRAPHER_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000197",
+      "propertyName": "Unit L-16A - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "DARSHAB PHOTO GRAPHER AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "103.17",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_DARSHAB_PHOTO_GRAPHER_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000198",
+      "propertyName": "Unit L-18 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "DARSHAB PHOTO GRAPHER AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "215.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_DARSHAB_PHOTO_GRAPHER_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000199",
+      "propertyName": "Unit L-19 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "DARSHAB PHOTO GRAPHER AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "215.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_DARSHAB_PHOTO_GRAPHER_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000200",
+      "propertyName": "Unit L-20 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "DARSHAB PHOTO GRAPHER AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "190.42",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_DARSHAB_PHOTO_GRAPHER_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000201",
+      "propertyName": "Unit M-1 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "DARSHAB PHOTO GRAPHER AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "191.83",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_DARSHAB_PHOTO_GRAPHER_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000202",
+      "propertyName": "Unit M-2 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "DARSHAB PHOTO GRAPHER AREA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "208.92",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_DARSHAB_PHOTO_GRAPHER_AREA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000203",
+      "propertyName": "Unit M-3 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "BACK SIDE GURDWARA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "195.75",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_BACK_SIDE_GURDWARA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000204",
+      "propertyName": "Unit M-4 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "BACK SIDE GURDWARA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "361.0",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_BACK_SIDE_GURDWARA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000205",
+      "propertyName": "Unit M-5 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "BACK SIDE GURDWARA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "240.67",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_BACK_SIDE_GURDWARA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000206",
+      "propertyName": "Unit M-6 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "BACK SIDE GURDWARA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "186.42",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_BACK_SIDE_GURDWARA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000207",
+      "propertyName": "Unit M-7 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "BACK SIDE GURDWARA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "195.75",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_BACK_SIDE_GURDWARA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000208",
+      "propertyName": "Unit M-8 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "BACK SIDE GURDWARA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "421.92",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_BACK_SIDE_GURDWARA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000209",
+      "propertyName": "Unit M-9 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "BACK SIDE GURDWARA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "80.75",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_BACK_SIDE_GURDWARA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000210",
+      "propertyName": "Unit M-10 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "NEAR MITHOD BANK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "80.75",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_NEAR_MITHOD_BANK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000211",
+      "propertyName": "Unit M-11 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "FACTORY ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1416.33",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_FACTORY_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000212",
+      "propertyName": "Unit M-12 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "BALMIK MOHALA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "489.33",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_BALMIK_MOHALA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000213",
+      "propertyName": "Unit M-13 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "BALMIK MOHALA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "243.33",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_BALMIK_MOHALA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000214",
+      "propertyName": "Unit M-14 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "BALMIK MOHALA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "661.25",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_BALMIK_MOHALA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000215",
+      "propertyName": "Unit N-1 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "BALMIK MOHALA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5.25",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_BALMIK_MOHALA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000216",
+      "propertyName": "Unit N-2 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "BALMIK MOHALA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "10.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_BALMIK_MOHALA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000217",
+      "propertyName": "Unit N-3 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "BALMIK MOHALA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "10.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_BALMIK_MOHALA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000218",
+      "propertyName": "Unit N-4 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "BALMIK MOHALA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "10.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_BALMIK_MOHALA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000219",
+      "propertyName": "Unit N-5 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "BALMIK MOHALA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "10.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_BALMIK_MOHALA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000220",
+      "propertyName": "Unit N-6 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "BALMIK MOHALA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "10.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_BALMIK_MOHALA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000221",
+      "propertyName": "Unit N-7 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "BALMIK MOHALA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "10.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_BALMIK_MOHALA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000222",
+      "propertyName": "Unit N-8 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "BALMIK MOHALA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "10.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_BALMIK_MOHALA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000223",
+      "propertyName": "Unit N-9 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "BALMIK MOHALA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "10.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_BALMIK_MOHALA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000224",
+      "propertyName": "Unit N-10 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "BALMIK MOHALA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "10.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_BALMIK_MOHALA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000225",
+      "propertyName": "Unit N-11 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "BALMIK MOHALA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "10.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_BALMIK_MOHALA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000226",
+      "propertyName": "Unit N-12 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "BALMIK MOHALA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "10.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_BALMIK_MOHALA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000227",
+      "propertyName": "Unit N-13 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "BALMIK MOHALA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "10.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_BALMIK_MOHALA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000228",
+      "propertyName": "Unit N-14 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "BALMIK MOHALA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "10.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_BALMIK_MOHALA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000229",
+      "propertyName": "Unit N-15 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "BALMIK MOHALA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "10.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_BALMIK_MOHALA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000230",
+      "propertyName": "Unit N-16 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "BALMIK MOHALA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "10.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_BALMIK_MOHALA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000231",
+      "propertyName": "Unit N-17 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "BALMIK MOHALA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "10.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_BALMIK_MOHALA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000232",
+      "propertyName": "Unit N-18 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "BALMIK MOHALA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "10.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_BALMIK_MOHALA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000233",
+      "propertyName": "Unit N-19 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "BALMIK MOHALA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "10.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_BALMIK_MOHALA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000234",
+      "propertyName": "Unit N-20 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "BALMIK MOHALA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "10.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_BALMIK_MOHALA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000235",
+      "propertyName": "Unit N-21 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "BALMIK MOHALA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "10.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_BALMIK_MOHALA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000236",
+      "propertyName": "Unit N-22 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "BALMIK MOHALA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "10.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_BALMIK_MOHALA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000237",
+      "propertyName": "Unit N-23 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "BALMIK MOHALA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "10.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_BALMIK_MOHALA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000238",
+      "propertyName": "Unit N-24 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "BALMIK MOHALA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "10.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_BALMIK_MOHALA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000239",
+      "propertyName": "Unit N-25 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "BALMIK MOHALA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "10.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_BALMIK_MOHALA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000240",
+      "propertyName": "Unit N-26 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "BALMIK MOHALA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "10.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_BALMIK_MOHALA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000241",
+      "propertyName": "Unit N-27 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "BALMIK MOHALA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "10.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_BALMIK_MOHALA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000242",
+      "propertyName": "Unit N-28 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "BALMIK MOHALA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "10.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_BALMIK_MOHALA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000243",
+      "propertyName": "Unit N-29 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "BALMIK MOHALA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "10.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_BALMIK_MOHALA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000244",
+      "propertyName": "Unit N-30 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "BALMIK MOHALA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "10.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_BALMIK_MOHALA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000245",
+      "propertyName": "Unit N-31 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "BALMIK MOHALA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "10.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_BALMIK_MOHALA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000246",
+      "propertyName": "Unit N-32 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "BALMIK MOHALA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "10.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_BALMIK_MOHALA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000247",
+      "propertyName": "Unit N-33 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "BALMIK MOHALA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "10.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_BALMIK_MOHALA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000248",
+      "propertyName": "Unit N-34 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "BALMIK MOHALA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "10.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_BALMIK_MOHALA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000249",
+      "propertyName": "Unit N-35 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "BALMIK MOHALA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "10.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_BALMIK_MOHALA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000250",
+      "propertyName": "Unit N-36 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "BALMIK MOHALA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "10.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_BALMIK_MOHALA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000251",
+      "propertyName": "Unit N-37 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "BALMIK MOHALA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "10.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_BALMIK_MOHALA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000252",
+      "propertyName": "Unit N-38 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "BALMIK MOHALA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "10.67",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_BALMIK_MOHALA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000253",
+      "propertyName": "Unit N-39 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "BALMIK MOHALA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "10.67",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_BALMIK_MOHALA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000254",
+      "propertyName": "Unit S-1 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "231.5",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000255",
+      "propertyName": "Unit S-2 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "231.5",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000256",
+      "propertyName": "Unit S-5 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "289.67",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000257",
+      "propertyName": "Unit S-8 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "173.33",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000258",
+      "propertyName": "Unit S-11 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1273.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000259",
+      "propertyName": "Unit S-12 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "578.0",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000260",
+      "propertyName": "Unit S-16 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "429.0",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000261",
+      "propertyName": "Unit S-17 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "503.0",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000262",
+      "propertyName": "Unit S-23 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "605.67",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000263",
+      "propertyName": "Unit S-24 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1493.08",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000264",
+      "propertyName": "Unit S-32 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1194.25",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000265",
+      "propertyName": "Unit S-34 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1654.42",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000266",
+      "propertyName": "Unit S-35 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1409.75",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000267",
+      "propertyName": "Unit S-37 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1395.25",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000268",
+      "propertyName": "Unit S-38 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "527.67",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000269",
+      "propertyName": "Unit S-40 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1557.92",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000270",
+      "propertyName": "Unit S-44 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "979.92",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000271",
+      "propertyName": "Unit S-45 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "977.33",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000272",
+      "propertyName": "Unit S-46 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1522.08",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000273",
+      "propertyName": "Unit S-47 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1519.5",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000274",
+      "propertyName": "Unit S-48 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1286.75",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000275",
+      "propertyName": "Unit S-49 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1491.67",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000276",
+      "propertyName": "Unit S-50 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1491.67",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000277",
+      "propertyName": "Unit S-51 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1563.17",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000278",
+      "propertyName": "Unit S-52 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1780.0",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000279",
+      "propertyName": "Unit S-53 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "625.5",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000280",
+      "propertyName": "Unit S-54 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1225.83",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000281",
+      "propertyName": "Unit S-56 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "403.33",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000282",
+      "propertyName": "Unit S-57 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "954.75",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000283",
+      "propertyName": "Unit S-58 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "335.83",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000284",
+      "propertyName": "Unit S-60 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "753.83",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000285",
+      "propertyName": "Unit S-62 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "839.75",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000286",
+      "propertyName": "Unit S-65 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "579.17",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000287",
+      "propertyName": "Unit S-68 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "579.17",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000288",
+      "propertyName": "Unit T-5 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3148.83",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000289",
+      "propertyName": "Unit T-6 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1050.0",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000290",
+      "propertyName": "Unit T-9 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2965.0",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000291",
+      "propertyName": "Unit T-12 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2635.67",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000292",
+      "propertyName": "Unit T-14 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1407.08",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000293",
+      "propertyName": "Unit T-17 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1064.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000294",
+      "propertyName": "Unit T-18 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1064.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000295",
+      "propertyName": "Unit T-19 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1064.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000296",
+      "propertyName": "Unit T-20 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1026.25",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000297",
+      "propertyName": "Unit T-22 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "912.5",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000298",
+      "propertyName": "Unit T-23 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "912.5",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000299",
+      "propertyName": "Unit T-24 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1064.58",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000300",
+      "propertyName": "Unit T-25 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "987.83",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000301",
+      "propertyName": "Unit T-26 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1095.0",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000302",
+      "propertyName": "Unit T-27 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "886.08",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000303",
+      "propertyName": "Unit T-28 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1190.25",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000304",
+      "propertyName": "Unit T-29 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1058.0",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000305",
+      "propertyName": "Unit T-30 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1058.0",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000306",
+      "propertyName": "Unit T-31 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1058.0",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000307",
+      "propertyName": "Unit T-32 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1058.0",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000308",
+      "propertyName": "Unit T-33 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1058.0",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MA2026000309",
+      "propertyName": "Unit T-34 - ",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "HOSPITAL BAJAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2945.17",
+      "securityDeposit": null,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "MAUR_HOSPITAL_BAJAR_RENT_COM"
+    }
+  ]
+}

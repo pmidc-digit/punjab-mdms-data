@@ -362,7 +362,8 @@
       "name": "NOC ATP verifier",
       "description": "NOC ATP verifier",
       "groupId": "004"
-    },{
+    },
+    {
       "code": "OBPAS_NOC_MTP",
       "name": "NOC MTP verifier",
       "description": "NOC MTP verifier",
@@ -1491,6 +1492,12 @@
       "groupId": "014"
     },
     {
+      "code": "VIEW_KIBANA_DASHBOARD",
+      "name": "Kibana Dashboard",
+      "description": "Kibana Dashboard",
+      "groupId": "014"
+    },
+    {
       "code": "GC_CEMP",
       "name": "GC_CEMP",
       "description": "Garbage connection Counter employee",
@@ -1605,10 +1612,16 @@
       "groupId": "025"
     },
     {
-      "code": "RENT&LEASE_REPORTS",
+      "code": "Rent And Lease Reports",
       "name": "Rent And Lease Reports",
       "description": "For Rent and Lease Reports",
       "groupId": "006"
-    }
+    },
+	{
+	  "code": "API_ONLY",
+	  "name": "API Only",
+	  "description": "Default role for API only access",
+	  "groupId": "030"
+	}	
   ]
 }
