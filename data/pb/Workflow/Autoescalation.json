@@ -73,6 +73,18 @@
 	    "businessService": "BPA_MC",
 	    "module": "bpa-service",
 	    "startSlaState": "FIELDINSPECTION_INPROGRESS",
+	    "state": "FIELDINSPECTION_INPROGRESS",
+	    "action": "SEND_FOR_INSPECTION_REPORT",
+	    "active": "true",
+	    "stateSLA": 604800000,
+	    "businessSLA": null,
+	    "topic": "bpa-auto-escalation",
+	    "comment": "Auto Jumped."
+	  },
+	  {
+	    "businessService": "BPA_MC",
+	    "module": "bpa-service",
+	    "startSlaState": "INSPECTION_REPORT_PENDING",
 	    "state": "INSPECTION_REPORT_PENDING",
 	    "action": "FORWARD",
 	    "active": "true",
@@ -132,7 +144,7 @@
 	  {
 	    "businessService": "BPA_MC_HIGH",
 	    "module": "bpa-service",
-	    "startSlaState": "FIELDINSPECTION_INPROGRESS",
+	    "startSlaState": "INSPECTION_REPORT_PENDING",
 	    "state": "INSPECTION_REPORT_PENDING",
 	    "action": "FORWARD",
 	    "active": "true",
@@ -192,7 +204,7 @@
 	  {
 	    "businessService": "BPA_MC_OTH",
 	    "module": "bpa-service",
-	    "startSlaState": "FIELDINSPECTION_INPROGRESS",
+	    "startSlaState": "INSPECTION_REPORT_PENDING",
 	    "state": "INSPECTION_REPORT_PENDING",
 	    "action": "FORWARD",
 	    "active": "true",
@@ -252,7 +264,7 @@
 	  {
 	    "businessService": "BPA_NP",
 	    "module": "bpa-service",
-	    "startSlaState": "FIELDINSPECTION_INPROGRESS",
+	    "startSlaState": "INSPECTION_REPORT_PENDING",
 	    "state": "INSPECTION_REPORT_PENDING",
 	    "action": "FORWARD",
 	    "active": "true",
@@ -312,7 +324,7 @@
 	  {
 	    "businessService": "BPA_NP_HIGH",
 	    "module": "bpa-service",
-	    "startSlaState": "FIELDINSPECTION_INPROGRESS",
+	    "startSlaState": "INSPECTION_REPORT_PENDING",
 	    "state": "INSPECTION_REPORT_PENDING",
 	    "action": "FORWARD",
 	    "active": "true",
@@ -372,7 +384,7 @@
 	  {
 	    "businessService": "BPA_NP_OTH",
 	    "module": "bpa-service",
-	    "startSlaState": "FIELDINSPECTION_INPROGRESS",
+	    "startSlaState": "INSPECTION_REPORT_PENDING",
 	    "state": "INSPECTION_REPORT_PENDING",
 	    "action": "FORWARD",
 	    "active": "true",
