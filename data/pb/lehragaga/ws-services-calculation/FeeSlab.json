@@ -14,6 +14,13 @@
           "connectionFee":"200",
           "usageType":"DOMESTIC"
         },
+          {
+          "fromPlotSize":"0",
+          "toPlotSize":"3000000",
+          "securityCharge":"2000",
+          "usageType":"COMMERCIAL"
+        },
+    
     
         {
           "fromPlotSize":"0",
