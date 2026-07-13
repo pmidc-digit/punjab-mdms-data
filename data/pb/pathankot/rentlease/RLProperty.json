@@ -14,7 +14,7 @@
       },
       "propertyImage": "",
       "baseRent": "1676",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DEEWAR_HOSPITAL_RENT_COM"
@@ -31,7 +31,7 @@
       },
       "propertyImage": "",
       "baseRent": "1070",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DEEWAR_HOSPITAL_RENT_COM"
@@ -48,7 +48,7 @@
       },
       "propertyImage": "",
       "baseRent": "2468",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DEEWAR_HOSPITAL_RENT_COM"
@@ -65,7 +65,7 @@
       },
       "propertyImage": "",
       "baseRent": "1247",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DEEWAR_HOSPITAL_RENT_COM"
@@ -82,7 +82,7 @@
       },
       "propertyImage": "",
       "baseRent": "1178",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DEEWAR_HOSPITAL_RENT_COM"
@@ -99,7 +99,7 @@
       },
       "propertyImage": "",
       "baseRent": "1246",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DEEWAR_HOSPITAL_RENT_COM"
@@ -116,7 +116,7 @@
       },
       "propertyImage": "",
       "baseRent": "830",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DEEWAR_HOSPITAL_RENT_COM"
@@ -133,7 +133,7 @@
       },
       "propertyImage": "",
       "baseRent": "2788",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DEEWAR_HOSPITAL_RENT_COM"
@@ -150,7 +150,7 @@
       },
       "propertyImage": "",
       "baseRent": "1003",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DEEWAR_HOSPITAL_RENT_COM"
@@ -167,7 +167,7 @@
       },
       "propertyImage": "",
       "baseRent": "1656",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DEEWAR_HOSPITAL_RENT_COM"
@@ -184,7 +184,7 @@
       },
       "propertyImage": "",
       "baseRent": "1174",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DEEWAR_HOSPITAL_RENT_COM"
@@ -201,7 +201,7 @@
       },
       "propertyImage": "",
       "baseRent": "713",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DEEWAR_HOSPITAL_RENT_COM"
@@ -218,7 +218,7 @@
       },
       "propertyImage": "",
       "baseRent": "1592",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DEEWAR_HOSPITAL_RENT_COM"
@@ -235,7 +235,7 @@
       },
       "propertyImage": "",
       "baseRent": "1592",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DEEWAR_HOSPITAL_RENT_COM"
@@ -252,7 +252,7 @@
       },
       "propertyImage": "",
       "baseRent": "3142",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DEEWAR_HOSPITAL_RENT_COM"
@@ -269,7 +269,7 @@
       },
       "propertyImage": "",
       "baseRent": "2974",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DEEWAR_HOSPITAL_RENT_COM"
@@ -286,7 +286,7 @@
       },
       "propertyImage": "",
       "baseRent": "2130",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DEEWAR_HOSPITAL_RENT_COM"
@@ -303,7 +303,7 @@
       },
       "propertyImage": "",
       "baseRent": "1730",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DEEWAR_HOSPITAL_RENT_COM"
@@ -320,7 +320,7 @@
       },
       "propertyImage": "",
       "baseRent": "1729",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DEEWAR_HOSPITAL_RENT_COM"
@@ -337,7 +337,7 @@
       },
       "propertyImage": "",
       "baseRent": "1584",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DEEWAR_HOSPITAL_RENT_COM"
@@ -354,7 +354,7 @@
       },
       "propertyImage": "",
       "baseRent": "2572",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DEEWAR_HOSPITAL_RENT_COM"
@@ -371,7 +371,7 @@
       },
       "propertyImage": "",
       "baseRent": "952",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DEEWAR_HOSPITAL_RENT_COM"
@@ -388,7 +388,7 @@
       },
       "propertyImage": "",
       "baseRent": "1555",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DEEWAR_HOSPITAL_RENT_COM"
@@ -405,7 +405,7 @@
       },
       "propertyImage": "",
       "baseRent": "2736",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DEEWAR_HOSPITAL_RENT_COM"
@@ -422,7 +422,7 @@
       },
       "propertyImage": "",
       "baseRent": "1742",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DEEWAR_HOSPITAL_RENT_COM"
@@ -439,7 +439,7 @@
       },
       "propertyImage": "",
       "baseRent": "931",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DEEWAR_HOSPITAL_RENT_COM"
@@ -456,7 +456,7 @@
       },
       "propertyImage": "",
       "baseRent": "2054",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DEEWAR_HOSPITAL_RENT_COM"
@@ -473,7 +473,7 @@
       },
       "propertyImage": "",
       "baseRent": "3407",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DEEWAR_HOSPITAL_RENT_COM"
@@ -490,7 +490,7 @@
       },
       "propertyImage": "",
       "baseRent": "4304",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DEEWAR_HOSPITAL_RENT_COM"
@@ -507,7 +507,7 @@
       },
       "propertyImage": "",
       "baseRent": "5255",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DEEWAR_HOSPITAL_RENT_COM"
@@ -524,7 +524,7 @@
       },
       "propertyImage": "",
       "baseRent": "122",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DEEWAR_HOSPITAL_RENT_COM"
@@ -541,7 +541,7 @@
       },
       "propertyImage": "",
       "baseRent": "1250",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DEEWAR_HOSPITAL_RENT_COM"
@@ -558,7 +558,7 @@
       },
       "propertyImage": "",
       "baseRent": "1195",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DEEWAR_HOSPITAL_RENT_COM"
@@ -575,7 +575,7 @@
       },
       "propertyImage": "",
       "baseRent": "2206",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MEAT_MARKET_SIDE_RENT_COM"
@@ -592,7 +592,7 @@
       },
       "propertyImage": "",
       "baseRent": "1842",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MEAT_MARKET_SIDE_RENT_COM"
@@ -609,7 +609,7 @@
       },
       "propertyImage": "",
       "baseRent": "2350",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MEAT_MARKET_SIDE_RENT_COM"
@@ -626,7 +626,7 @@
       },
       "propertyImage": "",
       "baseRent": "510",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MEAT_MARKET_SIDE_RENT_COM"
@@ -643,7 +643,7 @@
       },
       "propertyImage": "",
       "baseRent": "770",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MEAT_MARKET_SIDE_RENT_COM"
@@ -660,7 +660,7 @@
       },
       "propertyImage": "",
       "baseRent": "1020",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MEAT_MARKET_SIDE_RENT_COM"
@@ -677,7 +677,7 @@
       },
       "propertyImage": "",
       "baseRent": "1987",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MEAT_MARKET_SIDE_RENT_COM"
@@ -694,7 +694,7 @@
       },
       "propertyImage": "",
       "baseRent": "509",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MEAT_MARKET_SIDE_RENT_COM"
@@ -711,7 +711,7 @@
       },
       "propertyImage": "",
       "baseRent": "1916",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MEAT_MARKET_SIDE_RENT_COM"
@@ -728,7 +728,7 @@
       },
       "propertyImage": "",
       "baseRent": "1865",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MEAT_MARKET_SIDE_RENT_COM"
@@ -745,7 +745,7 @@
       },
       "propertyImage": "",
       "baseRent": "1409",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MEAT_MARKET_SIDE_RENT_COM"
@@ -762,7 +762,7 @@
       },
       "propertyImage": "",
       "baseRent": "1452",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MEAT_MARKET_SIDE_RENT_COM"
@@ -779,7 +779,7 @@
       },
       "propertyImage": "",
       "baseRent": "535",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MEAT_MARKET_SIDE_RENT_COM"
@@ -796,7 +796,7 @@
       },
       "propertyImage": "",
       "baseRent": "634",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MEAT_MARKET_SIDE_RENT_COM"
@@ -813,7 +813,7 @@
       },
       "propertyImage": "",
       "baseRent": "1928",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MEAT_MARKET_SIDE_RENT_COM"
@@ -830,7 +830,7 @@
       },
       "propertyImage": "",
       "baseRent": "1932",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MEAT_MARKET_SIDE_RENT_COM"
@@ -847,7 +847,7 @@
       },
       "propertyImage": "",
       "baseRent": "1099",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MEAT_MARKET_SIDE_RENT_COM"
@@ -864,7 +864,7 @@
       },
       "propertyImage": "",
       "baseRent": "3347",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MEAT_MARKET_SIDE_RENT_COM"
@@ -881,7 +881,7 @@
       },
       "propertyImage": "",
       "baseRent": "1541",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MEAT_MARKET_SIDE_RENT_COM"
@@ -898,7 +898,7 @@
       },
       "propertyImage": "",
       "baseRent": "260",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MEAT_MARKET_SIDE_RENT_COM"
@@ -915,7 +915,7 @@
       },
       "propertyImage": "",
       "baseRent": "1172",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MEAT_MARKET_SIDE_RENT_COM"
@@ -932,7 +932,7 @@
       },
       "propertyImage": "",
       "baseRent": "682",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MEAT_MARKET_SIDE_RENT_COM"
@@ -949,7 +949,7 @@
       },
       "propertyImage": "",
       "baseRent": "1903",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MEAT_MARKET_SIDE_RENT_COM"
@@ -966,7 +966,7 @@
       },
       "propertyImage": "",
       "baseRent": "2713",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MEAT_MARKET_SIDE_RENT_COM"
@@ -983,7 +983,7 @@
       },
       "propertyImage": "",
       "baseRent": "2713",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MEAT_MARKET_SIDE_RENT_COM"
@@ -1000,7 +1000,7 @@
       },
       "propertyImage": "",
       "baseRent": "1816",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MEAT_MARKET_SIDE_RENT_COM"
@@ -1017,7 +1017,7 @@
       },
       "propertyImage": "",
       "baseRent": "871",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MEAT_MARKET_SIDE_RENT_COM"
@@ -1034,7 +1034,7 @@
       },
       "propertyImage": "",
       "baseRent": "636",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_DEEWAR_HOSPITAL_RENT_COM"
@@ -1051,7 +1051,7 @@
       },
       "propertyImage": "",
       "baseRent": "636",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_DEEWAR_HOSPITAL_RENT_COM"
@@ -1068,7 +1068,7 @@
       },
       "propertyImage": "",
       "baseRent": "743",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_DEEWAR_HOSPITAL_RENT_COM"
@@ -1085,7 +1085,7 @@
       },
       "propertyImage": "",
       "baseRent": "636",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_DEEWAR_HOSPITAL_RENT_COM"
@@ -1102,7 +1102,7 @@
       },
       "propertyImage": "",
       "baseRent": "636",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_DEEWAR_HOSPITAL_RENT_COM"
@@ -1119,7 +1119,7 @@
       },
       "propertyImage": "",
       "baseRent": "1183",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_DEEWAR_HOSPITAL_RENT_COM"
@@ -1136,7 +1136,7 @@
       },
       "propertyImage": "",
       "baseRent": "656",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_DEEWAR_HOSPITAL_RENT_COM"
@@ -1153,7 +1153,7 @@
       },
       "propertyImage": "",
       "baseRent": "827",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_DEEWAR_HOSPITAL_RENT_COM"
@@ -1170,7 +1170,7 @@
       },
       "propertyImage": "",
       "baseRent": "797",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_DEEWAR_HOSPITAL_RENT_COM"
@@ -1187,7 +1187,7 @@
       },
       "propertyImage": "",
       "baseRent": "776",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_DEEWAR_HOSPITAL_RENT_COM"
@@ -1204,7 +1204,7 @@
       },
       "propertyImage": "",
       "baseRent": "708",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_DEEWAR_HOSPITAL_RENT_COM"
@@ -1221,7 +1221,7 @@
       },
       "propertyImage": "",
       "baseRent": "746",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_DEEWAR_HOSPITAL_RENT_COM"
@@ -1238,7 +1238,7 @@
       },
       "propertyImage": "",
       "baseRent": "1123",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_DEEWAR_HOSPITAL_RENT_COM"
@@ -1255,7 +1255,7 @@
       },
       "propertyImage": "",
       "baseRent": "1108",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_DEEWAR_HOSPITAL_RENT_COM"
@@ -1272,7 +1272,7 @@
       },
       "propertyImage": "",
       "baseRent": "1006",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_DEEWAR_HOSPITAL_RENT_COM"
@@ -1289,7 +1289,7 @@
       },
       "propertyImage": "",
       "baseRent": "1547",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_DEEWAR_HOSPITAL_RENT_COM"
@@ -1306,7 +1306,7 @@
       },
       "propertyImage": "",
       "baseRent": "1018",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_DEEWAR_HOSPITAL_RENT_COM"
@@ -1323,7 +1323,7 @@
       },
       "propertyImage": "",
       "baseRent": "850",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_DEEWAR_HOSPITAL_RENT_COM"
@@ -1340,7 +1340,7 @@
       },
       "propertyImage": "",
       "baseRent": "850",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_DEEWAR_HOSPITAL_RENT_COM"
@@ -1357,7 +1357,7 @@
       },
       "propertyImage": "",
       "baseRent": "850",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_DEEWAR_HOSPITAL_RENT_COM"
@@ -1374,7 +1374,7 @@
       },
       "propertyImage": "",
       "baseRent": "1692",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_DEEWAR_HOSPITAL_RENT_COM"
@@ -1391,7 +1391,7 @@
       },
       "propertyImage": "",
       "baseRent": "1692",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_DEEWAR_HOSPITAL_RENT_COM"
@@ -1408,7 +1408,7 @@
       },
       "propertyImage": "",
       "baseRent": "850",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_DEEWAR_HOSPITAL_RENT_COM"
@@ -1425,7 +1425,7 @@
       },
       "propertyImage": "",
       "baseRent": "488",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_DEEWAR_HOSPITAL_RENT_COM"
@@ -1442,7 +1442,7 @@
       },
       "propertyImage": "",
       "baseRent": "1556",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_DEEWAR_HOSPITAL_RENT_COM"
@@ -1459,7 +1459,7 @@
       },
       "propertyImage": "",
       "baseRent": "1781",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_DEEWAR_HOSPITAL_RENT_COM"
@@ -1476,7 +1476,7 @@
       },
       "propertyImage": "",
       "baseRent": "2890",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_DEEWAR_HOSPITAL_RENT_COM"
@@ -1493,7 +1493,7 @@
       },
       "propertyImage": "",
       "baseRent": "1930",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_DEEWAR_HOSPITAL_RENT_COM"
@@ -1510,7 +1510,7 @@
       },
       "propertyImage": "",
       "baseRent": "3182",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_DEEWAR_HOSPITAL_RENT_COM"
@@ -1527,7 +1527,7 @@
       },
       "propertyImage": "",
       "baseRent": "632",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_DEEWAR_HOSPITAL_RENT_COM"
@@ -1544,7 +1544,7 @@
       },
       "propertyImage": "",
       "baseRent": "1081",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_DEEWAR_HOSPITAL_RENT_COM"
@@ -1561,7 +1561,7 @@
       },
       "propertyImage": "",
       "baseRent": "984",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_DEEWAR_HOSPITAL_RENT_COM"
@@ -1578,7 +1578,7 @@
       },
       "propertyImage": "",
       "baseRent": "1025",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_DEEWAR_HOSPITAL_RENT_COM"
@@ -1595,7 +1595,7 @@
       },
       "propertyImage": "",
       "baseRent": "871",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_DEEWAR_HOSPITAL_RENT_COM"
@@ -1612,7 +1612,7 @@
       },
       "propertyImage": "",
       "baseRent": "1934",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_DEEWAR_HOSPITAL_RENT_COM"
@@ -1629,7 +1629,7 @@
       },
       "propertyImage": "",
       "baseRent": "962",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_DEEWAR_HOSPITAL_RENT_COM"
@@ -1646,7 +1646,7 @@
       },
       "propertyImage": "",
       "baseRent": "1564",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_DEEWAR_HOSPITAL_RENT_COM"
@@ -1663,7 +1663,7 @@
       },
       "propertyImage": "",
       "baseRent": "1229",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_DEEWAR_HOSPITAL_RENT_COM"
@@ -1680,7 +1680,7 @@
       },
       "propertyImage": "",
       "baseRent": "2016",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_DEEWAR_HOSPITAL_RENT_COM"
@@ -1697,7 +1697,7 @@
       },
       "propertyImage": "",
       "baseRent": "1159",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_DEEWAR_HOSPITAL_RENT_COM"
@@ -1714,7 +1714,7 @@
       },
       "propertyImage": "",
       "baseRent": "1226",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_DEEWAR_HOSPITAL_RENT_COM"
@@ -1731,7 +1731,7 @@
       },
       "propertyImage": "",
       "baseRent": "1345",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_DEEWAR_HOSPITAL_RENT_COM"
@@ -1748,7 +1748,7 @@
       },
       "propertyImage": "",
       "baseRent": "1607/P YEAR",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_DEEWAR_HOSPITAL_RENT_COM"
@@ -1765,7 +1765,7 @@
       },
       "propertyImage": "",
       "baseRent": "1286/P YEAR",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_DEEWAR_HOSPITAL_RENT_COM"
@@ -1782,7 +1782,7 @@
       },
       "propertyImage": "",
       "baseRent": "1265",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_DEEWAR_HOSPITAL_RENT_COM"
@@ -1799,7 +1799,7 @@
       },
       "propertyImage": "",
       "baseRent": "707",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OLD_SABZI_MANDI_RENT_COM"
@@ -1816,7 +1816,7 @@
       },
       "propertyImage": "",
       "baseRent": "797",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OLD_SABZI_MANDI_RENT_COM"
@@ -1833,7 +1833,7 @@
       },
       "propertyImage": "",
       "baseRent": "776",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OLD_SABZI_MANDI_RENT_COM"
@@ -1850,7 +1850,7 @@
       },
       "propertyImage": "",
       "baseRent": "166",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OLD_SABZI_MANDI_RENT_COM"
@@ -1867,7 +1867,7 @@
       },
       "propertyImage": "",
       "baseRent": "469",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OLD_SABZI_MANDI_RENT_COM"
@@ -1884,7 +1884,7 @@
       },
       "propertyImage": "",
       "baseRent": "312",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OLD_SABZI_MANDI_RENT_COM"
@@ -1901,7 +1901,7 @@
       },
       "propertyImage": "",
       "baseRent": "1858",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OLD_SABZI_MANDI_RENT_COM"
@@ -1918,7 +1918,7 @@
       },
       "propertyImage": "",
       "baseRent": "301",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OLD_SABZI_MANDI_RENT_COM"
@@ -1935,7 +1935,7 @@
       },
       "propertyImage": "",
       "baseRent": "361",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OLD_SABZI_MANDI_RENT_COM"
@@ -1952,7 +1952,7 @@
       },
       "propertyImage": "",
       "baseRent": "319",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OLD_SABZI_MANDI_RENT_COM"
@@ -1969,7 +1969,7 @@
       },
       "propertyImage": "",
       "baseRent": "858",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_THARA_SCHOOL_RENT_COM"
@@ -1986,7 +1986,7 @@
       },
       "propertyImage": "",
       "baseRent": "858",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_THARA_SCHOOL_RENT_COM"
@@ -2003,7 +2003,7 @@
       },
       "propertyImage": "",
       "baseRent": "1142",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_THARA_SCHOOL_RENT_COM"
@@ -2020,7 +2020,7 @@
       },
       "propertyImage": "",
       "baseRent": "582",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_THARA_SCHOOL_RENT_COM"
@@ -2037,7 +2037,7 @@
       },
       "propertyImage": "",
       "baseRent": "1718",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_THARA_SCHOOL_RENT_COM"
@@ -2054,7 +2054,7 @@
       },
       "propertyImage": "",
       "baseRent": "3430",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_THARA_SCHOOL_RENT_COM"
@@ -2071,7 +2071,7 @@
       },
       "propertyImage": "",
       "baseRent": "871",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_THARA_SCHOOL_RENT_COM"
@@ -2088,7 +2088,7 @@
       },
       "propertyImage": "",
       "baseRent": "1718",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_THARA_SCHOOL_RENT_COM"
@@ -2105,7 +2105,7 @@
       },
       "propertyImage": "",
       "baseRent": "1718",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_THARA_SCHOOL_RENT_COM"
@@ -2122,7 +2122,7 @@
       },
       "propertyImage": "",
       "baseRent": "1718.3999999999999",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_THARA_SCHOOL_RENT_COM"
@@ -2139,7 +2139,7 @@
       },
       "propertyImage": "",
       "baseRent": "2261",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_THARA_SCHOOL_RENT_COM"
@@ -2156,7 +2156,7 @@
       },
       "propertyImage": "",
       "baseRent": "1718",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_THARA_SCHOOL_RENT_COM"
@@ -2173,7 +2173,7 @@
       },
       "propertyImage": "",
       "baseRent": "1718",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_THARA_SCHOOL_RENT_COM"
@@ -2190,7 +2190,7 @@
       },
       "propertyImage": "",
       "baseRent": "1718",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_THARA_SCHOOL_RENT_COM"
@@ -2207,7 +2207,7 @@
       },
       "propertyImage": "",
       "baseRent": "1718",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_THARA_SCHOOL_RENT_COM"
@@ -2224,7 +2224,7 @@
       },
       "propertyImage": "",
       "baseRent": "1718",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_THARA_SCHOOL_RENT_COM"
@@ -2241,7 +2241,7 @@
       },
       "propertyImage": "",
       "baseRent": "1718",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_THARA_SCHOOL_RENT_COM"
@@ -2258,7 +2258,7 @@
       },
       "propertyImage": "",
       "baseRent": "1718",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_THARA_SCHOOL_RENT_COM"
@@ -2275,7 +2275,7 @@
       },
       "propertyImage": "",
       "baseRent": "1718",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_THARA_SCHOOL_RENT_COM"
@@ -2292,7 +2292,7 @@
       },
       "propertyImage": "",
       "baseRent": "1718",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_THARA_SCHOOL_RENT_COM"
@@ -2309,7 +2309,7 @@
       },
       "propertyImage": "",
       "baseRent": "1142",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_THARA_SCHOOL_RENT_COM"
@@ -2326,7 +2326,7 @@
       },
       "propertyImage": "",
       "baseRent": "1470",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_THARA_SCHOOL_RENT_COM"
@@ -2343,7 +2343,7 @@
       },
       "propertyImage": "",
       "baseRent": "2464",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_GARI_AHATA_CHOWK_RENT_COM"
@@ -2360,7 +2360,7 @@
       },
       "propertyImage": "",
       "baseRent": "725",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_GARI_AHATA_CHOWK_RENT_COM"
@@ -2377,7 +2377,7 @@
       },
       "propertyImage": "",
       "baseRent": "3133",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_GARI_AHATA_CHOWK_RENT_COM"
@@ -2394,7 +2394,7 @@
       },
       "propertyImage": "",
       "baseRent": "1720",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_GARI_AHATA_CHOWK_RENT_COM"
@@ -2411,7 +2411,7 @@
       },
       "propertyImage": "",
       "baseRent": "447",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_GARI_AHATA_CHOWK_RENT_COM"
@@ -2428,7 +2428,7 @@
       },
       "propertyImage": "",
       "baseRent": "863",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_GARI_AHATA_CHOWK_RENT_COM"
@@ -2445,7 +2445,7 @@
       },
       "propertyImage": "",
       "baseRent": "294",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_GARI_AHATA_CHOWK_RENT_COM"
@@ -2462,7 +2462,7 @@
       },
       "propertyImage": "",
       "baseRent": "296",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_GARI_AHATA_CHOWK_RENT_COM"
@@ -2479,7 +2479,7 @@
       },
       "propertyImage": "",
       "baseRent": "446",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_GARI_AHATA_CHOWK_RENT_COM"
@@ -2496,7 +2496,7 @@
       },
       "propertyImage": "",
       "baseRent": "446",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_GARI_AHATA_CHOWK_RENT_COM"
@@ -2513,7 +2513,7 @@
       },
       "propertyImage": "",
       "baseRent": "298",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_GARI_AHATA_CHOWK_RENT_COM"
@@ -2530,7 +2530,7 @@
       },
       "propertyImage": "",
       "baseRent": "870",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_GARI_AHATA_CHOWK_RENT_COM"
@@ -2547,7 +2547,7 @@
       },
       "propertyImage": "",
       "baseRent": "422",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_GARI_AHATA_CHOWK_RENT_COM"
@@ -2564,7 +2564,7 @@
       },
       "propertyImage": "",
       "baseRent": "1034",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_GARI_AHATA_CHOWK_RENT_COM"
@@ -2581,7 +2581,7 @@
       },
       "propertyImage": "",
       "baseRent": "1186",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_GARI_AHATA_CHOWK_RENT_COM"
@@ -2598,7 +2598,7 @@
       },
       "propertyImage": "",
       "baseRent": "1030",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_GARI_AHATA_CHOWK_RENT_COM"
@@ -2615,7 +2615,7 @@
       },
       "propertyImage": "",
       "baseRent": "1034",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_GARI_AHATA_CHOWK_RENT_COM"
@@ -2632,7 +2632,7 @@
       },
       "propertyImage": "",
       "baseRent": "336",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_GARI_AHATA_CHOWK_RENT_COM"
@@ -2649,7 +2649,7 @@
       },
       "propertyImage": "",
       "baseRent": "484",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_GARI_AHATA_CHOWK_RENT_COM"
@@ -2666,7 +2666,7 @@
       },
       "propertyImage": "",
       "baseRent": "484",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_GARI_AHATA_CHOWK_RENT_COM"
@@ -2683,7 +2683,7 @@
       },
       "propertyImage": "",
       "baseRent": "2323",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_GARI_AHATA_CHOWK_RENT_COM"
@@ -2700,7 +2700,7 @@
       },
       "propertyImage": "",
       "baseRent": "318",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_GARI_AHATA_CHOWK_RENT_COM"
@@ -2717,7 +2717,7 @@
       },
       "propertyImage": "",
       "baseRent": "318",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_GARI_AHATA_CHOWK_RENT_COM"
@@ -2734,7 +2734,7 @@
       },
       "propertyImage": "",
       "baseRent": "893",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_GARI_AHATA_CHOWK_RENT_COM"
@@ -2751,7 +2751,7 @@
       },
       "propertyImage": "",
       "baseRent": "300",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_GARI_AHATA_CHOWK_RENT_COM"
@@ -2768,7 +2768,7 @@
       },
       "propertyImage": "",
       "baseRent": "299",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_GARI_AHATA_CHOWK_RENT_COM"
@@ -2785,7 +2785,7 @@
       },
       "propertyImage": "",
       "baseRent": "484",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_GARI_AHATA_CHOWK_RENT_COM"
@@ -2802,7 +2802,7 @@
       },
       "propertyImage": "",
       "baseRent": "484",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_GARI_AHATA_CHOWK_RENT_COM"
@@ -2819,7 +2819,7 @@
       },
       "propertyImage": "",
       "baseRent": "484",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_GARI_AHATA_CHOWK_RENT_COM"
@@ -2836,7 +2836,7 @@
       },
       "propertyImage": "",
       "baseRent": "316",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_GARI_AHATA_CHOWK_RENT_COM"
@@ -2853,7 +2853,7 @@
       },
       "propertyImage": "",
       "baseRent": "553",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_GARI_AHATA_CHOWK_RENT_COM"
@@ -2870,7 +2870,7 @@
       },
       "propertyImage": "",
       "baseRent": "322",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_GARI_AHATA_CHOWK_RENT_COM"
@@ -2887,7 +2887,7 @@
       },
       "propertyImage": "",
       "baseRent": "1853",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_GARI_AHATA_CHOWK_RENT_COM"
@@ -2904,7 +2904,7 @@
       },
       "propertyImage": "",
       "baseRent": "230",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MOHALLA_SARAI_RENT_COM"
@@ -2921,7 +2921,7 @@
       },
       "propertyImage": "",
       "baseRent": "34",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MOHALLA_SARAI_RENT_COM"
@@ -2938,7 +2938,7 @@
       },
       "propertyImage": "",
       "baseRent": "66",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MOHALLA_SARAI_RENT_COM"
@@ -2955,7 +2955,7 @@
       },
       "propertyImage": "",
       "baseRent": "966",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MOHALLA_SARAI_RENT_COM"
@@ -2972,7 +2972,7 @@
       },
       "propertyImage": "",
       "baseRent": "86",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MOHALLA_SARAI_RENT_COM"
@@ -2989,7 +2989,7 @@
       },
       "propertyImage": "",
       "baseRent": "35",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MOHALLA_SARAI_RENT_COM"
@@ -3006,7 +3006,7 @@
       },
       "propertyImage": "",
       "baseRent": "2882",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MOHALLA_GHARTHOLI_RENT_COM"
@@ -3023,7 +3023,7 @@
       },
       "propertyImage": "",
       "baseRent": "2094",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3040,7 +3040,7 @@
       },
       "propertyImage": "",
       "baseRent": "583",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3057,7 +3057,7 @@
       },
       "propertyImage": "",
       "baseRent": "260",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3074,7 +3074,7 @@
       },
       "propertyImage": "",
       "baseRent": "1034",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3091,7 +3091,7 @@
       },
       "propertyImage": "",
       "baseRent": "890",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3108,7 +3108,7 @@
       },
       "propertyImage": "",
       "baseRent": "1051",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3125,7 +3125,7 @@
       },
       "propertyImage": "",
       "baseRent": "259",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3142,7 +3142,7 @@
       },
       "propertyImage": "",
       "baseRent": "592",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3159,7 +3159,7 @@
       },
       "propertyImage": "",
       "baseRent": "607",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3176,7 +3176,7 @@
       },
       "propertyImage": "",
       "baseRent": "131",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3193,7 +3193,7 @@
       },
       "propertyImage": "",
       "baseRent": "516",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3210,7 +3210,7 @@
       },
       "propertyImage": "",
       "baseRent": "251",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3227,7 +3227,7 @@
       },
       "propertyImage": "",
       "baseRent": "260",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3244,7 +3244,7 @@
       },
       "propertyImage": "",
       "baseRent": "391",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3261,7 +3261,7 @@
       },
       "propertyImage": "",
       "baseRent": "260",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3278,7 +3278,7 @@
       },
       "propertyImage": "",
       "baseRent": "1107",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3295,7 +3295,7 @@
       },
       "propertyImage": "",
       "baseRent": "260",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3312,7 +3312,7 @@
       },
       "propertyImage": "",
       "baseRent": "768",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3329,7 +3329,7 @@
       },
       "propertyImage": "",
       "baseRent": "383",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3346,7 +3346,7 @@
       },
       "propertyImage": "",
       "baseRent": "260",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3363,7 +3363,7 @@
       },
       "propertyImage": "",
       "baseRent": "1045",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3380,7 +3380,7 @@
       },
       "propertyImage": "",
       "baseRent": "768",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3397,7 +3397,7 @@
       },
       "propertyImage": "",
       "baseRent": "395",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3414,7 +3414,7 @@
       },
       "propertyImage": "",
       "baseRent": "353",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3431,7 +3431,7 @@
       },
       "propertyImage": "",
       "baseRent": "355",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3448,7 +3448,7 @@
       },
       "propertyImage": "",
       "baseRent": "260",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3465,7 +3465,7 @@
       },
       "propertyImage": "",
       "baseRent": "260",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3482,7 +3482,7 @@
       },
       "propertyImage": "",
       "baseRent": "1306",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3499,7 +3499,7 @@
       },
       "propertyImage": "",
       "baseRent": "943",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3516,7 +3516,7 @@
       },
       "propertyImage": "",
       "baseRent": "763",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3533,7 +3533,7 @@
       },
       "propertyImage": "",
       "baseRent": "467",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3550,7 +3550,7 @@
       },
       "propertyImage": "",
       "baseRent": "355",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3567,7 +3567,7 @@
       },
       "propertyImage": "",
       "baseRent": "386",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3584,7 +3584,7 @@
       },
       "propertyImage": "",
       "baseRent": "1237",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3601,7 +3601,7 @@
       },
       "propertyImage": "",
       "baseRent": "532",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3618,7 +3618,7 @@
       },
       "propertyImage": "",
       "baseRent": "578",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3635,7 +3635,7 @@
       },
       "propertyImage": "",
       "baseRent": "581",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3652,7 +3652,7 @@
       },
       "propertyImage": "",
       "baseRent": "1504",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3669,7 +3669,7 @@
       },
       "propertyImage": "",
       "baseRent": "1934",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3686,7 +3686,7 @@
       },
       "propertyImage": "",
       "baseRent": "524",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3703,7 +3703,7 @@
       },
       "propertyImage": "",
       "baseRent": "524",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3720,7 +3720,7 @@
       },
       "propertyImage": "",
       "baseRent": "850",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3737,7 +3737,7 @@
       },
       "propertyImage": "",
       "baseRent": "391",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3754,7 +3754,7 @@
       },
       "propertyImage": "",
       "baseRent": "1243",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3771,7 +3771,7 @@
       },
       "propertyImage": "",
       "baseRent": "394",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3788,7 +3788,7 @@
       },
       "propertyImage": "",
       "baseRent": "656",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3805,7 +3805,7 @@
       },
       "propertyImage": "",
       "baseRent": "394",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3822,7 +3822,7 @@
       },
       "propertyImage": "",
       "baseRent": "260",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3839,7 +3839,7 @@
       },
       "propertyImage": "",
       "baseRent": "1535",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3856,7 +3856,7 @@
       },
       "propertyImage": "",
       "baseRent": "260",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3873,7 +3873,7 @@
       },
       "propertyImage": "",
       "baseRent": "260",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3890,7 +3890,7 @@
       },
       "propertyImage": "",
       "baseRent": "1241",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3907,7 +3907,7 @@
       },
       "propertyImage": "",
       "baseRent": "250",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3924,7 +3924,7 @@
       },
       "propertyImage": "",
       "baseRent": "641",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3941,7 +3941,7 @@
       },
       "propertyImage": "",
       "baseRent": "553",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3958,7 +3958,7 @@
       },
       "propertyImage": "",
       "baseRent": "553",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3975,7 +3975,7 @@
       },
       "propertyImage": "",
       "baseRent": "5806",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -3992,7 +3992,7 @@
       },
       "propertyImage": "",
       "baseRent": "278",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -4009,7 +4009,7 @@
       },
       "propertyImage": "",
       "baseRent": "260",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -4026,7 +4026,7 @@
       },
       "propertyImage": "",
       "baseRent": "1262",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -4043,7 +4043,7 @@
       },
       "propertyImage": "",
       "baseRent": "2052",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -4060,7 +4060,7 @@
       },
       "propertyImage": "",
       "baseRent": "2270",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -4077,7 +4077,7 @@
       },
       "propertyImage": "",
       "baseRent": "553",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -4094,7 +4094,7 @@
       },
       "propertyImage": "",
       "baseRent": "827",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -4111,7 +4111,7 @@
       },
       "propertyImage": "",
       "baseRent": "5705",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -4128,7 +4128,7 @@
       },
       "propertyImage": "",
       "baseRent": "1441",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -4145,7 +4145,7 @@
       },
       "propertyImage": "",
       "baseRent": "260",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -4162,7 +4162,7 @@
       },
       "propertyImage": "",
       "baseRent": "157",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -4179,7 +4179,7 @@
       },
       "propertyImage": "",
       "baseRent": "1453",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -4196,7 +4196,7 @@
       },
       "propertyImage": "",
       "baseRent": "4838",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -4213,7 +4213,7 @@
       },
       "propertyImage": "",
       "baseRent": "391",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -4230,7 +4230,7 @@
       },
       "propertyImage": "",
       "baseRent": "931",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -4247,7 +4247,7 @@
       },
       "propertyImage": "",
       "baseRent": "931",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -4264,7 +4264,7 @@
       },
       "propertyImage": "",
       "baseRent": "802",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -4281,7 +4281,7 @@
       },
       "propertyImage": "",
       "baseRent": "260",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -4298,7 +4298,7 @@
       },
       "propertyImage": "",
       "baseRent": "260",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -4315,7 +4315,7 @@
       },
       "propertyImage": "",
       "baseRent": "2940",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -4332,7 +4332,7 @@
       },
       "propertyImage": "",
       "baseRent": "2532",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -4349,7 +4349,7 @@
       },
       "propertyImage": "",
       "baseRent": "1200",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MC_BAZAR_RENT_COM"
@@ -4366,7 +4366,7 @@
       },
       "propertyImage": "",
       "baseRent": "4602",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUBHASH_MARKET_RENT_COM"
@@ -4383,7 +4383,7 @@
       },
       "propertyImage": "",
       "baseRent": "484",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUBHASH_MARKET_RENT_COM"
@@ -4400,7 +4400,7 @@
       },
       "propertyImage": "",
       "baseRent": "588",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUBHASH_MARKET_RENT_COM"
@@ -4417,7 +4417,7 @@
       },
       "propertyImage": "",
       "baseRent": "620",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUBHASH_MARKET_RENT_COM"
@@ -4434,7 +4434,7 @@
       },
       "propertyImage": "",
       "baseRent": "726",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUBHASH_MARKET_RENT_COM"
@@ -4451,7 +4451,7 @@
       },
       "propertyImage": "",
       "baseRent": "2334",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUBHASH_MARKET_RENT_COM"
@@ -4468,7 +4468,7 @@
       },
       "propertyImage": "",
       "baseRent": "1152",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUBHASH_MARKET_RENT_COM"
@@ -4485,7 +4485,7 @@
       },
       "propertyImage": "",
       "baseRent": "1345",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUBHASH_MARKET_RENT_COM"
@@ -4502,7 +4502,7 @@
       },
       "propertyImage": "",
       "baseRent": "604",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUBHASH_MARKET_RENT_COM"
@@ -4519,7 +4519,7 @@
       },
       "propertyImage": "",
       "baseRent": "278",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUBHASH_MARKET_RENT_COM"
@@ -4536,7 +4536,7 @@
       },
       "propertyImage": "",
       "baseRent": "620",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUBHASH_MARKET_RENT_COM"
@@ -4553,7 +4553,7 @@
       },
       "propertyImage": "",
       "baseRent": "2700",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUBHASH_MARKET_RENT_COM"
@@ -4570,7 +4570,7 @@
       },
       "propertyImage": "",
       "baseRent": "455",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUBHASH_MARKET_RENT_COM"
@@ -4587,7 +4587,7 @@
       },
       "propertyImage": "",
       "baseRent": "424",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUBHASH_MARKET_RENT_COM"
@@ -4604,7 +4604,7 @@
       },
       "propertyImage": "",
       "baseRent": "3713",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUBHASH_MARKET_RENT_COM"
@@ -4621,7 +4621,7 @@
       },
       "propertyImage": "",
       "baseRent": "1020",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUBHASH_MARKET_RENT_COM"
@@ -4638,7 +4638,7 @@
       },
       "propertyImage": "",
       "baseRent": "722",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUBHASH_MARKET_RENT_COM"
@@ -4655,7 +4655,7 @@
       },
       "propertyImage": "",
       "baseRent": "546",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUBHASH_MARKET_RENT_COM"
@@ -4672,7 +4672,7 @@
       },
       "propertyImage": "",
       "baseRent": "224",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUBHASH_MARKET_RENT_COM"
@@ -4689,7 +4689,7 @@
       },
       "propertyImage": "",
       "baseRent": "2342",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUBHASH_MARKET_RENT_COM"
@@ -4706,7 +4706,7 @@
       },
       "propertyImage": "",
       "baseRent": "1257",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUBHASH_MARKET_RENT_COM"
@@ -4723,7 +4723,7 @@
       },
       "propertyImage": "",
       "baseRent": "455",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUBHASH_MARKET_RENT_COM"
@@ -4740,7 +4740,7 @@
       },
       "propertyImage": "",
       "baseRent": "322",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUBHASH_MARKET_RENT_COM"
@@ -4757,7 +4757,7 @@
       },
       "propertyImage": "",
       "baseRent": "494",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUBHASH_MARKET_RENT_COM"
@@ -4774,7 +4774,7 @@
       },
       "propertyImage": "",
       "baseRent": "812",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUBHASH_MARKET_RENT_COM"
@@ -4791,7 +4791,7 @@
       },
       "propertyImage": "",
       "baseRent": "1950",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUBHASH_MARKET_RENT_COM"
@@ -4808,7 +4808,7 @@
       },
       "propertyImage": "",
       "baseRent": "1903",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUBHASH_MARKET_RENT_COM"
@@ -4825,7 +4825,7 @@
       },
       "propertyImage": "",
       "baseRent": "1236",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUBHASH_MARKET_RENT_COM"
@@ -4842,7 +4842,7 @@
       },
       "propertyImage": "",
       "baseRent": "1158",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUBHASH_MARKET_RENT_COM"
@@ -4859,7 +4859,7 @@
       },
       "propertyImage": "",
       "baseRent": "2543",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUBHASH_MARKET_RENT_COM"
@@ -4876,7 +4876,7 @@
       },
       "propertyImage": "",
       "baseRent": "1783",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUBHASH_MARKET_RENT_COM"
@@ -4893,7 +4893,7 @@
       },
       "propertyImage": "",
       "baseRent": "1252",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUBHASH_MARKET_RENT_COM"
@@ -4910,7 +4910,7 @@
       },
       "propertyImage": "",
       "baseRent": "948",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUBHASH_MARKET_RENT_COM"
@@ -4927,7 +4927,7 @@
       },
       "propertyImage": "",
       "baseRent": "1152",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUBHASH_MARKET_RENT_COM"
@@ -4944,7 +4944,7 @@
       },
       "propertyImage": "",
       "baseRent": "484",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUBHASH_MARKET_RENT_COM"
@@ -4961,7 +4961,7 @@
       },
       "propertyImage": "",
       "baseRent": "785",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUBHASH_MARKET_RENT_COM"
@@ -4978,7 +4978,7 @@
       },
       "propertyImage": "",
       "baseRent": "3134",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUBHASH_MARKET_RENT_COM"
@@ -4995,7 +4995,7 @@
       },
       "propertyImage": "",
       "baseRent": "1932",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUBHASH_MARKET_RENT_COM"
@@ -5012,7 +5012,7 @@
       },
       "propertyImage": "",
       "baseRent": "618",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUBHASH_MARKET_RENT_COM"
@@ -5029,7 +5029,7 @@
       },
       "propertyImage": "",
       "baseRent": "455",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUBHASH_MARKET_RENT_COM"
@@ -5046,7 +5046,7 @@
       },
       "propertyImage": "",
       "baseRent": "344",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUBHASH_MARKET_RENT_COM"
@@ -5063,7 +5063,7 @@
       },
       "propertyImage": "",
       "baseRent": "1121",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUBHASH_MARKET_RENT_COM"
@@ -5080,7 +5080,7 @@
       },
       "propertyImage": "",
       "baseRent": "298",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUBHASH_MARKET_RENT_COM"
@@ -5097,7 +5097,7 @@
       },
       "propertyImage": "",
       "baseRent": "3347",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUBHASH_MARKET_RENT_COM"
@@ -5114,7 +5114,7 @@
       },
       "propertyImage": "",
       "baseRent": "1003",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUBHASH_MARKET_RENT_COM"
@@ -5131,7 +5131,7 @@
       },
       "propertyImage": "",
       "baseRent": "455",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUBHASH_MARKET_RENT_COM"
@@ -5148,7 +5148,7 @@
       },
       "propertyImage": "",
       "baseRent": "1344",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUBHASH_MARKET_RENT_COM"
@@ -5165,7 +5165,7 @@
       },
       "propertyImage": "",
       "baseRent": "881",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUBHASH_MARKET_RENT_COM"
@@ -5182,7 +5182,7 @@
       },
       "propertyImage": "",
       "baseRent": "2324",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUBHASH_MARKET_RENT_COM"
@@ -5199,7 +5199,7 @@
       },
       "propertyImage": "",
       "baseRent": "718",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUBHASH_MARKET_RENT_COM"
@@ -5216,7 +5216,7 @@
       },
       "propertyImage": "",
       "baseRent": "881",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUBHASH_MARKET_RENT_COM"
@@ -5233,7 +5233,7 @@
       },
       "propertyImage": "",
       "baseRent": "386",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MEAT_MARKET_RENT_COM"
@@ -5250,7 +5250,7 @@
       },
       "propertyImage": "",
       "baseRent": "682",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MEAT_MARKET_RENT_COM"
@@ -5267,7 +5267,7 @@
       },
       "propertyImage": "",
       "baseRent": "682",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MEAT_MARKET_RENT_COM"
@@ -5284,7 +5284,7 @@
       },
       "propertyImage": "",
       "baseRent": "390",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MEAT_MARKET_RENT_COM"
@@ -5301,7 +5301,7 @@
       },
       "propertyImage": "",
       "baseRent": "467",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MEAT_MARKET_RENT_COM"
@@ -5318,7 +5318,7 @@
       },
       "propertyImage": "",
       "baseRent": "390",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MEAT_MARKET_RENT_COM"
@@ -5335,7 +5335,7 @@
       },
       "propertyImage": "",
       "baseRent": "390",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MEAT_MARKET_RENT_COM"
@@ -5352,7 +5352,7 @@
       },
       "propertyImage": "",
       "baseRent": "390",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MEAT_MARKET_RENT_COM"
@@ -5369,7 +5369,7 @@
       },
       "propertyImage": "",
       "baseRent": "390",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MEAT_MARKET_RENT_COM"
@@ -5386,7 +5386,7 @@
       },
       "propertyImage": "",
       "baseRent": "434",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MEAT_MARKET_RENT_COM"
@@ -5403,7 +5403,7 @@
       },
       "propertyImage": "",
       "baseRent": "390",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MEAT_MARKET_RENT_COM"
@@ -5420,7 +5420,7 @@
       },
       "propertyImage": "",
       "baseRent": "390",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MEAT_MARKET_RENT_COM"
@@ -5437,7 +5437,7 @@
       },
       "propertyImage": "",
       "baseRent": "484",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MEAT_MARKET_RENT_COM"
@@ -5454,7 +5454,7 @@
       },
       "propertyImage": "",
       "baseRent": "390",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MEAT_MARKET_RENT_COM"
@@ -5471,7 +5471,7 @@
       },
       "propertyImage": "",
       "baseRent": "390",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MEAT_MARKET_RENT_COM"
@@ -5488,7 +5488,7 @@
       },
       "propertyImage": "",
       "baseRent": "300",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MEAT_MARKET_RENT_COM"
@@ -5505,7 +5505,7 @@
       },
       "propertyImage": "",
       "baseRent": "390",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MEAT_MARKET_RENT_COM"
@@ -5522,7 +5522,7 @@
       },
       "propertyImage": "",
       "baseRent": "390",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MEAT_MARKET_RENT_COM"
@@ -5539,7 +5539,7 @@
       },
       "propertyImage": "",
       "baseRent": "390",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MEAT_MARKET_RENT_COM"
@@ -5556,7 +5556,7 @@
       },
       "propertyImage": "",
       "baseRent": "390",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MEAT_MARKET_RENT_COM"
@@ -5573,7 +5573,7 @@
       },
       "propertyImage": "",
       "baseRent": "11944",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MEAT_MARKET_RENT_COM"
@@ -5590,7 +5590,7 @@
       },
       "propertyImage": "",
       "baseRent": "778",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MEAT_MARKET_RENT_COM"
@@ -5607,7 +5607,7 @@
       },
       "propertyImage": "",
       "baseRent": "390",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MEAT_MARKET_RENT_COM"
@@ -5624,7 +5624,7 @@
       },
       "propertyImage": "",
       "baseRent": "586",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SHAHPUR_ROAD_RENT_COM"
@@ -5641,7 +5641,7 @@
       },
       "propertyImage": "",
       "baseRent": "144",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SHAHPUR_ROAD_RENT_COM"
@@ -5658,7 +5658,7 @@
       },
       "propertyImage": "",
       "baseRent": "125",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SHAHPUR_ROAD_RENT_COM"
@@ -5675,7 +5675,7 @@
       },
       "propertyImage": "",
       "baseRent": "166",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SHAHPUR_ROAD_RENT_COM"
@@ -5692,7 +5692,7 @@
       },
       "propertyImage": "",
       "baseRent": "125",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SHAHPUR_ROAD_RENT_COM"
@@ -5709,7 +5709,7 @@
       },
       "propertyImage": "",
       "baseRent": "1973",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MADHOPUR_ROAD_RENT_COM"
@@ -5726,7 +5726,7 @@
       },
       "propertyImage": "",
       "baseRent": "2314/P YEAR",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MADHOPUR_ROAD_RENT_COM"
@@ -5743,7 +5743,7 @@
       },
       "propertyImage": "",
       "baseRent": "390",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MADHOPUR_ROAD_RENT_COM"
@@ -5760,7 +5760,7 @@
       },
       "propertyImage": "",
       "baseRent": "553",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MADHOPUR_ROAD_RENT_COM"
@@ -5777,7 +5777,7 @@
       },
       "propertyImage": "",
       "baseRent": "802",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MADHOPUR_ROAD_RENT_COM"
@@ -5794,7 +5794,7 @@
       },
       "propertyImage": "",
       "baseRent": "1502/P YEAR",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MADHOPUR_ROAD_RENT_COM"
@@ -5811,7 +5811,7 @@
       },
       "propertyImage": "",
       "baseRent": "546",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MADHOPUR_ROAD_RENT_COM"
@@ -5828,7 +5828,7 @@
       },
       "propertyImage": "",
       "baseRent": "1129",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MADHOPUR_ROAD_RENT_COM"
@@ -5845,7 +5845,7 @@
       },
       "propertyImage": "",
       "baseRent": "1512",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MADHOPUR_ROAD_RENT_COM"
@@ -5862,7 +5862,7 @@
       },
       "propertyImage": "",
       "baseRent": "390",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MADHOPUR_ROAD_RENT_COM"
@@ -5879,7 +5879,7 @@
       },
       "propertyImage": "",
       "baseRent": "1793",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MADHOPUR_ROAD_RENT_COM"
@@ -5896,7 +5896,7 @@
       },
       "propertyImage": "",
       "baseRent": "778",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MADHOPUR_ROAD_RENT_COM"
@@ -5913,7 +5913,7 @@
       },
       "propertyImage": "",
       "baseRent": "769",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_MC_OFFICE_RENT_COM"
@@ -5930,7 +5930,7 @@
       },
       "propertyImage": "",
       "baseRent": "778",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_MC_OFFICE_RENT_COM"
@@ -5947,7 +5947,7 @@
       },
       "propertyImage": "",
       "baseRent": "1068",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_MC_OFFICE_RENT_COM"
@@ -5964,7 +5964,7 @@
       },
       "propertyImage": "",
       "baseRent": "778",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_MC_OFFICE_RENT_COM"
@@ -5981,7 +5981,7 @@
       },
       "propertyImage": "",
       "baseRent": "582",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_MC_OFFICE_RENT_COM"
@@ -5998,7 +5998,7 @@
       },
       "propertyImage": "",
       "baseRent": "583",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_MC_OFFICE_RENT_COM"
@@ -6015,7 +6015,7 @@
       },
       "propertyImage": "",
       "baseRent": "583",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_MC_OFFICE_RENT_COM"
@@ -6032,7 +6032,7 @@
       },
       "propertyImage": "",
       "baseRent": "966",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_MC_OFFICE_RENT_COM"
@@ -6049,7 +6049,7 @@
       },
       "propertyImage": "",
       "baseRent": "1406",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_MC_OFFICE_RENT_COM"
@@ -6066,7 +6066,7 @@
       },
       "propertyImage": "",
       "baseRent": "966",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_MC_OFFICE_RENT_COM"
@@ -6083,7 +6083,7 @@
       },
       "propertyImage": "",
       "baseRent": "1391",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_MC_OFFICE_RENT_COM"
@@ -6100,7 +6100,7 @@
       },
       "propertyImage": "",
       "baseRent": "966",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_MC_OFFICE_RENT_COM"
@@ -6117,7 +6117,7 @@
       },
       "propertyImage": "",
       "baseRent": "966",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_MC_OFFICE_RENT_COM"
@@ -6134,7 +6134,7 @@
       },
       "propertyImage": "",
       "baseRent": "1578",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_MC_OFFICE_RENT_COM"
@@ -6151,7 +6151,7 @@
       },
       "propertyImage": "",
       "baseRent": "966",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_MC_OFFICE_RENT_COM"
@@ -6168,7 +6168,7 @@
       },
       "propertyImage": "",
       "baseRent": "1340",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_MC_OFFICE_RENT_COM"
@@ -6185,7 +6185,7 @@
       },
       "propertyImage": "",
       "baseRent": "1340",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_MC_OFFICE_RENT_COM"
@@ -6202,7 +6202,7 @@
       },
       "propertyImage": "",
       "baseRent": "1543",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_MC_OFFICE_RENT_COM"
@@ -6219,7 +6219,7 @@
       },
       "propertyImage": "",
       "baseRent": "966",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_MC_OFFICE_RENT_COM"
@@ -6236,7 +6236,7 @@
       },
       "propertyImage": "",
       "baseRent": "966",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_MC_OFFICE_RENT_COM"
@@ -6253,7 +6253,7 @@
       },
       "propertyImage": "",
       "baseRent": "1268",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_MC_OFFICE_RENT_COM"
@@ -6270,7 +6270,7 @@
       },
       "propertyImage": "",
       "baseRent": "966",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_MC_OFFICE_RENT_COM"
@@ -6287,7 +6287,7 @@
       },
       "propertyImage": "",
       "baseRent": "966",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_MC_OFFICE_RENT_COM"
@@ -6304,7 +6304,7 @@
       },
       "propertyImage": "",
       "baseRent": "966",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_MC_OFFICE_RENT_COM"
@@ -6321,7 +6321,7 @@
       },
       "propertyImage": "",
       "baseRent": "966",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_MC_OFFICE_RENT_COM"
@@ -6338,7 +6338,7 @@
       },
       "propertyImage": "",
       "baseRent": "490",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_MC_OFFICE_RENT_COM"
@@ -6355,7 +6355,7 @@
       },
       "propertyImage": "",
       "baseRent": "1932",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_MC_OFFICE_RENT_COM"
@@ -6372,7 +6372,7 @@
       },
       "propertyImage": "",
       "baseRent": "2320",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_MC_OFFICE_RENT_COM"
@@ -6389,7 +6389,7 @@
       },
       "propertyImage": "",
       "baseRent": "966",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_MC_OFFICE_RENT_COM"
@@ -6406,7 +6406,7 @@
       },
       "propertyImage": "",
       "baseRent": "1932",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_MC_OFFICE_RENT_COM"
@@ -6423,7 +6423,7 @@
       },
       "propertyImage": "",
       "baseRent": "966",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_MC_OFFICE_RENT_COM"
@@ -6440,7 +6440,7 @@
       },
       "propertyImage": "",
       "baseRent": "966",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_MC_OFFICE_RENT_COM"
@@ -6457,7 +6457,7 @@
       },
       "propertyImage": "",
       "baseRent": "966",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_MC_OFFICE_RENT_COM"
@@ -6474,7 +6474,7 @@
       },
       "propertyImage": "",
       "baseRent": "966",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_MC_OFFICE_RENT_COM"
@@ -6491,7 +6491,7 @@
       },
       "propertyImage": "",
       "baseRent": "1932",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_MC_OFFICE_RENT_COM"
@@ -6508,7 +6508,7 @@
       },
       "propertyImage": "",
       "baseRent": "966",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_MC_OFFICE_RENT_COM"
@@ -6525,7 +6525,7 @@
       },
       "propertyImage": "",
       "baseRent": "966",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_MC_OFFICE_RENT_COM"
@@ -6542,7 +6542,7 @@
       },
       "propertyImage": "",
       "baseRent": "966",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_MC_OFFICE_RENT_COM"
@@ -6559,7 +6559,7 @@
       },
       "propertyImage": "",
       "baseRent": "966",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_MC_OFFICE_RENT_COM"
@@ -6576,7 +6576,7 @@
       },
       "propertyImage": "",
       "baseRent": "430",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_MC_OFFICE_RENT_COM"
@@ -6593,7 +6593,7 @@
       },
       "propertyImage": "",
       "baseRent": "430",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_MC_OFFICE_RENT_COM"
@@ -6610,7 +6610,7 @@
       },
       "propertyImage": "",
       "baseRent": "430",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_MC_OFFICE_RENT_COM"
@@ -6627,7 +6627,7 @@
       },
       "propertyImage": "",
       "baseRent": "430",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_MC_OFFICE_RENT_COM"
@@ -6644,7 +6644,7 @@
       },
       "propertyImage": "",
       "baseRent": "430",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_MC_OFFICE_RENT_COM"
@@ -6661,7 +6661,7 @@
       },
       "propertyImage": "",
       "baseRent": "430",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_MC_OFFICE_RENT_COM"
@@ -6678,7 +6678,7 @@
       },
       "propertyImage": "",
       "baseRent": "430",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_MC_OFFICE_RENT_COM"
@@ -6695,7 +6695,7 @@
       },
       "propertyImage": "",
       "baseRent": "484",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_PUSHAP_CINEMA_RENT_COM"
@@ -6712,7 +6712,7 @@
       },
       "propertyImage": "",
       "baseRent": "1398",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_PUSHAP_CINEMA_RENT_COM"
@@ -6729,7 +6729,7 @@
       },
       "propertyImage": "",
       "baseRent": "484",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_PUSHAP_CINEMA_RENT_COM"
@@ -6746,7 +6746,7 @@
       },
       "propertyImage": "",
       "baseRent": "726",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_PUSHAP_CINEMA_RENT_COM"
@@ -6763,7 +6763,7 @@
       },
       "propertyImage": "",
       "baseRent": "726",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_PUSHAP_CINEMA_RENT_COM"
@@ -6780,7 +6780,7 @@
       },
       "propertyImage": "",
       "baseRent": "966",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_PUSHAP_CINEMA_RENT_COM"
@@ -6797,7 +6797,7 @@
       },
       "propertyImage": "",
       "baseRent": "1088",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_PUSHAP_CINEMA_RENT_COM"
@@ -6814,7 +6814,7 @@
       },
       "propertyImage": "",
       "baseRent": "1339",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_PUSHAP_CINEMA_RENT_COM"
@@ -6831,7 +6831,7 @@
       },
       "propertyImage": "",
       "baseRent": "726",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_PUSHAP_CINEMA_RENT_COM"
@@ -6848,7 +6848,7 @@
       },
       "propertyImage": "",
       "baseRent": "1628",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_PUSHAP_CINEMA_RENT_COM"
@@ -6865,7 +6865,7 @@
       },
       "propertyImage": "",
       "baseRent": "1628",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_PUSHAP_CINEMA_RENT_COM"
@@ -6882,7 +6882,7 @@
       },
       "propertyImage": "",
       "baseRent": "1673",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_PUSHAP_CINEMA_RENT_COM"
@@ -6899,7 +6899,7 @@
       },
       "propertyImage": "",
       "baseRent": "1673",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_PUSHAP_CINEMA_RENT_COM"
@@ -6916,7 +6916,7 @@
       },
       "propertyImage": "",
       "baseRent": "1673",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_PUSHAP_CINEMA_RENT_COM"
@@ -6933,7 +6933,7 @@
       },
       "propertyImage": "",
       "baseRent": "1673",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_PUSHAP_CINEMA_RENT_COM"
@@ -6950,7 +6950,7 @@
       },
       "propertyImage": "",
       "baseRent": "2383",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_PUSHAP_CINEMA_RENT_COM"
@@ -6967,7 +6967,7 @@
       },
       "propertyImage": "",
       "baseRent": "1673",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_PUSHAP_CINEMA_RENT_COM"
@@ -6984,7 +6984,7 @@
       },
       "propertyImage": "",
       "baseRent": "1826",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_PUSHAP_CINEMA_RENT_COM"
@@ -7001,7 +7001,7 @@
       },
       "propertyImage": "",
       "baseRent": "484",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_PUSHAP_CINEMA_RENT_COM"
@@ -7018,7 +7018,7 @@
       },
       "propertyImage": "",
       "baseRent": "1200",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_PUSHAP_CINEMA_RENT_COM"
@@ -7035,7 +7035,7 @@
       },
       "propertyImage": "",
       "baseRent": "1649",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_PUSHAP_CINEMA_RENT_COM"
@@ -7052,7 +7052,7 @@
       },
       "propertyImage": "",
       "baseRent": "726",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_PUSHAP_CINEMA_RENT_COM"
@@ -7069,7 +7069,7 @@
       },
       "propertyImage": "",
       "baseRent": "484",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_PUSHAP_CINEMA_RENT_COM"
@@ -7086,7 +7086,7 @@
       },
       "propertyImage": "",
       "baseRent": "1673",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_PUSHAP_CINEMA_RENT_COM"
@@ -7103,7 +7103,7 @@
       },
       "propertyImage": "",
       "baseRent": "1829",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_PUSHAP_CINEMA_RENT_COM"
@@ -7120,7 +7120,7 @@
       },
       "propertyImage": "",
       "baseRent": "2123",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_PUSHAP_CINEMA_RENT_COM"
@@ -7137,7 +7137,7 @@
       },
       "propertyImage": "",
       "baseRent": "1673",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_PUSHAP_CINEMA_RENT_COM"
@@ -7154,7 +7154,7 @@
       },
       "propertyImage": "",
       "baseRent": "726",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_PUSHAP_CINEMA_RENT_COM"
@@ -7171,7 +7171,7 @@
       },
       "propertyImage": "",
       "baseRent": "1673",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_PUSHAP_CINEMA_RENT_COM"
@@ -7188,7 +7188,7 @@
       },
       "propertyImage": "",
       "baseRent": "2134",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_PUSHAP_CINEMA_RENT_COM"
@@ -7205,7 +7205,7 @@
       },
       "propertyImage": "",
       "baseRent": "1114",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DHANGU_CHOWK_RENT_COM"
@@ -7222,7 +7222,7 @@
       },
       "propertyImage": "",
       "baseRent": "1637",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DHANGU_CHOWK_RENT_COM"
@@ -7239,7 +7239,7 @@
       },
       "propertyImage": "",
       "baseRent": "1614",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DHANGU_CHOWK_RENT_COM"
@@ -7256,7 +7256,7 @@
       },
       "propertyImage": "",
       "baseRent": "1658",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DHANGU_CHOWK_RENT_COM"
@@ -7273,7 +7273,7 @@
       },
       "propertyImage": "",
       "baseRent": "1181",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DHANGU_CHOWK_RENT_COM"
@@ -7290,7 +7290,7 @@
       },
       "propertyImage": "",
       "baseRent": "1578",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DHANGU_CHOWK_RENT_COM"
@@ -7307,7 +7307,7 @@
       },
       "propertyImage": "",
       "baseRent": "986",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DHANGU_CHOWK_RENT_COM"
@@ -7324,7 +7324,7 @@
       },
       "propertyImage": "",
       "baseRent": "1718",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DHANGU_CHOWK_RENT_COM"
@@ -7341,7 +7341,7 @@
       },
       "propertyImage": "",
       "baseRent": "1884",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DHANGU_CHOWK_RENT_COM"
@@ -7358,7 +7358,7 @@
       },
       "propertyImage": "",
       "baseRent": "1398",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DHANGU_CHOWK_RENT_COM"
@@ -7375,7 +7375,7 @@
       },
       "propertyImage": "",
       "baseRent": "1697",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DHANGU_CHOWK_RENT_COM"
@@ -7392,7 +7392,7 @@
       },
       "propertyImage": "",
       "baseRent": "931",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DHANGU_CHOWK_RENT_COM"
@@ -7409,7 +7409,7 @@
       },
       "propertyImage": "",
       "baseRent": "2148",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DHANGU_CHOWK_RENT_COM"
@@ -7426,7 +7426,7 @@
       },
       "propertyImage": "",
       "baseRent": "931",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DHANGU_CHOWK_RENT_COM"
@@ -7443,7 +7443,7 @@
       },
       "propertyImage": "",
       "baseRent": "1528",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DHANGU_CHOWK_RENT_COM"
@@ -7460,7 +7460,7 @@
       },
       "propertyImage": "",
       "baseRent": "1158",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DHANGU_CHOWK_RENT_COM"
@@ -7477,7 +7477,7 @@
       },
       "propertyImage": "",
       "baseRent": "1106",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DHANGU_CHOWK_RENT_COM"
@@ -7494,7 +7494,7 @@
       },
       "propertyImage": "",
       "baseRent": "1697",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DHANGU_CHOWK_RENT_COM"
@@ -7511,7 +7511,7 @@
       },
       "propertyImage": "",
       "baseRent": "1604",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DHANGU_CHOWK_RENT_COM"
@@ -7528,7 +7528,7 @@
       },
       "propertyImage": "",
       "baseRent": "2148",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DHANGU_CHOWK_RENT_COM"
@@ -7545,7 +7545,7 @@
       },
       "propertyImage": "",
       "baseRent": "1078",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DHANGU_CHOWK_RENT_COM"
@@ -7562,7 +7562,7 @@
       },
       "propertyImage": "",
       "baseRent": "2657",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DHANGU_CHOWK_RENT_COM"
@@ -7579,7 +7579,7 @@
       },
       "propertyImage": "",
       "baseRent": "1658",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DHANGU_CHOWK_RENT_COM"
@@ -7596,7 +7596,7 @@
       },
       "propertyImage": "",
       "baseRent": "1658",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DHANGU_CHOWK_RENT_COM"
@@ -7613,7 +7613,7 @@
       },
       "propertyImage": "",
       "baseRent": "1626",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DHANGU_CHOWK_RENT_COM"
@@ -7630,7 +7630,7 @@
       },
       "propertyImage": "",
       "baseRent": "540",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_FATAK_DHANGU_ROAD_RENT_COM"
@@ -7647,7 +7647,7 @@
       },
       "propertyImage": "",
       "baseRent": "1306",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_FATAK_DHANGU_ROAD_RENT_COM"
@@ -7664,7 +7664,7 @@
       },
       "propertyImage": "",
       "baseRent": "1734",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_FATAK_DHANGU_ROAD_RENT_COM"
@@ -7681,7 +7681,7 @@
       },
       "propertyImage": "",
       "baseRent": "1709",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_FATAK_DHANGU_ROAD_RENT_COM"
@@ -7698,7 +7698,7 @@
       },
       "propertyImage": "",
       "baseRent": "2903",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_FATAK_DHANGU_ROAD_RENT_COM"
@@ -7715,7 +7715,7 @@
       },
       "propertyImage": "",
       "baseRent": "1936",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_FATAK_DHANGU_ROAD_RENT_COM"
@@ -7732,7 +7732,7 @@
       },
       "propertyImage": "",
       "baseRent": "2274",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_FATAK_DHANGU_ROAD_RENT_COM"
@@ -7749,7 +7749,7 @@
       },
       "propertyImage": "",
       "baseRent": "2904",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_FATAK_DHANGU_ROAD_RENT_COM"
@@ -7766,7 +7766,7 @@
       },
       "propertyImage": "",
       "baseRent": "926",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SAINGARH_CHOWK_RENT_COM"
@@ -7783,7 +7783,7 @@
       },
       "propertyImage": "",
       "baseRent": "1288",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SAINGARH_CHOWK_RENT_COM"
@@ -7800,7 +7800,7 @@
       },
       "propertyImage": "",
       "baseRent": "1108",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SAINGARH_CHOWK_RENT_COM"
@@ -7817,7 +7817,7 @@
       },
       "propertyImage": "",
       "baseRent": "1028",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SAINGARH_CHOWK_RENT_COM"
@@ -7834,7 +7834,7 @@
       },
       "propertyImage": "",
       "baseRent": "445",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SAINGARH_CHOWK_RENT_COM"
@@ -7851,7 +7851,7 @@
       },
       "propertyImage": "",
       "baseRent": "2360",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SAINGARH_CHOWK_RENT_COM"
@@ -7868,7 +7868,7 @@
       },
       "propertyImage": "",
       "baseRent": "1152",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SAINGARH_CHOWK_RENT_COM"
@@ -7885,7 +7885,7 @@
       },
       "propertyImage": "",
       "baseRent": "1244",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SAINGARH_CHOWK_RENT_COM"
@@ -7902,7 +7902,7 @@
       },
       "propertyImage": "",
       "baseRent": "1337",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SAINGARH_CHOWK_RENT_COM"
@@ -7919,7 +7919,7 @@
       },
       "propertyImage": "",
       "baseRent": "2448",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SAINGARH_CHOWK_RENT_COM"
@@ -7936,7 +7936,7 @@
       },
       "propertyImage": "",
       "baseRent": "1175",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SAINGARH_CHOWK_RENT_COM"
@@ -7953,7 +7953,7 @@
       },
       "propertyImage": "",
       "baseRent": "1226",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SAINGARH_CHOWK_RENT_COM"
@@ -7970,7 +7970,7 @@
       },
       "propertyImage": "",
       "baseRent": "1226",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SAINGARH_CHOWK_RENT_COM"
@@ -7987,7 +7987,7 @@
       },
       "propertyImage": "",
       "baseRent": "1201",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SAINGARH_CHOWK_RENT_COM"
@@ -8004,7 +8004,7 @@
       },
       "propertyImage": "",
       "baseRent": "1331",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SAINGARH_CHOWK_RENT_COM"
@@ -8021,7 +8021,7 @@
       },
       "propertyImage": "",
       "baseRent": "646",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SAINGARH_CHOWK_RENT_COM"
@@ -8038,7 +8038,7 @@
       },
       "propertyImage": "",
       "baseRent": "1331",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SAINGARH_CHOWK_RENT_COM"
@@ -8055,7 +8055,7 @@
       },
       "propertyImage": "",
       "baseRent": "1262",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SAINGARH_CHOWK_RENT_COM"
@@ -8072,7 +8072,7 @@
       },
       "propertyImage": "",
       "baseRent": "1337",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SAINGARH_CHOWK_RENT_COM"
@@ -8089,7 +8089,7 @@
       },
       "propertyImage": "",
       "baseRent": "1823",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SAINGARH_CHOWK_RENT_COM"
@@ -8106,7 +8106,7 @@
       },
       "propertyImage": "",
       "baseRent": "1081",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SAINGARH_CHOWK_RENT_COM"
@@ -8123,7 +8123,7 @@
       },
       "propertyImage": "",
       "baseRent": "1200",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SAINGARH_CHOWK_RENT_COM"
@@ -8140,7 +8140,7 @@
       },
       "propertyImage": "",
       "baseRent": "1319",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SAINGARH_CHOWK_RENT_COM"
@@ -8157,7 +8157,7 @@
       },
       "propertyImage": "",
       "baseRent": "1590",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SAINGARH_CHOWK_RENT_COM"
@@ -8174,7 +8174,7 @@
       },
       "propertyImage": "",
       "baseRent": "1331",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SAINGARH_CHOWK_RENT_COM"
@@ -8191,7 +8191,7 @@
       },
       "propertyImage": "",
       "baseRent": "1337",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SAINGARH_CHOWK_RENT_COM"
@@ -8208,7 +8208,7 @@
       },
       "propertyImage": "",
       "baseRent": "1440",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SAINGARH_CHOWK_RENT_COM"
@@ -8225,7 +8225,7 @@
       },
       "propertyImage": "",
       "baseRent": "1440",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SAINGARH_CHOWK_RENT_COM"
@@ -8242,7 +8242,7 @@
       },
       "propertyImage": "",
       "baseRent": "1289",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SAINGARH_CHOWK_RENT_COM"
@@ -8259,7 +8259,7 @@
       },
       "propertyImage": "",
       "baseRent": "2323",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SAINGARH_CHOWK_RENT_COM"
@@ -8276,7 +8276,7 @@
       },
       "propertyImage": "",
       "baseRent": "1327",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SAINGARH_CHOWK_RENT_COM"
@@ -8293,7 +8293,7 @@
       },
       "propertyImage": "",
       "baseRent": "1174",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_OLD_SABZI_MANDI_DHANGU_ROAD_RENT_COM"
@@ -8310,7 +8310,7 @@
       },
       "propertyImage": "",
       "baseRent": "1174",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_OLD_SABZI_MANDI_DHANGU_ROAD_RENT_COM"
@@ -8327,7 +8327,7 @@
       },
       "propertyImage": "",
       "baseRent": "1174",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_OLD_SABZI_MANDI_DHANGU_ROAD_RENT_COM"
@@ -8344,7 +8344,7 @@
       },
       "propertyImage": "",
       "baseRent": "1174",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_OLD_SABZI_MANDI_DHANGU_ROAD_RENT_COM"
@@ -8361,7 +8361,7 @@
       },
       "propertyImage": "",
       "baseRent": "1174",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_OLD_SABZI_MANDI_DHANGU_ROAD_RENT_COM"
@@ -8378,7 +8378,7 @@
       },
       "propertyImage": "",
       "baseRent": "1174",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_OLD_SABZI_MANDI_DHANGU_ROAD_RENT_COM"
@@ -8395,7 +8395,7 @@
       },
       "propertyImage": "",
       "baseRent": "1174",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_OLD_SABZI_MANDI_DHANGU_ROAD_RENT_COM"
@@ -8412,7 +8412,7 @@
       },
       "propertyImage": "",
       "baseRent": "1174",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_OLD_SABZI_MANDI_DHANGU_ROAD_RENT_COM"
@@ -8429,7 +8429,7 @@
       },
       "propertyImage": "",
       "baseRent": "859",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MODEL_TOWN_RENT_COM"
@@ -8446,7 +8446,7 @@
       },
       "propertyImage": "",
       "baseRent": "931",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MODEL_TOWN_RENT_COM"
@@ -8463,7 +8463,7 @@
       },
       "propertyImage": "",
       "baseRent": "931",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MODEL_TOWN_RENT_COM"
@@ -8480,7 +8480,7 @@
       },
       "propertyImage": "",
       "baseRent": "1398",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MODEL_TOWN_RENT_COM"
@@ -8497,7 +8497,7 @@
       },
       "propertyImage": "",
       "baseRent": "931",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MODEL_TOWN_RENT_COM"
@@ -8514,7 +8514,7 @@
       },
       "propertyImage": "",
       "baseRent": "931",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MODEL_TOWN_RENT_COM"
@@ -8531,7 +8531,7 @@
       },
       "propertyImage": "",
       "baseRent": "1493",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MODEL_TOWN_RENT_COM"
@@ -8548,7 +8548,7 @@
       },
       "propertyImage": "",
       "baseRent": "2532",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MODEL_TOWN_RENT_COM"
@@ -8565,7 +8565,7 @@
       },
       "propertyImage": "",
       "baseRent": "905",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MODEL_TOWN_RENT_COM"
@@ -8582,7 +8582,7 @@
       },
       "propertyImage": "",
       "baseRent": "1045",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MODEL_TOWN_RENT_COM"
@@ -8599,7 +8599,7 @@
       },
       "propertyImage": "",
       "baseRent": "582",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_CONGRESS_BAZAR_RENT_COM"
@@ -8616,7 +8616,7 @@
       },
       "propertyImage": "",
       "baseRent": "582",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_CONGRESS_BAZAR_RENT_COM"
@@ -8633,7 +8633,7 @@
       },
       "propertyImage": "",
       "baseRent": "1142",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_CONGRESS_BAZAR_RENT_COM"
@@ -8650,7 +8650,7 @@
       },
       "propertyImage": "",
       "baseRent": "874",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_CONGRESS_BAZAR_RENT_COM"
@@ -8667,7 +8667,7 @@
       },
       "propertyImage": "",
       "baseRent": "874",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_CONGRESS_BAZAR_RENT_COM"
@@ -8684,7 +8684,7 @@
       },
       "propertyImage": "",
       "baseRent": "582",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_CONGRESS_BAZAR_RENT_COM"
@@ -8701,7 +8701,7 @@
       },
       "propertyImage": "",
       "baseRent": "1738",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_CONGRESS_BAZAR_RENT_COM"
@@ -8718,7 +8718,7 @@
       },
       "propertyImage": "",
       "baseRent": "582",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_CONGRESS_BAZAR_RENT_COM"
@@ -8735,7 +8735,7 @@
       },
       "propertyImage": "",
       "baseRent": "874",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_CONGRESS_BAZAR_RENT_COM"
@@ -8752,7 +8752,7 @@
       },
       "propertyImage": "",
       "baseRent": "874",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_CONGRESS_BAZAR_RENT_COM"
@@ -8769,7 +8769,7 @@
       },
       "propertyImage": "",
       "baseRent": "582",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_CONGRESS_BAZAR_RENT_COM"
@@ -8786,7 +8786,7 @@
       },
       "propertyImage": "",
       "baseRent": "582",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_CONGRESS_BAZAR_RENT_COM"
@@ -8803,7 +8803,7 @@
       },
       "propertyImage": "",
       "baseRent": "582",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_CONGRESS_BAZAR_RENT_COM"
@@ -8820,7 +8820,7 @@
       },
       "propertyImage": "",
       "baseRent": "582",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_CONGRESS_BAZAR_RENT_COM"
@@ -8837,7 +8837,7 @@
       },
       "propertyImage": "",
       "baseRent": "582",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_CONGRESS_BAZAR_RENT_COM"
@@ -8854,7 +8854,7 @@
       },
       "propertyImage": "",
       "baseRent": "582",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_CONGRESS_BAZAR_RENT_COM"
@@ -8871,7 +8871,7 @@
       },
       "propertyImage": "",
       "baseRent": "582",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_CONGRESS_BAZAR_RENT_COM"
@@ -8888,7 +8888,7 @@
       },
       "propertyImage": "",
       "baseRent": "1736",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_CONGRESS_BAZAR_RENT_COM"
@@ -8905,7 +8905,7 @@
       },
       "propertyImage": "",
       "baseRent": "582",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_CONGRESS_BAZAR_RENT_COM"
@@ -8922,7 +8922,7 @@
       },
       "propertyImage": "",
       "baseRent": "582",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_CONGRESS_BAZAR_RENT_COM"
@@ -8939,7 +8939,7 @@
       },
       "propertyImage": "",
       "baseRent": "582",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_CONGRESS_BAZAR_RENT_COM"
@@ -8956,7 +8956,7 @@
       },
       "propertyImage": "",
       "baseRent": "196",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_CONGRESS_BAZAR_RENT_COM"
@@ -8973,7 +8973,7 @@
       },
       "propertyImage": "",
       "baseRent": "1936/P YEAR",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DALHOUISE_ROAD_RENT_COM"
@@ -8990,7 +8990,7 @@
       },
       "propertyImage": "",
       "baseRent": "966",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUPER_BAZAR_RENT_COM"
@@ -9007,7 +9007,7 @@
       },
       "propertyImage": "",
       "baseRent": "1450",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUPER_BAZAR_RENT_COM"
@@ -9024,7 +9024,7 @@
       },
       "propertyImage": "",
       "baseRent": "1450",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUPER_BAZAR_RENT_COM"
@@ -9041,7 +9041,7 @@
       },
       "propertyImage": "",
       "baseRent": "966",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUPER_BAZAR_RENT_COM"
@@ -9058,7 +9058,7 @@
       },
       "propertyImage": "",
       "baseRent": "643",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUPER_BAZAR_RENT_COM"
@@ -9075,7 +9075,7 @@
       },
       "propertyImage": "",
       "baseRent": "966",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUPER_BAZAR_RENT_COM"
@@ -9092,7 +9092,7 @@
       },
       "propertyImage": "",
       "baseRent": "966",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUPER_BAZAR_RENT_COM"
@@ -9109,7 +9109,7 @@
       },
       "propertyImage": "",
       "baseRent": "966",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUPER_BAZAR_RENT_COM"
@@ -9126,7 +9126,7 @@
       },
       "propertyImage": "",
       "baseRent": "966",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUPER_BAZAR_RENT_COM"
@@ -9143,7 +9143,7 @@
       },
       "propertyImage": "",
       "baseRent": "966",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUPER_BAZAR_RENT_COM"
@@ -9160,7 +9160,7 @@
       },
       "propertyImage": "",
       "baseRent": "966",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUPER_BAZAR_RENT_COM"
@@ -9177,7 +9177,7 @@
       },
       "propertyImage": "",
       "baseRent": "966",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUPER_BAZAR_RENT_COM"
@@ -9194,7 +9194,7 @@
       },
       "propertyImage": "",
       "baseRent": "1450",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUPER_BAZAR_RENT_COM"
@@ -9211,7 +9211,7 @@
       },
       "propertyImage": "",
       "baseRent": "1450",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUPER_BAZAR_RENT_COM"
@@ -9228,7 +9228,7 @@
       },
       "propertyImage": "",
       "baseRent": "1450",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_SUPER_BAZAR_RENT_COM"
@@ -9245,7 +9245,7 @@
       },
       "propertyImage": "",
       "baseRent": "474",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_KABIR_NAGAR_RENT_COM"
@@ -9262,7 +9262,7 @@
       },
       "propertyImage": "",
       "baseRent": "474",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_KABIR_NAGAR_RENT_COM"
@@ -9279,7 +9279,7 @@
       },
       "propertyImage": "",
       "baseRent": "456",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_KABIR_NAGAR_RENT_COM"
@@ -9296,7 +9296,7 @@
       },
       "propertyImage": "",
       "baseRent": "491",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_KABIR_NAGAR_RENT_COM"
@@ -9313,7 +9313,7 @@
       },
       "propertyImage": "",
       "baseRent": "491",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_KABIR_NAGAR_RENT_COM"
@@ -9330,7 +9330,7 @@
       },
       "propertyImage": "",
       "baseRent": "491",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_KABIR_NAGAR_RENT_COM"
@@ -9347,7 +9347,7 @@
       },
       "propertyImage": "",
       "baseRent": "467",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_KABIR_NAGAR_RENT_COM"
@@ -9364,7 +9364,7 @@
       },
       "propertyImage": "",
       "baseRent": "535",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_KABIR_NAGAR_RENT_COM"
@@ -9381,7 +9381,7 @@
       },
       "propertyImage": "",
       "baseRent": "455",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_KABIR_NAGAR_RENT_COM"
@@ -9398,7 +9398,7 @@
       },
       "propertyImage": "",
       "baseRent": "419",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_KABIR_NAGAR_RENT_COM"
@@ -9415,7 +9415,7 @@
       },
       "propertyImage": "",
       "baseRent": "382",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_KABIR_NAGAR_RENT_COM"
@@ -9432,7 +9432,7 @@
       },
       "propertyImage": "",
       "baseRent": "382",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_KABIR_NAGAR_RENT_COM"
@@ -9449,7 +9449,7 @@
       },
       "propertyImage": "",
       "baseRent": "455",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_KABIR_NAGAR_RENT_COM"
@@ -9466,7 +9466,7 @@
       },
       "propertyImage": "",
       "baseRent": "377",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_KABIR_NAGAR_RENT_COM"
@@ -9483,7 +9483,7 @@
       },
       "propertyImage": "",
       "baseRent": "384",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_KABIR_NAGAR_RENT_COM"
@@ -9500,7 +9500,7 @@
       },
       "propertyImage": "",
       "baseRent": "455",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_KABIR_NAGAR_RENT_COM"
@@ -9517,7 +9517,7 @@
       },
       "propertyImage": "",
       "baseRent": "455",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_KABIR_NAGAR_RENT_COM"
@@ -9534,7 +9534,7 @@
       },
       "propertyImage": "",
       "baseRent": "7433/P YEAR",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_KABIR_NAGAR_RENT_COM"
@@ -9551,7 +9551,7 @@
       },
       "propertyImage": "",
       "baseRent": "1288",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_MC_OFFICE_RENT_COM"
@@ -9568,7 +9568,7 @@
       },
       "propertyImage": "",
       "baseRent": "467",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_MC_OFFICE_RENT_COM"
@@ -9585,7 +9585,7 @@
       },
       "propertyImage": "",
       "baseRent": "1304",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_MC_OFFICE_RENT_COM"
@@ -9602,7 +9602,7 @@
       },
       "propertyImage": "",
       "baseRent": "1463",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_MC_OFFICE_RENT_COM"
@@ -9619,7 +9619,7 @@
       },
       "propertyImage": "",
       "baseRent": "1304",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_MC_OFFICE_RENT_COM"
@@ -9636,7 +9636,7 @@
       },
       "propertyImage": "",
       "baseRent": "2982",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_MC_OFFICE_RENT_COM"
@@ -9653,7 +9653,7 @@
       },
       "propertyImage": "",
       "baseRent": "3428",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_MC_OFFICE_RENT_COM"
@@ -9670,7 +9670,7 @@
       },
       "propertyImage": "",
       "baseRent": "1288",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_MC_OFFICE_RENT_COM"
@@ -9687,7 +9687,7 @@
       },
       "propertyImage": "",
       "baseRent": "390",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_MC_OFFICE_RENT_COM"
@@ -9704,7 +9704,7 @@
       },
       "propertyImage": "",
       "baseRent": "1493",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_MC_OFFICE_RENT_COM"
@@ -9721,7 +9721,7 @@
       },
       "propertyImage": "",
       "baseRent": "1565",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_MC_OFFICE_RENT_COM"
@@ -9738,7 +9738,7 @@
       },
       "propertyImage": "",
       "baseRent": "3694",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_MC_OFFICE_RENT_COM"
@@ -9755,7 +9755,7 @@
       },
       "propertyImage": "",
       "baseRent": "4577",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_MC_OFFICE_RENT_COM"
@@ -9772,7 +9772,7 @@
       },
       "propertyImage": "",
       "baseRent": "1226",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_TUBEWELL_REST_HOUSE_RENT_COM"
@@ -9789,7 +9789,7 @@
       },
       "propertyImage": "",
       "baseRent": "1842",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_TUBEWELL_REST_HOUSE_RENT_COM"
@@ -9806,7 +9806,7 @@
       },
       "propertyImage": "",
       "baseRent": "1226",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_TUBEWELL_REST_HOUSE_RENT_COM"
@@ -9823,7 +9823,7 @@
       },
       "propertyImage": "",
       "baseRent": "1842",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_TUBEWELL_REST_HOUSE_RENT_COM"
@@ -9840,7 +9840,7 @@
       },
       "propertyImage": "",
       "baseRent": "1226",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_TUBEWELL_REST_HOUSE_RENT_COM"
@@ -9857,7 +9857,7 @@
       },
       "propertyImage": "",
       "baseRent": "1226",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_TUBEWELL_REST_HOUSE_RENT_COM"
@@ -9874,7 +9874,7 @@
       },
       "propertyImage": "",
       "baseRent": "1842",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_TUBEWELL_REST_HOUSE_RENT_COM"
@@ -9891,7 +9891,7 @@
       },
       "propertyImage": "",
       "baseRent": "2455",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_TUBEWELL_REST_HOUSE_RENT_COM"
@@ -9908,7 +9908,7 @@
       },
       "propertyImage": "",
       "baseRent": "2455",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_TUBEWELL_REST_HOUSE_RENT_COM"
@@ -9925,7 +9925,7 @@
       },
       "propertyImage": "",
       "baseRent": "2598",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_TUBEWELL_REST_HOUSE_RENT_COM"
@@ -9942,7 +9942,7 @@
       },
       "propertyImage": "",
       "baseRent": "5939",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_TUBEWELL_REST_HOUSE_RENT_COM"
@@ -9959,7 +9959,7 @@
       },
       "propertyImage": "",
       "baseRent": "1288",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_TUBEWELL_REST_HOUSE_RENT_COM"
@@ -9976,7 +9976,7 @@
       },
       "propertyImage": "",
       "baseRent": "1234",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_TUBEWELL_REST_HOUSE_RENT_COM"
@@ -9993,7 +9993,7 @@
       },
       "propertyImage": "",
       "baseRent": "1565",
-      "securityDeposit": null,
+      "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "PKT_NEAR_TUBEWELL_REST_HOUSE_RENT_COM"
