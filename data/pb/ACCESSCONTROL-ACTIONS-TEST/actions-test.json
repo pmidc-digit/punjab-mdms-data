@@ -24291,6 +24291,61 @@
       "serviceCode": "OBPASBPAREPORTS",
       "code": "null",
       "path": ""
-    }    
+    },
+    {
+      "id": 89010003,
+      "name": "Fire NOC Inbox",
+      "url": "quickAction",
+      "displayName": "Fire NOC Inbox",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "tenantId": "pb",
+      "code": "",
+      "path": "Fire NOC Upgrade.Fire NOC Inbox",
+      "navigationURL": "digit-ui/employee/firenoc/inbox",
+      "quickAction": true,
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 89010004,
+      "name": "Fire NOC Create Application",
+      "url": "quickAction",
+      "displayName": "Fire NOC Create Application",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "tenantId": "pb",
+      "code": "",
+      "path": "Fire NOC Upgrade.Fire NOC Create Application",
+      "navigationURL": "digit-ui/employee/firenoc/new-application",
+      "quickAction": true,
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 89010005,
+      "name": "Fire NOC Search Application",
+      "url": "quickAction",
+      "displayName": "Fire NOC Search Application",
+      "orderNumber": 3,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "tenantId": "pb",
+      "code": "",
+      "path": "Fire NOC Upgrade.Fire NOC Search Application",
+      "navigationURL": "digit-ui/employee/firenoc/search/application",
+      "quickAction": true,
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    }
+
   ]
 }
