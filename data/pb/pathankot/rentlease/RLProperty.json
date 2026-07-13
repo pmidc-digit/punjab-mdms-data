@@ -1747,9 +1747,9 @@
         "longitude": ""
       },
       "propertyImage": "",
-      "baseRent": "1607/P YEAR",
+      "baseRent": "1607",
       "securityDeposit": 0,
-      "feesPeriodCycle": "MONTHLY",
+      "feesPeriodCycle": "ANNUAL",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_DEEWAR_HOSPITAL_RENT_COM"
     },
@@ -1764,9 +1764,9 @@
         "longitude": ""
       },
       "propertyImage": "",
-      "baseRent": "1286/P YEAR",
+      "baseRent": "1286",
       "securityDeposit": 0,
-      "feesPeriodCycle": "MONTHLY",
+      "feesPeriodCycle": "ANNUAL",
       "penaltyType": "Monthly",
       "areaCode": "PKT_OPP_DEEWAR_HOSPITAL_RENT_COM"
     },
@@ -5725,9 +5725,9 @@
         "longitude": ""
       },
       "propertyImage": "",
-      "baseRent": "2314/P YEAR",
+      "baseRent": "2314",
       "securityDeposit": 0,
-      "feesPeriodCycle": "MONTHLY",
+      "feesPeriodCycle": "ANNUAL",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MADHOPUR_ROAD_RENT_COM"
     },
@@ -5793,9 +5793,9 @@
         "longitude": ""
       },
       "propertyImage": "",
-      "baseRent": "1502/P YEAR",
+      "baseRent": "1502",
       "securityDeposit": 0,
-      "feesPeriodCycle": "MONTHLY",
+      "feesPeriodCycle": "ANNUAL",
       "penaltyType": "Monthly",
       "areaCode": "PKT_MADHOPUR_ROAD_RENT_COM"
     },
@@ -8972,9 +8972,9 @@
         "longitude": ""
       },
       "propertyImage": "",
-      "baseRent": "1936/P YEAR",
+      "baseRent": "1936",
       "securityDeposit": 0,
-      "feesPeriodCycle": "MONTHLY",
+      "feesPeriodCycle": "ANNUAL",
       "penaltyType": "Monthly",
       "areaCode": "PKT_DALHOUISE_ROAD_RENT_COM"
     },
@@ -9533,9 +9533,9 @@
         "longitude": ""
       },
       "propertyImage": "",
-      "baseRent": "7433/P YEAR",
+      "baseRent": "7433",
       "securityDeposit": 0,
-      "feesPeriodCycle": "MONTHLY",
+      "feesPeriodCycle": "ANNUAL",
       "penaltyType": "Monthly",
       "areaCode": "PKT_KABIR_NAGAR_RENT_COM"
     },
