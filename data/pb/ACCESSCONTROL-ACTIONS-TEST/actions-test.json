@@ -16848,7 +16848,7 @@
       "displayName": "NDC Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "",
       "code": "null",
       "path": ""
