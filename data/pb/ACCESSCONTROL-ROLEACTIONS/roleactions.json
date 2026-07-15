@@ -30974,6 +30974,12 @@
       "actioncode": "",
       "tenantId": "pb"
     },
+     {
+      "rolecode": "UC_EMP",
+      "actionid": 3100012,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
     {
       "rolecode": "NDC_DOC_VERIFIER",
       "actionid": 3005,
