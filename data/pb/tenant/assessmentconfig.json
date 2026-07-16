@@ -543,7 +543,7 @@
     },
     {
       "tenant": "pb.abohar",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2026-27",
       "isRented": false
     },
