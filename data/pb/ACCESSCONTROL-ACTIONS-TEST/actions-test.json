@@ -29644,6 +29644,80 @@
       "serviceCode": "OBPASBPAREPORTS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 89010006,
+      "name": "Transactions Summary CLU Report",
+      "url": "url",
+      "displayName": "Transactions Summary CLU Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "CLU REPORTS",
+      "enabled": true,
+      "serviceCode": "OBPASCLUREPORTS",
+      "path": "CLU REPORTS.Transactions Summary CLU Report",
+      "navigationURL": "report/rainmaker-obpas_bpa/Transactions_Summary_CLU_Report",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 89010007,
+      "name": "Transactions Summary CLU Report",
+      "url": "/report/rainmaker-obpas_bpa/Transactions_Summary_CLU_Report/metadata/_get",
+      "displayName": "Transactions Summary CLU Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "OBPASCLUREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89010008,
+      "name": "Transactions Summary CLU Report",
+      "url": "/report/rainmaker-obpas_bpa/Transactions_Summary_CLU_Report/_get",
+      "displayName": "Transactions Summary CLU Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "OBPASCLUREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89010009,
+      "name": "Transactions Summary NOC Report",
+      "url": "url",
+      "displayName": "Transactions Summary NOC Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "NOC REPORTS",
+      "enabled": true,
+      "serviceCode": "OBPASNOCREPORTS",
+      "path": "NOC REPORTS.Transactions Summary NOC Report",
+      "navigationURL": "report/rainmaker-obpas_bpa/Transactions_Summary_NOC_Report",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 89010010,
+      "name": "Transactions Summary NOC Report",
+      "url": "/report/rainmaker-obpas_bpa/Transactions_Summary_NOC_Report/metadata/_get",
+      "displayName": "Transactions Summary NOC Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "OBPASNOCREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89010011,
+      "name": "Transactions Summary NOC Report",
+      "url": "/report/rainmaker-obpas_bpa/Transactions_Summary_NOC_Report/_get",
+      "displayName": "Transactions Summary NOC Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "OBPASNOCREPORTS",
+      "code": "null",
+      "path": ""
     }
   ]
 }
