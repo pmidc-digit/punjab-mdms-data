@@ -4,6 +4,24 @@
   "roleactions": [
     {
       "rolecode": "OBPAS REPORTS",
+      "actionid": 89010003,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 89010004,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 89010005,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
       "actionid": 89010002,
       "actioncode": "",
       "tenantId": "pb"
