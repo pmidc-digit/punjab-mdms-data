@@ -2,15 +2,20 @@
     "tenantId": "pb",
     "moduleName": "NOC",
     "NocSubType": [
-    {
-      "name": "Provisional",
-      "code": "PROVISIONAL",
-      "active": true
-    },
-    {
-      "name": "Final",
-      "code": "FINAL",
-      "active": true
-    }
+      {
+        "name": "Provisional",
+        "code": "PROVISIONAL",
+        "active": true
+      },
+      {
+        "name": "Final",
+        "code": "FINAL",
+        "active": true
+      },
+      {
+        "name": "Digitization of Manual",
+        "code": "DIGITIZATION_OF_MANUAL",
+        "active": true
+      }
     ]
   }
