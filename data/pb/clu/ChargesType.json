@@ -14,8 +14,8 @@
       "Charges": [
         {
           "name": "PROCESSING FEE",
-          "fee": 7500.00,
-          "rate": 1500.00,
+          "fee": 0.00,
+          "rate": 0.00,
           "taxHeadCode": "APPLICATION_FEES",
           "applicable": true
 
@@ -34,8 +34,8 @@
       "Charges": [
         {
           "name": "PROCESSING FEE",
-          "fee": 7500.00,
-          "rate": 1500.00,
+          "fee": 0.00,
+          "rate": 0.00,
           "taxHeadCode": "APPLICATION_FEES",
           "applicable": true
 
@@ -54,8 +54,8 @@
       "Charges": [
         {
           "name": "PROCESSING FEE",
-          "fee": 7500.00,
-          "rate": 1500.00,
+          "fee": 0.00,
+          "rate": 0.00,
           "taxHeadCode": "APPLICATION_FEES",
           "applicable": true
 
@@ -74,8 +74,8 @@
       "Charges": [
         {
           "name": "PROCESSING FEE",
-          "fee": 7500.00,
-          "rate": 1500.00,
+          "fee": 0.00,
+          "rate": 0.00,
           "taxHeadCode": "APPLICATION_FEES",
           "applicable": true
 
@@ -94,8 +94,8 @@
       "Charges": [
         {
           "name": "PROCESSING FEE",
-          "fee": 7500.00,
-          "rate": 1500.00,
+          "fee": 0.00,
+          "rate": 0.00,
           "taxHeadCode": "APPLICATION_FEES",
           "applicable": true
 
@@ -114,8 +114,8 @@
       "Charges": [
         {
           "name": "PROCESSING FEE",
-          "fee": 7500.00,
-          "rate": 1500.00,
+          "fee": 0.00,
+          "rate": 0.00,
           "taxHeadCode": "APPLICATION_FEES",
           "applicable": true
 
@@ -134,8 +134,8 @@
       "Charges": [
         {
           "name": "PROCESSING FEE",
-          "fee": 7500.00,
-          "rate": 1500.00,
+          "fee": 0.00,
+          "rate": 0.00,
           "taxHeadCode": "APPLICATION_FEES",
           "applicable": true
 
@@ -154,8 +154,8 @@
       "Charges": [
         {
           "name": "PROCESSING FEE",
-          "fee": 7500.00,
-          "rate": 1500.00,
+          "fee": 0.00,
+          "rate": 0.00,
           "taxHeadCode": "APPLICATION_FEES",
           "applicable": true
 
