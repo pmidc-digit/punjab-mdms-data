@@ -13,8 +13,8 @@
         "active": true
       },
       {
-        "name": "Digitization of Manual",
-        "code": "DIGITIZATION_OF_MANUAL",
+        "name": "Digitization of Manual NOC",
+        "code": "DIGITIZATION_OF_MANUAL_NOC",
         "active": true
       }
     ]
