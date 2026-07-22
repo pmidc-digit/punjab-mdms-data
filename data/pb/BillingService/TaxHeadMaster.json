@@ -8137,6 +8137,26 @@
       "order": "0",
       "isRequired": false
     },
+	{
+      "category": "FEE",
+      "service": "CLU.PAY1",
+      "name": "PAY1 LUM SUM",
+      "code": "PAY1_LUM_SUM",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+	{
+      "category": "FEE",
+      "service": "CLU.PAY2",
+      "name": "PAY2 LUM SUM",
+      "code": "PAY2_LUM_SUM",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
     {
       "category": "FEE",
       "service": "CLU.PAY2",
