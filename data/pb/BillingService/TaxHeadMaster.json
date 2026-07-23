@@ -7847,6 +7847,26 @@
     {
       "category": "FEE",
       "service": "LAYOUT.PAY1",
+      "name": "PAY1 LUM SUM",
+      "code": "PAY1_LUM_SUM",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+	{
+      "category": "FEE",
+      "service": "LAYOUT.PAY2",
+      "name": "PAY2 LUM SUM",
+      "code": "PAY2_LUM_SUM",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "LAYOUT.PAY1",
       "name": "LAYOUT SCRUTINY FEE",
       "code": "LAYOUT_SCRUTINY_FEE",
       "isDebit": false,
