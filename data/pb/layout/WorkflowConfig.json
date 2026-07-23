@@ -131,21 +131,21 @@
     },
     {
       "ulbType": "Municipal Corporation",
-      "buildingCategory": "INSTITUTION",
+      "buildingCategory": "INSTITUTIONAL",
       "minArea": 0,
       "maxArea": 999999,
       "businessService": "Layout_mcUp"
     },
     {
       "ulbType": "Municipal Council",
-      "buildingCategory": "INSTITUTION",
+      "buildingCategory": "INSTITUTIONAL",
       "minArea": 0,
       "maxArea": 999999,
       "businessService": "Layout_mcl_up"
     },
     {
       "ulbType": "Nagar Panchayat",
-      "buildingCategory": "INSTITUTION",
+      "buildingCategory": "INSTITUTIONAL",
       "minArea": 0,
       "maxArea": 999999,
       "businessService": "Layout_mcl_up"
