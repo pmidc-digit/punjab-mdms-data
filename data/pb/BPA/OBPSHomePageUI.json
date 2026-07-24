@@ -36,26 +36,6 @@
             ]
         },
         {
-            "title": "ACTION_TEST_CLU_HOME",
-            "name": "citizenCard",
-            "isCitizen": true,
-            "kpis": [],
-            "links": [
-                {
-                    "link": "clu/apply",
-                    "i18nKey": "BPA_CHANGE_OF_LAND_USE_LABEL"
-                },
-                {
-                    "link": "clu/my-applications",
-                    "i18nKey": "BPA_MY_APPLICATIONS_LABEL"
-                },
-                {
-                    "link": "search/clu-application",
-                    "i18nKey": "BPA_SEARCH_APPLICATIONS_LABEL"
-                }
-            ]
-        },
-        {
             "title": "ACTION_TEST_NOC",
             "name": "citizenCard",
             "isCitizen": true,
