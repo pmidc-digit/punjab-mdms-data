@@ -24493,7 +24493,18 @@
       "quickAction": true,
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 237812,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/RT.Use_Of_Land_And_Occupation_Charges/_search",
+      "displayName": "Use Of Land And Occupation Charges search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
     }
-
   ]
 }
