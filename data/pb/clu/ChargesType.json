@@ -13,10 +13,10 @@
       "active": true,
       "Charges": [
         {
-          "name": "PROCESSING FEE",
+          "name": "CLU PAY1 LUM SUM",
           "fee": 0.00,
           "rate": 0.00,
-          "taxHeadCode": "APPLICATION_FEES",
+          "taxHeadCode": "CLU_PAY1_LUM_SUM",
           "applicable": true
 
         }
@@ -33,10 +33,10 @@
       "active": true,
       "Charges": [
         {
-          "name": "PROCESSING FEE",
+          "name": "CLU PAY1 LUM SUM",
           "fee": 0.00,
           "rate": 0.00,
-          "taxHeadCode": "APPLICATION_FEES",
+          "taxHeadCode": "CLU_PAY1_LUM_SUM",
           "applicable": true
 
         }
@@ -53,10 +53,10 @@
       "active": true,
       "Charges": [
         {
-          "name": "PROCESSING FEE",
+          "name": "CLU PAY1 LUM SUM",
           "fee": 0.00,
           "rate": 0.00,
-          "taxHeadCode": "APPLICATION_FEES",
+          "taxHeadCode": "CLU_PAY1_LUM_SUM",
           "applicable": true
 
         }
@@ -73,10 +73,10 @@
       "active": true,
       "Charges": [
         {
-          "name": "PROCESSING FEE",
+          "name": "CLU PAY1 LUM SUM",
           "fee": 0.00,
           "rate": 0.00,
-          "taxHeadCode": "APPLICATION_FEES",
+          "taxHeadCode": "CLU_PAY1_LUM_SUM",
           "applicable": true
 
         }
@@ -93,10 +93,10 @@
       "active": true,
       "Charges": [
         {
-          "name": "PROCESSING FEE",
+          "name": "CLU PAY1 LUM SUM",
           "fee": 0.00,
           "rate": 0.00,
-          "taxHeadCode": "APPLICATION_FEES",
+          "taxHeadCode": "CLU_PAY1_LUM_SUM",
           "applicable": true
 
         }
@@ -113,10 +113,10 @@
       "active": true,
       "Charges": [
         {
-          "name": "PROCESSING FEE",
+          "name": "CLU PAY1 LUM SUM",
           "fee": 0.00,
           "rate": 0.00,
-          "taxHeadCode": "APPLICATION_FEES",
+          "taxHeadCode": "CLU_PAY1_LUM_SUM",
           "applicable": true
 
         }
@@ -133,10 +133,10 @@
       "active": true,
       "Charges": [
         {
-          "name": "PROCESSING FEE",
+          "name": "CLU PAY1 LUM SUM",
           "fee": 0.00,
           "rate": 0.00,
-          "taxHeadCode": "APPLICATION_FEES",
+          "taxHeadCode": "CLU_PAY1_LUM_SUM",
           "applicable": true
 
         }
@@ -153,10 +153,10 @@
       "active": true,
       "Charges": [
         {
-          "name": "PROCESSING FEE",
+          "name": "CLU PAY1 LUM SUM",
           "fee": 0.00,
           "rate": 0.00,
-          "taxHeadCode": "APPLICATION_FEES",
+          "taxHeadCode": "CLU_PAY1_LUM_SUM",
           "applicable": true
 
         }
