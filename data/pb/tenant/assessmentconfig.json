@@ -738,6 +738,12 @@
       "enabled": true,
       "financialyear": "2026-27",
       "isRented": false
+    },
+	{
+      "tenant": "pb.zirakpur",
+      "enabled": true,
+      "financialyear": "2026-27",
+      "isRented": false
     }
 
   ]
