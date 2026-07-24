@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb.mandigobindgarh",
+  "tenantId": "pb.amritsar",
   "moduleName": "rl-services-masters",
   "billingPeriod": [
     {
@@ -8,35 +8,35 @@
       "taxPeriodFrom": 1782844200000,
       "taxPeriodTo": 1785522599000,
       "demandGenerationDateMillis": 432000000,
-      "demandEndDateMillis": 1780271999000,
-      "demandExpiryDate": 1781567999000
+      "demandEndDateMillis": 1775001600000,
+      "demandExpiryDate": 1776297600000
     },
     {
       "active": true,
       "billingCycle": "QUATERLY",
-      "taxPeriodFrom": 1775001600000,
-      "taxPeriodTo": 1782863999000,
+      "taxPeriodFrom": 1767205800000,
+      "taxPeriodTo": 1774895400000,
       "demandGenerationDateMillis": 432000000,
-      "demandEndDateMillis": 1782863999000,
-      "demandExpiryDate": 1784159999000
+      "demandEndDateMillis": 1774895400000,
+      "demandExpiryDate": 1776191400000
     },
     {
       "active": true,
       "billingCycle": "BIANNUAL",
-      "taxPeriodFrom": 1775001600000,
-      "taxPeriodTo": 1790812799000,
+      "taxPeriodFrom": 1767205800000,
+      "taxPeriodTo": 1782757800000,
       "demandGenerationDateMillis": 432000000,
-      "demandEndDateMillis": 1790812799000,
-      "demandExpiryDate": 1792108799000
+      "demandEndDateMillis": 1782757800000,
+      "demandExpiryDate": 1784053800000
     },
     {
       "active": true,
       "billingCycle": "ANNUAL",
-      "taxPeriodFrom": 1775001600000,
-      "taxPeriodTo": 1806537599000,
+      "taxPeriodFrom": 1767205800000,
+      "taxPeriodTo": 1798655400000,
       "demandGenerationDateMillis": 432000000,
-      "demandEndDateMillis": 1806537599000,
-      "demandExpiryDate": 1807833599000
+      "demandEndDateMillis": 1798655400000,
+      "demandExpiryDate": 1799951400000
     }
   ]
 }
