@@ -7503,6 +7503,26 @@
 	  "order": "1",
 	  "isRequired": false
 	},
+    {
+      "category": "FEE",
+      "service": "CLU.PAY1",
+      "name": "CLU PAY1 LUM SUM",
+      "code": "CLU_PAY1_LUM_SUM",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+	{
+      "category": "FEE",
+      "service": "CLU.PAY2",
+      "name": "CLU PAY2 LUM SUM",
+      "code": "CLU_PAY2_LUM_SUM",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
 	{
 	  "category": "FEE",
 	  "service": "CLU.PAY1",
@@ -7591,6 +7611,26 @@
       "isDebit": false,
       "isActualDemand": true,
       "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "LAYOUT.PAY1",
+      "name": "LAYOUT PAY1 LUM SUM",
+      "code": "LAYOUT_PAY1_LUM_SUM",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+	{
+      "category": "FEE",
+      "service": "LAYOUT.PAY2",
+      "name": "LAYOUT PAY2 LUM SUM",
+      "code": "LAYOUT_PAY2_LUM_SUM",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
       "isRequired": false
     },
     {
