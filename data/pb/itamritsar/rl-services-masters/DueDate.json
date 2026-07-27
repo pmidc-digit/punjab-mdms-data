@@ -1,12 +1,12 @@
 {
-  "tenantId": "pb.testing",
+  "tenantId": "pb.itamritsar",
   "moduleName": "rl-services-masters",
   "DueDate": [
     {
       "billingCycle": "MONTHLY",
+      "dueDay": 10,
       "rebatePercentage": 0,
-      "rebateFlatAmount": 0,
-      "dueDay": 10
+      "rebateFlatAmount": 0
     },
     {
       "billingCycle": "QUATERLY",

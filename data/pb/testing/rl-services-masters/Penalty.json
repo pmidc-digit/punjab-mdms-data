@@ -5,18 +5,18 @@
     {
       "rate": 12.5,
       "minAmount": 100,
-      "applicableAfterDays": 15,
+      "applicableAfterDays": 0,
       "flatAmount": null,
       "maxAmount": null,
       "fromFY": "2025-26",
-      "startingDay": "1/04/2025"
-    }
-  ,
+      "startingDay": "1/04/2025",
+      "billingCycle": "MONTHLY"
+    },
     {
       "billingCycle": "QUATERLY",
       "rate": 12.5,
       "minAmount": 100,
-      "applicableAfterDays": 30,
+      "applicableAfterDays": 0,
       "flatAmount": null,
       "maxAmount": null,
       "fromFY": "2025-26",
@@ -26,7 +26,7 @@
       "billingCycle": "BIANNUAL",
       "rate": 12.5,
       "minAmount": 100,
-      "applicableAfterDays": 45,
+      "applicableAfterDays": 0,
       "flatAmount": null,
       "maxAmount": null,
       "fromFY": "2025-26",
@@ -36,7 +36,7 @@
       "billingCycle": "ANNUAL",
       "rate": 12.5,
       "minAmount": 100,
-      "applicableAfterDays": 60,
+      "applicableAfterDays": 0,
       "flatAmount": null,
       "maxAmount": null,
       "fromFY": "2025-26",
