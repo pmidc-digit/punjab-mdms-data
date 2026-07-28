@@ -23075,6 +23075,24 @@
       "sidebarURL": "/digit-ui/citizen/garbagecollection-home"
     },
     {
+      "id": 2338291,
+      "name": "Search Applications",
+      "url": "digit-ui-card",
+      "displayName": "Garbage Collection",
+      "orderNumber": 4,
+      "parentModule": "GarbageCollection",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/garbagecollection/search-applications",
+      "leftIcon": "MCollectIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/garbagecollection-home"
+    },
+    {
       "id": 23383,
       "name": "PT_MY_PROPERTIES",
       "url": "digit-ui-card",
