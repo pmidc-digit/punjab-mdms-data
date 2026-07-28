@@ -70640,6 +70640,18 @@
       "actionid": 8900137,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 89010015,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 89010016,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
