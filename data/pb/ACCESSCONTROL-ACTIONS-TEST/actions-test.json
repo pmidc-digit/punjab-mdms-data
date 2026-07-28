@@ -29831,7 +29831,7 @@
       "enabled": true,
       "serviceCode": "PT",
       "code": "null",
-      "path": "PT.Search and Pay",
+      "path": "Property Tax.Search and Pay",
       "navigationURL": "/digit-ui/citizen/pt/search",
       "leftIcon": "action:assignment",
       "rightIcon": ""
