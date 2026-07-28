@@ -29784,6 +29784,42 @@
       "serviceCode": "OBPASLAYOUTREPORTS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 89010015,
+      "name": "PT_SEARCH_PROPERTY",
+      "url": "digit-ui-card",
+      "displayName": "My Applications",
+      "orderNuber": 6,
+      "parentModule": "PT",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/pt/search",
+      "leftIcon": "propertyIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/pt-home"
+    },
+    {
+      "id": 89010016,
+      "name": "SEARCH_APPLICATION",
+      "url": "digit-ui-card",
+      "displayName": "Search Application",
+      "orderNuber": 7,
+      "parentModule": "PT",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/pt/application-search",
+      "leftIcon": "propertyIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/pt-home"
     }
   ]
 }
