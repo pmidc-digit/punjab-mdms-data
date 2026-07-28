@@ -1352,7 +1352,8 @@
       "module": "MCOLLECT",
       "action": "CREATE",
       "channelNames": [
-        "SMS"
+        "SMS",
+        "EMAIL"
       ]
     },
     {
