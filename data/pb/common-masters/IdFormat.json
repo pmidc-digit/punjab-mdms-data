@@ -24,14 +24,6 @@
     },
     {
       "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-      "idname": "advt.hoardings.receipt.id"
-    },
-    {
-      "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-      "idname": "advt.unipolls.receipt.id"
-    },
-    {
-      "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
       "idname": "rt.municipal_shops_rent.receipt.id"
     },
     {
@@ -292,14 +284,6 @@
     },
     {
       "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-      "idname": "advt.light_wala_board.receipt.id"
-    },
-    {
-      "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-      "idname": "advt.wall_paint_advertisement.receipt.id"
-    },
-    {
-      "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
       "idname": "om.water_connection_disconnection_fees.receipt.id"
     },
     {
@@ -393,18 +377,6 @@
     {
       "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
       "idname": "admn.parking_booking_fee.receipt.id"
-    },
-    {
-      "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-      "idname": "advt.canopy_fee.receipt.id"
-    },
-    {
-      "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-      "idname": "advt.outdoor_media_display_fee.receipt.id"
-    },
-    {
-      "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-      "idname": "advt.test_munadi_fee.receipt.id"
     },
     {
       "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
@@ -573,36 +545,22 @@
     {
       "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
       "idname": "tx.pt_mutation_fees.receipt.id"
-    },  
-    { 
-      
-     "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-      "idname": "nks.external_development_charges.receipt.id"
-  },
-  {
+    },
+    {
       "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-      "idname": "nks.permission_fees.receipt.id"    
-  },
-  {  
+      "idname": "nks.external_development_charges.receipt.id"
+    },
+    {
+      "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+      "idname": "nks.permission_fees.receipt.id"
+    },
+    {
       "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
       "idname": "other.conservency_fee_slaughterhouse.receipt.id"
-
     },
     {
       "idname": "bs.amendment.id",
       "format": "NOTETYPE-CONSUMERCODE-[SEQ_BS_MUTATION_[tenant_id]]"
-    },
-    {
-      "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-      "idname": "advt.composition_fees.receipt.id"
-    },
-    {
-      "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-      "idname": "advt.show_tax_and_entertainment_tax.receipt.id"
-    },
-    {
-      "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-      "idname": "advt.challan_under_section_122_123.receipt.id"
     },
     {
       "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
@@ -619,14 +577,6 @@
     {
       "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
       "idname": "other.library_security_fees.receipt.id"
-    },
-    {
-      "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-      "idname": "advt.poll_kiosk.receipt.id"
-    },
-    {
-      "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-      "idname": "advt.gantry.receipt.id"
     },
     {
       "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
@@ -652,16 +602,15 @@
       "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
       "idname": "admn.horticulture_fees.receipt.id"
     },
-     {
+    {
       "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_COLL_RCPT_NUM]",
       "idname": "rev_grants.14th_grants_comm.receipt.id"
     },
     {
-    
       "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
       "idname": "ch.trade_license_challan.receipt.id"
     },
-        {
+    {
       "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
       "idname": "snt.septic_tank.receipt.id"
     },
@@ -673,11 +622,11 @@
       "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
       "idname": "snt.faecal_sludge_disposal.receipt.id"
     },
-     {
+    {
       "format": "PG-[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
       "idname": "pgr.servicerequestid"
     },
-     {
+    {
       "format": "SBMR-[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
       "idname": "swach.servicerequestid"
     },
@@ -717,90 +666,90 @@
       "format": "PTR/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_PTR_RECEIPT_ID_[TENANT_ID]]",
       "idname": "pet-services.receipt.id"
     },
-	{
-	  "format": "BPAREG/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
-	  "idname": "bpareg.receipt.id"
-	},
-	{
-	    "format": "BPA/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
-	    "idname": "bpa.nc_app_fee.receipt.id"
-	},
-	{
-	    "format": "BPA/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
-	    "idname": "bpa.nc_san_fee.receipt.id"
-	},
-	{
-	  "format": "PB-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_APN]",
-	  "idname": "egov.idgen.bpa.applicationNum"
-	},
-	{
-	    "format": "BR/ENG/[cy:yyyy]/[SEQ_EG_PT_LN]",
-	    "idname": "egov.idgen.bpa.englicensenumber"
-	},
-	{
-	    "format": "BR/STR/[cy:yyyy]/[SEQ_EG_PT_LN]",
-	    "idname": "egov.idgen.bpa.strlicensenumber"
-	},
-	{
-	    "format": "BR/TP/[cy:yyyy]/[SEQ_EG_PT_LN]",
-	    "idname": "egov.idgen.bpa.tplicensenumber"
-	},
-	{
-	    "format": "BR/SUP/[cy:yyyy]/[SEQ_EG_PT_LN]",
-	    "idname": "egov.idgen.bpa.suplicensenumber"
-	},
-	{
-	    "format": "BR/ARCT/[cy:yyyy]/[SEQ_EG_PT_LN]",
-	    "idname": "egov.idgen.bpa.arlicensenumber"
-	},
-	{
-	    "format": "BR/BLD/[cy:yyyy]/[SEQ_EG_PT_LN]",
-	    "idname": "egov.idgen.bpa.bdlicensenumber"
-	},
-	{
-	  "format": "PB-[DISTRICT.CODE]-[ULB.CODE]-[SEQ_EG_BP_APN]",
-	  "idname": "bpa.aplnumber"
-	},
-	{
-	  "format": "PG-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_APN]",
-	  "idname": "bpa.low_risk_permit_fee.receipt.id"
-	},
-	{
-	  "format": "PB-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_PN]",
-	  "idname": "bpa.permitnumber"
-	},
-	{
-	  "format": "BPA/OC/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
-	  "idname": "bpa.nc_oc_app_fee.receipt.id"
-	},
-  {
+    {
+      "format": "BPAREG/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "bpareg.receipt.id"
+    },
+    {
+      "format": "BPA/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "bpa.nc_app_fee.receipt.id"
+    },
+    {
+      "format": "BPA/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "bpa.nc_san_fee.receipt.id"
+    },
+    {
+      "format": "PB-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_APN]",
+      "idname": "egov.idgen.bpa.applicationNum"
+    },
+    {
+      "format": "BR/ENG/[cy:yyyy]/[SEQ_EG_PT_LN]",
+      "idname": "egov.idgen.bpa.englicensenumber"
+    },
+    {
+      "format": "BR/STR/[cy:yyyy]/[SEQ_EG_PT_LN]",
+      "idname": "egov.idgen.bpa.strlicensenumber"
+    },
+    {
+      "format": "BR/TP/[cy:yyyy]/[SEQ_EG_PT_LN]",
+      "idname": "egov.idgen.bpa.tplicensenumber"
+    },
+    {
+      "format": "BR/SUP/[cy:yyyy]/[SEQ_EG_PT_LN]",
+      "idname": "egov.idgen.bpa.suplicensenumber"
+    },
+    {
+      "format": "BR/ARCT/[cy:yyyy]/[SEQ_EG_PT_LN]",
+      "idname": "egov.idgen.bpa.arlicensenumber"
+    },
+    {
+      "format": "BR/BLD/[cy:yyyy]/[SEQ_EG_PT_LN]",
+      "idname": "egov.idgen.bpa.bdlicensenumber"
+    },
+    {
+      "format": "PB-[DISTRICT.CODE]-[ULB.CODE]-[SEQ_EG_BP_APN]",
+      "idname": "bpa.aplnumber"
+    },
+    {
+      "format": "PG-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_APN]",
+      "idname": "bpa.low_risk_permit_fee.receipt.id"
+    },
+    {
+      "format": "PB-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_PN]",
+      "idname": "bpa.permitnumber"
+    },
+    {
+      "format": "BPA/OC/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "bpa.nc_oc_app_fee.receipt.id"
+    },
+    {
       "format": "CB-CH-[cy:yyyy-MM-dd]-[SEQ_EG_CH_APL]",
       "idname": "challan.aplnumber"
-  },
-  {
+    },
+    {
       "format": "CH/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_CH_RECEIPT_ID_[TENANT_ID]]",
       "idname": "challan_generation.receipt.id"
-  },
-	{
-	  "format": "CLU/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_CL_RECEIPT_ID]",
-	  "idname": "clu.pay1.receipt.id"
-	},
-	{
-	  "format": "CLU/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_CL_RECEIPT_ID]",
-	  "idname": "clu.pay2.receipt.id"
-	},
-	{
-	  "format": "NOC/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_NOC_RECEIPT_ID]",
-	  "idname": "obpas_noc.receipt.id"
-	},
-	{
-	  "format": "PB-NOC-[DISTRICT.CODE]-[ULB.CODE]-[SEQ_EG_NOC_APPLICATION]",
-	  "idname": "noc.application.number"
-	},
-	{
-	  "format": "PB-CLU-[DISTRICT.CODE]-[ULB.CODE]-[SEQ_EG_CLU_APPLICATION]",
-	  "idname": "clu.application.number"
-	},
+    },
+    {
+      "format": "CLU/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_CL_RECEIPT_ID]",
+      "idname": "clu.pay1.receipt.id"
+    },
+    {
+      "format": "CLU/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_CL_RECEIPT_ID]",
+      "idname": "clu.pay2.receipt.id"
+    },
+    {
+      "format": "NOC/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_NOC_RECEIPT_ID]",
+      "idname": "obpas_noc.receipt.id"
+    },
+    {
+      "format": "PB-NOC-[DISTRICT.CODE]-[ULB.CODE]-[SEQ_EG_NOC_APPLICATION]",
+      "idname": "noc.application.number"
+    },
+    {
+      "format": "PB-CLU-[DISTRICT.CODE]-[ULB.CODE]-[SEQ_EG_CLU_APPLICATION]",
+      "idname": "clu.application.number"
+    },
     {
       "format": "PB-LAYOUT-[DISTRICT.CODE]-[ULB.CODE]-[SEQ_EG_LAYOUT_APPLICATION]",
       "idname": "layout.application.number"
@@ -821,7 +770,7 @@
       "format": "ADV/[CITY.CODE]/[seq_adv_receipt_id_[TENANT_ID]]",
       "idname": "adv-services.receipt.id"
     },
-     {
+    {
       "format": "GC-[CITY.CODE]-[fy:yyyy-yy]-[SEQ_GC_CON_ID]",
       "idname": "garbageservice.connection.id"
     },

@@ -204,46 +204,6 @@
     },
     {
       "category": "TAX",
-      "service": "ADVT.Hoardings",
-      "name": "ADVT.HOARDINGS_TAX",
-      "code": "ADVT.HOARDINGS_TAX",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "1",
-      "isRequired": true
-    },
-    {
-      "category": "CHARGES",
-      "service": "ADVT.Hoardings",
-      "name": "ADVT.HOARDINGS_FIELD_FEE",
-      "code": "ADVT.HOARDINGS_FIELD_FEE",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "ADVT.Unipolls",
-      "name": "ADVT.UNIPOLLS_TAX",
-      "code": "ADVT.UNIPOLLS_TAX",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "1",
-      "isRequired": true
-    },
-    {
-      "category": "CHARGES",
-      "service": "ADVT.Unipolls",
-      "name": "ADVT.UNIPOLLS_FIELD_FEE",
-      "code": "ADVT.UNIPOLLS_FIELD_FEE",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
       "service": "RT.Municipal_Shops_Rent",
       "name": "RT.MUNICIPAL_SHOPS_RENT_TAX",
       "code": "RT.MUNICIPAL_SHOPS_RENT_TAX",
@@ -1604,66 +1564,6 @@
     },
     {
       "category": "TAX",
-      "service": "ADVT.Light_Wala_Board",
-      "name": "ADVT.LIGHT_WALA_BOARD_TAX",
-      "code": "ADVT.LIGHT_WALA_BOARD_TAX",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "1",
-      "isRequired": true
-    },
-    {
-      "category": "CHARGES",
-      "service": "ADVT.Light_Wala_Board",
-      "name": "ADVT.LIGHT_WALA_BOARD_FIELD_FEE",
-      "code": "ADVT.LIGHT_WALA_BOARD_FIELD_FEE",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "ADVT.Wall_Paint_Advertisement",
-      "name": "ADVT.WALL_PAINT_ADVERTISEMENT_TAX",
-      "code": "ADVT.WALL_PAINT_ADVERTISEMENT_TAX",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "1",
-      "isRequired": true
-    },
-    {
-      "category": "CHARGES",
-      "service": "ADVT.Wall_Paint_Advertisement",
-      "name": "ADVT.WALL_PAINT_ADVERTISEMENT_FIELD_FEE",
-      "code": "ADVT.WALL_PAINT_ADVERTISEMENT_FIELD_FEE",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "ADVT.Gas_Balloon_Advertisement",
-      "name": "ADVT.GAS_BALLOON_ADVERTISEMENT_TAX",
-      "code": "ADVT.GAS_BALLOON_ADVERTISEMENT_TAX",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "1",
-      "isRequired": true
-    },
-    {
-      "category": "CHARGES",
-      "service": "ADVT.Gas_Balloon_Advertisement",
-      "name": "ADVT.GAS_BALLOON_ADVERTISEMENT_FIELD_FEE",
-      "code": "ADVT.GAS_BALLOON_ADVERTISEMENT_FIELD_FEE",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
       "service": "TX.No_Dues_Certificate",
       "name": "TX.NO_DUES_CERTIFICATE_CGST",
       "code": "TX.NO_DUES_CERTIFICATE_CGST",
@@ -1677,46 +1577,6 @@
       "service": "TX.No_Dues_Certificate",
       "name": "TX.NO_DUES_CERTIFICATE_SGST",
       "code": "TX.NO_DUES_CERTIFICATE_SGST",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "ADVT.Hoardings",
-      "name": "ADVT.HOARDINGS_CGST",
-      "code": "ADVT.HOARDINGS_CGST",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "ADVT.Hoardings",
-      "name": "ADVT.HOARDINGS_SGST",
-      "code": "ADVT.HOARDINGS_SGST",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "ADVT.Unipolls",
-      "name": "ADVT.UNIPOLLS_CGST",
-      "code": "ADVT.UNIPOLLS_CGST",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "ADVT.Unipolls",
-      "name": "ADVT.UNIPOLLS_SGST",
-      "code": "ADVT.UNIPOLLS_SGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -3084,46 +2944,6 @@
     },
     {
       "category": "TAX",
-      "service": "ADVT.Light_Wala_Board",
-      "name": "ADVT.LIGHT_WALA_BOARD_CGST",
-      "code": "ADVT.LIGHT_WALA_BOARD_CGST",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "ADVT.Light_Wala_Board",
-      "name": "ADVT.LIGHT_WALA_BOARD_SGST",
-      "code": "ADVT.LIGHT_WALA_BOARD_SGST",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "ADVT.Wall_Paint_Advertisement",
-      "name": "ADVT.WALL_PAINT_ADVERTISEMENT_CGST",
-      "code": "ADVT.WALL_PAINT_ADVERTISEMENT_CGST",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "ADVT.Wall_Paint_Advertisement",
-      "name": "ADVT.WALL_PAINT_ADVERTISEMENT_SGST",
-      "code": "ADVT.WALL_PAINT_ADVERTISEMENT_SGST",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
       "service": "TX.House_Tax",
       "name": "TX.HOUSE_TAX",
       "code": "TX.HOUSE_TAX",
@@ -3957,86 +3777,6 @@
       "service": "ADMN.Parking_booking_fee",
       "name": "ADMN.PARKING_BOOKING_FEE_SGST",
       "code": "ADMN.PARKING_BOOKING_FEE_SGST",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "ADVT.Canopy_Fee",
-      "name": "ADVT.CANOPY_FEE_TAX",
-      "code": "ADVT.CANOPY_FEE_TAX",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "1",
-      "isRequired": true
-    },
-    {
-      "category": "CHARGES",
-      "service": "ADVT.Canopy_Fee",
-      "name": "ADVT.CANOPY_FEE_FIELD_FEE",
-      "code": "ADVT.CANOPY_FEE_FIELD_FEE",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "ADVT.Canopy_Fee",
-      "name": "ADVT.CANOPY_FEE_CGST",
-      "code": "ADVT.CANOPY_FEE_CGST",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "ADVT.Canopy_Fee",
-      "name": "ADVT.CANOPY_FEE_SGST",
-      "code": "ADVT.CANOPY_FEE_SGST",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "ADVT.Outdoor_Media_Display_Fee",
-      "name": "ADVT.OUTDOOR_MEDIA_DISPLAY_FEE_TAX",
-      "code": "ADVT.OUTDOOR_MEDIA_DISPLAY_FEE_TAX",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "1",
-      "isRequired": true
-    },
-    {
-      "category": "CHARGES",
-      "service": "ADVT.Outdoor_Media_Display_Fee",
-      "name": "ADVT.OUTDOOR_MEDIA_DISPLAY_FEE_FIELD_FEE",
-      "code": "ADVT.OUTDOOR_MEDIA_DISPLAY_FEE_FIELD_FEE",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "ADVT.Outdoor_Media_Display_Fee",
-      "name": "ADVT.OUTDOOR_MEDIA_DISPLAY_FEE_CGST",
-      "code": "ADVT.OUTDOOR_MEDIA_DISPLAY_FEE_CGST",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "ADVT.Outdoor_Media_Display_Fee",
-      "name": "ADVT.OUTDOOR_MEDIA_DISPLAY_FEE_SGST",
-      "code": "ADVT.OUTDOOR_MEDIA_DISPLAY_FEE_SGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -6121,126 +5861,6 @@
     },
     {
       "category": "TAX",
-      "service": "ADVT.Composition_Fees",
-      "name": "ADVT.COMPOSITION_FEES_TAX",
-      "code": "ADVT.COMPOSITION_FEES_TAX",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "1",
-      "isRequired": true
-    },
-    {
-      "category": "CHARGES",
-      "service": "ADVT.Composition_Fees",
-      "name": "ADVT.COMPOSITION_FEES_FIELD_FEE",
-      "code": "ADVT.COMPOSITION_FEES_FIELD_FEE",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "ADVT.Composition_Fees",
-      "name": "ADVT.COMPOSITION_FEES_CGST",
-      "code": "ADVT.COMPOSITION_FEES_CGST",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "ADVT.Composition_Fees",
-      "name": "ADVT.COMPOSITION_FEES_SGST",
-      "code": "ADVT.COMPOSITION_FEES_SGST",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "ADVT.Show_Tax_and_Entertainment_tax",
-      "name": "ADVT.SHOW_TAX_AND_ENTERTAINMENT_TAX_TAX",
-      "code": "ADVT.SHOW_TAX_AND_ENTERTAINMENT_TAX_TAX",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "1",
-      "isRequired": true
-    },
-    {
-      "category": "CHARGES",
-      "service": "ADVT.Show_Tax_and_Entertainment_tax",
-      "name": "ADVT.SHOW_TAX_AND_ENTERTAINMENT_TAX_FIELD_FEE",
-      "code": "ADVT.SHOW_TAX_AND_ENTERTAINMENT_TAX_FIELD_FEE",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "ADVT.Show_Tax_and_Entertainment_tax",
-      "name": "ADVT.SHOW_TAX_AND_ENTERTAINMENT_TAX_CGST",
-      "code": "ADVT.SHOW_TAX_AND_ENTERTAINMENT_TAX_CGST",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "ADVT.Show_Tax_and_Entertainment_tax",
-      "name": "ADVT.SHOW_TAX_AND_ENTERTAINMENT_TAX_SGST",
-      "code": "ADVT.SHOW_TAX_AND_ENTERTAINMENT_TAX_SGST",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "ADVT.Challan_Under_Section_122_123",
-      "name": "ADVT.CHALLAN_UNDER_SECTION_122_123_TAX",
-      "code": "ADVT.CHALLAN_UNDER_SECTION_122_123_TAX",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "1",
-      "isRequired": true
-    },
-    {
-      "category": "CHARGES",
-      "service": "ADVT.Challan_Under_Section_122_123",
-      "name": "ADVT.CHALLAN_UNDER_SECTION_122_123_FIELD_FEE",
-      "code": "ADVT.CHALLAN_UNDER_SECTION_122_123_FIELD_FEE",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "ADVT.Challan_Under_Section_122_123",
-      "name": "ADVT.CHALLAN_UNDER_SECTION_122_123_CGST",
-      "code": "ADVT.CHALLAN_UNDER_SECTION_122_123_CGST",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "ADVT.Challan_Under_Section_122_123",
-      "name": "ADVT.CHALLAN_UNDER_SECTION_122_123_SGST",
-      "code": "ADVT.CHALLAN_UNDER_SECTION_122_123_SGST",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
       "service": "RT.MC_Khokha_Fees",
       "name": "RT.MC_KHOKHA_FEE_TAX",
       "code": "RT.MC_KHOKHA_FEE_TAX",
@@ -6401,86 +6021,6 @@
     },
     {
       "category": "TAX",
-      "service": "ADVT.Poll_Kiosk",
-      "name": "ADVT.POLL_KIOSK_TAX",
-      "code": "ADVT.POLL_KIOSK_TAX",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "1",
-      "isRequired": true
-    },
-    {
-      "category": "CHARGES",
-      "service": "ADVT.Poll_Kiosk",
-      "name": "ADVT.POLL_KIOSK_FIELD_FEE",
-      "code": "ADVT.POLL_KIOSK_FIELD_FEE",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "ADVT.Poll_Kiosk",
-      "name": "ADVT.POLL_KIOSK_CGST",
-      "code": "ADVT.POLL_KIOSK_CGST",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "ADVT.Poll_Kiosk",
-      "name": "ADVT.POLL_KIOSK_SGST",
-      "code": "ADVT.POLL_KIOSK_SGST",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "ADVT.Gantry",
-      "name": "ADVT.GANTRY_TAX",
-      "code": "ADVT.GANTRY_TAX",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "1",
-      "isRequired": true
-    },
-    {
-      "category": "CHARGES",
-      "service": "ADVT.Gantry",
-      "name": "ADVT.GANTRY_FIELD_FEE",
-      "code": "ADVT.GANTRY_FIELD_FEE",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "ADVT.Gantry",
-      "name": "ADVT.GANTRY_CGST",
-      "code": "ADVT.GANTRY_CGST",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "ADVT.Gantry",
-      "name": "ADVT.GANTRY_SGST",
-      "code": "ADVT.GANTRY_SGST",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
       "service": "CH.Open_Defecation_Challan",
       "name": "CH.OPEN_DEFECATION_CHALLAN_TAX",
       "code": "CH.OPEN_DEFECATION_CHALLAN_TAX",
@@ -6519,7 +6059,7 @@
       "order": "0",
       "isRequired": false
     },
-     {
+    {
       "category": "TAX",
       "service": "OTHER.Door_To_Door_Collection_Of_Solid_Waste_Fees(Residential)",
       "name": "OTHER.DOOR_TO_DOOR_COLLECTION_OF_SOLID_WASTE_FEES(RESIDENTIAL)_TAX",
@@ -6559,7 +6099,7 @@
       "order": "0",
       "isRequired": false
     },
-	  {
+    {
       "category": "TAX",
       "service": "OTHER.Door_To_Door_Collection_Of_Solid_Waste_Fees(Commercial)",
       "name": "OTHER.DOOR_TO_DOOR_COLLECTION_OF_SOLID_WASTE_FEES(COMMERCIAL)_TAX",
@@ -6599,8 +6139,7 @@
       "order": "0",
       "isRequired": false
     },
-	  
-  {
+    {
       "category": "TAX",
       "service": "TX.Mutation_Fees",
       "name": "TX.Mutation_Fees_TAX",
@@ -6640,7 +6179,7 @@
       "order": "0",
       "isRequired": false
     },
-	  {
+    {
       "category": "ADVANCE_COLLECTION",
       "service": "REV_GRANTS.14TH_GRANTS_COMM",
       "name": "Education Cess Grants",
@@ -6730,8 +6269,7 @@
       "order": "0",
       "isRequired": false
     },
-    {    
-	
+    {
       "category": "TAX",
       "service": "CH.Trade_License_Challan",
       "name": "CH.TRADE_LICENSE_CHALLAN_TAX",
@@ -6769,9 +6307,9 @@
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
-      "isRequired": false 
-  },
-  {
+      "isRequired": false
+    },
+    {
       "category": "TAX",
       "service": "SNT.Waste_water_fees",
       "name": "SNT.WASTE_WATER_FEES_TAX",
@@ -6791,7 +6329,7 @@
       "order": "0",
       "isRequired": false
     },
-	{
+    {
       "category": "TAX",
       "service": "SNT.Waste_water_fees",
       "name": "SNT.WASTE_WATER_FEES_CGST",
@@ -6809,9 +6347,9 @@
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
-      "isRequired": false    
+      "isRequired": false
     },
-       {
+    {
       "category": "TAX",
       "service": "SNT.Septic_tank",
       "name": "SNT.SEPTIC_TANK_TAX",
@@ -6831,7 +6369,7 @@
       "order": "0",
       "isRequired": false
     },
-	{
+    {
       "category": "TAX",
       "service": "SNT.Septic_tank",
       "name": "SNT.SEPTIC_TANK_CGST",
@@ -6849,7 +6387,7 @@
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
-      "isRequired": false    
+      "isRequired": false
     },
     {
       "category": "TAX",
@@ -6869,9 +6407,9 @@
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
-      "isRequired":false
+      "isRequired": false
     },
-	{
+    {
       "category": "TAX",
       "service": "SNT.Faecal_sludge_disposal",
       "name": "SNT.FAECAL_SLUDGE_DISPOSAL_CGST",
@@ -6889,7 +6427,7 @@
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
-      "isRequired": false    
+      "isRequired": false
     },
     {
       "category": "CHARGES",
@@ -6902,7 +6440,7 @@
       "order": "0",
       "service": "WS"
     },
-  {
+    {
       "category": "CHARGES",
       "code": "SW_DISCHARGE_CHARGES",
       "isActualDemand": true,
@@ -6913,7 +6451,7 @@
       "order": "0",
       "service": "SW"
     },
-	  {
+    {
       "category": "FEE",
       "code": "WS_OTHER_CHARGE",
       "isActualDemand": true,
@@ -7083,7 +6621,7 @@
       "order": 8,
       "isRequired": false
     },
-       {
+    {
       "category": "FEE",
       "service": "chb-services",
       "name": "CHB_ROUND_OFF",
@@ -7133,346 +6671,346 @@
       "order": "18",
       "isRequired": false
     },
-	{
-	  "category": "FEE",
-	  "service": "BPAREG",
-	  "name": "BPA Stakeholder Registraion fees",
-	  "code": "BPAREG_FEES",
-	  "isDebit": false,
-	  "isActualDemand": true,
-	  "order": "1",
-	  "isRequired": false
-	},
-	{
-	  "category": "FEE",
-	  "service": "BPA.NC_APP_FEE",
-	  "name": "Building Application Fees",
-	  "code": "BPA_BUILDING_APPLICATION_FEES",
-	  "isDebit": false,
-	  "isActualDemand": true,
-	  "order": "1",
-	  "isRequired": false
-	},
-	{
-	  "category": "FEE",
-	  "service": "BPA.NC_APP_FEE",
-	  "name": "Boundary Wall Fees",
-	  "code": "BPA_BOUNDARY_WALL_FEES",
-	  "isDebit": false,
-	  "isActualDemand": true,
-	  "order": "1",
-	  "isRequired": false
-	},
-	{
-	  "category": "FEE",
-	  "service": "BPA.NC_SAN_FEE",
-	  "name": "BPA Gaushala charge fees",
-	  "code": "BPA_GAUSHALA_CHARGES_CESS",
-	  "isDebit": false,
-	  "isActualDemand": true,
-	  "order": "1",
-	  "isRequired": false
-	},
-	{
-	  "category": "FEE",
-	  "service": "BPA.NC_SAN_FEE",
-	  "name": "BPA Adjustment Gaushala charge fees",
-	  "code": "ADJ_BPA_GAUSHALA_CHARGES_CESS",
-	  "isDebit": false,
-	  "isActualDemand": true,
-	  "order": "1",
-	  "isRequired": false
-	},
-	{
-	  "category": "FEE",
-	  "service": "BPA.NC_SAN_FEE",
-	  "name": "BPA Labour cess",
-	  "code": "BPA_LABOUR_CESS",
-	  "isDebit": false,
-	  "isActualDemand": true,
-	  "order": "1",
-	  "isRequired": false
-	},
-	{
-	  "category": "FEE",
-	  "service": "BPA.NC_SAN_FEE",
-	  "name": "BPA Adjustment Labour cess",
-	  "code": "ADJ_BPA_LABOUR_CESS",
-	  "isDebit": false,
-	  "isActualDemand": true,
-	  "order": "1",
-	  "isRequired": false
-	},
-	     {
-	  "category": "FEE",
-	  "service": "BPA.NC_SAN_FEE",
-	  "name": "BPA Rain Water Harvesting Charges",
-	  "code": "BPA_RAIN_WATER_HARVESTING_CHARGES",
-	  "isDebit": false,
-	  "isActualDemand": true,
-	  "order": "1",
-	  "isRequired": false
-	},
-	{
-	  "category": "FEE",
-	  "service": "BPA.NC_SAN_FEE",
-	  "name": "BPA Adjustment Rain Water Harvesting Charges",
-	  "code": "ADJ_BPA_RAIN_WATER_HARVESTING_CHARGES",
-	  "isDebit": false,
-	  "isActualDemand": true,
-	  "order": "1",
-	  "isRequired": false
-	},
-	{
-	  "category": "FEE",
-	  "service": "BPA.NC_SAN_FEE",
-	  "name": "BPA Clubbing Charges",
-	  "code": "BPA_CLUBBING_CHARGES",
-	  "isDebit": false,
-	  "isActualDemand": true,
-	  "order": "1",
-	  "isRequired": false
-	},
-	{
-	  "category": "FEE",
-	  "service": "BPA.NC_SAN_FEE",
-	  "name": "BPA Adjustment Clubbing Charges",
-	  "code": "ADJ_BPA_CLUBBING_CHARGES",
-	  "isDebit": false,
-	  "isActualDemand": true,
-	  "order": "1",
-	  "isRequired": false
-	},
-	{
-	  "category": "FEE",
-	  "service": "BPA.NC_SAN_FEE",
-	  "name": "BPA Sub-Division Charges",
-	  "code": "BPA_SUB-DIVISION_CHARGES",
-	  "isDebit": false,
-	  "isActualDemand": true,
-	  "order": "1",
-	  "isRequired": false
-	},
-	{
-	  "category": "FEE",
-	  "service": "BPA.NC_SAN_FEE",
-	  "name": "BPA Adjustment Sub-Division Charges",
-	  "code": "ADJ_BPA_SUB-DIVISION_CHARGES",
-	  "isDebit": false,
-	  "isActualDemand": true,
-	  "order": "1",
-	  "isRequired": false
-	},
-	{
-	  "category": "FEE",
-	  "service": "BPA.NC_SAN_FEE",
-	  "name": "BPA Purchasable FAR fees",
-	  "code": "BPA_PURCHASABLE_FAR_CHARGES",
-	  "isDebit": false,
-	  "isActualDemand": true,
-	  "order": "1",
-	  "isRequired": false
-	},
-	{
-	  "category": "FEE",
-	  "service": "BPA.NC_SAN_FEE",
-	  "name": "BPA Adjustment Purchasable FAR fees",
-	  "code": "ADJ_BPA_PURCHASABLE_FAR_CHARGES",
-	  "isDebit": false,
-	  "isActualDemand": true,
-	  "order": "1",
-	  "isRequired": false
-	},
-	{
-	  "category": "FEE",
-	  "service": "BPA.NC_SAN_FEE",
-	  "name": "BPA Processing Fees",
-	  "code": "BPA_PROCESSING_FEES",
-	  "isDebit": false,
-	  "isActualDemand": true,
-	  "order": "1",
-	  "isRequired": false
-	},
-	{
-	  "category": "FEE",
-	  "service": "BPA.NC_SAN_FEE",
-	  "name": "BPA Adjustment Processing Fees",
-	  "code": "ADJ_BPA_PROCESSING_FEES",
-	  "isDebit": false,
-	  "isActualDemand": true,
-	  "order": "1",
-	  "isRequired": false
-	},
-	{
-	  "category": "FEE",
-	  "service": "BPA.NC_SAN_FEE",
-	  "name": "BPA CLU Charges",
-	  "code": "BPA_CLU_CHARGES",
-	  "isDebit": false,
-	  "isActualDemand": true,
-	  "order": "1",
-	  "isRequired": false
-	},
-	{
-	  "category": "FEE",
-	  "service": "BPA.NC_SAN_FEE",
-	  "name": "BPA Adjustment CLU Charges",
-	  "code": "ADJ_BPA_CLU_CHARGES",
-	  "isDebit": false,
-	  "isActualDemand": true,
-	  "order": "1",
-	  "isRequired": false
-	},
-	{
-	  "category": "FEE",
-	  "service": "BPA.NC_SAN_FEE",
-	  "name": "BPA External Development Charges",
-	  "code": "BPA_EXTERNAL_DEVELOPMENT_CHARGES",
-	  "isDebit": false,
-	  "isActualDemand": true,
-	  "order": "1",
-	  "isRequired": false
-	},
-	{
-	  "category": "FEE",
-	  "service": "BPA.NC_SAN_FEE",
-	  "name": "BPA Adjustment External Development Charges",
-	  "code": "ADJ_BPA_EXTERNAL_DEVELOPMENT_CHARGES",
-	  "isDebit": false,
-	  "isActualDemand": true,
-	  "order": "1",
-	  "isRequired": false
-	},
-	{
-	  "category": "FEE",
-	  "service": "BPA.NC_SAN_FEE",
-	  "name": "BPA Urban Development Cess",
-	  "code": "BPA_URBAN_DEVELOPMENT_CESS",
-	  "isDebit": false,
-	  "isActualDemand": true,
-	  "order": "1",
-	  "isRequired": false
-	},
-	{
-	  "category": "FEE",
-	  "service": "BPA.NC_SAN_FEE",
-	  "name": "BPA Adjustment Urban Development Cess",
-	  "code": "ADJ_BPA_URBAN_DEVELOPMENT_CESS",
-	  "isDebit": false,
-	  "isActualDemand": true,
-	  "order": "1",
-	  "isRequired": false
-	},
-	{
-	  "category": "FEE",
-	  "service": "BPA.NC_SAN_FEE",
-	  "name": "BPA Malwa fees",
-	  "code": "BPA_MALBA_CHARGES",
-	  "isDebit": false,
-	  "isActualDemand": true,
-	  "order": "1",
-	  "isRequired": false
-	},
-	{
-	  "category": "FEE",
-	  "service": "BPA.NC_SAN_FEE",
-	  "name": "BPA Adjustment Malwa fees",
-	  "code": "ADJ_BPA_MALBA_CHARGES",
-	  "isDebit": false,
-	  "isActualDemand": true,
-	  "order": "1",
-	  "isRequired": false
-	},
-	{
-	  "category": "FEE",
-	  "service": "BPA.NC_SAN_FEE",
-	  "name": "BPA Water fees",
-	  "code": "BPA_WATER_CHARGES",
-	  "isDebit": false,
-	  "isActualDemand": true,
-	  "order": "1",
-	  "isRequired": false
-	},
-	{
-	  "category": "FEE",
-	  "service": "BPA.NC_SAN_FEE",
-	  "name": "BPA Adjustment Water fees",
-	  "code": "ADJ_BPA_WATER_CHARGES",
-	  "isDebit": false,
-	  "isActualDemand": true,
-	  "order": "1",
-	  "isRequired": false
-	},
-	{
-	  "category": "FEE",
-	  "service": "BPA.NC_SAN_FEE",
-	  "name": "BPA Mining Charges",
-	  "code": "BPA_MINING_CHARGES",
-	  "isDebit": false,
-	  "isActualDemand": true,
-	  "order": "1",
-	  "isRequired": false
-	},
-	{
-	  "category": "FEE",
-	  "service": "BPA.NC_SAN_FEE",
-	  "name": "BPA Adjustment Mining Charges",
-	  "code": "ADJ_BPA_MINING_CHARGES",
-	  "isDebit": false,
-	  "isActualDemand": true,
-	  "order": "1",
-	  "isRequired": false
-	},
-	{
-	  "category": "FEE",
-	  "service": "BPA.NC_SAN_FEE",
-	  "name": "BPA Sanction fees",
-	  "code": "BPA_SANC_FEES",
-	  "isDebit": false,
-	  "isActualDemand": true,
-	  "order": "2",
-	  "isRequired": false
-	},
-	{
-	  "category": "FEE",
-	  "service": "BPA.NC_SAN_FEE",
-	  "name": "BPA Development fees",
-	  "code": "BPA_DEVELOPMENT_CHARGES",
-	  "isDebit": false,
-	  "isActualDemand": true,
-	  "order": "1",
-	  "isRequired": false
-	},
-	{
-	  "category": "FEE",
-	  "service": "BPA.NC_SAN_FEE",
-	  "name": "BPA Other fees",
-	  "code": "BPA_OTHER_CHARGES",
-	  "isDebit": false,
-	  "isActualDemand": true,
-	  "order": "1",
-	  "isRequired": false
-	},
-	{
-	  "category": "FEE",
-	  "service": "BPA.NC_SAN_FEE",
-	  "name": "BPA Adjustment Development fees",
-	  "code": "ADJ_BPA_DEVELOPMENT_CHARGES",
-	  "isDebit": false,
-	  "isActualDemand": true,
-	  "order": "1",
-	  "isRequired": false
-	},
-	{
-	  "category": "FEE",
-	  "service": "BPA.NC_SAN_FEE",
-	  "name": "BPA Adjustment Other fees",
-	  "code": "ADJ_BPA_OTHER_CHARGES",
-	  "isDebit": false,
-	  "isActualDemand": true,
-	  "order": "1",
-	  "isRequired": false
-	},
+    {
+      "category": "FEE",
+      "service": "BPAREG",
+      "name": "BPA Stakeholder Registraion fees",
+      "code": "BPAREG_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_APP_FEE",
+      "name": "Building Application Fees",
+      "code": "BPA_BUILDING_APPLICATION_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_APP_FEE",
+      "name": "Boundary Wall Fees",
+      "code": "BPA_BOUNDARY_WALL_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Gaushala charge fees",
+      "code": "BPA_GAUSHALA_CHARGES_CESS",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Adjustment Gaushala charge fees",
+      "code": "ADJ_BPA_GAUSHALA_CHARGES_CESS",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Labour cess",
+      "code": "BPA_LABOUR_CESS",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Adjustment Labour cess",
+      "code": "ADJ_BPA_LABOUR_CESS",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Rain Water Harvesting Charges",
+      "code": "BPA_RAIN_WATER_HARVESTING_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Adjustment Rain Water Harvesting Charges",
+      "code": "ADJ_BPA_RAIN_WATER_HARVESTING_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Clubbing Charges",
+      "code": "BPA_CLUBBING_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Adjustment Clubbing Charges",
+      "code": "ADJ_BPA_CLUBBING_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Sub-Division Charges",
+      "code": "BPA_SUB-DIVISION_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Adjustment Sub-Division Charges",
+      "code": "ADJ_BPA_SUB-DIVISION_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Purchasable FAR fees",
+      "code": "BPA_PURCHASABLE_FAR_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Adjustment Purchasable FAR fees",
+      "code": "ADJ_BPA_PURCHASABLE_FAR_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Processing Fees",
+      "code": "BPA_PROCESSING_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Adjustment Processing Fees",
+      "code": "ADJ_BPA_PROCESSING_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA CLU Charges",
+      "code": "BPA_CLU_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Adjustment CLU Charges",
+      "code": "ADJ_BPA_CLU_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA External Development Charges",
+      "code": "BPA_EXTERNAL_DEVELOPMENT_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Adjustment External Development Charges",
+      "code": "ADJ_BPA_EXTERNAL_DEVELOPMENT_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Urban Development Cess",
+      "code": "BPA_URBAN_DEVELOPMENT_CESS",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Adjustment Urban Development Cess",
+      "code": "ADJ_BPA_URBAN_DEVELOPMENT_CESS",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Malwa fees",
+      "code": "BPA_MALBA_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Adjustment Malwa fees",
+      "code": "ADJ_BPA_MALBA_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Water fees",
+      "code": "BPA_WATER_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Adjustment Water fees",
+      "code": "ADJ_BPA_WATER_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Mining Charges",
+      "code": "BPA_MINING_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Adjustment Mining Charges",
+      "code": "ADJ_BPA_MINING_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Sanction fees",
+      "code": "BPA_SANC_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Development fees",
+      "code": "BPA_DEVELOPMENT_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Other fees",
+      "code": "BPA_OTHER_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Adjustment Development fees",
+      "code": "ADJ_BPA_DEVELOPMENT_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Adjustment Other fees",
+      "code": "ADJ_BPA_OTHER_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
     {
       "category": "FEE",
       "service": "Challan_Generation",
@@ -7483,26 +7021,26 @@
       "order": "1",
       "isRequired": false
     },
-	{
-	  "category": "FEE",
-	  "service": "obpas_noc",
-	  "name": "NOC fees",
-	  "code": "NOC_FEES",
-	  "isDebit": false,
-	  "isActualDemand": true,
-	  "order": "1",
-	  "isRequired": false
-	},
-	{
-	  "category": "FEE",
-	  "service": "obpas_noc",
-	  "name": "NOC Compounding fees",
-	  "code": "NOC_COMPOUNDING_FEES",
-	  "isDebit": false,
-	  "isActualDemand": true,
-	  "order": "1",
-	  "isRequired": false
-	},
+    {
+      "category": "FEE",
+      "service": "obpas_noc",
+      "name": "NOC fees",
+      "code": "NOC_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "obpas_noc",
+      "name": "NOC Compounding fees",
+      "code": "NOC_COMPOUNDING_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
     {
       "category": "FEE",
       "service": "CLU.PAY1",
@@ -7513,7 +7051,7 @@
       "order": "0",
       "isRequired": false
     },
-	{
+    {
       "category": "FEE",
       "service": "CLU.PAY2",
       "name": "CLU PAY2 LUM SUM",
@@ -7523,76 +7061,76 @@
       "order": "0",
       "isRequired": false
     },
-	{
-	  "category": "FEE",
-	  "service": "CLU.PAY1",
-	  "name": "CLU PROCESSING FEE",
-	  "code": "CLU_PROCESSING_FEE",
-	  "isDebit": false,
-	  "isActualDemand": true,
-	  "order": "0",
-	  "isRequired": false
-	},
-	{
-	  "category": "FEE",
-	  "service": "CLU.PAY2",
-	  "name": "CLU CLU FEE",
-	  "code": "CLU_CLU_FEE",
-	  "isDebit": false,
-	  "isActualDemand": true,
-	  "order": "0",
-	  "isRequired": false
-	},
-	{
-	  "category": "FEE",
-	  "service": "CLU.PAY2",
-	  "name": "CLU EDC FEE",
-	  "code": "CLU_EDC_FEE",
-	  "isDebit": false,
-	  "isActualDemand": true,
-	  "order": "0",
-	  "isRequired": false
-	},
-	{
-	  "category": "FEE",
-	  "service": "CLU.PAY2",
-	  "name": "CLU OTHER FEE",
-	  "code": "CLU_OTHER1_FEE",
-	  "isDebit": false,
-	  "isActualDemand": true,
-	  "order": "0",
-	  "isRequired": false
-	},
-	{
-	  "category": "FEE",
-	  "service": "CLU.PAY2",
-	  "name": "CLU OTHER2 FEE",
-	  "code": "CLU_OTHER2_FEE",
-	  "isDebit": false,
-	  "isActualDemand": true,
-	  "order": "0",
-	  "isRequired": false
-	},
-	{
-	  "category": "FEE",
-	  "service": "CLU.PAY2",
-	  "name": "CLU UDC/SIF FEE",
-	  "code": "CLU_UDC_FEE",
-	  "isDebit": false,
-	  "isActualDemand": true,
-	  "order": "0",
-	  "isRequired": false
-	},
-	{
-	  "category": "FEE",
-	  "service": "CLU.PAY2",
-	  "name": "CLU LF FEE",
-	  "code": "CLU_LF_FEE",
-	  "isDebit": false,
-	  "isActualDemand": true,
-	  "order": "0",
-	  "isRequired": false
-	},
+    {
+      "category": "FEE",
+      "service": "CLU.PAY1",
+      "name": "CLU PROCESSING FEE",
+      "code": "CLU_PROCESSING_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "CLU.PAY2",
+      "name": "CLU CLU FEE",
+      "code": "CLU_CLU_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "CLU.PAY2",
+      "name": "CLU EDC FEE",
+      "code": "CLU_EDC_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "CLU.PAY2",
+      "name": "CLU OTHER FEE",
+      "code": "CLU_OTHER1_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "CLU.PAY2",
+      "name": "CLU OTHER2 FEE",
+      "code": "CLU_OTHER2_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "CLU.PAY2",
+      "name": "CLU UDC/SIF FEE",
+      "code": "CLU_UDC_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "CLU.PAY2",
+      "name": "CLU LF FEE",
+      "code": "CLU_LF_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
     {
       "category": "FEE",
       "service": "BPA.NC_OC_SAN_FEE",
@@ -7623,7 +7161,7 @@
       "order": "0",
       "isRequired": false
     },
-	{
+    {
       "category": "FEE",
       "service": "LAYOUT.PAY2",
       "name": "LAYOUT PAY2 LUM SUM",
@@ -7733,7 +7271,7 @@
       "order": "0",
       "isRequired": false
     },
-       {
+    {
       "category": "FEE",
       "service": "adv-services",
       "name": "Advertisement Booking Fees",
@@ -7836,7 +7374,6 @@
       "order": "1",
       "service": "GC"
     },
-
     {
       "category": "PENALTY",
       "code": "GC_TIME_PENALTY",
@@ -8147,7 +7684,7 @@
       "order": "2",
       "service": "GC"
     },
-     {
+    {
       "category": "ADVANCE_COLLECTION",
       "service": "rl-services",
       "name": "RL Security deposit fee",
@@ -8217,7 +7754,7 @@
       "order": "9",
       "isRequired": false
     },
-       {
+    {
       "category": "ADVANCE_COLLECTION",
       "service": "rl-services",
       "name": "Fee Arrear",
@@ -8225,7 +7762,7 @@
       "isDebit": false,
       "isActualDemand": true,
       "order": "10",
-      "isRequired": false     
+      "isRequired": false
     },
     {
       "category": "TAX",
@@ -8247,9 +7784,7 @@
       "order": "0",
       "isRequired": false
     },
-
-
-  {
+    {
       "category": "TAX",
       "service": "RT.Use_Of_Land_And_Occupation_Charges",
       "name": "RT.USE_OF_LAND_AND_OCCUPATION_CHARGES_CGST",
