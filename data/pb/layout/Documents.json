@@ -13,7 +13,7 @@
     {
       "code": "OWNER.OWNERSHIPDOCUMENT",
       "documentType": "OWNER",
-      "required": false,
+      "required": true,
       "active": true,
       "description": "OWNER.OWNERSHIPDOCUMENT_DESCRIPTION",
       "order": 2
