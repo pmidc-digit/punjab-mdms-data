@@ -23002,6 +23002,24 @@
       "sidebarURL": "/digit-ui/citizen/challangeneration-home"
     },
     {
+      "id": 233826,
+      "name": "Search Challans",
+      "url": "digit-ui-card",
+      "displayName": "Challan Generation",
+      "orderNumber": 1,
+      "parentModule": "ChallanGeneration",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/challangeneration/search-challans",
+      "leftIcon": "MCollectIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/challangeneration-home"
+    },
+    {
       "id": 8900947,
       "name": "Create Application",
       "url": "digit-ui-card",
