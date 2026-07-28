@@ -29805,7 +29805,7 @@
     },
     {
       "id": 89010015,
-      "name": "PT_SEARCH_PROPERTY",
+      "name": "UC_SEARCHANDPAY_LABEL",
       "url": "digit-ui-card",
       "displayName": "My Applications",
       "orderNumber": 4,
@@ -29823,21 +29823,18 @@
     },
     {
       "id": 89010016,
-      "name": "SEARCH_APPLICATION",
-      "url": "digit-ui-card",
-      "displayName": "Search Application",
-      "orderNumber": 2,
-      "parentModule": "PT",
+      "name": "Search and Pay",
+      "url": "url",
+      "displayName": "Search and Pay",
+      "orderNumber": 18,
+      "parentModule": "rainmaker-pt",
       "enabled": true,
-      "serviceCode": "",
-      "code": "",
-      "path": "",
-      "navigationURL": "/digit-ui/citizen/pt/application-search",
-      "leftIcon": "propertyIcon",
-      "rightIcon": "",
-      "queryParams": "",
-      "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/pt-home"
-    }
+      "serviceCode": "PT",
+      "code": "null",
+      "path": "PT.Search and Pay",
+      "navigationURL": "/digit-ui/citizen/pt/search",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
   ]
 }
