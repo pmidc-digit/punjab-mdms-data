@@ -23006,7 +23006,7 @@
       "name": "Search Challans",
       "url": "digit-ui-card",
       "displayName": "Challan Generation",
-      "orderNumber": 1,
+      "orderNumber": 2,
       "parentModule": "ChallanGeneration",
       "enabled": true,
       "serviceCode": "",
