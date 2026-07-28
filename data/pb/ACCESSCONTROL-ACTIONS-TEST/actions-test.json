@@ -21520,7 +21520,7 @@
       "serviceCode": "egov-ss",
       "code": "null",
       "path": ""
-    },  
+    },
     {
       "id": 890033,
       "name": "Survey Answer Response",
@@ -23032,6 +23032,24 @@
       "code": "",
       "path": "",
       "navigationURL": "/digit-ui/citizen/garbagecollection/my-applications",
+      "leftIcon": "MCollectIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/garbagecollection-home"
+    },
+    {
+      "id": 233821,
+      "name": "Bill Genie",
+      "url": "digit-ui-card",
+      "displayName": "Garbage Collection",
+      "orderNumber": 3,
+      "parentModule": "GarbageCollection",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/garbagecollection/bill-genie",
       "leftIcon": "MCollectIcon",
       "rightIcon": "",
       "queryParams": "",
