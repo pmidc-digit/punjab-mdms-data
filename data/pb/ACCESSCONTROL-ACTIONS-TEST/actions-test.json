@@ -29851,7 +29851,7 @@
       "code": "",
       "path": "",
       "navigationURL": "/digit-ui/citizen/pt/search",
-      "leftIcon": "action:assignment",
+      "leftIcon": "propertyIcon",
       "rightIcon": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/pt/search"
