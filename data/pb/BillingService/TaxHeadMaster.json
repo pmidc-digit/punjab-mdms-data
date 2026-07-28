@@ -8763,6 +8763,16 @@
       "service": "GC"
     },
     {
+      "category": "REBATE",
+      "service": "rl-services",
+      "name": "RL Early Payment Rebate",
+      "code": "RL_TIME_REBATE",
+      "isDebit": true,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
       "category": "FEE",
       "service": "rl-services",
       "name": "RL Security deposit fee",
