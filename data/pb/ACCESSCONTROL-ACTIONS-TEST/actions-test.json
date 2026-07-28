@@ -29842,19 +29842,17 @@
     {
       "id": 89010016,
       "name": "Search and Pay",
-      "url": "digit-ui-card",
+      "url": "url",
       "displayName": "Search and Pay",
       "orderNumber": 18,
-      "parentModule": "PT",
+      "parentModule": "rainmaker-pt",
       "enabled": true,
       "serviceCode": "PT",
-      "code": "",
-      "path": "",
+      "code": "null",
+      "path": "Property Tax.Search and Pay",
       "navigationURL": "/digit-ui/citizen/pt/search",
       "leftIcon": "action:assignment",
-      "rightIcon": "",
-      "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/pt/search"
+      "rightIcon": ""
     }
   ]
 }
