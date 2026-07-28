@@ -67576,6 +67576,12 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "CITIZEN",
+      "actionid": 8900879,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "GC_CEMP",
       "actionid": 8900942,
       "actioncode": "",
