@@ -327,13 +327,6 @@
 
 				},
 				{
-					"name": "LAYOUT LAYOUT FEE",
-					"rate": 0.0,
-					"taxHeadCode": "LAYOUT_LAYOUT_FEE",
-					"applicable": true
-
-				},
-				{
 					"name": "LAYOUT OTHERCHARGES2 FEE",
 					"rate": 0.0,
 					"taxHeadCode": "LAYOUT_OTHERCHARGES2_FEE",
