@@ -38279,6 +38279,12 @@
       "actioncode": "",
       "tenantId": "pb"
     },
+      {
+      "rolecode": "CITIZEN",
+      "actionid": 8900876,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
     {
       "rolecode": "GC_CLERK",
       "actionid": 8900876,
