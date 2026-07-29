@@ -327,6 +327,13 @@
 
 				},
 				{
+					"name": "LAYOUT CLU FEE",
+					"rate": 0.0,
+					"taxHeadCode": "LAYOUT_CLU_FEE",
+					"applicable": true
+
+				},
+				{
 					"name": "LAYOUT OTHERCHARGES2 FEE",
 					"rate": 0.0,
 					"taxHeadCode": "LAYOUT_OTHERCHARGES2_FEE",
