@@ -1,0 +1,24 @@
+{
+  "tenantId": "pb.jaitu",
+  "moduleName": "rl-services-masters",
+  "DueDate": [
+    {
+      "billingCycle": "MONTHLY",
+      "dueDay": 10,
+      "rebatePercentage": 0,
+      "rebateFlatAmount": 0
+    },
+    {
+      "billingCycle": "QUATERLY",
+      "dueDay": 30
+    },
+    {
+      "billingCycle": "BIANNUAL",
+      "dueDay": 45
+    },
+    {
+      "billingCycle": "ANNUAL",
+      "dueDay": 60
+    }
+  ]
+}
