@@ -298,7 +298,7 @@
         "longitude": ""
       },
       "propertyImage": "",
-      "baseRent": "1419",
+      "baseRent": "1632",
       "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "One Time",
@@ -649,25 +649,6 @@
       "penaltyFlatAmount": 60
     },
     {
-      "propertyId": "PB-RL-UR20260000035",
-      "propertyName": "Shop No. 20 - Near Bus Stand Tanda",
-      "allotmentType": "rent",
-      "propertySizeOrArea": 230.0,
-      "address": "Near Bus Stand Tanda",
-      "geoLocation": {
-        "latitude": "",
-        "longitude": ""
-      },
-      "propertyImage": "",
-      "baseRent": "3075",
-      "securityDeposit": 0,
-      "feesPeriodCycle": "MONTHLY",
-      "penaltyType": "One Time",
-      "areaCode": "UR_NEAR_BUS_STAND_RENT_COM",
-      "penaltyRate": 0,
-      "penaltyFlatAmount": 60
-    },
-    {
       "propertyId": "PB-RL-UR20260000036",
       "propertyName": "Shop No. 21 - Near Bus Stand Tanda",
       "allotmentType": "rent",
@@ -722,7 +703,7 @@
       "penaltyType": "One Time",
       "areaCode": "UR_NEAR_MC_OFFICE_RENT_COM",
       "penaltyRate": 0,
-      "penaltyFlatAmount": 60
+      "penaltyFlatAmount": 0
     },
     {
       "propertyId": "PB-RL-UR20260000039",
