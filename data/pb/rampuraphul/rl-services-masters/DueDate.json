@@ -4,19 +4,19 @@
   "DueDate": [
     {
       "billingCycle": "MONTHLY",
-      "dueDay": 15
+      "dueDay": 10
     },
     {
       "billingCycle": "QUATERLY",
-      "dueDay": 30
+      "dueDay": 0
     },
     {
       "billingCycle": "BIANNUAL",
-      "dueDay": 45
+      "dueDay": 0
     },
     {
       "billingCycle": "ANNUAL",
-      "dueDay": 60
+      "dueDay": 0
     }
   ]
 }
