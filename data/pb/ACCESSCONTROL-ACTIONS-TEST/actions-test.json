@@ -16,6 +16,30 @@
   },
 
   {
+    "id": 70001,
+    "name": "ULB",
+    "url": "/reports/configs/rl-reports.yml/_get",
+    "displayName": "ULB",
+    "orderNumber": 0,
+    "enabled": true,
+    "serviceCode": "egov-ss",
+    "code": "null",
+    "path": ""
+  },
+
+    {
+    "id": 70001,
+    "name": "ULB",
+    "url": "/reports/configs/rl-reports.yml/metadata/_get",
+    "displayName": "ULB",
+    "orderNumber": 0,
+    "enabled": true,
+    "serviceCode": "egov-ss",
+    "code": "null",
+    "path": ""
+  },
+
+  {
     "id": 7002,
     "name": "Create Survey",
     "url": "/egov-survey-services/egov-ss/survey/create",
