@@ -1452,7 +1452,7 @@
       "propertyName": "Shop No. 1 - Madan Lal s/o Sham Sundar",
       "allotmentType": "rent",
       "propertySizeOrArea": 200.0,
-      "address": "4 Shops Office Nagar Council Gate near",
+      "address": "14 Shops Office Nagar Council Gate near",
       "geoLocation": {
         "latitude": "",
         "longitude": ""
@@ -1469,7 +1469,7 @@
       "propertyName": "Shop No. 2 - Suresh Kumar s/o Indarajeet",
       "allotmentType": "rent",
       "propertySizeOrArea": 200.0,
-      "address": "4 Shops Office Nagar Council Gate near",
+      "address": "14 Shops Office Nagar Council Gate near",
       "geoLocation": {
         "latitude": "",
         "longitude": ""
@@ -1486,7 +1486,7 @@
       "propertyName": "Shop No. 3 - Sukhavindar Singh s/o Guracharan Singh",
       "allotmentType": "rent",
       "propertySizeOrArea": 200.0,
-      "address": "4 Shops Office Nagar Council Gate near",
+      "address": "14 Shops Office Nagar Council Gate near",
       "geoLocation": {
         "latitude": "",
         "longitude": ""
@@ -1503,7 +1503,7 @@
       "propertyName": "Shop No. 4 - Simaranajeet Singh s/o Mohan Singh",
       "allotmentType": "rent",
       "propertySizeOrArea": 200.0,
-      "address": "4 Shops Office Nagar Council Gate near",
+      "address": "14 Shops Office Nagar Council Gate near",
       "geoLocation": {
         "latitude": "",
         "longitude": ""
@@ -10048,6 +10048,176 @@
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
       "areaCode": "RP_SHOPS_PHUL_TOWN_FORT_LEFT_SIDE_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000592,",
+      "propertyName": "Shop No. 5 - Sumitt kumar s/o Paran nath",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "14 Shops Office Nagar Council Gate near",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "830",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "RP_SHOPS_OFFICE_NAGAR_COUNCIL_GATE_NEAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000592,",
+      "propertyName": "Shop No. 6 - Diwan Chand s/o babu ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "14 Shops Office Nagar Council Gate near",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "830",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "RP_SHOPS_OFFICE_NAGAR_COUNCIL_GATE_NEAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000592,",
+      "propertyName": "Shop No. 7 - Bhagwan dass s/o babu ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "14 Shops Office Nagar Council Gate near",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "830",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "RP_SHOPS_OFFICE_NAGAR_COUNCIL_GATE_NEAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000592,",
+      "propertyName": "Shop No. 8 - Bhushan kumar s/o Sadhu ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "14 Shops Office Nagar Council Gate near",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "830",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "RP_SHOPS_OFFICE_NAGAR_COUNCIL_GATE_NEAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000592,",
+      "propertyName": "Shop No. 9 - Pawan kumar s/o Atma saroop",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "14 Shops Office Nagar Council Gate near",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "830",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "RP_SHOPS_OFFICE_NAGAR_COUNCIL_GATE_NEAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000592,",
+      "propertyName": "Shop No. 10 - Binaypal s/o nirmal kumar",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "14 Shops Office Nagar Council Gate near",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "788",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "RP_SHOPS_OFFICE_NAGAR_COUNCIL_GATE_NEAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000592,",
+      "propertyName": "Shop No. 11 - Rakesh kumar s/o ashok kumar",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "14 Shops Office Nagar Council Gate near",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "788",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "RP_SHOPS_OFFICE_NAGAR_COUNCIL_GATE_NEAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000592,",
+      "propertyName": "Shop No. 12 - ajay bansal s/o kamaljeet bansal",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "14 Shops Office Nagar Council Gate near",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "874",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "RP_SHOPS_OFFICE_NAGAR_COUNCIL_GATE_NEAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000592,",
+      "propertyName": "Shop No. 13 - gagan bhatia s/o varinder bhatiya",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "14 Shops Office Nagar Council Gate near",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "874",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "RP_SHOPS_OFFICE_NAGAR_COUNCIL_GATE_NEAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000592,",
+      "propertyName": "Shop No. 14 - Nitan kumar s/o pawan kumar",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "14 Shops Office Nagar Council Gate near",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "874",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "RP_SHOPS_OFFICE_NAGAR_COUNCIL_GATE_NEAR_RENT_COM"
     }
   ]
 }
