@@ -5,7 +5,7 @@
     {
       "id": 1,
       "poleNo": "1",
-      "name": "Hoarding Board (Qty 1)",
+      "name": "Hoarding Board upto 9 sqft (Qty 1)",
       "adType": "HOARDING_BOARD",
       "width": 2,
       "height": 3,
@@ -21,7 +21,7 @@
     {
       "id": 2,
       "poleNo": "2",
-      "name": "Hoarding Board (Qty 2)",
+      "name": "Hoarding Board upto 9 sqft (Qty 2)",
       "adType": "HOARDING_BOARD",
       "width": 2,
       "height": 3,
@@ -37,7 +37,7 @@
     {
       "id": 3,
       "poleNo": "3",
-      "name": "Hoarding Board (Qty 3)",
+      "name": "Hoarding Board upto 9 sqft (Qty 3)",
       "adType": "HOARDING_BOARD",
       "width": 2,
       "height": 3,
@@ -53,7 +53,7 @@
     {
       "id": 4,
       "poleNo": "4",
-      "name": "Hoarding Board (Qty 4)",
+      "name": "Hoarding Board upto 9 sqft (Qty 4)",
       "adType": "HOARDING_BOARD",
       "width": 2,
       "height": 3,
@@ -69,7 +69,7 @@
     {
       "id": 5,
       "poleNo": "5",
-      "name": "Hoarding Board (Qty 5)",
+      "name": "Hoarding Board upto 9 sqft (Qty 5)",
       "adType": "HOARDING_BOARD",
       "width": 2,
       "height": 3,
@@ -85,7 +85,7 @@
     {
       "id": 6,
       "poleNo": "6",
-      "name": "Hoarding Board (Qty 10)",
+      "name": "Hoarding Board upto 9 sqft (Qty 10)",
       "adType": "HOARDING_BOARD",
       "width": 2,
       "height": 3,
@@ -101,7 +101,7 @@
     {
       "id": 7,
       "poleNo": "7",
-      "name": "Hoarding Board (Qty 20)",
+      "name": "Hoarding Board upto 9 sqft (Qty 20)",
       "adType": "HOARDING_BOARD",
       "width": 2,
       "height": 3,
@@ -117,7 +117,7 @@
     {
       "id": 8,
       "poleNo": "8",
-      "name": "Hoarding Board (Qty 30)",
+      "name": "Hoarding Board upto 9 sqft (Qty 30)",
       "adType": "HOARDING_BOARD",
       "width": 2,
       "height": 3,
@@ -133,7 +133,7 @@
     {
       "id": 9,
       "poleNo": "9",
-      "name": "Hoarding Board (Qty 40)",
+      "name": "Hoarding Board upto 9 sqft (Qty 40)",
       "adType": "HOARDING_BOARD",
       "width": 2,
       "height": 3,
@@ -149,7 +149,7 @@
     {
       "id": 10,
       "poleNo": "10",
-      "name": "Hoarding Board (Qty 50)",
+      "name": "Hoarding Board upto 9 sqft (Qty 50)",
       "adType": "HOARDING_BOARD",
       "width": 2,
       "height": 3,
@@ -165,7 +165,7 @@
     {
       "id": 11,
       "poleNo": "11",
-      "name": "Hoarding Board (Qty 100)",
+      "name": "Hoarding Board upto 9 sqft (Qty 100)",
       "adType": "HOARDING_BOARD",
       "width": 2,
       "height": 3,
