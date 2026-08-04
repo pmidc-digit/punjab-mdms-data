@@ -4,8 +4,8 @@
   "Penalty": [
     {
       "billingCycle": "MONTHLY",
-      "rate": 15,
-      "minAmount": 100,
+      "rate": 1.5,
+      "minAmount": 0,
       "applicableAfterDays": 0,
       "flatAmount": null,
       "maxAmount": null,
