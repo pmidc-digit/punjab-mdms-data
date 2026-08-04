@@ -747,77 +747,143 @@
     },
 	{
       "tenant": "pb.alawalpur",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2026-27",
       "isRented": false
     },
 	{
       "tenant": "pb.amargarh",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2026-27",
       "isRented": false
     },
 	{
       "tenant": "pb.arniwala",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2026-27",
       "isRented": false
     },
 	{
       "tenant": "pb.bababakalasahib",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2026-27",
       "isRented": false
     },
 	{
       "tenant": "pb.badhnikalan",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2026-27",
       "isRented": false
     },
 	{
       "tenant": "pb.baghapurana",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2026-27",
       "isRented": false
     },
 	{
       "tenant": "pb.balachaur",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2026-27",
       "isRented": false
     },
 	{
       "tenant": "pb.banga",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2026-27",
       "isRented": false
     },
 	{
       "tenant": "pb.bareta",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2026-27",
       "isRented": false
     },
 	{
       "tenant": "pb.barnala",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2026-27",
       "isRented": false
     },
 	{
       "tenant": "pb.bassipathana",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2026-27",
       "isRented": false
     },
 	{
       "tenant": "pb.mohali",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2026-27",
       "isRented": false,
       "propertytype": ["RESIDENTIAL"]
-    }
+    },
+	{
+      "tenant": "pb.batala",
+      "enabled": true,
+      "financialyear": "2026-27",
+      "isRented": false
+    },
+	{
+      "tenant": "pb.begowal",
+      "enabled": true,
+      "financialyear": "2026-27",
+      "isRented": false
+    },
+	{
+      "tenant": "pb.bhadaur",
+      "enabled": true,
+      "financialyear": "2026-27",
+      "isRented": false
+    },
+	{
+      "tenant": "pb.bhadson",
+      "enabled": true,
+      "financialyear": "2026-27",
+      "isRented": false
+    },
+	{
+      "tenant": "pb.bhagtabhai",
+      "enabled": true,
+      "financialyear": "2026-27",
+      "isRented": false
+    },
+	{
+      "tenant": "pb.bhawanigarh",
+      "enabled": true,
+      "financialyear": "2026-27",
+      "isRented": false
+    },
+	{
+      "tenant": "pb.bhogpur",
+      "enabled": true,
+      "financialyear": "2026-27",
+      "isRented": false
+    },
+	{
+      "tenant": "pb.bhulath",
+      "enabled": true,
+      "financialyear": "2026-27",
+      "isRented": false
+    },
+	{
+      "tenant": "pb.bilga",
+      "enabled": true,
+      "financialyear": "2026-27",
+      "isRented": false
+    },
+	{
+      "tenant": "pb.boha",
+      "enabled": true,
+      "financialyear": "2026-27",
+      "isRented": false
+    },
+	{
+      "tenant": "pb.budhlada",
+      "enabled": true,
+      "financialyear": "2026-27",
+      "isRented": false
+    },
 
   ]
 }
