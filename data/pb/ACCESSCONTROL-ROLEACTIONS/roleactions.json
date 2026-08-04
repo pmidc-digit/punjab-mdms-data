@@ -70664,6 +70664,12 @@
       "actionid": 8825550002,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC REPORTS",
+      "actionid": 8825550003,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
