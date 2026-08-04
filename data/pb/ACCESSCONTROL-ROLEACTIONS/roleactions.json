@@ -70658,6 +70658,12 @@
       "actionid": 89010016,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "Rent And Lease Reports",
+      "actionid": 8825550002,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }

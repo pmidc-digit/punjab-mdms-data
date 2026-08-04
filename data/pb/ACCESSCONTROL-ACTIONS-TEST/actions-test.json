@@ -29855,6 +29855,21 @@
       "rightIcon": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/pt/search"
+    },
+    {
+      "id": 8825550002,
+      "name": "Rent & Lease Detail Report",
+      "url": "url",
+      "displayName": "Rent & Lease Detail Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "Rent & Lease Reports",
+      "enabled": true,
+      "serviceCode": "RLREPORTS",
+      "path": "Rent & Lease Reports.Rent & Lease Detail Report",
+      "navigationURL": "report/rainmaker-rl/RLdetailreport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
