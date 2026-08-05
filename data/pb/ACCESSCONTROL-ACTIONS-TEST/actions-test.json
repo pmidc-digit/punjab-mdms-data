@@ -29870,6 +29870,21 @@
       "navigationURL": "report/rainmaker-rl/RLdetailreport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 8825550003,
+      "name": "Application Details by Application State",
+      "url": "url",
+      "displayName": "Application Details by Application State",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "NDC REPORTS",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "NDC Reports.Application Details by Application State",
+      "navigationURL": "report/rainmaker-ndc/ApplicationDetailsbyApplicationState",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
