@@ -29856,8 +29856,9 @@
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/pt/search"
     },
+
     {
-      "id": 8825550002,
+      "id": 882555952,
       "name": "Rent & Lease Detail Report",
       "url": "url",
       "displayName": "Rent & Lease Detail Report",
@@ -29867,7 +29868,7 @@
       "enabled": true,
       "serviceCode": "RLREPORTS",
       "path": "Rent & Lease Reports.Rent & Lease Detail Report",
-      "navigationURL": "report/rainmaker-rl/RLdetailreport",
+      "navigationURL": "report/rainmaker-rl/RLdetailreportdemo",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
