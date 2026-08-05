@@ -24582,6 +24582,72 @@
       "serviceCode": "",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 89000917,
+      "name": "Search Water Bill",
+      "url": "/egov-searcher/bill-genie/wsbatchbilling_summary/_get",
+      "displayName": "Search Batch Water Bill",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "Searcher",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89000918,
+      "name": "Search Water Bill",
+      "url": "/egov-searcher/bill-genie/groupbills_summary/_get",
+      "displayName": "Search Group Water Bill",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "Searcher",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89000919,
+      "name": "Search Sewerage Bill",
+      "url": "/egov-searcher/bill-genie/swbatchbilling_summary/_get",
+      "displayName": "Search Batch Sewerage Bill",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "Searcher",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89000920,
+      "name": "Search Sewerage Bill",
+      "url": "/egov-searcher/bill-genie/groupbillssw_summary/_get",
+      "displayName": "Search Group Sewerage Bill",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "Searcher",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89000921,
+      "name": "Search Water Bill",
+      "url": "/egov-searcher/bill-genie/waterbills_summary/_get",
+      "displayName": "Search Locality Wise Water Bill",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "Searcher",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89000922,
+      "name": "Search Sewerage Bill",
+      "url": "/egov-searcher/bill-genie/seweragebills_summary/_get",
+      "displayName": "Search locality Wise Sewerage Bill",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "Searcher",
+      "code": "null",
+      "path": ""
     }
   ]
 }
