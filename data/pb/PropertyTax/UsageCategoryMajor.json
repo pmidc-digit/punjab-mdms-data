@@ -19,6 +19,30 @@
       "code": "MIXED",
       "active": true,
       "fromFY": "2013-14"
-    }
+    },
+    {
+      "name": "Nonresidential Commercial",
+      "code": "NONRESIDENTIAL.COMMERCIAL",
+      "active": false,
+      "fromFY": "2013-14"
+    },
+    {
+      "name": "Nonresidential Others",
+      "code": "NONRESIDENTIAL.OTHERS",
+      "active": false,
+      "fromFY": "2013-14"
+    },
+    {
+      "name": "Nonresidential Institutional",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL",
+      "active": false,
+      "fromFY": "2013-14"
+    },
+    {
+      "name": "Nonresidential Industrial",
+      "code": "NONRESIDENTIAL.INDUSTRIAL",
+      "active": false,
+      "fromFY": "2013-14"
+    }    
   ]
 }

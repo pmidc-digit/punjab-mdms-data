@@ -327,9 +327,9 @@
 
 				},
 				{
-					"name": "LAYOUT LAYOUT FEE",
+					"name": "LAYOUT CLU FEE",
 					"rate": 0.0,
-					"taxHeadCode": "LAYOUT_LAYOUT_FEE",
+					"taxHeadCode": "LAYOUT_CLU_FEE",
 					"applicable": true
 
 				},

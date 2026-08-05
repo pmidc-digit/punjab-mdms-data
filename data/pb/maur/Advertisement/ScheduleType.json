@@ -1,0 +1,12 @@
+{
+    "tenantId": "pb.maur",
+    "moduleName": "Advertisement",
+    "ScheduleType": [
+      {
+        "frequency": "Weekly"
+      },
+      {
+        "frequency": "Monthly"
+      }  
+    ]
+  }
