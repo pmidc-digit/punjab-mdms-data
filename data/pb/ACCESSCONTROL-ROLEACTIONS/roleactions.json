@@ -70661,13 +70661,7 @@
     },
     {
       "rolecode": "Rent And Lease Reports",
-      "actionid": 8825550002,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "NDC REPORTS",
-      "actionid": 8825550003,
+      "actionid": 882555952,
       "actioncode": "",
       "tenantId": "pb"
     }
