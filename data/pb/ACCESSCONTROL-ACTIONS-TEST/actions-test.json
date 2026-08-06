@@ -29868,7 +29868,7 @@
       "enabled": true,
       "serviceCode": "RLREPORTS",
       "path": "Rent & Lease Reports.Rent & Lease Detail Report",
-      "navigationURL": "report/rainmaker-rl/RLdetailreportdemo",
+      "navigationURL": "report/rainmaker-rl/RLdetailreport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     }    
