@@ -70711,6 +70711,12 @@
       "actionid": 89001001,
       "actioncode": "",
       "tenantid": "pb"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 89001002,
+      "actioncode": "",
+      "tenantid": "pb"
     }
   ]
 }

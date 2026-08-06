@@ -29979,10 +29979,21 @@
     {
       "id": 89001001,
       "name": "Update Advertisement Type",
-      "url": "/mdms-v2/v2/_update/",
-      "displayName": "Update Advertisement",
+      "url": "/mdms-v2/v2/_update/Advertisement.AdType",
+      "displayName": "Update Advertisement Type",
       "orderNumber": 1,
-      "enabled": false,
+      "enabled": true,
+      "serviceCode": "MDMS-V2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89001002,
+      "name": "Update Advertisement Update",
+      "url": "/mdms-v2/v2/_update",
+      "displayName": "Update Advertisement Update",
+      "orderNumber": 1,
+      "enabled": true,
       "serviceCode": "MDMS-V2",
       "code": "null",
       "path": ""
