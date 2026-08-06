@@ -3,7 +3,7 @@
     "moduleName": "PAYMENT",
     "PaymentGateway": [
         {
-            "gateway": "RAZORPAY",
+            "gateway": "RAZORPAY , CCAVANUE",
             "active": true,
             "businessService": [
                 "GC.ONE_TIME_FEE",
