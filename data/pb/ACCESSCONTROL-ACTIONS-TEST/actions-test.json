@@ -29986,6 +29986,17 @@
       "serviceCode": "MDMS-V2",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 89001002,
+      "name": "Update Advertisement Update",
+      "url": "/mdms-v2/v2/_update",
+      "displayName": "Update Advertisement Update",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MDMS-V2",
+      "code": "null",
+      "path": ""
     }
   ]
 }
