@@ -25278,7 +25278,6 @@
       "code": "RNL",
       "path": ""
     },
-
     {
       "id": 8900987,
       "name": "OBPAS CLU REPORTS",
@@ -27855,7 +27854,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 8900973,
       "name": "OBPAS NOC REPORTS",
@@ -29886,7 +29884,7 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-   {
+    {
       "id": 89000917,
       "name": "Search Water Bill",
       "url": "/egov-searcher/bill-genie/wsbatchbilling_summary/_get",
@@ -29949,6 +29947,17 @@
       "orderNumber": 1,
       "enabled": false,
       "serviceCode": "Searcher",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89001001,
+      "name": "Update Advertisement Type",
+      "url": "/mdms-v2/v2/_update/",
+      "displayName": "Update Advertisement",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "MDMS-V2",
       "code": "null",
       "path": ""
     }
