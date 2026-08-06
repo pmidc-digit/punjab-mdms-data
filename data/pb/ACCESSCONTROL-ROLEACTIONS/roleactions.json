@@ -722,7 +722,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "STADMIN",
       "actionid": 22971,
@@ -70658,6 +70657,66 @@
       "actionid": 89010016,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "Rent And Lease Reports",
+      "actionid": 8825550002,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC REPORTS",
+      "actionid": 8825550003,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 89000917,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 89000918,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 89000919,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 89000920,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 89000921,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 89000922,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 89001001,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 89001002,
+      "actioncode": "",
+      "tenantid": "pb"
     }
   ]
 }

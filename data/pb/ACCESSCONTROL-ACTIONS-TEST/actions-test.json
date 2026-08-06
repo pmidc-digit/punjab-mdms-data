@@ -23301,7 +23301,7 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "w_s.WS Reports.WSQuaterly_Bill_Generate",
+      "path": "Finance Reports.WSQuaterly_Bill_Generate",
       "navigationURL": "/report/rainmaker-ws/WSQuaterly_Bill_Generate",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -25278,7 +25278,6 @@
       "code": "RNL",
       "path": ""
     },
-
     {
       "id": 8900987,
       "name": "OBPAS CLU REPORTS",
@@ -27855,7 +27854,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 8900973,
       "name": "OBPAS NOC REPORTS",
@@ -29855,6 +29853,150 @@
       "rightIcon": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/pt/search"
+    },
+    {
+      "id": 8825550002,
+      "name": "Rent & Lease Detail Report",
+      "url": "url",
+      "displayName": "Rent & Lease Detail Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "Rent & Lease Reports",
+      "enabled": true,
+      "serviceCode": "RLREPORTS",
+      "path": "Rent & Lease Reports.Rent & Lease Detail Report",
+      "navigationURL": "report/rainmaker-rl/RLdetailreport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8825550003,
+      "name": "Application Details by Application State",
+      "url": "url",
+      "displayName": "Application Details by Application State",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "NDC REPORTS",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "NDC Reports.Application Details by Application State",
+      "navigationURL": "report/rainmaker-ndc/ApplicationDetailsbyApplicationState",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 89000917,
+      "name": "Search Water Bill",
+      "url": "/egov-searcher/bill-genie/wsbatchbilling_summary/_get",
+      "displayName": "Search Batch Water Bill",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "Searcher",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89000918,
+      "name": "Search Water Bill",
+      "url": "/egov-searcher/bill-genie/groupbills_summary/_get",
+      "displayName": "Search Group Water Bill",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "Searcher",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89000919,
+      "name": "Search Sewerage Bill",
+      "url": "/egov-searcher/bill-genie/‎swbatchbilling_summary/_get",
+      "displayName": "Search Batch Sewerage Bill",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "Searcher",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89000920,
+      "name": "Search Sewerage Bill",
+      "url": "/egov-searcher/bill-genie/groupbillssw_summary/_get",
+      "displayName": "Search Group Sewerage Bill",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "Searcher",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89000921,
+      "name": "Search Water Bill",
+      "url": "/egov-searcher/bill-genie/waterbills_summary/_get",
+      "displayName": "Search Locality Wise Water Bill",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "Searcher",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89000922,
+      "name": "Search Sewerage Bill",
+      "url": "/egov-searcher/bill-genie/seweragebills_summary/_get",
+      "displayName": "Search locality Wise Sewerage Bill",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "Searcher",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89000923,
+      "name": "SW Quaterly Bill Generate Report",
+      "url": "url",
+      "displayName": "SW Quaterly Bill Generate Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Finance Reports.SWQuaterly_Bill_Generate",
+      "navigationURL": "/report/rainmaker-ws/SWQuaterly_Bill_Generate",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 89000924,
+      "name": "SW Quaterly Bill Generate Report",
+      "url": "/report/rainmaker-ws/SWQuaterly_Bill_Generate/metadata/_get",
+      "displayName": "SW Quaterly Bill Generate Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89001001,
+      "name": "Update Advertisement Type",
+      "url": "/mdms-v2/v2/_update/Advertisement.AdType",
+      "displayName": "Update Advertisement Type",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MDMS-V2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89001002,
+      "name": "Update Advertisement Update",
+      "url": "/mdms-v2/v2/_update",
+      "displayName": "Update Advertisement Update",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MDMS-V2",
+      "code": "null",
+      "path": ""
     }
   ]
 }
