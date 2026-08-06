@@ -722,7 +722,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "STADMIN",
       "actionid": 22971,
@@ -70706,6 +70705,12 @@
       "actionid": 89000922,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 89001001,
+      "actioncode": "",
+      "tenantid": "pb"
     }
   ]
 }
