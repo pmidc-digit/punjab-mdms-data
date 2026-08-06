@@ -16,7 +16,6 @@
       "locationCode": "SUNIL_CINEMA_1",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true,
-      "monthlyAmount": 12960.0,
       "weeklyAmount": null,
       "yearlyAmount": null,
       "biannualAmount": null
@@ -35,7 +34,6 @@
       "locationCode": "SUNIL_CINEMA_2",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true,
-      "monthlyAmount": 12960.0,
       "weeklyAmount": null,
       "yearlyAmount": null,
       "biannualAmount": null
@@ -54,7 +52,6 @@
       "locationCode": "SUNIL_CINEMA_3",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true,
-      "monthlyAmount": 12960.0,
       "weeklyAmount": null,
       "yearlyAmount": null,
       "biannualAmount": null
@@ -73,7 +70,6 @@
       "locationCode": "BUS_STAND_1",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true,
-      "monthlyAmount": 12960.0,
       "weeklyAmount": null,
       "yearlyAmount": null,
       "biannualAmount": null
@@ -92,7 +88,6 @@
       "locationCode": "BUS_STAND_2",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true,
-      "monthlyAmount": 12960.0,
       "weeklyAmount": null,
       "yearlyAmount": null,
       "biannualAmount": null
@@ -111,7 +106,6 @@
       "locationCode": "BUS_STAND_3",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true,
-      "monthlyAmount": 12960.0,
       "weeklyAmount": null,
       "yearlyAmount": null,
       "biannualAmount": null
@@ -130,7 +124,6 @@
       "locationCode": "BUS_STAND_4",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true,
-      "monthlyAmount": 12960.0,
       "weeklyAmount": null,
       "yearlyAmount": null,
       "biannualAmount": null
@@ -149,7 +142,6 @@
       "locationCode": "NEHRU_STADIUM",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true,
-      "monthlyAmount": 12960.0,
       "weeklyAmount": null,
       "yearlyAmount": null,
       "biannualAmount": null
@@ -168,7 +160,6 @@
       "locationCode": "VERMA_PETROL_PUMP_1",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true,
-      "monthlyAmount": 12960.0,
       "weeklyAmount": null,
       "yearlyAmount": null,
       "biannualAmount": null
@@ -187,7 +178,6 @@
       "locationCode": "VERMA_PETROL_PUMP_2",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true,
-      "monthlyAmount": 18000.0,
       "weeklyAmount": null,
       "yearlyAmount": null,
       "biannualAmount": null
@@ -206,7 +196,6 @@
       "locationCode": "THANA_ROAD_MALOUT_CHOWK",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true,
-      "monthlyAmount": 12960.0,
       "weeklyAmount": null,
       "yearlyAmount": null,
       "biannualAmount": null
@@ -225,7 +214,6 @@
       "locationCode": "VISHAL_MEGA_MART",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true,
-      "monthlyAmount": 12960.0,
       "weeklyAmount": null,
       "yearlyAmount": null,
       "biannualAmount": null
@@ -244,7 +232,6 @@
       "locationCode": "FAZILIKA_CHUNGI",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true,
-      "monthlyAmount": 12960.0,
       "weeklyAmount": null,
       "yearlyAmount": null,
       "biannualAmount": null
@@ -263,7 +250,6 @@
       "locationCode": "GOBINDGARH_ROAD",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true,
-      "monthlyAmount": 12960.0,
       "weeklyAmount": null,
       "yearlyAmount": null,
       "biannualAmount": null
@@ -282,7 +268,6 @@
       "locationCode": "NAMDEV_CHOWK_SITO_ROAD",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true,
-      "monthlyAmount": 12960.0,
       "weeklyAmount": null,
       "yearlyAmount": null,
       "biannualAmount": null
@@ -301,7 +286,6 @@
       "locationCode": "ROTARY_CHOWK_1",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true,
-      "monthlyAmount": 12960.0,
       "weeklyAmount": null,
       "yearlyAmount": null,
       "biannualAmount": null
@@ -320,7 +304,6 @@
       "locationCode": "ROTARY_CHOWK_2",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true,
-      "monthlyAmount": 12960.0,
       "weeklyAmount": null,
       "yearlyAmount": null,
       "biannualAmount": null
@@ -339,7 +322,6 @@
       "locationCode": "CITY_WALK_MALL",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true,
-      "monthlyAmount": 12960.0,
       "weeklyAmount": null,
       "yearlyAmount": null,
       "biannualAmount": null
@@ -358,7 +340,6 @@
       "locationCode": "DAV_COLLEGE_1",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true,
-      "monthlyAmount": 12960.0,
       "weeklyAmount": null,
       "yearlyAmount": null,
       "biannualAmount": null
@@ -377,7 +358,6 @@
       "locationCode": "DAV_COLLEGE_2",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true,
-      "monthlyAmount": 12960.0,
       "weeklyAmount": null,
       "yearlyAmount": null,
       "biannualAmount": null
@@ -396,7 +376,6 @@
       "locationCode": "AJIMGARH_CHOWK_1",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true,
-      "monthlyAmount": 12960.0,
       "weeklyAmount": null,
       "yearlyAmount": null,
       "biannualAmount": null
@@ -415,7 +394,6 @@
       "locationCode": "AJIMGARH_CHOWK_2",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true,
-      "monthlyAmount": 12960.0,
       "weeklyAmount": null,
       "yearlyAmount": null,
       "biannualAmount": null
@@ -434,7 +412,6 @@
       "locationCode": "BSNL_OFFICE",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true,
-      "monthlyAmount": 12960.0,
       "weeklyAmount": null,
       "yearlyAmount": null,
       "biannualAmount": null
