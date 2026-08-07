@@ -1,4 +1,4 @@
-{
+﻿{
   "tenantId": "pb",
   "moduleName": "tenant",
   "tenants": [
@@ -46,7 +46,8 @@
       "address": "Not available",
       "contactNumber": "1634220233",
       "PGRMasterContact": "9814142188",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.itabohar",
@@ -92,7 +93,8 @@
       "address": "Not available",
       "contactNumber": "1634220233",
       "PGRMasterContact": "9814142188",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.adampur",
@@ -138,7 +140,8 @@
       "address": "Not available",
       "contactNumber": "0181-2753256",
       "PGRMasterContact": "9872574176",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.ahmedgarh",
@@ -184,7 +187,8 @@
       "address": "Near Civil Hospital",
       "contactNumber": "1675240016",
       "PGRMasterContact": "9463669066",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.ajnala",
@@ -231,7 +235,8 @@
       "address": "Fathegarh churiyan road Byepass Ajnala",
       "contactNumber": "1858221438",
       "PGRMasterContact": "7986579960",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.alawalpur",
@@ -277,7 +282,8 @@
       "address": "Near Water supply tanki,Beaspind road Alawalpur",
       "contactNumber": "1812715748",
       "PGRMasterContact": "9872574176",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.amargarh",
@@ -323,7 +329,8 @@
       "address": "Not available",
       "contactNumber": "Not available",
       "PGRMasterContact": "9463669066",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.amloh",
@@ -369,7 +376,8 @@
       "address": "OPP POLICE STATION  MAIN BAZAR AMLOH",
       "contactNumber": "9780100140",
       "PGRMasterContact": "9815113705",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.amritsar",
@@ -415,7 +423,8 @@
       "address": "Municipal Corporation Amritsar, C Block, Ranjit Avenue, Amritsar, Punjab",
       "contactNumber": "0183 250 6149",
       "PGRMasterContact": "7347531887",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.itamritsar",
@@ -461,7 +470,8 @@
       "address": "Municipal Corporation Amritsar, C Block, Ranjit Avenue, Amritsar, Punjab",
       "contactNumber": "0183 250 6149",
       "PGRMasterContact": "7347531887",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.anandpursahib",
@@ -506,7 +516,8 @@
       "address": "Main Bazar",
       "contactNumber": "1887232026",
       "PGRMasterContact": "9463689708",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.arniwala",
@@ -552,7 +563,8 @@
       "address": "Not available",
       "contactNumber": "Not available",
       "PGRMasterContact": "9988865240",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.badhnikalan",
@@ -598,7 +610,8 @@
       "address": "Nagar Panchayat Badhni Kalan",
       "contactNumber": "1636250123",
       "PGRMasterContact": "9814018065",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.baghapurana",
@@ -644,7 +657,8 @@
       "address": "Muncipal Council Bagha Purana",
       "contactNumber": "163640432",
       "PGRMasterContact": "9814018065",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.balachaur",
@@ -690,7 +704,8 @@
       "address": "Municipal Council, Balachaur, Distt. SBS Nagar",
       "contactNumber": "1885220307",
       "PGRMasterContact": "94170-00877",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.balianwali",
@@ -736,7 +751,8 @@
       "address": "NP Balianwali",
       "contactNumber": "1651247050",
       "PGRMasterContact": "9417000877",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.banga",
@@ -782,7 +798,8 @@
       "address": "MC Banga Near Police Station City",
       "contactNumber": "1823500012",
       "PGRMasterContact": "9988010190",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.banur",
@@ -828,7 +845,8 @@
       "address": "Not available",
       "contactNumber": "7162251434",
       "PGRMasterContact": "9988772756",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.bareta",
@@ -874,7 +892,8 @@
       "address": "muncipal council bareta",
       "contactNumber": "1652242015",
       "PGRMasterContact": "8699568680",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.bariwala",
@@ -920,7 +939,8 @@
       "address": "Near Baba Moda Ji Smadh",
       "contactNumber": "1633275289",
       "PGRMasterContact": "9646100369",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.barnala",
@@ -966,7 +986,8 @@
       "address": "MC Barnala",
       "contactNumber": "1679231901",
       "PGRMasterContact": "9888044888",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.itbarnala",
@@ -1012,7 +1033,8 @@
       "address": "MC Barnala",
       "contactNumber": "1679231901",
       "PGRMasterContact": "9888044888",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.bassipathana",
@@ -1058,7 +1080,8 @@
       "address": "Near BSNL Exchange",
       "contactNumber": "1763250032",
       "PGRMasterContact": "9780014900",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.batala",
@@ -1104,7 +1127,8 @@
       "address": "Gandhi Chownk Batala",
       "contactNumber": "1871243426",
       "PGRMasterContact": "7347531887",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.itbatala",
@@ -1150,7 +1174,8 @@
       "address": "Gandhi Chownk Batala",
       "contactNumber": "1871243426",
       "PGRMasterContact": "7347531887",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.bathinda",
@@ -1196,7 +1221,8 @@
       "address": "MCB-Z-1-10317, Office of Municipal Corporation Bathinda, Railway Road, Bathinda - Pin Code: 151001 (Punjab)",
       "contactNumber": "0164-2252811/12",
       "PGRMasterContact": "8130028018",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.itbathinda",
@@ -1242,7 +1268,8 @@
       "address": "MCB-Z-1-10317, Office of Municipal Corporation Bathinda, Railway Road, Bathinda - Pin Code: 151001 (Punjab)",
       "contactNumber": "0164-2252811/12",
       "PGRMasterContact": "8130028018",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.begowal",
@@ -1288,7 +1315,8 @@
       "address": "Not available",
       "contactNumber": "Not available",
       "PGRMasterContact": "8130028018",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.bhadaur",
@@ -1334,7 +1362,8 @@
       "address": "Not available",
       "contactNumber": "1679274740",
       "PGRMasterContact": "9417070070",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.bhadson",
@@ -1380,7 +1409,8 @@
       "address": "Nagar Panchyat Bhadson",
       "contactNumber": "7696216494",
       "PGRMasterContact": "9592500645",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.bhagtabhai",
@@ -1426,7 +1456,8 @@
       "address": "Not available",
       "contactNumber": "Not available",
       "PGRMasterContact": "9915445019",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.bhairoopa",
@@ -1472,7 +1503,8 @@
       "address": "Not available",
       "contactNumber": "Not available",
       "PGRMasterContact": "9915445019",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.bhawanigarh",
@@ -1518,7 +1550,8 @@
       "address": "Main Bazar ward no 3 bhawanigarh",
       "contactNumber": "1672272063",
       "PGRMasterContact": "9988864357",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.bhikhi",
@@ -1564,7 +1597,8 @@
       "address": "Nagar Panchayat Bhikhi",
       "contactNumber": "1652275834",
       "PGRMasterContact": "9988864357",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.bhikhiwind",
@@ -1610,7 +1644,8 @@
       "address": "Nagar Panchayat Bhikhi wind",
       "contactNumber": "9646890200",
       "PGRMasterContact": "9814322733",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.bhogpur",
@@ -1656,7 +1691,8 @@
       "address": "First floor, Bus Stand Building, Bhogpur",
       "contactNumber": "1812722422",
       "PGRMasterContact": "9646999297",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.bhuchomandi",
@@ -1702,7 +1738,8 @@
       "address": "Not available",
       "contactNumber": "Not available",
       "PGRMasterContact": "9988236015",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.bhulath",
@@ -1748,7 +1785,8 @@
       "address": "Not available",
       "contactNumber": "Not available",
       "PGRMasterContact": "9464677171",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.bilga",
@@ -1794,7 +1832,8 @@
       "address": "",
       "contactNumber": "0",
       "PGRMasterContact": "9780002220",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.boha",
@@ -1840,7 +1879,8 @@
       "address": "Nagar Panchayat Boha",
       "contactNumber": "9888044888",
       "PGRMasterContact": "8699568680",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.budhlada",
@@ -1886,7 +1926,8 @@
       "address": "Municipal Council Budhlada",
       "contactNumber": "1652253014",
       "PGRMasterContact": "8699568680",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.chamkaursahib",
@@ -1932,7 +1973,8 @@
       "address": "Not available",
       "contactNumber": "1881260203",
       "PGRMasterContact": "9780410300",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.chaunke",
@@ -1978,7 +2020,8 @@
       "address": "Not available",
       "contactNumber": "Not available",
       "PGRMasterContact": "not available",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.cheema",
@@ -2024,7 +2067,8 @@
       "address": "Nagar Panchayat Cheema",
       "contactNumber": "1676284458",
       "PGRMasterContact": "9417070070",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.dasuya",
@@ -2070,7 +2114,8 @@
       "address": "Not available",
       "contactNumber": "1883285058",
       "PGRMasterContact": "9914986735",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.derababananak",
@@ -2116,7 +2161,8 @@
       "address": "MC Dera Baba Nanak",
       "contactNumber": "1871247891",
       "PGRMasterContact": "79865-79960",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.derabassi",
@@ -2162,7 +2208,8 @@
       "address": "Not available",
       "contactNumber": "1762281025",
       "PGRMasterContact": "98148-62120",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.dhanaula",
@@ -2208,7 +2255,8 @@
       "address": "Not available",
       "contactNumber": "1679263694",
       "PGRMasterContact": "9888044888",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.dharamkot",
@@ -2254,7 +2302,8 @@
       "address": "Moga Road Dharamkot",
       "contactNumber": "1682222069",
       "PGRMasterContact": "9888600234",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.dhariwal",
@@ -2300,7 +2349,8 @@
       "address": "",
       "contactNumber": "01874-275125",
       "PGRMasterContact": "9646210400",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.dhilwan",
@@ -2346,7 +2396,8 @@
       "address": "Nagar Panchayat Dhilwan",
       "contactNumber": "1822273768",
       "PGRMasterContact": "9780413102",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.dhuri",
@@ -2392,7 +2443,8 @@
       "address": "Near Sabji Mandi",
       "contactNumber": "1675226469",
       "PGRMasterContact": "9646060802",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.dinanagar",
@@ -2438,7 +2490,8 @@
       "address": "Municipal Council Dinanagar",
       "contactNumber": "1875220500",
       "PGRMasterContact": "9646500379",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.dirba",
@@ -2484,7 +2537,8 @@
       "address": "Not available",
       "contactNumber": "1676242567",
       "PGRMasterContact": "9646827005",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.doraha",
@@ -2530,7 +2584,8 @@
       "address": "Vishwkarma Road Doraha",
       "contactNumber": "1628257021",
       "PGRMasterContact": "9888105200",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.faridkot",
@@ -2576,7 +2631,8 @@
       "address": "Railway Road Oppt Civil Hospital",
       "contactNumber": "1639250115",
       "PGRMasterContact": "9888600234",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.itfaridkot",
@@ -2622,7 +2678,8 @@
       "address": "Railway Road Oppt Civil Hospital",
       "contactNumber": "1639250115",
       "PGRMasterContact": "9888600234",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.fatehgarhchurian",
@@ -2668,7 +2725,8 @@
       "address": "",
       "contactNumber": "01871-510419",
       "PGRMasterContact": "9855442701",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.fatehgarhpanjtoor",
@@ -2714,7 +2772,8 @@
       "address": "Not available",
       "contactNumber": "Not available",
       "PGRMasterContact": "9888600234",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.fazilka",
@@ -2760,7 +2819,8 @@
       "address": "Railway Road Fazilka",
       "contactNumber": "1638264508",
       "PGRMasterContact": "9463114464",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.itfazilka",
@@ -2806,7 +2866,8 @@
       "address": "Railway Road Fazilka",
       "contactNumber": "1638264508",
       "PGRMasterContact": "9463114464",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.ferozepur",
@@ -2852,7 +2913,8 @@
       "address": "",
       "contactNumber": "01632-246293",
       "PGRMasterContact": "not available",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.garhdiwala",
@@ -2898,7 +2960,8 @@
       "address": "Not available",
       "contactNumber": "1886260339",
       "PGRMasterContact": "8968854547",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.garhshankar",
@@ -2944,7 +3007,8 @@
       "address": "Not available",
       "contactNumber": "1884282028",
       "PGRMasterContact": "not available",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.ghagga",
@@ -2990,7 +3054,8 @@
       "address": "Nagar Panchayat Ghagga",
       "contactNumber": "7164252272",
       "PGRMasterContact": "9914476671",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.ghanaur",
@@ -3036,7 +3101,8 @@
       "address": "NP Ghanaur",
       "contactNumber": "1762267425",
       "PGRMasterContact": "9646256007",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.gidderbaha",
@@ -3082,7 +3148,8 @@
       "address": "NEAR GIRLS SCHOOL",
       "contactNumber": "1637501553",
       "PGRMasterContact": "9356344527",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.goniana",
@@ -3128,7 +3195,8 @@
       "address": "Muncipal council Goniana Ward no 3",
       "contactNumber": "1642262101",
       "PGRMasterContact": "9988236015",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.goraya",
@@ -3174,7 +3242,8 @@
       "address": "Office of Municipal Council Goraya  Near Karam Petrol Pump  GT Road Goraya",
       "contactNumber": "1826262175",
       "PGRMasterContact": "9814424002",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.gurdaspur",
@@ -3220,7 +3289,8 @@
       "address": "Near Old Sabzi Mandi,G.T.Road Gurdaspur",
       "contactNumber": "1874502676",
       "PGRMasterContact": "9855442701",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.itgurdaspur",
@@ -3266,7 +3336,8 @@
       "address": "Near Old Sabzi Mandi,G.T.Road Gurdaspur",
       "contactNumber": "1874502676",
       "PGRMasterContact": "9855442701",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.guruharsahai",
@@ -3312,7 +3383,8 @@
       "address": "Not available",
       "contactNumber": "1685230101",
       "PGRMasterContact": "9988865240",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.handiaya",
@@ -3358,7 +3430,8 @@
       "address": "Not available",
       "contactNumber": "1679284030",
       "PGRMasterContact": "9888044888",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.hariana",
@@ -3404,7 +3477,8 @@
       "address": "Municipal Council Dasuya road Hariana",
       "contactNumber": "1886250026",
       "PGRMasterContact": "9888236557",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.hoshiarpur",
@@ -3450,7 +3524,8 @@
       "address": "Not available",
       "contactNumber": "Not available",
       "PGRMasterContact": "9888880414",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.ithoshiarpur",
@@ -3496,7 +3571,8 @@
       "address": "Not available",
       "contactNumber": "Not available",
       "PGRMasterContact": "9888880414",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.jagraon",
@@ -3542,7 +3618,8 @@
       "address": "Near Jhansi Chownk Jagraon",
       "contactNumber": "1624223233",
       "PGRMasterContact": "9814338927",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.jaitu",
@@ -3588,7 +3665,8 @@
       "address": "Municipal Council, railway road, Jaitu",
       "contactNumber": "1635230617",
       "PGRMasterContact": "9988236015",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.jalalabad",
@@ -3634,7 +3712,8 @@
       "address": "Not available",
       "contactNumber": "1638250021",
       "PGRMasterContact": "9988865240",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.jalandhar",
@@ -3680,7 +3759,8 @@
       "address": "Municipal Corporation Office, Dr. B.R.Ambedkar Admin Complex, Nehru Garden, Jalandhar City-144001",
       "contactNumber": "0181-2227015",
       "PGRMasterContact": "8130149349",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.itjalandhar",
@@ -3726,7 +3806,8 @@
       "address": "Municipal Corporation Office, Dr. B.R.Ambedkar Admin Complex, Nehru Garden, Jalandhar City-144001",
       "contactNumber": "0181-2227015",
       "PGRMasterContact": "8130149349",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.jandialaguru",
@@ -3772,7 +3853,8 @@
       "address": "Valmik Chowk  Near Local Bus Stand  Jandiala Guru",
       "contactNumber": "1835057284",
       "PGRMasterContact": "7009737381",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.joga",
@@ -3818,7 +3900,8 @@
       "address": "Not available",
       "contactNumber": "Not available",
       "PGRMasterContact": "9988864357",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.kapurthala",
@@ -3864,7 +3947,8 @@
       "address": "Not available",
       "contactNumber": "Not available",
       "PGRMasterContact": "9872997863",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.itkapurthala",
@@ -3910,7 +3994,8 @@
       "address": "Not available",
       "contactNumber": "Not available",
       "PGRMasterContact": "9872997863",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.kartarpur",
@@ -3956,7 +4041,8 @@
       "address": "Near CHC Kartarpur",
       "contactNumber": "1812782058",
       "PGRMasterContact": "9646999297",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.itkartarpur",
@@ -4002,7 +4088,8 @@
       "address": "Near CHC Kartarpur",
       "contactNumber": "1812782058",
       "PGRMasterContact": "9646999297",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.khamano",
@@ -4048,7 +4135,8 @@
       "address": "Ward No.8, Mandir Road, Khamano",
       "contactNumber": "01628-268505",
       "PGRMasterContact": "9646350085",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.khanauri",
@@ -4094,7 +4182,8 @@
       "address": "Not available",
       "contactNumber": "1676284158",
       "PGRMasterContact": "9888518255",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.khanna",
@@ -4140,7 +4229,8 @@
       "address": "",
       "contactNumber": "0",
       "PGRMasterContact": "9646008771",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.itkhanna",
@@ -4186,7 +4276,8 @@
       "address": "",
       "contactNumber": "0",
       "PGRMasterContact": "9646008771",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.kharar",
@@ -4232,7 +4323,8 @@
       "address": "MC Kharar",
       "contactNumber": "1602280218",
       "PGRMasterContact": "9988700527",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.khemkaran",
@@ -4278,7 +4370,8 @@
       "address": "",
       "contactNumber": "01851-268658",
       "PGRMasterContact": "9814322733",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.kiratpur",
@@ -4324,7 +4417,8 @@
       "address": "Nagar Panchayat Kiratpur",
       "contactNumber": "1887238087",
       "PGRMasterContact": "9463689708",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.kotfatta",
@@ -4370,7 +4464,8 @@
       "address": "MC Kotfatta",
       "contactNumber": "1642438236",
       "PGRMasterContact": "9646001170",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.kothaguru",
@@ -4415,7 +4510,8 @@
       "address": "Not available",
       "contactNumber": "Not available",
       "PGRMasterContact": "9915445019",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.kotissekhan",
@@ -4461,7 +4557,8 @@
       "address": "Zira Road Kot Ise Khan",
       "contactNumber": "1682240060",
       "PGRMasterContact": "9888600234",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.kotkapura",
@@ -4507,7 +4604,8 @@
       "address": "NEAR LALA LAJPAT RAI PARK,  FARIDKOT ROAD KOTKAPURA",
       "contactNumber": "1635220044",
       "PGRMasterContact": "9888600234",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.itkotkapura",
@@ -4553,7 +4651,8 @@
       "address": "NEAR LALA LAJPAT RAI PARK,  FARIDKOT ROAD KOTKAPURA",
       "contactNumber": "1635220044",
       "PGRMasterContact": "9888600234",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.kotshamir",
@@ -4599,7 +4698,8 @@
       "address": "Main Bus Stand Kot Shamir",
       "contactNumber": "1642436101",
       "PGRMasterContact": "9988093800",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.kurali",
@@ -4645,7 +4745,8 @@
       "address": "W.no-5  Kurali",
       "contactNumber": "1605002445",
       "PGRMasterContact": "9876825940",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.lalru",
@@ -4691,7 +4792,8 @@
       "address": "Nagar Panchayat, Prem Nagar, Lalru, Punjab, 140501",
       "contactNumber": "1762292444",
       "PGRMasterContact": "9876199350",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.lehragaga",
@@ -4737,7 +4839,8 @@
       "address": "Municipal Council  Lehragaga",
       "contactNumber": "1676272932",
       "PGRMasterContact": "9416267106",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.lehramohabbat",
@@ -4783,7 +4886,8 @@
       "address": "Not available",
       "contactNumber": "Not available",
       "PGRMasterContact": "9356344527",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.lohiankhas",
@@ -4829,7 +4933,8 @@
       "address": "Muncipal Council Lohian Khas",
       "contactNumber": "1821276854",
       "PGRMasterContact": "9988344223",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.longowal",
@@ -4875,7 +4980,8 @@
       "address": "Muncipal council Longowal",
       "contactNumber": "1672283537",
       "PGRMasterContact": "9417070070",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.ludhiana",
@@ -4921,7 +5027,8 @@
       "address": "Clock Tower Rd, Mata Rani Chowk, Ludhiana, Punjab 141008",
       "contactNumber": "01612748412",
       "PGRMasterContact": "9855108091",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.itludhiana",
@@ -4967,7 +5074,8 @@
       "address": "Clock Tower Rd, Mata Rani Chowk, Ludhiana, Punjab 141008",
       "contactNumber": "01612748412",
       "PGRMasterContact": "9855108091",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.machhiwara",
@@ -5013,7 +5121,8 @@
       "address": "Not available",
       "contactNumber": "Not available",
       "PGRMasterContact": "9646140215",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.mahilpur",
@@ -5059,7 +5168,8 @@
       "address": "Not available",
       "contactNumber": "1884245280",
       "PGRMasterContact": "96461-07505",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.majitha",
@@ -5105,7 +5215,8 @@
       "address": "",
       "contactNumber": "0183-2773543",
       "PGRMasterContact": "98721-47765",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.makhu",
@@ -5151,7 +5262,8 @@
       "address": "Not available",
       "contactNumber": "1632501300",
       "PGRMasterContact": "8558886100",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.malerkotla",
@@ -5197,7 +5309,8 @@
       "address": "",
       "contactNumber": "01675-253043",
       "PGRMasterContact": "9876829714",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.itmalerkotla",
@@ -5243,7 +5356,8 @@
       "address": "",
       "contactNumber": "01675-253043",
       "PGRMasterContact": "9876829714",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.mallanwala",
@@ -5289,7 +5403,8 @@
       "address": "Not available",
       "contactNumber": "1682275356",
       "PGRMasterContact": "8558886100",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.maloud",
@@ -5335,7 +5450,8 @@
       "address": "Near Bus Stand Maloudh",
       "contactNumber": "1612857309",
       "PGRMasterContact": "9888105200",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.malout",
@@ -5381,7 +5497,8 @@
       "address": "Municipal Council Malout",
       "contactNumber": "9888044888",
       "PGRMasterContact": "9417172653",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.maluka",
@@ -5427,7 +5544,8 @@
       "address": "Near BSNL Office",
       "contactNumber": "1651255005",
       "PGRMasterContact": "9915445019",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.mamdot",
@@ -5473,7 +5591,8 @@
       "address": "Not available",
       "contactNumber": "Not available",
       "PGRMasterContact": "9888628260",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.mandigobindgarh",
@@ -5519,7 +5638,8 @@
       "address": "",
       "contactNumber": "nan",
       "PGRMasterContact": "9814389097",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.mandikalan",
@@ -5565,7 +5685,8 @@
       "address": "Nagar Panchayat Mandi Kalan",
       "contactNumber": "1651243050",
       "PGRMasterContact": "not available",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.mansa",
@@ -5611,7 +5732,8 @@
       "address": "Near Bus Stand  Mansa",
       "contactNumber": "1652227408",
       "PGRMasterContact": "9646709100",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.maur",
@@ -5657,7 +5779,8 @@
       "address": "Near SD High School  Railway Road Maur  District Bathinda",
       "contactNumber": "1655230016",
       "PGRMasterContact": "9646001170",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.mehatpur",
@@ -5703,7 +5826,8 @@
       "address": "Not available",
       "contactNumber": "Not available",
       "PGRMasterContact": "9814338927",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.mehraj",
@@ -5749,7 +5873,8 @@
       "address": "near bus stand mehraj",
       "contactNumber": "1651262562",
       "PGRMasterContact": "9915445019",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.moga",
@@ -5795,7 +5920,8 @@
       "address": "Municipal Corporation,town hall, Main Bazaar, Court road, Moga, Punjab 142001",
       "contactNumber": "01636-233124",
       "PGRMasterContact": "9888473547",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.itmoga",
@@ -5841,7 +5967,8 @@
       "address": "Municipal Corporation,town hall, Main Bazaar, Court road, Moga, Punjab 142001",
       "contactNumber": "01636-233124",
       "PGRMasterContact": "9888473547",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.mohali",
@@ -5887,7 +6014,8 @@
       "address": "Municipal Corporation, SAS Nagar, Sector-68 Mohali",
       "contactNumber": "0172 5044911",
       "PGRMasterContact": "9888182552",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.moonak",
@@ -5933,7 +6061,8 @@
       "address": "Not available",
       "contactNumber": "1676276629",
       "PGRMasterContact": "9646827005",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.morinda",
@@ -5979,7 +6108,8 @@
       "address": "Ward 13 Kainour Bajar Morinda",
       "contactNumber": "1602630037",
       "PGRMasterContact": "9780410300",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.mudki",
@@ -6025,7 +6155,8 @@
       "address": "Not available",
       "contactNumber": "9780316600",
       "PGRMasterContact": "9780316600",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.mukerian",
@@ -6071,7 +6202,8 @@
       "address": "Municipal Council  Mukerian",
       "contactNumber": "1883244028",
       "PGRMasterContact": "9877146014",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.muktsar",
@@ -6117,7 +6249,8 @@
       "address": "MUNICIPAL COUNCIL, SHER SINGH CHOWNK, ABOHAR ROAD, SRI MUKTSAR SAHIB",
       "contactNumber": "1633262271",
       "PGRMasterContact": "9646100369",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.mullanpur",
@@ -6163,7 +6296,8 @@
       "address": "mullanpur dhaka",
       "contactNumber": "01612878100",
       "PGRMasterContact": "9646008771",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.nabha",
@@ -6209,7 +6343,8 @@
       "address": "Not available",
       "contactNumber": "1765220621",
       "PGRMasterContact": "9592500645",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.itnabha",
@@ -6255,7 +6390,8 @@
       "address": "Not available",
       "contactNumber": "1765220621",
       "PGRMasterContact": "9592500645",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.nadala",
@@ -6301,7 +6437,8 @@
       "address": "Dhilwan Road, Near Guru Hargobind Public School, Nadala",
       "contactNumber": "1822270040",
       "PGRMasterContact": "9780413102",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.nakodar",
@@ -6347,7 +6484,8 @@
       "address": "Municipal Council Nakodar",
       "contactNumber": "1821220029",
       "PGRMasterContact": "9417497660",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.nangal",
@@ -6393,7 +6531,8 @@
       "address": "Municipal Council Nangal",
       "contactNumber": "1887220586",
       "PGRMasterContact": "9988016700",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.itnangal",
@@ -6439,7 +6578,8 @@
       "address": "Municipal Council Nangal",
       "contactNumber": "1887220586",
       "PGRMasterContact": "9988016700",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.narotjaimalsingh",
@@ -6485,7 +6625,8 @@
       "address": "",
       "contactNumber": "0183-2557689",
       "PGRMasterContact": "not available",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.nathana",
@@ -6531,7 +6672,8 @@
       "address": "bhucho-Bhagta Road,nathana",
       "contactNumber": "Not available",
       "PGRMasterContact": "9988236015",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.nawanshahr",
@@ -6577,7 +6719,8 @@
       "address": "Committee Bazar",
       "contactNumber": "1823220085",
       "PGRMasterContact": "9417479460",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.itnawanshahr",
@@ -6623,7 +6766,8 @@
       "address": "Committee Bazar",
       "contactNumber": "1823220085",
       "PGRMasterContact": "9417479460",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.nayagaon",
@@ -6669,7 +6813,8 @@
       "address": "Muncipal Council NayaGaon",
       "contactNumber": "9815671997",
       "PGRMasterContact": "9646350091",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.nihalsinghwala",
@@ -6715,7 +6860,8 @@
       "address": "NP Nihal Singh Wala",
       "contactNumber": "1636254221",
       "PGRMasterContact": "9814018065",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.nurmahal",
@@ -6761,7 +6907,8 @@
       "address": "Municipal Council Nurmahal",
       "contactNumber": "1826242046",
       "PGRMasterContact": "9814424002",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.pathankot",
@@ -6807,7 +6954,8 @@
       "address": "Civil Hospital Road Pathankot",
       "contactNumber": "1862220230",
       "PGRMasterContact": "9814066550",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.itpathankot",
@@ -6853,7 +7001,8 @@
       "address": "Civil Hospital Road Pathankot",
       "contactNumber": "1862220230",
       "PGRMasterContact": "9814066550",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.patiala",
@@ -6899,7 +7048,8 @@
       "address": "Office of the Commissioner Municipal Corporation Patiala-147001",
       "contactNumber": "0175-2311327",
       "PGRMasterContact": "not available",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.patran",
@@ -6945,7 +7095,8 @@
       "address": "Muncipal council Patran",
       "contactNumber": "1764242068",
       "PGRMasterContact": "9914476671",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.patti",
@@ -6991,7 +7142,8 @@
       "address": "Near Gandhi sath, lahore road, Patti",
       "contactNumber": "1851500745",
       "PGRMasterContact": "9646811000",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.payal",
@@ -7037,7 +7189,8 @@
       "address": "",
       "contactNumber": "01628-276248",
       "PGRMasterContact": "9814358714",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.phagwara",
@@ -7083,7 +7236,8 @@
       "address": "Town Hall, Phagwara, Punjab - 144401",
       "contactNumber": "01824-260426",
       "PGRMasterContact": "9872997863",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.itphagwara",
@@ -7129,7 +7283,8 @@
       "address": "Town Hall, Phagwara, Punjab - 144401",
       "contactNumber": "01824-260426",
       "PGRMasterContact": "9872997863",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.phillaur",
@@ -7175,7 +7330,8 @@
       "address": "Municipal Council Phillaur",
       "contactNumber": "1826222542",
       "PGRMasterContact": "9888882538",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.punjab",
@@ -7219,7 +7375,8 @@
       "address": "5 Punjab Municipal Bhawan, 3, Dakshin Marg, 35A, Sector 35A, Chandigarh, 160022",
       "contactNumber": null,
       "PGRMasterContact": "null",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.quadian",
@@ -7265,7 +7422,8 @@
       "address": "Not available",
       "contactNumber": "1872220026",
       "PGRMasterContact": "9646210400",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.rahon",
@@ -7311,7 +7469,8 @@
       "address": "Muncipal Council Rahon",
       "contactNumber": "1823240032",
       "PGRMasterContact": "not available",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.raikot",
@@ -7357,7 +7516,8 @@
       "address": "Municipal Council Raikot",
       "contactNumber": "1624264227",
       "PGRMasterContact": "9646008771",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.rajasansi",
@@ -7403,7 +7563,8 @@
       "address": "Nagar Panchayat Raja Sansi",
       "contactNumber": "1858233712",
       "PGRMasterContact": "7009737381",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.rajpura",
@@ -7449,7 +7610,8 @@
       "address": "Not available",
       "contactNumber": "1762223124",
       "PGRMasterContact": "9646107505",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.itrajpura",
@@ -7495,7 +7657,8 @@
       "address": "Not available",
       "contactNumber": "1762223124",
       "PGRMasterContact": "9646107505",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.raman",
@@ -7541,7 +7704,8 @@
       "address": "Near Water Works Ward No 2 Raman  Tehshil Talwandi Sabo Distt Bathinda Pin 151301.",
       "contactNumber": "1655240024",
       "PGRMasterContact": "not available",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.ramdass",
@@ -7587,7 +7751,8 @@
       "address": "",
       "contactNumber": "01858-232062",
       "PGRMasterContact": "7986579960",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.rampura",
@@ -7633,7 +7798,8 @@
       "address": "Nagar Panchayt Rampura",
       "contactNumber": "9646350091",
       "PGRMasterContact": "not available",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.rampuraphul",
@@ -7679,7 +7845,8 @@
       "address": "Not available",
       "contactNumber": "Not available",
       "PGRMasterContact": "9915445019",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.rayya",
@@ -7725,7 +7892,8 @@
       "address": "G.T.ROAD RAYYA NEAR GRAIN MARKET  143112",
       "contactNumber": "1853222286",
       "PGRMasterContact": "9872147765",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.ropar",
@@ -7771,7 +7939,8 @@
       "address": "Municipal Council Roopnagar",
       "contactNumber": "1881222314",
       "PGRMasterContact": "9814800566",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.itropar",
@@ -7817,7 +7986,8 @@
       "address": "Municipal Council Roopnagar",
       "contactNumber": "1881222314",
       "PGRMasterContact": "9814800566",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.sahnewal",
@@ -7863,7 +8033,8 @@
       "address": "Not available",
       "contactNumber": "1612846004",
       "PGRMasterContact": "9988500162",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.samana",
@@ -7909,7 +8080,8 @@
       "address": "Main Road, Samana",
       "contactNumber": "1764220001",
       "PGRMasterContact": "9888518255",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.itsamana",
@@ -7955,7 +8127,8 @@
       "address": "Main Road, Samana",
       "contactNumber": "1764220001",
       "PGRMasterContact": "9888518255",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.samrala",
@@ -8001,7 +8174,8 @@
       "address": "Machhiwara raod",
       "contactNumber": "1628262439",
       "PGRMasterContact": "7508913448",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.sanaur",
@@ -8047,7 +8221,8 @@
       "address": "Near Marri mandir Sanour",
       "contactNumber": "1676227150",
       "PGRMasterContact": "9780200315",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.sangatmandi",
@@ -8093,7 +8268,8 @@
       "address": "Near Water Works, Sangat, Distt. Bathinda",
       "contactNumber": "1642426245",
       "PGRMasterContact": "9988093800",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.sangrur",
@@ -8139,7 +8315,8 @@
       "address": "Not available",
       "contactNumber": "1672234347",
       "PGRMasterContact": "9780072800",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.itsangrur",
@@ -8185,7 +8362,8 @@
       "address": "Not available",
       "contactNumber": "1672234347",
       "PGRMasterContact": "9780072800",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.sardulgarh",
@@ -8231,7 +8409,8 @@
       "address": "Not available",
       "contactNumber": "Not available",
       "PGRMasterContact": "9646709100",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.shahkot",
@@ -8277,7 +8456,8 @@
       "address": "Not available",
       "contactNumber": "1821260114",
       "PGRMasterContact": "9988344223",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.shamchurasi",
@@ -8323,7 +8503,8 @@
       "address": "Not available",
       "contactNumber": "188263007",
       "PGRMasterContact": "9888236557",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.sirhind",
@@ -8369,7 +8550,8 @@
       "address": "Not available",
       "contactNumber": "1763500937",
       "PGRMasterContact": "9646060901",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.srihargobindpur",
@@ -8415,7 +8597,8 @@
       "address": "Municipal Council Sri Hargobindpur",
       "contactNumber": "1872255575",
       "PGRMasterContact": "9855442701",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.sujanpur",
@@ -8461,7 +8644,8 @@
       "address": "NEAR GASS MANDI SUJANPUR",
       "contactNumber": "1862244181",
       "PGRMasterContact": "9646250005",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.sultanpurlodhi",
@@ -8507,7 +8691,8 @@
       "address": "Aria Smaj Chowk Sultanpur Lldhi",
       "contactNumber": "01828-222050",
       "PGRMasterContact": "9878914500",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.sunam",
@@ -8553,7 +8738,8 @@
       "address": "Guga Madi Road",
       "contactNumber": "1676220050",
       "PGRMasterContact": "9646060808",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.talwandibhai",
@@ -8599,7 +8785,8 @@
       "address": "",
       "contactNumber": "01632-232232",
       "PGRMasterContact": "not available",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.talwandisabo",
@@ -8644,7 +8831,8 @@
       "address": "Near Gillan Wala Khu Talwandi Sabo Tehshil Talwandi Sabo Distt Bathinda Pin151302",
       "contactNumber": "1655220103",
       "PGRMasterContact": "7009745269",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.talwara",
@@ -8690,7 +8878,8 @@
       "address": "Not available",
       "contactNumber": "Not available",
       "PGRMasterContact": "9915102702",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.tapa",
@@ -8736,7 +8925,8 @@
       "address": "Not available",
       "contactNumber": "1679272026",
       "PGRMasterContact": "9417070070",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.tarntaran",
@@ -8782,7 +8972,8 @@
       "address": "Tehsil Chowk Tarn Taran",
       "contactNumber": "1852222385",
       "PGRMasterContact": "9814322733",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.ittarntaran",
@@ -8828,7 +9019,8 @@
       "address": "Tehsil Chowk Tarn Taran",
       "contactNumber": "1852222385",
       "PGRMasterContact": "9814322733",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.testing",
@@ -8872,7 +9064,8 @@
       "address": "Near New Bus, Stand Moga Road Testing",
       "contactNumber": "01821-260114",
       "PGRMasterContact": "not available",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.urmartanda",
@@ -8918,7 +9111,8 @@
       "address": "Near Bus Stand Tanda",
       "contactNumber": "1886222043",
       "PGRMasterContact": "9417479460",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.zira",
@@ -8964,7 +9158,8 @@
       "address": "Not available",
       "contactNumber": "Not available",
       "PGRMasterContact": "8558886100",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.zirakpur",
@@ -9010,7 +9205,8 @@
       "address": "ZIRAKPUR",
       "contactNumber": "17622876521",
       "PGRMasterContact": "9780880185",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.bababakalasahib",
@@ -9056,7 +9252,8 @@
       "address": "Bus Stand, Baba Bakala Sahib",
       "contactNumber": "8427001020",
       "PGRMasterContact": "9872147765",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.gharuan",
@@ -9102,7 +9299,8 @@
       "address": "Kharar Chandigarh Road ,Gharuan ",
       "contactNumber": "9988800021",
       "PGRMasterContact": "9780300263",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.devigarh",
@@ -9147,7 +9345,8 @@
       "address": "Not available",
       "contactNumber": "Not available",
       "PGRMasterContact": "9780200315",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.itpatiala",
@@ -9193,7 +9392,8 @@
       "address": "improvement trust above, Punjab National bank, chotti baradari patiala",
       "contactNumber": "0175-3821632",
       "PGRMasterContact": "not available",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.dirbapwssb",
@@ -9239,7 +9439,8 @@
       "contactNumber": "1676242567",
       "PGRMasterContact": "9646827005",
       "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
-      "ulbLgdCode": "248389"
+      "ulbLgdCode": "248389",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.ferozepurpwssb",
@@ -9285,7 +9486,8 @@
       "address": "Not available",
       "contactNumber": "1676242567",
       "PGRMasterContact": "not available",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     },
     {
       "code": "pb.itbarnala",
@@ -9331,7 +9533,8 @@
       "address": "improvement trust Office Baranala, Near LIC office, 22 Acre Scheme, Barnala",
       "contactNumber": "01679230200",
       "PGRMasterContact": "9602395830",
-      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png"
+      "footerLogo": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FTL%2FMay%2F11%2F1778479236039cuqepmfaxv.png",
+      "scissorImg": "https://mseva-dev.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FNOC%2FAugust%2F7%2F1786084269200VOmnObdoYY.png"
     }
   ]
 }
