@@ -3,8 +3,8 @@
   "moduleName": "Advertisement",
   "Location": [
     {
-      "name": "Near Sunil Cinema (Location 1)",
-      "code": "SUNIL_CINEMA_1",
+      "name": "Near Sunil Cinema",
+      "code": "SUNIL_CINEMA",
       "active": true,
       "geo_tag": {
         "latitude": 30.144,
@@ -12,53 +12,8 @@
       }
     },
     {
-      "name": "Near Sunil Cinema (Location 2)",
-      "code": "SUNIL_CINEMA_2",
-      "active": true,
-      "geo_tag": {
-        "latitude": 30.144,
-        "longitude": 74.207
-      }
-    },
-    {
-      "name": "Near Sunil Cinema (Location 3)",
-      "code": "SUNIL_CINEMA_3",
-      "active": true,
-      "geo_tag": {
-        "latitude": 30.144,
-        "longitude": 74.207
-      }
-    },
-    {
-      "name": "Near Bus Stand (Location 1)",
-      "code": "BUS_STAND_1",
-      "active": true,
-      "geo_tag": {
-        "latitude": 30.147,
-        "longitude": 74.212
-      }
-    },
-    {
-      "name": "Near Bus Stand (Location 2)",
-      "code": "BUS_STAND_2",
-      "active": true,
-      "geo_tag": {
-        "latitude": 30.147,
-        "longitude": 74.212
-      }
-    },
-    {
-      "name": "Near Bus Stand (Location 3)",
-      "code": "BUS_STAND_3",
-      "active": true,
-      "geo_tag": {
-        "latitude": 30.147,
-        "longitude": 74.212
-      }
-    },
-    {
-      "name": "Near Bus Stand (Location 4)",
-      "code": "BUS_STAND_4",
+      "name": "Near Bus Stand",
+      "code": "BUS_STAND",
       "active": true,
       "geo_tag": {
         "latitude": 30.147,
@@ -75,17 +30,8 @@
       }
     },
     {
-      "name": "Near Verma Petrol Pump (Location 1)",
-      "code": "VERMA_PETROL_PUMP_1",
-      "active": true,
-      "geo_tag": {
-        "latitude": 30.140,
-        "longitude": 74.210
-      }
-    },
-    {
-      "name": "Near Verma Petrol Pump (Location 2)",
-      "code": "VERMA_PETROL_PUMP_2",
+      "name": "Near Verma Petrol Pump",
+      "code": "VERMA_PETROL_PUMP",
       "active": true,
       "geo_tag": {
         "latitude": 30.140,
@@ -138,17 +84,8 @@
       }
     },
     {
-      "name": "Rotary Chowk (Location 1)",
-      "code": "ROTARY_CHOWK_1",
-      "active": true,
-      "geo_tag": {
-        "latitude": 30.144,
-        "longitude": 74.208
-      }
-    },
-    {
-      "name": "Rotary Chowk (Location 2)",
-      "code": "ROTARY_CHOWK_2",
+      "name": "Rotary Chowk",
+      "code": "ROTARY_CHOWK",
       "active": true,
       "geo_tag": {
         "latitude": 30.144,
@@ -165,8 +102,8 @@
       }
     },
     {
-      "name": "Near Dav College (Location 1)",
-      "code": "DAV_COLLEGE_1",
+      "name": "Near Dav College",
+      "code": "DAV_COLLEGE",
       "active": true,
       "geo_tag": {
         "latitude": 30.142,
@@ -174,26 +111,8 @@
       }
     },
     {
-      "name": "Near Dav College (Location 2)",
-      "code": "DAV_COLLEGE_2",
-      "active": true,
-      "geo_tag": {
-        "latitude": 30.142,
-        "longitude": 74.204
-      }
-    },
-    {
-      "name": "Ajimgarh Chowk (Location 1)",
-      "code": "AJIMGARH_CHOWK_1",
-      "active": true,
-      "geo_tag": {
-        "latitude": 30.143,
-        "longitude": 74.209
-      }
-    },
-    {
-      "name": "Ajimgarh Chowk (Location 2)",
-      "code": "AJIMGARH_CHOWK_2",
+      "name": "Ajimgarh Chowk",
+      "code": "AJIMGARH_CHOWK",
       "active": true,
       "geo_tag": {
         "latitude": 30.143,
