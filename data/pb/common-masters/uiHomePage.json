@@ -36,6 +36,13 @@
           {
             "code": "CITIZEN_SERVICE_PT",
             "name": "Property Tax",
+            "label": "MODULE_PT_UPGRADE",
+            "enabled": true,
+            "navigationUrl": "/digit-ui/citizen/pt-home"
+          },
+          {
+            "code": "CITIZEN_SERVICE_PT_MSEVA",
+            "name": "Property Tax",
             "label": "MODULE_PT",
             "enabled": true,
             "navigationUrl": "/citizen/property-tax"

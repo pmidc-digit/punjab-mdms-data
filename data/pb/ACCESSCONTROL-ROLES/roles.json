@@ -507,6 +507,12 @@
       "groupId": "018"
     },
     {
+      "code": "VIEW_PT_CARD",
+      "name": "View PT Card",
+      "description": "For PT Card Display in Dashboard",
+      "groupId": "018"
+    },
+    {
       "code": "UC_COWCESS_USER",
       "name": "Universal Collection Cow Cess",
       "description": "Cow Cess collection user",
