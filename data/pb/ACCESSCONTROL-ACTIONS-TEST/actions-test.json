@@ -24940,6 +24940,42 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/mseva-ui/citizen/pt-home"
+    },
+    {
+    "id": 89000943,
+    "name": "Property Tax mseva link",
+    "url": "digit-ui-card",
+    "displayName": "Property Tax",
+    "orderNumber": 19,
+    "parentModule": "PT_MSEVA",
+    "enabled": true,
+    "serviceCode": "PT",
+    "code": "",
+    "path": "",
+    "navigationURL": "/citizen/property-tax",
+    "leftIcon": "propertyIcon",
+    "rightIcon": "",
+    "sidebar": "digit-ui-links",
+    "sidebarURL": "/citizen/property-tax"
+  },
+  {
+      "id": 89000944,
+      "name": "PT_MSEVA_CARD",
+      "url": "digit-ui-card",
+      "displayName": "Property Tax",
+      "orderNumber": 3,
+      "parentModule": "PT_MSEVA",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "/citizen/property-tax",
+      "leftIcon": "propertyIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/citizen/property-tax"
     }
+  
   ]
 }
