@@ -38,7 +38,7 @@
             "name": "Property Tax",
             "label": "MODULE_PT",
             "enabled": true,
-            "navigationUrl": "/citizen/property-tax"
+            "navigationUrl": "/digit-ui/citizen/pt-home"
           },
           {
             "code": "CITIZEN_SERVICE_TL",
