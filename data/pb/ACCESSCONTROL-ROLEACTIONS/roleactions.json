@@ -71382,6 +71382,48 @@
       "actionid": 3040,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_LAYOUT_MTP(HQ)",
+      "actionid": 8900903,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_LAYOUT_MTP(HQ)",
+      "actionid": 8900912,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_LAYOUT_MTP(HQ)",
+      "actionid": 8900904,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_LAYOUT_MTP(HQ)",
+      "actionid": 3005,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_LAYOUT_MTP(HQ)",
+      "actionid": 1782,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_LAYOUT_MTP(HQ)",
+      "actionid": 8900136,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_LAYOUT_MTP(HQ)",
+      "actionid": 8900137,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
