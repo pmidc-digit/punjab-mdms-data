@@ -71,6 +71,35 @@
       "isActive": true
     },
     {
+      "businessService": "Advertisement Tax.Hoardings",
+      "code": "ADVT.Hoardings",
+      "collectionModesNotAllowed": [
+        ""
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "demandUpdateTime": 86400000,
+      "isVoucherCreationEnabled": false,
+      "type": "Adhoc",
+      "cancelReceipt": true,
+      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+    },
+    {
+      "businessService": "Advertisement Tax.Unipolls",
+      "code": "ADVT.Unipolls",
+      "collectionModesNotAllowed": [
+        ""
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "cancelReceipt": true,
+      "demandUpdateTime": 86400000,
+      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+    },
+    {
       "businessService": "Rents.Municipal Shops Rent",
       "code": "RT.Municipal_Shops_Rent",
       "collectionModesNotAllowed": [
@@ -82,7 +111,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Rents.Land Rent",
@@ -96,7 +125,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Rents.Tower Rent",
@@ -110,7 +139,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Rents.Parking Fee",
@@ -124,7 +153,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Rents.Jamin Theka",
@@ -138,7 +167,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "ADMIN Fees.Election rally fees",
@@ -152,7 +181,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "ADMIN Fees.Parking during election",
@@ -166,7 +195,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "ADMIN Fees.Road show",
@@ -180,7 +209,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Finance Fees.Advance Provident Fund",
@@ -194,7 +223,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Stationary.Stationary (Not Income)",
@@ -208,7 +237,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Stationary.Expenditure santitation (Not Income)",
@@ -222,7 +251,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Challans.Santitation dumping garbage",
@@ -236,7 +265,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Fee Town Planning.Telecom tower fees",
@@ -250,7 +279,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Taxes.Electricity Chungi",
@@ -265,7 +294,7 @@
       "type": "Adhoc",
       "cancelReceipt": true,
       "demandUpdateTime": 86400000,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Fee Town Planning.Draftsmen fees",
@@ -279,7 +308,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Fee Town Planning.Compremasing fees",
@@ -293,7 +322,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Fee Town Planning.Building planner renew",
@@ -307,7 +336,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Naksha_Building Manual Fees.Naksha samjota fees",
@@ -321,7 +350,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Naksha_Building Manual Fees.Naksha changes ",
@@ -335,7 +364,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Fee Town Planning.License fees building branch",
@@ -349,7 +378,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "O&M Fee.Water connection_disconnection fees",
@@ -363,7 +392,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Naksha_Building Manual Fees.Naksha renew fees",
@@ -377,7 +406,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Naksha_Building Manual Fees.NOC_Completion of building approval",
@@ -391,7 +420,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Naksha_Building Manual Fees.Alteration additional charge",
@@ -405,7 +434,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Naksha_Building Manual Fees.2 year time limit of Renewal Building Naksha",
@@ -419,7 +448,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Fee Town Planning.Leave encashment and gratuty",
@@ -433,7 +462,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Challans.Plastic Challan",
@@ -447,7 +476,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Challans.Rehri Challan",
@@ -461,7 +490,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Challans.Challan for Misuse of Water",
@@ -475,7 +504,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Challans.Dengue Challan",
@@ -489,7 +518,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Challans.Littering Challan",
@@ -503,7 +532,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Sanitation.Licence Pure food",
@@ -517,7 +546,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "OTHER.Misc Challans",
@@ -531,7 +560,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Naksha_Building Manual Fees.Regularisation of Buildings",
@@ -545,7 +574,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Work Fee.Contractor Enlistment",
@@ -559,7 +588,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Tehbazaari Fee.Advertisement fee",
@@ -573,7 +602,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Work Fee.Tender Form Fee",
@@ -587,7 +616,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Tehbazaari Fee.Tehbazaari",
@@ -601,7 +630,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Finance Fees.PF transfer (Accounts)",
@@ -615,7 +644,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Taxes.TS1 copy register for old survey",
@@ -630,7 +659,7 @@
       "type": "Adhoc",
       "cancelReceipt": true,
       "demandUpdateTime": 86400000,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Taxes.Transfer Property Fees",
@@ -645,7 +674,7 @@
       "type": "Adhoc",
       "cancelReceipt": true,
       "demandUpdateTime": 86400000,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "ADMIN Fees.RTI",
@@ -660,7 +689,7 @@
       "type": "Adhoc",
       "cancelReceipt": true,
       "demandUpdateTime": 86400000,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "ADMIN Fees.No Dues Certificate",
@@ -674,7 +703,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Fee Town Planning.Architect license fee",
@@ -688,7 +717,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Tehbazaari Fee.Challan Under section 156",
@@ -702,7 +731,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Finance Fees.Recovery employee_contractor",
@@ -716,7 +745,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Finance Fees.Grants cheque",
@@ -730,7 +759,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "OTHER.No due certificate electricity",
@@ -744,7 +773,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "OTHER.registery and bank loan",
@@ -758,7 +787,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "SBM garbage plastic polythene challan",
@@ -772,7 +801,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Sanitation.Dead animals contract",
@@ -786,7 +815,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Finance Fees.GPF",
@@ -800,7 +829,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Finance Fees.CPF received check",
@@ -814,7 +843,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Rents.Tower Installation",
@@ -828,7 +857,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Rents.Tower Annual Rent",
@@ -842,7 +871,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Cess.Cow Cess",
@@ -856,7 +885,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Challans.Cattle Challan",
@@ -870,7 +899,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Tehbazaari Fee.Rehri Challan",
@@ -884,7 +913,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "License Fee.Manual Rikshaw",
@@ -898,7 +927,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Challans.Dairy Animals Challan",
@@ -912,7 +941,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Challans.Bidi_And_Cigrette_Challan",
@@ -926,7 +955,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Rents.Commercial Use of Municipal Land",
@@ -940,7 +969,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Rents.Street Vendor",
@@ -954,7 +983,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Fee Town Planning.Construction Waste",
@@ -968,7 +997,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Fee Town Planning.Demolition Waste",
@@ -982,7 +1011,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Sanitation.SNT Clean_Safai Sanitation",
@@ -996,7 +1025,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "O&M Fee.Plumber License Fee",
@@ -1010,6 +1039,50 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
+    },
+    {
+      "businessService": "Advertisement Tax.Light Wala Board",
+      "code": "ADVT.Light_Wala_Board",
+      "collectionModesNotAllowed": [
+        ""
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "cancelReceipt": true,
+      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+    },
+    {
+      "businessService": "Advertisement Tax.Wall Paint Advertisement",
+      "code": "ADVT.Wall_Paint_Advertisement",
+      "collectionModesNotAllowed": [
+        ""
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "cancelReceipt": true,
+      "demandUpdateTime": 86400000,
+      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+    },
+    {
+      "businessService": "Advertisement Tax.Gas Balloon Advertisement",
+      "code": "ADVT.Gas_Balloon_Advertisement",
+      "collectionModesNotAllowed": [
+        ""
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "cancelReceipt": true,
+      "demandUpdateTime": 86400000,
       "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
@@ -1023,7 +1096,7 @@
       "isVoucherCreationEnabled": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Naksha_Building Manual Fees.Hadud Certificate fees",
@@ -1037,7 +1110,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Naksha_Building Manual Fees.No Due Certificate fees",
@@ -1051,7 +1124,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Naksha_Building Manual Fees.Colony Sambandhi fees",
@@ -1065,7 +1138,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Naksha_Building Manual Fees.Naksha fees",
@@ -1079,7 +1152,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Work Fee.OFC Permission fee",
@@ -1093,7 +1166,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Naksha_Building Manual Fees.Building_fees",
@@ -1107,7 +1180,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Naksha_Building Manual Fees.Boundary_wall_fees",
@@ -1121,7 +1194,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Naksha_Building Manual Fees.Malba_fees",
@@ -1135,7 +1208,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Naksha_Building Manual Fees.Development_fees",
@@ -1149,7 +1222,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Naksha_Building Manual Fees.Change_of_land_use_fees",
@@ -1163,7 +1236,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Naksha_Building Manual Fees.Under_development_fees",
@@ -1177,7 +1250,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "OTHER.Water_Charges",
@@ -1191,7 +1264,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "OTHER.Others_fee",
@@ -1205,7 +1278,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Cess.Labor Cess",
@@ -1219,7 +1292,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Finance Fees.Provident Fund Processing Fees",
@@ -1233,7 +1306,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "O&M Fee.Sewerage disconnection connection fees",
@@ -1247,7 +1320,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Naksha_Building Manual Fees.Economics Weaker Section Scheme Charges",
@@ -1261,7 +1334,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Naksha_Building Manual Fees.Economics Weaker Section Projects Fees",
@@ -1275,7 +1348,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "O&M Fee.Road cut fees",
@@ -1289,11 +1362,39 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "ADMIN Fees.Parking booking fee",
       "code": "ADMN.Parking_booking_fee",
+      "collectionModesNotAllowed": [
+        ""
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "cancelReceipt": true,
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
+    },
+    {
+      "businessService": "Advertisement Tax.Canopy Fee",
+      "code": "ADVT.Canopy_Fee",
+      "collectionModesNotAllowed": [
+        ""
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "cancelReceipt": true,
+      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+    },
+    {
+      "businessService": "Advertisement Tax.Outdoor Media Display Fee",
+      "code": "ADVT.Outdoor_Media_Display_Fee",
       "collectionModesNotAllowed": [
         ""
       ],
@@ -1317,7 +1418,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "OTHER.Noc_fee",
@@ -1331,7 +1432,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "OTHER.Fire_Noc_fee",
@@ -1345,7 +1446,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "OTHER.Fire_Tender_fee",
@@ -1359,7 +1460,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "OTHER.Fire_Call_Report_fee",
@@ -1373,7 +1474,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "FIRENOC",
@@ -1399,7 +1500,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Naksha_Building Manual Fees.Rain_Harvesting_Charges",
@@ -1413,7 +1514,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Finance Fees.Tender_Earnest_Money_Deposit",
@@ -1427,7 +1528,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Finance Fees.Security_Deposit_Fee",
@@ -1441,7 +1542,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "OTHER.Dispensary_fee",
@@ -1455,7 +1556,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Rents.Sale_of_land",
@@ -1469,7 +1570,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "OTHER.License_fee",
@@ -1483,7 +1584,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "OTHER.Candy_fee",
@@ -1497,7 +1598,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "OTHER.Conservancy_fee",
@@ -1511,7 +1612,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Naksha_Building Manual Fees.Sub_division_charges",
@@ -1525,7 +1626,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Naksha_Building Manual Fees.Information_certificate_fees",
@@ -1539,7 +1640,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Naksha_Building Manual Fees.Building_safety_certificate",
@@ -1553,7 +1654,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "OTHER.Street_light_pole_transfer_fee",
@@ -1567,7 +1668,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Challans.Collection_and_demolition_waste_challan",
@@ -1581,7 +1682,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Challans.Burning_of_waste_challan",
@@ -1595,7 +1696,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "OTHER.Sale_of_compost",
@@ -1609,7 +1710,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "OTHER.Sale_of_recyclable",
@@ -1623,7 +1724,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "License Fee.Trade_License_Fee",
@@ -1637,7 +1738,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "OTHER.Dog_Registration",
@@ -1651,7 +1752,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "TL.RENEWAL",
@@ -1687,7 +1788,7 @@
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
-      "type": "Adhoc",
+       "type": "Adhoc",
       "cancelReceipt": true
     },
     {
@@ -1728,7 +1829,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "cancelReceipt": true
+       "cancelReceipt": true
     },
     {
       "businessService": "SW.ONE_TIME_FEE",
@@ -1740,7 +1841,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "cancelReceipt": true
+       "cancelReceipt": true
     },
     {
       "businessService": "Rents.Service_Tax_Gst_Of_Rent_Of_MC_Properties",
@@ -1754,7 +1855,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Rents.Street_Vendor_Icard_Certificate_Fees",
@@ -1768,7 +1869,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Taxes.Property_Tax_Dishonoured_Cheque_Payment",
@@ -1782,7 +1883,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "OTHER.Swimming_Pool_And_Gymnactics_Hall_Fees",
@@ -1796,7 +1897,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Revenue Grants.14th Grants Commission",
@@ -1858,7 +1959,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Naksha_Building Manual Fees.Permission_Fees",
@@ -1872,7 +1973,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Fee Town Planning.Colony unauthoriszed Policy 2013-14 after five year a time",
@@ -1886,7 +1987,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "OTHER.Conservency_Fee_Slaughterhouse",
@@ -1900,7 +2001,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "category": "CHARGES",
@@ -2025,6 +2126,48 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
+    },
+    {
+      "businessService": "Advertisement Tax.Composition Fees",
+      "code": "ADVT.Composition_Fees",
+      "collectionModesNotAllowed": [
+        ""
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "cancelReceipt": true,
+      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+    },
+    {
+      "businessService": "Advertisement Tax.Show Tax and Entertainment tax",
+      "code": "ADVT.Show_Tax_and_Entertainment_tax",
+      "collectionModesNotAllowed": [
+        ""
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "cancelReceipt": true,
+      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+    },
+    {
+      "businessService": "Advertisement Tax.Challan Under Section 122 123",
+      "code": "ADVT.Challan_Under_Section_122_123",
+      "collectionModesNotAllowed": [
+        ""
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "cancelReceipt": true,
       "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
@@ -2039,10 +2182,10 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
-      "businessService": "OTHER.library_annual_fees",
+      "businessService": "OTHER.library_annual_fees", 
       "code": "OTHER.library_annual_fees",
       "collectionModesNotAllowed": [
         ""
@@ -2053,7 +2196,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "SewerageCharges",
@@ -2068,8 +2211,36 @@
       "isVoucherCreationEnabled": false
     },
     {
-      "businessService": "OTHER.library_security_fees",
+      "businessService": "OTHER.library_security_fees", 
       "code": "OTHER.library_security_fees",
+      "collectionModesNotAllowed": [
+        ""
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "cancelReceipt": true,
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
+    },
+    {
+      "businessService": "Advertisement Tax.Poll Kiosk",
+      "code": "ADVT.Poll_Kiosk",
+      "collectionModesNotAllowed": [
+        ""
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "cancelReceipt": true,
+      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+    },
+    {
+      "businessService": "Advertisement Tax.Gantry",
+      "code": "ADVT.Gantry",
       "collectionModesNotAllowed": [
         ""
       ],
@@ -2093,9 +2264,9 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
-    {
+     {
       "businessService": "Rents.Penalty",
       "code": "RT.PENALTY",
       "collectionModesNotAllowed": [
@@ -2106,9 +2277,9 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
-    {
+   {
       "businessService": "OTHER.Door_To_Door_Collection_Of_Solid_Waste_Fees(Residential)",
       "code": "OTHER.Door_To_Door_Collection_Of_Solid_Waste_Fees(Residential)",
       "collectionModesNotAllowed": [
@@ -2120,7 +2291,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "OTHER.Door_To_Door_Collection_Of_Solid_Waste_Fees(Commercial)",
@@ -2134,9 +2305,9 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
-    {
+     {
       "businessService": "ADMIN Fees.Horticulture Fees",
       "code": "ADMN.Horticulture_Fees",
       "collectionModesNotAllowed": [
@@ -2148,7 +2319,7 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Challans.Trade_License_Challan",
@@ -2162,9 +2333,10 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
-    {
+    
+       {
       "businessService": "Sanitation.Septic tank",
       "code": "SNT.Septic_tank",
       "collectionModesNotAllowed": [
@@ -2176,9 +2348,9 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
-    {
+   {
       "businessService": "Sanitation.Waste_water_fees",
       "code": "SNT.Waste_water_fees",
       "collectionModesNotAllowed": [
@@ -2190,9 +2362,9 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
-    {
+   {
       "businessService": "Sanitation.Faecal sludge disposal",
       "code": "SNT.Faecal_sludge_disposal",
       "collectionModesNotAllowed": [
@@ -2204,9 +2376,9 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
-    {
+	  {
       "category": "CHARGES",
       "service": "WS",
       "name": "Water Discharge Charges",
@@ -2238,39 +2410,39 @@
       "isVoucherCreationEnabled": true,
       "isActive": true
     },
-    {
-      "businessService": "BPARegistration",
-      "code": "BPAREG",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true
-    },
-    {
-      "businessService": "BPA.NEWCONSTRUCTION_APP_FEE",
-      "code": "BPA.NC_APP_FEE",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true
-    },
-    {
-      "businessService": "BPA.NEWCONSTRUCTION_SANC_FEE",
-      "code": "BPA.NC_SAN_FEE",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true
-    },
+	{
+	  "businessService": "BPARegistration",
+	  "code": "BPAREG",
+	  "collectionModesNotAllowed": [
+	    "DD"
+	  ],
+	  "partPaymentAllowed": false,
+	  "isAdvanceAllowed": false,
+	  "isVoucherCreationEnabled": true,
+	  "isActive": true
+	},
+	{
+	  "businessService": "BPA.NEWCONSTRUCTION_APP_FEE",
+	  "code": "BPA.NC_APP_FEE",
+	  "collectionModesNotAllowed": [
+	    "DD"
+	  ],
+	  "partPaymentAllowed": false,
+	  "isAdvanceAllowed": false,
+	  "isVoucherCreationEnabled": true,
+	  "isActive": true
+	},
+	{
+	  "businessService": "BPA.NEWCONSTRUCTION_SANC_FEE",
+	  "code": "BPA.NC_SAN_FEE",
+	  "collectionModesNotAllowed": [
+	    "DD"
+	  ],
+	  "partPaymentAllowed": false,
+	  "isAdvanceAllowed": false,
+	  "isVoucherCreationEnabled": true,
+	  "isActive": true
+	},
     {
       "businessService": "Challan_Generation",
       "code": "Challan_Generation",
@@ -2282,39 +2454,39 @@
       "isVoucherCreationEnabled": false,
       "isActive": true
     },
-    {
-      "businessService": "obpas_noc",
-      "code": "obpas_noc",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true
-    },
-    {
-      "businessService": "CLU.PAY1",
-      "code": "CLU.PAY1",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true
-    },
-    {
-      "businessService": "CLU.PAY2",
-      "code": "CLU.PAY2",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true
-    },
+	{
+	  "businessService": "obpas_noc",
+	  "code": "obpas_noc",
+	  "collectionModesNotAllowed": [
+	    "DD"
+	  ],
+	  "partPaymentAllowed": false,
+	  "isAdvanceAllowed": false,
+	  "isVoucherCreationEnabled": true,
+	  "isActive": true
+	},
+	{
+	  "businessService": "CLU.PAY1",
+	  "code": "CLU.PAY1",
+	  "collectionModesNotAllowed": [
+	    "DD"
+	  ],
+	  "partPaymentAllowed": false,
+	  "isAdvanceAllowed": false,
+	  "isVoucherCreationEnabled": true,
+	  "isActive": true
+	},
+	{
+	  "businessService": "CLU.PAY2",
+	  "code": "CLU.PAY2",
+	  "collectionModesNotAllowed": [
+	    "DD"
+	  ],
+	  "partPaymentAllowed": false,
+	  "isAdvanceAllowed": false,
+	  "isVoucherCreationEnabled": true,
+	  "isActive": true
+	},
     {
       "businessService": "BPA.NEWCONSTRUCTION_OC_APP_FEE",
       "code": "BPA.NC_OC_APP_FEE",
@@ -2396,32 +2568,189 @@
       "isActive": true,
       "cancelReceipt": true
     },
-    {
+      {
       "businessService": "rl-services",
       "code": "rl-services",
       "collectionModesNotAllowed": [
         ""
       ],
       "partPaymentAllowed": true,
-      "isAdvanceAllowed": true,
+      "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "cancelReceipt": true,
       "isActive": true
     },
     {
-      "businessService": "Rents.Use_Of_Land_And_Occupation_Charges",
-      "code": "RT.Use_Of_Land_And_Occupation_Charges",
-      "collectionModesNotAllowed": [
-        ""
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "type": "Adhoc",
-      "cancelReceipt": true,
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
-    }
+    "businessService": "Advertisement Tax.Hoardings",
+    "code": "ADVT.Hoardings",
+    "collectionModesNotAllowed": [
+      ""
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "demandUpdateTime": 86400000,
+    "isVoucherCreationEnabled": false,
+    "type": "Adhoc",
+    "cancelReceipt": true,
+    "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+  },
+  {
+    "businessService": "Advertisement Tax.Unipolls",
+    "code": "ADVT.Unipolls",
+    "collectionModesNotAllowed": [
+      ""
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc",
+    "cancelReceipt": true,
+    "demandUpdateTime": 86400000,
+    "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+  },
+  {
+    "businessService": "Advertisement Tax.Light Wala Board",
+    "code": "ADVT.Light_Wala_Board",
+    "collectionModesNotAllowed": [
+      ""
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc",
+    "cancelReceipt": true,
+    "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+  },
+  {
+    "businessService": "Advertisement Tax.Wall Paint Advertisement",
+    "code": "ADVT.Wall_Paint_Advertisement",
+    "collectionModesNotAllowed": [
+      ""
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc",
+    "cancelReceipt": true,
+    "demandUpdateTime": 86400000,
+    "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+  },
+  {
+    "businessService": "Advertisement Tax.Gas Balloon Advertisement",
+    "code": "ADVT.Gas_Balloon_Advertisement",
+    "collectionModesNotAllowed": [
+      ""
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc",
+    "cancelReceipt": true,
+    "demandUpdateTime": 86400000,
+    "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+  },
+  {
+    "businessService": "Advertisement Tax.Canopy Fee",
+    "code": "ADVT.Canopy_Fee",
+    "collectionModesNotAllowed": [
+      ""
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc",
+    "cancelReceipt": true,
+    "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+  },
+  {
+    "businessService": "Advertisement Tax.Outdoor Media Display Fee",
+    "code": "ADVT.Outdoor_Media_Display_Fee",
+    "collectionModesNotAllowed": [
+      ""
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc",
+    "cancelReceipt": true,
+    "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+  },
+  {
+    "businessService": "Advertisement Tax.Composition Fees",
+    "code": "ADVT.Composition_Fees",
+    "collectionModesNotAllowed": [
+      ""
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc",
+    "cancelReceipt": true,
+    "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+  },
+  {
+    "businessService": "Advertisement Tax.Show Tax and Entertainment tax",
+    "code": "ADVT.Show_Tax_and_Entertainment_tax",
+    "collectionModesNotAllowed": [
+      ""
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc",
+    "cancelReceipt": true,
+    "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+  },
+  {
+    "businessService": "Advertisement Tax.Challan Under Section 122 123",
+    "code": "ADVT.Challan_Under_Section_122_123",
+    "collectionModesNotAllowed": [
+      ""
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc",
+    "cancelReceipt": true,
+    "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+  },
+  {
+    "businessService": "Advertisement Tax.Poll Kiosk",
+    "code": "ADVT.Poll_Kiosk",
+    "collectionModesNotAllowed": [
+      ""
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc",
+    "cancelReceipt": true,
+    "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+  },
+  {
+    "businessService": "Advertisement Tax.Gantry",
+    "code": "ADVT.Gantry",
+    "collectionModesNotAllowed": [
+      ""
+    ],
+    "partPaymentAllowed": false,
+    "isAdvanceAllowed": false,
+    "isVoucherCreationEnabled": true,
+    "isActive": true,
+    "type": "Adhoc",
+    "cancelReceipt": true,
+    "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+  }
   ]
 }

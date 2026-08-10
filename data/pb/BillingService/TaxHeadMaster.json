@@ -7833,6 +7833,506 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Hoardings",
+      "name": "ADVT.HOARDINGS_TAX",
+      "code": "ADVT.HOARDINGS_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "ADVT.Hoardings",
+      "name": "ADVT.HOARDINGS_FIELD_FEE",
+      "code": "ADVT.HOARDINGS_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Unipolls",
+      "name": "ADVT.UNIPOLLS_TAX",
+      "code": "ADVT.UNIPOLLS_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "ADVT.Unipolls",
+      "name": "ADVT.UNIPOLLS_FIELD_FEE",
+      "code": "ADVT.UNIPOLLS_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+     {
+      "category": "TAX",
+      "service": "ADVT.Light_Wala_Board",
+      "name": "ADVT.LIGHT_WALA_BOARD_TAX",
+      "code": "ADVT.LIGHT_WALA_BOARD_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "ADVT.Light_Wala_Board",
+      "name": "ADVT.LIGHT_WALA_BOARD_FIELD_FEE",
+      "code": "ADVT.LIGHT_WALA_BOARD_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Wall_Paint_Advertisement",
+      "name": "ADVT.WALL_PAINT_ADVERTISEMENT_TAX",
+      "code": "ADVT.WALL_PAINT_ADVERTISEMENT_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "ADVT.Wall_Paint_Advertisement",
+      "name": "ADVT.WALL_PAINT_ADVERTISEMENT_FIELD_FEE",
+      "code": "ADVT.WALL_PAINT_ADVERTISEMENT_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Gas_Balloon_Advertisement",
+      "name": "ADVT.GAS_BALLOON_ADVERTISEMENT_TAX",
+      "code": "ADVT.GAS_BALLOON_ADVERTISEMENT_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "ADVT.Gas_Balloon_Advertisement",
+      "name": "ADVT.GAS_BALLOON_ADVERTISEMENT_FIELD_FEE",
+      "code": "ADVT.GAS_BALLOON_ADVERTISEMENT_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+      {
+      "category": "TAX",
+      "service": "ADVT.Hoardings",
+      "name": "ADVT.HOARDINGS_CGST",
+      "code": "ADVT.HOARDINGS_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Hoardings",
+      "name": "ADVT.HOARDINGS_SGST",
+      "code": "ADVT.HOARDINGS_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Unipolls",
+      "name": "ADVT.UNIPOLLS_CGST",
+      "code": "ADVT.UNIPOLLS_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Unipolls",
+      "name": "ADVT.UNIPOLLS_SGST",
+      "code": "ADVT.UNIPOLLS_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Light_Wala_Board",
+      "name": "ADVT.LIGHT_WALA_BOARD_CGST",
+      "code": "ADVT.LIGHT_WALA_BOARD_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Light_Wala_Board",
+      "name": "ADVT.LIGHT_WALA_BOARD_SGST",
+      "code": "ADVT.LIGHT_WALA_BOARD_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Wall_Paint_Advertisement",
+      "name": "ADVT.WALL_PAINT_ADVERTISEMENT_CGST",
+      "code": "ADVT.WALL_PAINT_ADVERTISEMENT_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Wall_Paint_Advertisement",
+      "name": "ADVT.WALL_PAINT_ADVERTISEMENT_SGST",
+      "code": "ADVT.WALL_PAINT_ADVERTISEMENT_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Canopy_Fee",
+      "name": "ADVT.CANOPY_FEE_TAX",
+      "code": "ADVT.CANOPY_FEE_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "ADVT.Canopy_Fee",
+      "name": "ADVT.CANOPY_FEE_FIELD_FEE",
+      "code": "ADVT.CANOPY_FEE_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Canopy_Fee",
+      "name": "ADVT.CANOPY_FEE_CGST",
+      "code": "ADVT.CANOPY_FEE_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Canopy_Fee",
+      "name": "ADVT.CANOPY_FEE_SGST",
+      "code": "ADVT.CANOPY_FEE_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Outdoor_Media_Display_Fee",
+      "name": "ADVT.OUTDOOR_MEDIA_DISPLAY_FEE_TAX",
+      "code": "ADVT.OUTDOOR_MEDIA_DISPLAY_FEE_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "ADVT.Outdoor_Media_Display_Fee",
+      "name": "ADVT.OUTDOOR_MEDIA_DISPLAY_FEE_FIELD_FEE",
+      "code": "ADVT.OUTDOOR_MEDIA_DISPLAY_FEE_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Outdoor_Media_Display_Fee",
+      "name": "ADVT.OUTDOOR_MEDIA_DISPLAY_FEE_CGST",
+      "code": "ADVT.OUTDOOR_MEDIA_DISPLAY_FEE_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Outdoor_Media_Display_Fee",
+      "name": "ADVT.OUTDOOR_MEDIA_DISPLAY_FEE_SGST",
+      "code": "ADVT.OUTDOOR_MEDIA_DISPLAY_FEE_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+     {
+      "category": "TAX",
+      "service": "ADVT.Composition_Fees",
+      "name": "ADVT.COMPOSITION_FEES_TAX",
+      "code": "ADVT.COMPOSITION_FEES_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "ADVT.Composition_Fees",
+      "name": "ADVT.COMPOSITION_FEES_FIELD_FEE",
+      "code": "ADVT.COMPOSITION_FEES_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Composition_Fees",
+      "name": "ADVT.COMPOSITION_FEES_CGST",
+      "code": "ADVT.COMPOSITION_FEES_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Composition_Fees",
+      "name": "ADVT.COMPOSITION_FEES_SGST",
+      "code": "ADVT.COMPOSITION_FEES_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Show_Tax_and_Entertainment_tax",
+      "name": "ADVT.SHOW_TAX_AND_ENTERTAINMENT_TAX_TAX",
+      "code": "ADVT.SHOW_TAX_AND_ENTERTAINMENT_TAX_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "ADVT.Show_Tax_and_Entertainment_tax",
+      "name": "ADVT.SHOW_TAX_AND_ENTERTAINMENT_TAX_FIELD_FEE",
+      "code": "ADVT.SHOW_TAX_AND_ENTERTAINMENT_TAX_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Show_Tax_and_Entertainment_tax",
+      "name": "ADVT.SHOW_TAX_AND_ENTERTAINMENT_TAX_CGST",
+      "code": "ADVT.SHOW_TAX_AND_ENTERTAINMENT_TAX_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Show_Tax_and_Entertainment_tax",
+      "name": "ADVT.SHOW_TAX_AND_ENTERTAINMENT_TAX_SGST",
+      "code": "ADVT.SHOW_TAX_AND_ENTERTAINMENT_TAX_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Challan_Under_Section_122_123",
+      "name": "ADVT.CHALLAN_UNDER_SECTION_122_123_TAX",
+      "code": "ADVT.CHALLAN_UNDER_SECTION_122_123_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "ADVT.Challan_Under_Section_122_123",
+      "name": "ADVT.CHALLAN_UNDER_SECTION_122_123_FIELD_FEE",
+      "code": "ADVT.CHALLAN_UNDER_SECTION_122_123_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Challan_Under_Section_122_123",
+      "name": "ADVT.CHALLAN_UNDER_SECTION_122_123_CGST",
+      "code": "ADVT.CHALLAN_UNDER_SECTION_122_123_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Challan_Under_Section_122_123",
+      "name": "ADVT.CHALLAN_UNDER_SECTION_122_123_SGST",
+      "code": "ADVT.CHALLAN_UNDER_SECTION_122_123_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+     {
+      "category": "TAX",
+      "service": "ADVT.Poll_Kiosk",
+      "name": "ADVT.POLL_KIOSK_TAX",
+      "code": "ADVT.POLL_KIOSK_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "ADVT.Poll_Kiosk",
+      "name": "ADVT.POLL_KIOSK_FIELD_FEE",
+      "code": "ADVT.POLL_KIOSK_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Poll_Kiosk",
+      "name": "ADVT.POLL_KIOSK_CGST",
+      "code": "ADVT.POLL_KIOSK_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Poll_Kiosk",
+      "name": "ADVT.POLL_KIOSK_SGST",
+      "code": "ADVT.POLL_KIOSK_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Gantry",
+      "name": "ADVT.GANTRY_TAX",
+      "code": "ADVT.GANTRY_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "ADVT.Gantry",
+      "name": "ADVT.GANTRY_FIELD_FEE",
+      "code": "ADVT.GANTRY_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Gantry",
+      "name": "ADVT.GANTRY_CGST",
+      "code": "ADVT.GANTRY_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Gantry",
+      "name": "ADVT.GANTRY_SGST",
+      "code": "ADVT.GANTRY_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+      {
+      "category": "TAX",
+      "service": "ADVT.Hoardings",
+      "name": "ADVT.HOARDINGS_TAX",
+      "code": "ADVT.HOARDINGS_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "ADVT.Hoardings",
+      "name": "ADVT.HOARDINGS_FIELD_FEE",
+      "code": "ADVT.HOARDINGS_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Unipolls",
+      "name": "ADVT.UNIPOLLS_TAX",
+      "code": "ADVT.UNIPOLLS_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "ADVT.Unipolls",
+      "name": "ADVT.UNIPOLLS_FIELD_FEE",
+      "code": "ADVT.UNIPOLLS_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
     }
   ]
 }
