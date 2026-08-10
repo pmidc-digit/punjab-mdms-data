@@ -41,13 +41,6 @@
             "navigationUrl": "/digit-ui/citizen/pt-home"
           },
           {
-            "code": "CITIZEN_SERVICE_PT_MSEVA",
-            "name": "Property Tax",
-            "label": "MODULE_PT",
-            "enabled": true,
-            "navigationUrl": "/citizen/property-tax"
-          },
-          {
             "code": "CITIZEN_SERVICE_TL",
             "name": "Trade Licence",
             "label": "MODULE_TL",
@@ -185,6 +178,13 @@
             "label": "CS_COMMON_SURVEYS",
             "enabled": true,
             "navigationUrl": "/digit-ui/citizen/engagement/surveys/active-open-surveys"
+          },
+          {
+            "code": "CITIZEN_SERVICE_PT_MSEVA",
+            "name": "Property Tax",
+            "label": "MODULE_PT",
+            "enabled": true,
+            "navigationUrl": "/citizen/property-tax"
           }
         ]
       },
