@@ -945,70 +945,192 @@
       "isRented": false
     },
 	{
+      "tenant": "pb.doraha",
+      "enabled": false,
+      "financialyear": "2026-27",
+      "isRented": false
+    },
+	{
+      "tenant": "pb.fatehgarhchurian",
+      "enabled": false,
+      "financialyear": "2026-27",
+      "isRented": false
+    },
+	{
+      "tenant": "pb.fatehgarhpanjtoor",
+      "enabled": false,
+      "financialyear": "2026-27",
+      "isRented": false
+    },
+	{
+      "tenant": "pb.garhdiwala",
+      "enabled": false,
+      "financialyear": "2026-27",
+      "isRented": false
+    },
+	{
+      "tenant": "pb.ghagga",
+      "enabled": false,
+      "financialyear": "2026-27",
+      "isRented": false
+    },
+	{
+      "tenant": "pb.ghanaur",
+      "enabled": false,
+      "financialyear": "2026-27",
+      "isRented": false
+    },
+	{
+      "tenant": "pb.gharuan",
+      "enabled": false,
+      "financialyear": "2026-27",
+      "isRented": false
+    },
+	{
+      "tenant": "pb.gidderbaha",
+      "enabled": false,
+      "financialyear": "2026-27",
+      "isRented": false
+    },
+	{
+      "tenant": "pb.goniana",
+      "enabled": false,
+      "financialyear": "2026-27",
+      "isRented": false
+    },
+	{
+      "tenant": "pb.goraya",
+      "enabled": false,
+      "financialyear": "2026-27",
+      "isRented": false
+    },
+	{
       "tenant": "pb.devigarh",
       "enabled": true,
       "financialyear": "2026-27",
       "isRented": false
     },
 	{
-      "tenant": "pb.doraha",
+      "tenant": "pb.guruharsahai",
       "enabled": true,
       "financialyear": "2026-27",
       "isRented": false
     },
 	{
-      "tenant": "pb.fatehgarhchurian",
+      "tenant": "pb.handiaya",
       "enabled": true,
       "financialyear": "2026-27",
       "isRented": false
     },
 	{
-      "tenant": "pb.fatehgarhpanjtoor",
+      "tenant": "pb.hariana",
       "enabled": true,
       "financialyear": "2026-27",
       "isRented": false
     },
 	{
-      "tenant": "pb.garhdiwala",
+      "tenant": "pb.itpatiala",
       "enabled": true,
       "financialyear": "2026-27",
       "isRented": false
     },
 	{
-      "tenant": "pb.ghagga",
+      "tenant": "pb.jaitu",
       "enabled": true,
       "financialyear": "2026-27",
       "isRented": false
     },
 	{
-      "tenant": "pb.ghanaur",
+      "tenant": "pb.jalalabad",
       "enabled": true,
       "financialyear": "2026-27",
       "isRented": false
     },
 	{
-      "tenant": "pb.gharuan",
+      "tenant": "pb.jandialaguru",
       "enabled": true,
       "financialyear": "2026-27",
       "isRented": false
     },
 	{
-      "tenant": "pb.gidderbaha",
+      "tenant": "pb.joga",
       "enabled": true,
       "financialyear": "2026-27",
       "isRented": false
     },
 	{
-      "tenant": "pb.goniana",
+      "tenant": "pb.kartarpur",
       "enabled": true,
       "financialyear": "2026-27",
       "isRented": false
     },
 	{
-      "tenant": "pb.goraya",
+      "tenant": "pb.kharar",
       "enabled": true,
       "financialyear": "2026-27",
       "isRented": false
-    }	  
+    },
+	{
+      "tenant": "pb.khemkaran",
+      "enabled": true,
+      "financialyear": "2026-27",
+      "isRented": false
+    },
+	{
+      "tenant": "pb.kotfatta",
+      "enabled": true,
+      "financialyear": "2026-27",
+      "isRented": false
+    } ,
+	{
+      "tenant": "pb.kothaguru",
+      "enabled": true,
+      "financialyear": "2026-27",
+      "isRented": false
+    } ,
+	{
+      "tenant": "pb.kotissekhan",
+      "enabled": true,
+      "financialyear": "2026-27",
+      "isRented": false
+    } ,
+	{
+      "tenant": "pb.kotkapura",
+      "enabled": true,
+      "financialyear": "2026-27",
+      "isRented": false
+    } ,
+	{
+      "tenant": "pb.kotshamir",
+      "enabled": true,
+      "financialyear": "2026-27",
+      "isRented": false
+    } ,
+	{
+      "tenant": "pb.lalru",
+      "enabled": true,
+      "financialyear": "2026-27",
+      "isRented": false
+    } ,
+	{
+      "tenant": "pb.lehragaga",
+      "enabled": true,
+      "financialyear": "2026-27",
+      "isRented": false
+    } ,
+	{
+      "tenant": "pb.lehramohabbat",
+      "enabled": true,
+      "financialyear": "2026-27",
+      "isRented": false
+    } ,
+	{
+      "tenant": "pb.lohiankhas",
+      "enabled": true,
+      "financialyear": "2026-27",
+      "isRented": false
+    } 
+
+	  
   ]
 }
