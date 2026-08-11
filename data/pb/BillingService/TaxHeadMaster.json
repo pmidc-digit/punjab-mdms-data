@@ -7762,7 +7762,7 @@
       "isDebit": false,
       "isActualDemand": true,
       "order": "9",
-      "isRequired": false     
+      "isRequired": false
     },
     {
       "category": "TAX",
@@ -7772,7 +7772,7 @@
       "isDebit": false,
       "isActualDemand": true,
       "order": "10",
-      "isRequired": false     
+      "isRequired": false
     },
     {
       "category": "PENALTY",
@@ -7782,7 +7782,7 @@
       "isDebit": false,
       "isActualDemand": true,
       "order": "11",
-      "isRequired": false     
+      "isRequired": false
     },
     {
       "category": "ADVANCE_COLLECTION",
@@ -7874,7 +7874,7 @@
       "order": "0",
       "isRequired": false
     },
-     {
+    {
       "category": "TAX",
       "service": "ADVT.Light_Wala_Board",
       "name": "ADVT.LIGHT_WALA_BOARD_TAX",
@@ -7934,7 +7934,7 @@
       "order": "0",
       "isRequired": false
     },
-      {
+    {
       "category": "TAX",
       "service": "ADVT.Hoardings",
       "name": "ADVT.HOARDINGS_CGST",
@@ -8094,7 +8094,7 @@
       "order": "0",
       "isRequired": false
     },
-     {
+    {
       "category": "TAX",
       "service": "ADVT.Composition_Fees",
       "name": "ADVT.COMPOSITION_FEES_TAX",
@@ -8214,7 +8214,7 @@
       "order": "0",
       "isRequired": false
     },
-     {
+    {
       "category": "TAX",
       "service": "ADVT.Poll_Kiosk",
       "name": "ADVT.POLL_KIOSK_TAX",
@@ -8289,46 +8289,6 @@
       "service": "ADVT.Gantry",
       "name": "ADVT.GANTRY_SGST",
       "code": "ADVT.GANTRY_SGST",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-      {
-      "category": "TAX",
-      "service": "ADVT.Hoardings",
-      "name": "ADVT.HOARDINGS_TAX",
-      "code": "ADVT.HOARDINGS_TAX",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "1",
-      "isRequired": true
-    },
-    {
-      "category": "CHARGES",
-      "service": "ADVT.Hoardings",
-      "name": "ADVT.HOARDINGS_FIELD_FEE",
-      "code": "ADVT.HOARDINGS_FIELD_FEE",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "ADVT.Unipolls",
-      "name": "ADVT.UNIPOLLS_TAX",
-      "code": "ADVT.UNIPOLLS_TAX",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "1",
-      "isRequired": true
-    },
-    {
-      "category": "CHARGES",
-      "service": "ADVT.Unipolls",
-      "name": "ADVT.UNIPOLLS_FIELD_FEE",
-      "code": "ADVT.UNIPOLLS_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
