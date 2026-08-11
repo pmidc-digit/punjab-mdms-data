@@ -563,7 +563,7 @@
     {
       "code": "pb.mansa",
       "name": "Mansa",
-      "iswater": true,
+      "iswater": false,
       "issewerage": false
     },
     {
@@ -683,13 +683,13 @@
     {
       "code": "pb.bhikhi",
       "name": "Bhikhi",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.bhuchomandi",
       "name": "Bhuchomandi",
-      "iswater": false,
+      "iswater": true,
       "issewerage": false
     },
     {
