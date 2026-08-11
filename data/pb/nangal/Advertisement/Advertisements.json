@@ -11,12 +11,13 @@
       "height": 3,
       "imageSrc": "",
       "light": "With Light",
-      "amount": null,
-      "monthlyAmount": 45,
+      "amount": 45,
       "available": true,
       "locationCode": "ANYWHERE",
       "feeType": "ADV_BOOKING_FEES",
-      "taxApplicable": true
+      "taxApplicable": true,
+      "scheduleType": "MONTHLY",
+      "rentalType": "FIXED"
     },
     {
       "id": 2,
@@ -27,12 +28,13 @@
       "height": 3,
       "imageSrc": "",
       "light": "With Light",
-      "amount": null,
-      "monthlyAmount": 90,
+      "amount": 90,
       "available": true,
       "locationCode": "ANYWHERE",
       "feeType": "ADV_BOOKING_FEES",
-      "taxApplicable": true
+      "taxApplicable": true,
+      "scheduleType": "MONTHLY",
+      "rentalType": "FIXED"
     },
     {
       "id": 3,
@@ -43,12 +45,13 @@
       "height": 3,
       "imageSrc": "",
       "light": "With Light",
-      "amount": null,
-      "monthlyAmount": 135,
+      "amount": 135,
       "available": true,
       "locationCode": "ANYWHERE",
       "feeType": "ADV_BOOKING_FEES",
-      "taxApplicable": true
+      "taxApplicable": true,
+      "scheduleType": "MONTHLY",
+      "rentalType": "FIXED"
     },
     {
       "id": 4,
@@ -59,12 +62,13 @@
       "height": 3,
       "imageSrc": "",
       "light": "With Light",
-      "amount": null,
-      "monthlyAmount": 180,
+      "amount": 180,
       "available": true,
       "locationCode": "ANYWHERE",
       "feeType": "ADV_BOOKING_FEES",
-      "taxApplicable": true
+      "taxApplicable": true,
+      "scheduleType": "MONTHLY",
+      "rentalType": "FIXED"
     },
     {
       "id": 5,
@@ -75,12 +79,13 @@
       "height": 3,
       "imageSrc": "",
       "light": "With Light",
-      "amount": null,
-      "monthlyAmount": 225,
+      "amount": 225,
       "available": true,
       "locationCode": "ANYWHERE",
       "feeType": "ADV_BOOKING_FEES",
-      "taxApplicable": true
+      "taxApplicable": true,
+      "scheduleType": "MONTHLY",
+      "rentalType": "FIXED"
     },
     {
       "id": 6,
@@ -91,12 +96,13 @@
       "height": 3,
       "imageSrc": "",
       "light": "With Light",
-      "amount": null,
-      "monthlyAmount": 450,
+      "amount": 450,
       "available": true,
       "locationCode": "ANYWHERE",
       "feeType": "ADV_BOOKING_FEES",
-      "taxApplicable": true
+      "taxApplicable": true,
+      "scheduleType": "MONTHLY",
+      "rentalType": "FIXED"
     },
     {
       "id": 7,
@@ -107,12 +113,13 @@
       "height": 3,
       "imageSrc": "",
       "light": "With Light",
-      "amount": null,
-      "monthlyAmount": 900,
+      "amount": 900,
       "available": true,
       "locationCode": "ANYWHERE",
       "feeType": "ADV_BOOKING_FEES",
-      "taxApplicable": true
+      "taxApplicable": true,
+      "scheduleType": "MONTHLY",
+      "rentalType": "FIXED"
     },
     {
       "id": 8,
@@ -123,12 +130,13 @@
       "height": 3,
       "imageSrc": "",
       "light": "With Light",
-      "amount": null,
-      "monthlyAmount": 1350,
+      "amount": 1350,
       "available": true,
       "locationCode": "ANYWHERE",
       "feeType": "ADV_BOOKING_FEES",
-      "taxApplicable": true
+      "taxApplicable": true,
+      "scheduleType": "MONTHLY",
+      "rentalType": "FIXED"
     },
     {
       "id": 9,
@@ -139,12 +147,13 @@
       "height": 3,
       "imageSrc": "",
       "light": "With Light",
-      "amount": null,
-      "monthlyAmount": 1800,
+      "amount": 1800,
       "available": true,
       "locationCode": "ANYWHERE",
       "feeType": "ADV_BOOKING_FEES",
-      "taxApplicable": true
+      "taxApplicable": true,
+      "scheduleType": "MONTHLY",
+      "rentalType": "FIXED"
     },
     {
       "id": 10,
@@ -155,12 +164,13 @@
       "height": 3,
       "imageSrc": "",
       "light": "With Light",
-      "amount": null,
-      "monthlyAmount": 2250,
+      "amount": 2250,
       "available": true,
       "locationCode": "ANYWHERE",
       "feeType": "ADV_BOOKING_FEES",
-      "taxApplicable": true
+      "taxApplicable": true,
+      "scheduleType": "MONTHLY",
+      "rentalType": "FIXED"
     },
     {
       "id": 11,
@@ -171,12 +181,13 @@
       "height": 3,
       "imageSrc": "",
       "light": "With Light",
-      "amount": null,
-      "monthlyAmount": 4500,
+      "amount": 4500,
       "available": true,
       "locationCode": "ANYWHERE",
       "feeType": "ADV_BOOKING_FEES",
-      "taxApplicable": true
+      "taxApplicable": true,
+      "scheduleType": "MONTHLY",
+      "rentalType": "FIXED"
     }
   ]
 }
