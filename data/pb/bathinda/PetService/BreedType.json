@@ -84,6 +84,15 @@
       "feeType": "PET_REGISTRATION_FEE"
     },
     {
+      "name": "Toy Pom",
+      "code": "TOY_POM",
+      "active": true,
+      "petType": "DOG",
+      "newapplication": 500,
+      "renewapplication": 500,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
       "name": "Pug",
       "code": "PUG",
       "active": true,
