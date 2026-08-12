@@ -42478,22 +42478,46 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "SUPERUSER",
+      "rolecode": "PTCEMP",
       "actionid": 3040,
       "actioncode": "",
       "tenantId": "pb"
     },
     {
-      "rolecode": "EMPLOYEE",
+      "rolecode": "PTFEMP",
       "actionid": 3040,
       "actioncode": "",
       "tenantId": "pb"
     },
     {
-      "rolecode": "ULB Operator",
+      "rolecode": "PT_DOC_VERIFIER",
       "actionid": 3040,
       "actioncode": "",
       "tenantId": "pb"
-    } 
+    },
+    {
+      "rolecode": "PT_FIELD_INSPECTOR",
+      "actionid": 3040,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_APPROVER",
+      "actionid": 3040,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT REPORTS",
+      "actionid": 3040,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ULB_ADMINISTRATOR_REPORTS",
+      "actionid": 3040,
+      "actioncode": "",
+      "tenantId": "pb"
+    }
   ]
 }
