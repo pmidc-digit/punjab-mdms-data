@@ -30097,6 +30097,36 @@
       "navigationURL": "report/rainmaker-pt/Test",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    }  
+    },
+    {
+      "id": 204100,
+      "name": "ReceiptRegister_24_25",
+      "url": "url",
+      "displayName": "Receipt Register 24 25",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.Payment Registers.ReceiptRegister_24_25",
+      "navigationURL": "report/rainmaker-pt/ReceiptRegister_24_25",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 204200,
+      "name": "ReceiptRegister_25_26",
+      "url": "url",
+      "displayName": "Receipt Register 25 26",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.Payment Registers.ReceiptRegister_25_26",
+      "navigationURL": "report/rainmaker-pt/ReceiptRegister_25_26",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    }    
   ]
 }
