@@ -1,47 +1,46 @@
 {
-  "tenantId": "pb.testing",
+  "tenantId": "pb.sirhind",
   "moduleName": "rl-services-masters",
   "Penalty": [
     {
-      "rate": 12.5,
+      "billingCycle": "MONTHLY",
+      "rate": 0,
       "minAmount": 0,
       "applicableAfterDays": 0,
       "flatAmount": null,
       "maxAmount": null,
-      "fromFY": "2025-26",
-      "startingDay": "1/04/2025",
-      "billingCycle": "MONTHLY",
-      "penaltyType": "COMPOUNDING"
+      "fromFY": "2026-27",
+      "startingDay": "1/04/2026"
     },
     {
       "billingCycle": "QUATERLY",
-      "rate": 12.5,
+      "rate": 0,
       "minAmount": 0,
       "applicableAfterDays": 0,
       "flatAmount": null,
       "maxAmount": null,
-      "fromFY": "2025-26",
-      "startingDay": "1/04/2025"
+      "fromFY": "2026-27",
+      "startingDay": "1/04/2026"
     },
     {
       "billingCycle": "BIANNUAL",
-      "rate": 12.5,
+      "rate": 0,
       "minAmount": 0,
       "applicableAfterDays": 0,
       "flatAmount": null,
       "maxAmount": null,
-      "fromFY": "2025-26",
-      "startingDay": "1/04/2025"
+      "fromFY": "2026-27",
+      "startingDay": "1/04/2026"
     },
     {
       "billingCycle": "ANNUAL",
-      "rate": 12.5,
+      "rate": 0,
       "minAmount": 0,
       "applicableAfterDays": 0,
       "flatAmount": null,
       "maxAmount": null,
-      "fromFY": "2025-26",
-      "startingDay": "1/04/2025"
+      "fromFY": "2026-27",
+      "startingDay": "1/04/2026"
     }
   ]
 }
