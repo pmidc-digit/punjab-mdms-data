@@ -30139,7 +30139,7 @@
       "enabled": true,
       "serviceCode": "",
       "path": "Property Tax.PT Reports.Payment Registers.ReceiptRegisterSummary_24_25",
-      "navigationURL": "report-v2/rainmaker-pt/ReceiptRegisterSummary_24_25",
+      "navigationURL": "report/rainmaker-pt/ReceiptRegisterSummary_24_25",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
@@ -30154,7 +30154,7 @@
       "enabled": true,
       "serviceCode": "",
       "path": "Property Tax.PT Reports.Payment Registers.ReceiptRegisterSummary_25_26",
-      "navigationURL": "report-v2/rainmaker-pt/ReceiptRegisterSummary_25_26",
+      "navigationURL": "report/rainmaker-pt/ReceiptRegisterSummary_25_26",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     }    
