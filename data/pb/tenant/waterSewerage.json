@@ -35,8 +35,8 @@
     {
       "code": "pb.dasuya",
       "name": "Dasuya",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.sultanpurlodhi",
@@ -174,7 +174,7 @@
       "code": "pb.derabassi",
       "name": "Derabassi",
       "iswater": false,
-      "issewerage": true
+      "issewerage": false
     },
     {
       "code": "pb.dhuri",
@@ -690,7 +690,7 @@
       "code": "pb.bhuchomandi",
       "name": "Bhuchomandi",
       "iswater": false,
-      "issewerage": false
+      "issewerage": true
     },
     {
       "code": "pb.budhlada",
