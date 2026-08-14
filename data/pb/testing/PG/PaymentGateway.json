@@ -3,7 +3,7 @@
     "moduleName": "PAYMENT",
     "PaymentGateway": [
         {
-            "gateway": "PAYU",
+            "gateway": "RAZORPAY",
             "active": true,
             "businessService": [
                 "GC.ONE_TIME_FEE",
