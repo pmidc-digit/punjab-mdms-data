@@ -137,7 +137,7 @@
     {
       "code": "pb.mallanwala",
       "name": "Mallanwala",
-      "iswater": false,
+      "iswater": true,
       "issewerage": false
     },
     {
@@ -665,7 +665,7 @@
     {
       "code": "pb.banur",
       "name": "Banur",
-      "iswater": false,
+      "iswater": true,
       "issewerage": false
     },
     {
@@ -690,7 +690,7 @@
       "code": "pb.bhuchomandi",
       "name": "Bhuchomandi",
       "iswater": false,
-      "issewerage": true
+      "issewerage": false
     },
     {
       "code": "pb.budhlada",
