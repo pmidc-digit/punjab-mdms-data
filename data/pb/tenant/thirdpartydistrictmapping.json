@@ -2,50 +2,45 @@
   "tenantId": "pb",
   "moduleName": "tenant",
   "thirdpartydistrictmapping": [
-  {
-  "tenantId": "pb",
-  "moduleName": "tenant",
-  "thirdpartydistrictmapping": {
-    "districts": [
-      { "msevaname": "Barnala", "thirdpartyname": "BARNALA", "census2011code": "054" },
-      { "msevaname": "Ferozepur", "thirdpartyname": "FEROZEPUR", "census2011code": "043" },
-      { "msevaname": "Gurdaspur", "thirdpartyname": "GURDASPUR", "census2011code": "035" },
-      { "msevaname": "Amritsar", "thirdpartyname": "AMRITSAR", "census2011code": "049" },
-      { "msevaname": "Mohali", "thirdpartyname": "SAS NAGAR", "census2011code": "052" },
-      { "msevaname": "Nawanshar", "thirdpartyname": "S.B.S. NAGAR", "census2011code": "039" },
-      { "msevaname": "Muktsar", "thirdpartyname": "MUKTSAR", "census2011code": "044" },
-      { "msevaname": "Bathinda", "thirdpartyname": "BATHINDA", "census2011code": "046" },
-      { "msevaname": "Hoshiarpur", "thirdpartyname": "HOSHIARPUR", "census2011code": "038" },
-      { "msevaname": "Ropar", "thirdpartyname": "ROOPNAGAR", "census2011code": "051" },
-      { "msevaname": "Pathankot", "thirdpartyname": "PATHANKOT", "census2011code": "000" },
-      { "msevaname": "Fatehgarh Sahib", "thirdpartyname": "FATEHGARH SAHIB", "census2011code": "040" },
-      { "msevaname": "Ludhiana", "thirdpartyname": "LUDHIANA", "census2011code": "041" },
-      { "msevaname": "Fazilka", "thirdpartyname": "FAZILKA", "census2011code": "000" },
-      { "msevaname": "Patiala", "thirdpartyname": "PATIALA", "census2011code": "048" },
-      { "msevaname": "Kapurthala", "thirdpartyname": "KAPURTHALA", "census2011code": "036" },
-      { "msevaname": "Sangrur", "thirdpartyname": "SANGRUR", "census2011code": "053" },
-      { "msevaname": "Mansa", "thirdpartyname": "MANSA", "census2011code": "047" },
-      { "msevaname": "Jalandhar", "thirdpartyname": "JALANDHAR", "census2011code": "037" },
-      { "msevaname": "Punjab", "thirdpartyname": null, "census2011code": null },
-      { "msevaname": "Faridkot", "thirdpartyname": "FARIDKOT", "census2011code": "045" },
-      { "msevaname": "kapurthala", "thirdpartyname": "KAPURTHALA", "census2011code": "036" },
-      { "msevaname": "Ferozepurpwssb", "thirdpartyname": "FEROZEPUR", "census2011code": "043" },
-      { "msevaname": "Tarn Taran", "thirdpartyname": "TARN TARAN", "census2011code": "050" },
-      { "msevaname": "Moga", "thirdpartyname": "MOGA", "census2011code": "042" },
-      { "msevaname": "Roopnagar", "thirdpartyname": "ROOPNAGAR", "census2011code": "051" }
-    ],
-    "roles": [
-      "WS_CLERK",
-      "NOC_CEMP",
-      "TL_CEMP",
-      "SW_CLERK",
-      "CEMP",
-      "WS_CEMP",
-      "PTCEMP",
-      "ESEWAEMP"
-    ]
-  }
-}
-
+    {
+      "districts": [
+        { "msevaname": "Barnala", "thirdpartyname": "BARNALA" },
+        { "msevaname": "Ferozepur", "thirdpartyname": "FEROZEPUR" },
+        { "msevaname": "Gurdaspur", "thirdpartyname": "GURDASPUR" },
+        { "msevaname": "Amritsar", "thirdpartyname": "AMRITSAR" },
+        { "msevaname": "Mohali", "thirdpartyname": "SAS NAGAR" },
+        { "msevaname": "Nawanshar", "thirdpartyname": "S.B.S. NAGAR" },
+        { "msevaname": "Muktsar", "thirdpartyname": "MUKTSAR" },
+        { "msevaname": "Bathinda", "thirdpartyname": "BATHINDA" },
+        { "msevaname": "Hoshiarpur", "thirdpartyname": "HOSHIARPUR" },
+        { "msevaname": "Ropar", "thirdpartyname": "ROOPNAGAR" },
+        { "msevaname": "Pathankot", "thirdpartyname": "PATHANKOT" },
+        { "msevaname": "Fatehgarh Sahib", "thirdpartyname": "FATEHGARH SAHIB" },
+        { "msevaname": "Ludhiana", "thirdpartyname": "LUDHIANA" },
+        { "msevaname": "Fazilka", "thirdpartyname": "FAZILKA" },
+        { "msevaname": "Patiala", "thirdpartyname": "PATIALA" },
+        { "msevaname": "Kapurthala", "thirdpartyname": "KAPURTHALA" },
+        { "msevaname": "Sangrur", "thirdpartyname": "SANGRUR" },
+        { "msevaname": "Mansa", "thirdpartyname": "MANSA" },
+        { "msevaname": "Jalandhar", "thirdpartyname": "JALANDHAR" },
+        { "msevaname": "Punjab", "thirdpartyname": null },
+        { "msevaname": "Faridkot", "thirdpartyname": "FARIDKOT" },
+        { "msevaname": "kapurthala", "thirdpartyname": "KAPURTHALA" },
+        { "msevaname": "Ferozepurpwssb", "thirdpartyname": "FEROZEPUR" },
+        { "msevaname": "Tarn Taran", "thirdpartyname": "TARN TARAN" },
+        { "msevaname": "Moga", "thirdpartyname": "MOGA" },
+        { "msevaname": "Roopnagar", "thirdpartyname": "ROOPNAGAR" }
+      ],
+      "roles": [
+        "WS_CLERK",
+        "NOC_CEMP",
+        "TL_CEMP",
+        "SW_CLERK",
+        "CEMP",
+        "WS_CEMP",
+        "PTCEMP",
+        "ESEWAEMP"
+      ]
+    }
   ]
 }
