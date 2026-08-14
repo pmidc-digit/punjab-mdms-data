@@ -42518,8 +42518,8 @@
       "actionid": 3040,
       "actioncode": "",
       "tenantId": "pb"
-    },
-        {
+    },    
+    {
       "rolecode": "PTCEMP",
       "actionid": 204100,
       "actioncode": "",
@@ -42549,7 +42549,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-        {
+    {
       "rolecode": "EMPLOYEE",
       "actionid": 204100,
       "actioncode": "",
@@ -42561,7 +42561,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-        {
+    {
       "rolecode": "PTCEMP",
       "actionid": 204200,
       "actioncode": "",
@@ -42591,7 +42591,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-        {
+    {
       "rolecode": "EMPLOYEE",
       "actionid": 204200,
       "actioncode": "",
@@ -42627,7 +42627,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-        {
+    {
       "rolecode": "ULB_ADMINISTRATOR_REPORTS",
       "actionid": 204300,
       "actioncode": "",
@@ -42663,7 +42663,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-        {
+    {
       "rolecode": "CSR",
       "actionid": 204400,
       "actioncode": "",
@@ -42687,7 +42687,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-        {
+    {
       "rolecode": "ULB_ADMINISTRATOR_REPORTS",
       "actionid": 204400,
       "actioncode": "",
@@ -42720,18 +42720,6 @@
     {
       "rolecode": "PT REPORTS",
       "actionid": 204400,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 5008,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 5010,
       "actioncode": "",
       "tenantId": "pb"
     }
