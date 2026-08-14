@@ -21,18 +21,7 @@
             "isCitizen": true,
             "kpis": [],
             "links": [
-                {
-                    "link": "edcrscrutiny/apply",
-                    "i18nKey": "BPA_PLAN_SCRUTINY_FOR_NEW_CONSTRUCTION_LABEL"
-                },
-                {
-                    "link": "bpa/building_plan_scrutiny/new_construction/",
-                    "i18nKey": "BPA_HOME_BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_LABEL"
-                },
-                {
-                    "link": "bpa/inbox",
-                    "i18nKey": "ES_COMMON_OBPS_INBOX_LABEL"
-                }
+            
             ]
         },
         {
