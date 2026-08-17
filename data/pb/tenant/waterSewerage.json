@@ -5,8 +5,8 @@
     {
       "code": "pb.khanna",
       "name": "Khanna",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.devigarh",
@@ -137,7 +137,7 @@
     {
       "code": "pb.mallanwala",
       "name": "Mallanwala",
-      "iswater": true,
+      "iswater": false,
       "issewerage": false
     },
     {
@@ -276,7 +276,7 @@
       "code": "pb.sirhind",
       "name": "Sirhind",
       "iswater": false,
-      "issewerage": false
+      "issewerage": true
     },
     {
       "code": "pb.talwara",
