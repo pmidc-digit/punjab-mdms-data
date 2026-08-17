@@ -13,7 +13,7 @@
         {
           "from": 0.00,
           "to": 125.00,
-          "charge": 0,
+          "charge": 315,
           "effectiveFrom": 917523271000,
           "effectiveTo": 1901252691000
         },
@@ -144,7 +144,7 @@
         {
           "from": 0.00,
           "to": 125.00,
-          "charge": 0,
+          "charge": 315,
           "effectiveFrom": 917523271000,
           "effectiveTo": 1901252691000
         },
