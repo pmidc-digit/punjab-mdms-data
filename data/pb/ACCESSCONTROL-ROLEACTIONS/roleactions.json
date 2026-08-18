@@ -71402,6 +71402,42 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "SUPERUSER",
+      "actionid": 3041,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3041,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ULB Operator",
+      "actionid": 3041,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3042,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3042,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ULB Operator",
+      "actionid": 3042,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "OBPAS_LAYOUT_MTP(HQ)",
       "actionid": 8900903,
       "actioncode": "",
