@@ -1249,6 +1249,12 @@
       "enabled": true,
       "financialyear": "2026-27",
       "isRented": false
+    },
+	{
+      "tenant": "pb.patiala",
+      "enabled": true,
+      "financialyear": "2026-27",
+      "isRented": false
     }
 
   ]
