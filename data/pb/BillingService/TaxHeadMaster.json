@@ -7342,6 +7342,16 @@
       "isRequired": false
     },
     {
+      "category": "FEE",
+      "service": "adv-services",
+      "name": "ADV Round Off",
+      "code": "ADV_ROUND_OFF",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 8,
+      "isRequired": false
+    },
+    {
       "category": "CHARGES",
       "code": "GC_CHARGE",
       "isActualDemand": true,
