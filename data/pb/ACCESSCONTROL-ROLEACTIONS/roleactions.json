@@ -37991,9 +37991,21 @@
       "actioncode": "",
       "tenantId": "pb"
     },
+     {
+      "rolecode": "ADV_EMPLOYEE",
+      "actionid": 887666,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
     {
       "rolecode": "ADV_VERIFIER",
       "actionid": 883322,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+      {
+      "rolecode": "ADV_VERIFIER",
+      "actionid": 887666,
       "actioncode": "",
       "tenantId": "pb"
     },
@@ -38106,6 +38118,12 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "CITIZEN",
+      "actionid": 887666,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+        {
       "rolecode": "CITIZEN",
       "actionid": 883324,
       "actioncode": "",
