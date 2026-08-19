@@ -1,0 +1,78 @@
+{
+  "tenantId": "pb.devigarh",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "devigarh",
+        "localname": "devigarh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.devigarh",
+        "children": [
+          {
+            "id": "e2e9a4ba-491b-4a9d-aa34-f1aee66a1b81",
+            "boundaryNum": 1,
+            "name": "DEVIGARH",
+            "localname": "DEVIGARH",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "GZN 1",
+            "children": [
+              {
+                "id": "57aa42ea-da61-4220-ac43-5279666b11ed",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD1",
+                "children": [
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "DEVIGARH",
+        "localname": "DEVIGARH",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.devigarh",
+        "children": [
+          {
+                "id": "57aa42ea-da61-4220-ac43-5279666b11ed",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD1",
+                "children": [
+                ]
+              }
+        ]
+      }
+    }
+  ]
+}
