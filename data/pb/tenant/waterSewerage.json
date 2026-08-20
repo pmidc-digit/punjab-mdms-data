@@ -24,7 +24,7 @@
       "code": "pb.handiaya",
       "name": "Handiaya",
       "iswater": false,
-      "issewerage": true
+      "issewerage": false
     },
     {
       "code": "pb.lalru",
@@ -215,8 +215,8 @@
     {
       "code": "pb.kartarpur",
       "name": "Kartarpur",
-      "iswater": true,
-      "issewerage": false
+      "iswater": false,
+      "issewerage": true
     },
     {
       "code": "pb.machhiwara",
@@ -911,7 +911,7 @@
     {
       "code": "pb.ramdass",
       "name": "Ramdass",
-      "iswater": false,
+      "iswater": true,
       "issewerage": false
     },
     {
