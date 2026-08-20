@@ -6,9 +6,9 @@
 			"code": "101",
 			"name": "M1",
 			"Scheme": "SCHEME1",
-			"fromFY": "2025-26",
-			"startingDate": 1743465600000,
-			"endingDate": 1774981799000,
+			"fromFY": "2026-27",
+			"startingDate": 1774981800000,
+			"endingDate": 1806517740000,
 			"active": true,
 			"OccType": [
 				{
@@ -241,6 +241,16 @@
 								"percentage": 40
 							}
 						]
+					},
+					"parkingStandards": {
+						"mandatory": true,
+						"type": "MAP",
+						"value": {
+							"openEcsArea": 22.17,
+							"coveredEcsArea": 27.18,
+							"basementEcsArea": 32.2,
+							"stiltEcsArea": 27.18
+						}
 					},
 					"parking": {
 						"mandatory": true,
@@ -631,6 +641,13 @@
 						"valueType": "INTEGER",
 						"unit": "percent",
 						"value": 5
+					},
+					"plantationOpenArea": {
+						"mandatory": true,
+						"type": "SIMPLE",
+						"valueType": "DOUBLE",
+						"unit": "percent",
+						"value": 10
 					},
 					"toilet": {
 						"mandatory": true,
@@ -1025,6 +1042,54 @@
 									"max": 0.0
 								}
 							},
+							"vehicle": {
+								"mandatory": true,
+								"type": "MAP",
+								"value": {
+									"flightWidth": {
+										"type": "RANGE",
+										"value": {
+											"min": 4.0,
+											"max": 0.0
+										}
+									},
+									"straightSlope": {
+										"type": "RANGE",
+										"value": {
+											"min": 10.0,
+											"max": 0.0
+										}
+									},
+									"curvedSlope": {
+										"type": "RANGE",
+										"value": {
+											"min": 12.0,
+											"max": 0.0
+										}
+									},
+									"width": {
+										"type": "RANGE",
+										"value": {
+											"min": 3.6,
+											"max": 0.0
+										}
+									},
+									"singleWidth": {
+										"type": "RANGE",
+										"value": {
+											"min": 5.4,
+											"max": 0.0
+										}
+									},
+									"closedSlope": {
+										"type": "RANGE",
+										"value": {
+											"min": 8.0,
+											"max": 0.0
+										}
+									}
+								}
+							},
 							"width": {
 								"mandatory": true,
 								"type": "RANGE",
@@ -1161,7 +1226,7 @@
 								"type": "SIMPLE",
 								"valueType": "INTEGER",
 								"unit": "percent",
-								"value": 8
+								"value": 20
 							}
 						}
 					}
