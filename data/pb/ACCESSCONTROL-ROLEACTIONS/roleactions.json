@@ -71682,6 +71682,24 @@
       "actionid": 204400,
       "actioncode": "",
       "tenantId": "pb"
-    }     
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8955517,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8955518,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS REPORTS",
+      "actionid": 8955519,
+      "actioncode": "",
+      "tenantId": "pb"
+    }
   ]
 }

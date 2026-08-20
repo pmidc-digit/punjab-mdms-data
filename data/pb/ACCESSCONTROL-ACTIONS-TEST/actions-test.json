@@ -30179,6 +30179,43 @@
       "navigationURL": "report/rainmaker-pt/ReceiptRegisterSummary_25_26",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    }    
+    },
+    {
+      "id": 8955517,
+      "name": "Bpa Labour Department Report",
+      "url": "url",
+      "displayName": "Bpa Labour Department Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "BUILDING PLAN REPORTS",
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "path": "BUILDING PLAN REPORTS.Bpa Labour Department Report",
+      "navigationURL": "report/rainmaker-obpas_bpa/BpaLabourDepartmentReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8955518,
+      "name": "Bpa Labour Department Report",
+      "url": "/report/rainmaker-obpas_bpa/BpaLabourDepartmentReport/metadata/_get",
+      "displayName": "Application Detail Report BPA",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8955519,
+      "name": "Bpa Labour Department Report",
+      "url": "/report/rainmaker-obpas_bpa/BpaLabourDepartmentReport/_get",
+      "displayName": "Application Detail Report BPA",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "code": "null",
+      "path": ""
+    }
   ]
 }
