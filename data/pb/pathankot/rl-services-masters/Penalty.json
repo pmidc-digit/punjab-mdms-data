@@ -6,6 +6,7 @@
       "billingCycle": "MONTHLY",
       "rate": 10,
       "minAmount": 0,
+      "penaltyType": "FIXED",
       "applicableAfterDays": 10,
       "flatAmount": null,
       "maxAmount": null,
