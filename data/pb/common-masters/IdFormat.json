@@ -722,11 +722,11 @@
 	  "idname": "bpareg.receipt.id"
 	},
 	{
-	    "format": "BPA/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+	    "format": "BPA/[CITY.CODE]/[fy:yyyy-yy]/[seq_eg_bpa_rcpt]",
 	    "idname": "bpa.nc_app_fee.receipt.id"
 	},
 	{
-	    "format": "BPA/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+	    "format": "BPA/[CITY.CODE]/[fy:yyyy-yy]/[seq_eg_bpa_rcpt]",
 	    "idname": "bpa.nc_san_fee.receipt.id"
 	},
 	{
@@ -770,7 +770,7 @@
 	  "idname": "bpa.permitnumber"
 	},
 	{
-	  "format": "BPA/OC/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+	  "format": "BPA/OC/[CITY.CODE]/[fy:yyyy-yy]/[seq_eg_bpa_rcpt]",
 	  "idname": "bpa.nc_oc_app_fee.receipt.id"
 	},
   {
