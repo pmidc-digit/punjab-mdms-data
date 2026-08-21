@@ -300,7 +300,7 @@
             },
             {
               "attribute": {
-                "jsonPath": "*/address"
+                "jsonPath": "*/user_address"
               },
               "accessType": "PLAIN"
             }
