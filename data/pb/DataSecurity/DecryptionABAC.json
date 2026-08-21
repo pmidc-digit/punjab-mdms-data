@@ -297,6 +297,12 @@
                 "jsonPath": "*/collectorname"
               },
               "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/address"
+              },
+              "accessType": "PLAIN"
             }
           ]
         }
