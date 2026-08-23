@@ -336,6 +336,18 @@
                     "code": "SC18",
                     "area": "AREA1",
                     "children": []
+                  },
+                  {
+                    "id": "88990d02-588c-4a12-a4d5-98bb7e881c2d",
+                    "boundaryNum": 1,
+                    "name": "UNKNOWN - B8 - A1",
+                    "localname": "UNKNOWN - B8 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "UNKNOWN",
+                    "area": "AREA1",
+                    "children": []
                   }
                 ]
               }
@@ -748,6 +760,18 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "SC19",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "aa6f1639-01d4-40a9-be3a-cc0fd01eebbb",
+                    "boundaryNum": 1,
+                    "name": "UNKNOWNAD - WARD_13",
+                    "localname": "UNKNOWNAD - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "UNKNOWNAD",
                     "area": "",
                     "children": []
                   }
