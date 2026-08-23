@@ -30216,6 +30216,22 @@
       "serviceCode": "OBPASBPAREPORTS",
       "code": "null",
       "path": ""
-    }
+    },
+    {
+      "id": 1775123,
+      "name": "rainmaker-common-complaints",
+      "url": "card",
+      "displayName": "Complaints-PDC",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "PGR",
+      "code": "",
+      "path": "",
+      "navigationURL": "all-complaints",
+      "leftIcon": "action:announcement",
+      "rightIcon": "",
+      "queryParams": ""
+    },
   ]
 }
