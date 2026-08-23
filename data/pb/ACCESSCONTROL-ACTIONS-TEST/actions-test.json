@@ -30217,21 +30217,21 @@
       "code": "null",
       "path": ""
     },
-    {
-      "id": 1775123,
-      "name": "rainmaker-common-complaints",
+   {
+      "id": 1942123,
+      "name": "rainmaker-citizen-complaints",
       "url": "card",
       "displayName": "Complaints-PDC",
       "orderNumber": 2,
       "parentModule": "",
       "enabled": true,
-      "serviceCode": "PGR",
+      "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "all-complaints",
-      "leftIcon": "action:announcement",
+      "navigationURL": "pgr-home",
+      "leftIcon": "custom:account-alert",
       "rightIcon": "",
       "queryParams": ""
-    },
+    }
   ]
 }
