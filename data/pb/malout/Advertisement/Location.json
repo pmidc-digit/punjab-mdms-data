@@ -4,7 +4,7 @@
   "Location": [
     {
       "name": "New Dana Mandi Gate 1",
-      "code": "NEW_DANA_MANDI_GATE_1",
+      "code": "DANA_MANDI_GATE_1",
       "active": true,
       "geo_tag": {
         "latitude": 30.19,
@@ -13,7 +13,7 @@
     },
     {
       "name": "New Dana Mandi Gate 2",
-      "code": "NEW_DANA_MANDI_GATE_2",
+      "code": "DANA_MANDI_GATE_2",
       "active": true,
       "geo_tag": {
         "latitude": 30.19,
@@ -22,7 +22,7 @@
     },
     {
       "name": "In front of Bijli Ghar Office, GT Road",
-      "code": "BIJLI_GHAR_OFFICE_GT_ROAD",
+      "code": "BIJLI_GHAR_OFFICE",
       "active": true,
       "geo_tag": {
         "latitude": 30.19,
@@ -31,7 +31,7 @@
     },
     {
       "name": "Near Chaudhary Jagdish Petrol Pump",
-      "code": "CH_JAGDISH_PETROL_PUMP",
+      "code": "JAGDISH_PETROL_PUMP",
       "active": true,
       "geo_tag": {
         "latitude": 30.19,
@@ -76,7 +76,7 @@
     },
     {
       "name": "Bathinda Chowk, GT Road",
-      "code": "BATHINDA_CHOWK_GT_ROAD",
+      "code": "BATHINDA_CHOWK",
       "active": true,
       "geo_tag": {
         "latitude": 30.19,
