@@ -8779,6 +8779,7 @@
       "code": "RL_TIME_REBATE",
       "isDebit": true,
       "isActualDemand": true,
+      "IsBillamend": true,
       "order": "0",
       "isRequired": false
     },
@@ -8789,7 +8790,8 @@
       "code": "RL_SECURITY_DEPOSIT_FEE",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "1",
+      "IsBillamend": true,
+      "order": "3",
       "isRequired": false
     },
     {
@@ -8799,6 +8801,7 @@
       "code": "RENT_LEASE_FEE",
       "isDebit": false,
       "isActualDemand": true,
+      "IsBillamend": true,
       "order": "2",
       "isRequired": false
     },
@@ -8809,7 +8812,8 @@
       "code": "RL_PENALTY_FEE",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "4",
+      "IsBillamend": true,
+      "order": "1",
       "isRequired": false
     },
     {
@@ -8819,7 +8823,8 @@
       "code": "RL_COWCESS_FEE",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "6",
+      "IsBillamend": true,
+      "order": "5",
       "isRequired": false
     },
     {
@@ -8829,7 +8834,8 @@
       "code": "RL_SGST_FEE",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "7",
+      "IsBillamend": true,
+      "order": "6",
       "isRequired": false
     },
     {
@@ -8839,7 +8845,8 @@
       "code": "RL_CGST_FEE",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "8",
+      "IsBillamend": true,
+      "order": "7",
       "isRequired": false
     },
     {
@@ -8849,7 +8856,8 @@
       "code": "RL_FEE_ROUND_OFF",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "9",
+      "IsBillamend": true,
+      "order": "0",
       "isRequired": false     
     },
     {
@@ -8859,7 +8867,8 @@
       "code": "RL_ARREAR_FEE",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "10",
+      "IsBillamend": true,
+      "order": "4",
       "isRequired": false     
     },
     {
@@ -8869,7 +8878,8 @@
       "code": "RL_DAILYINTEREST",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "11",
+      "IsBillamend": true,
+      "order": "4",
       "isRequired": false     
     },
     {
@@ -8879,6 +8889,7 @@
       "code": "RL_ADVANCE_CARRYFORWARD",
       "isDebit": true,
       "isActualDemand": false,
+      "IsBillamend": true,
       "order": "0",
       "isRequired": false
     }
