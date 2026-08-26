@@ -1250,6 +1250,12 @@
 	  "name": "API Only",
 	  "description": "Default role for API only access",
 	  "groupId": "030"
-	}
+	},
+    {
+      "code": "PGR_REPORT_VIEWER",
+      "name": "PGR Report Viewer",
+      "description": "Role with access to view all PGR related reports.",
+      "groupId":"021"
+    }
   ]
 }
