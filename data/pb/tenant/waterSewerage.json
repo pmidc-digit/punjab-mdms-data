@@ -65,8 +65,8 @@
     {
       "code": "pb.bassipathana",
       "name": "Bassipathana",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.bhogpur",
@@ -659,7 +659,7 @@
     {
       "code": "pb.amargarh",
       "name": "Amargarh",
-      "iswater": true,
+      "iswater": false,
       "issewerage": false
     },
     {
