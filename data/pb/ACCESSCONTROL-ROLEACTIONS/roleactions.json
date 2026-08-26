@@ -71724,12 +71724,6 @@
       "actionid": 500701,
       "actioncode": "",
       "tenantId": "pb"
-    },
-    {
-      "rolecode": "API_ONLY",
-      "actionid": 500701,
-      "actioncode": "",
-      "tenantId": "pb"
     }
   ]
 }
