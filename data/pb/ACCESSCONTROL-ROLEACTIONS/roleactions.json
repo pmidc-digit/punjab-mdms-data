@@ -42970,6 +42970,60 @@
       "actionid": 1942123,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "STATE_PGR_REPORTS",
+      "actionid": 1990,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STATE_PGR_REPORTS",
+      "actionid": 1991,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STATE_PGR_REPORTS",
+      "actionid": 1992,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+   {
+      "rolecode": "STATE_PGR_REPORTS",
+      "actionid": 1993,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+     {
+      "rolecode": "STATE_PGR_REPORTS",
+      "actionid": 1996,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+   {
+      "rolecode": "STATE_PGR_REPORTS",
+      "actionid": 1997,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STATE_PGR_REPORTS",
+      "actionid": 2489,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+   {
+      "rolecode": "STATE_PGR_REPORTS",
+      "actionid": 2509,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STATE_PGR_REPORTS",
+      "actionid": 2510,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
