@@ -43030,6 +43030,12 @@
       "actionid": 1553,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "STATE_PGR_REPORTS",
+      "actionid": 1588,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
