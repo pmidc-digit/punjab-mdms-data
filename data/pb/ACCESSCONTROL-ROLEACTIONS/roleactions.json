@@ -43036,6 +43036,12 @@
       "actionid": 1588,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_Labour_Department",
+      "actionid": 500701,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
