@@ -1892,6 +1892,30 @@
                     "children": []
                   }
                 ]
+              },
+               {
+                "id": "7f3a9c21-6d84-4b17-a2e9-58c6d1f0437b",
+                "boundaryNum": 1,
+                "name": "Ward13",
+                "localname": "Ward13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward13",
+                "children": [
+                  {
+                    "id": "c4e8a912-7b35-4f6d-9a21-53d0be874c16",
+                    "boundaryNum": 1,
+                    "name": "Ward no. 13 Village Khasanwala",
+                    "localname": "Ward no. 13 Village Khasanwala",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "DBNV_08",
+                    "area": "",
+                    "children": []
+                  }
+                ]
               }
             ]
           }

@@ -216,7 +216,7 @@
       "code": "pb.kartarpur",
       "name": "Kartarpur",
       "iswater": false,
-      "issewerage": true
+      "issewerage": false
     },
     {
       "code": "pb.machhiwara",
@@ -485,7 +485,7 @@
     {
       "code": "pb.barnala",
       "name": "Barnala",
-      "iswater": true,
+      "iswater": false,
       "issewerage": false
     },
     {
@@ -605,8 +605,8 @@
     {
       "code": "pb.patran",
       "name": "Patran",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.phillaur",
@@ -911,7 +911,7 @@
     {
       "code": "pb.ramdass",
       "name": "Ramdass",
-      "iswater": true,
+      "iswater": false,
       "issewerage": false
     },
     {

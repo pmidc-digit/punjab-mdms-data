@@ -1250,6 +1250,22 @@
 	  "name": "API Only",
 	  "description": "Default role for API only access",
 	  "groupId": "030"
-	}
+	},
+    {
+      "code": "PGR_REPORT_VIEWER",
+      "name": "PGR Report Viewer",
+      "description": "Role with access to view all PGR related reports"
+    },
+	{
+      "code": "STATE_PGR_REPORTS",
+      "name": "State PGR Report Viewer",
+      "description": "State Role with access to view all PGR related reports"
+    },
+    {
+      "code": "BPA_Labour_Department",
+      "name": "BPA Labour Department",
+      "description": "Role to access by Labour Department",
+      "groupId": "025"
+    }
   ]
 }
