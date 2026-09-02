@@ -1,0 +1,335 @@
+{
+  "tenantId": "pb",
+  "moduleName": "BPA",
+  "NotificationConfig": [
+    {
+      "state": [
+		"FIELDINSPECTION_INPROGRESS",
+		"APPROVED",
+		"PENDINGINITIALVERIFICATION",
+		"DRAWING_ESIGN_PENDING"
+	  ],
+	  "action": ["PAY"],
+	  "messageCode": "bpa.en.payment.sms",
+	  "active": true,
+	  "variables": [
+		{
+			"variable": "{1}",
+			"isFixed": true,
+			"value": "Citizen",
+			"filter": ""
+		},
+		{
+			"variable": "{2}",
+			"isFixed": false,
+			"value": "",
+			"filter": "$.Payment.paymentDetails.[0].bill.consumerCode"
+		},
+		{
+			"variable": "{3}",
+			"isFixed": false,
+			"value": "",
+			"filter": "$.Payment.totalAmountPaid"
+		},
+		{
+			"variable": "{4}",
+			"isFixed": false,
+			"value": "",
+			"filter": "$.Payment.transactionNumber"
+		}
+	  ]
+    },
+	{
+	  "state": ["SEND_TO_CITIZEN"],
+	  "action": ["INITIATE"],
+	  "messageCode": "bpa.en.save.sms",
+	  "active": true,
+	  "variables": [
+		{
+			"variable": "{1}",
+			"isFixed": false,
+			"value": "$.BPA.additionaldetails.usage",
+			"filter": ""
+		},
+		{
+			"variable": "{2}",
+			"isFixed": false,
+			"value": "",
+			"filter": "$.BPA.applicationNo"
+		}
+	  ]
+	},
+	{
+	  "state": ["CITIZEN_APPROVAL_PENDING"],
+	  "action": ["SEND_TO_CITIZEN"],
+	  "messageCode": "bpa.en.apply.sms",
+	  "active": true,
+	  "variables": [
+		{
+			"variable": "{1}",
+			"isFixed": true,
+			"value": "Citizen",
+			"filter": ""
+		},
+		{
+			"variable": "{2}",
+			"isFixed": false,
+			"value": "",
+			"filter": "$.BPA.applicationNo"
+		},
+		{
+			"variable": "{3}",
+			"isFixed": false,
+			"value": "$.BPA.additionaldetails.stakeholderName",
+			"filter": ""
+		}
+	  ]
+	},
+	{
+	  "state": ["REJECTED"],
+	  "action": ["REJECT"],
+	  "messageCode": "bpa.en.reject.sms",
+	  "active": true,
+	  "variables": [
+		{
+			"variable": "{1}",
+			"isFixed": true,
+			"value": "Professional/Citizen",
+			"filter": ""
+		},
+		{
+			"variable": "{2}",
+			"isFixed": false,
+			"value": "UPDATED_BY",
+			"filter": "$.RequestInfo.userInfo.uuid"
+		},
+		{
+			"variable": "{3}",
+			"isFixed": false,
+			"value": "",
+			"filter": "$.BPA.applicationNo"
+		}
+	  ]
+	},
+	{
+	  "state": ["PROFESSIONAL_ACTION_REQUIRED","BLOCKED"],
+	  "action": ["SEND_BACK","BLOCK"],
+	  "messageCode": "bpa.en.return.sms",
+	  "active": true,
+	  "variables": [
+		{
+			"variable": "{1}",
+			"isFixed": true,
+			"value": "Professional/Citizen",
+			"filter": ""
+		},
+		{
+			"variable": "{2}",
+			"isFixed": false,
+			"value": "",
+			"filter": "$.BPA.applicationNo"
+		},
+		{
+			"variable": "{3}",
+			"isFixed": false,
+			"value": "UPDATED_BY",
+			"filter": "$.RequestInfo.userInfo.uuid"
+		}
+	  ]
+	},
+	{
+	  "state": ["APPROVED"],
+	  "action": ["PAY","ESIGN"],
+	  "messageCode": "bpa.en.final.approval.sms",
+	  "active": true,
+	  "variables": [
+		{
+			"variable": "{1}",
+			"isFixed": true,
+			"value": "Professional/Citizen",
+			"filter": ""
+		},
+		{
+			"variable": "{2}",
+			"isFixed": false,
+			"value": "",
+			"filter": "$.BPA.applicationNo"
+		},
+		{
+			"variable": "{3}",
+			"isFixed": false,
+			"value": "UPDATED_BY",
+			"filter": "$.RequestInfo.userInfo.uuid"
+		}
+	  ]
+	},
+	{
+	  "state": [
+		"LEVEL4_VERIFICATION_PENDING",
+		"STPHQ_APPROVAL_PENDING",
+		"ATPHQ_APPROVAL_PENDING",
+		"LEVEL3_VERIFICATION_PENDING",
+		"FIELDINSPECTION_INPROGRESS",
+		"APPROVAL_PENDING",
+		"DOC_VERIFICATION_PENDING",
+		"EO_VERIFICATION_PENDING",
+		"INSPECTION_REPORT_PENDING",
+		"MC_VERIFICATION_PENDING",
+		"JE_VERIFICATION_PENDING",
+		"STP_VERIFICATION_PENDING",
+		"JC_VERIFICATION_PENDING",
+		"MTPHQ_APPROVAL_PENDING"
+	  ],
+	  "action": ["INTERNAL_QUERY"],
+	  "messageCode": "bpa.en.internal.query.sms",
+	  "active": true,
+	  "variables": [
+		{
+			"variable": "{1}",
+			"isFixed": true,
+			"value": "Professional/Citizen",
+			"filter": ""
+		},
+		{
+			"variable": "{2}",
+			"isFixed": false,
+			"value": "",
+			"filter": "$.BPA.applicationNo"
+		},
+		{
+			"variable": "{3}",
+			"isFixed": false,
+			"value": "UPDATED_BY",
+			"filter": "$.RequestInfo.userInfo.uuid"
+		},
+		{
+			"variable": "{4}",
+			"isFixed": false,
+			"value": "PENDING_WITH",
+			"filter": "$.BPA.workflow.assignes.[0]"
+		}
+	  ]
+	},
+	{
+	  "state": [
+		"LEVEL4_VERIFICATION_PENDING",
+		"STPHQ_APPROVAL_PENDING",
+		"ATPHQ_APPROVAL_PENDING",
+		"LEVEL3_VERIFICATION_PENDING",
+		"FIELDINSPECTION_INPROGRESS",
+		"APPROVAL_PENDING",
+		"DOC_VERIFICATION_PENDING",
+		"EO_VERIFICATION_PENDING",
+		"INSPECTION_REPORT_PENDING",
+		"MC_VERIFICATION_PENDING",
+		"JE_VERIFICATION_PENDING",
+		"STP_VERIFICATION_PENDING",
+		"JC_VERIFICATION_PENDING",
+		"MTPHQ_APPROVAL_PENDING"
+	  ],
+	  "action": ["OBSERVATION"],
+	  "messageCode": "bpa.en.objection.sms",
+	  "active": true,
+	  "variables": [
+		{
+			"variable": "{1}",
+			"isFixed": true,
+			"value": "Professional/Citizen",
+			"filter": ""
+		},
+		{
+			"variable": "{2}",
+			"isFixed": false,
+			"value": "UPDATED_BY",
+			"filter": "$.RequestInfo.userInfo.uuid"
+		},
+		{
+			"variable": "{3}",
+			"isFixed": false,
+			"value": "",
+			"filter": "$.BPA.applicationNo"
+		},
+		{
+			"variable": "{4}",
+			"isFixed": false,
+			"value": "PENDING_WITH",
+			"filter": "$.BPA.workflow.assignes.[0]"
+		}
+	  ]
+	},
+	{
+	  "state": [
+		"LEVEL4_VERIFICATION_PENDING",
+		"STPHQ_APPROVAL_PENDING",
+		"ATPHQ_APPROVAL_PENDING",
+		"LEVEL3_VERIFICATION_PENDING",
+		"FIELDINSPECTION_INPROGRESS",
+		"APPROVAL_PENDING",
+		"DOC_VERIFICATION_PENDING",
+		"EO_VERIFICATION_PENDING",
+		"INSPECTION_REPORT_PENDING",
+		"MC_VERIFICATION_PENDING",
+		"JE_VERIFICATION_PENDING",
+		"STP_VERIFICATION_PENDING",
+		"JC_VERIFICATION_PENDING",
+		"MTPHQ_APPROVAL_PENDING"
+	  ],
+	  "action": [
+		"FORWARD",
+		"APPROVE"
+	  ],
+	  "messageCode": "bpa.en.approval.sms",
+	  "active": true,
+	  "variables": [
+		{
+			"variable": "{1}",
+			"isFixed": true,
+			"value": "Professional/Citizen",
+			"filter": ""
+		},
+		{
+			"variable": "{2}",
+			"isFixed": false,
+			"value": "",
+			"filter": "$.BPA.applicationNo"
+		},
+		{
+			"variable": "{3}",
+			"isFixed": false,
+			"value": "UPDATED_BY",
+			"filter": "$.RequestInfo.userInfo.uuid"
+		},
+		{
+			"variable": "{4}",
+			"isFixed": false,
+			"value": "PENDING_WITH",
+			"filter": "$.BPA.workflow.assignes.[0]"
+		}
+	  ]
+	},
+	{
+	  "state": [
+		"DOC_VERIFICATION_PENDING"
+	  ],
+	  "action": [
+		"FORWARD"
+	  ],
+	  "messageCode": "bpa.en.inspection.sms",
+	  "active": true,
+	  "variables": [
+		{
+			"variable": "{1}",
+			"isFixed": true,
+			"value": "Professional/Citizen",
+			"filter": ""
+		},
+		{
+			"variable": "{2}",
+			"isFixed": false,
+			"value": "",
+			"filter": "$.BPA.applicationNo"
+		}
+	  ]
+	}
+  ]
+}
