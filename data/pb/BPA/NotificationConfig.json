@@ -40,7 +40,7 @@
 	  ]
     },
 	{
-	  "state": ["SEND_TO_CITIZEN"],
+	  "state": ["INITIATED"],
 	  "action": ["INITIATE"],
 	  "messageCode": "bpa.en.save.sms",
 	  "active": true,
