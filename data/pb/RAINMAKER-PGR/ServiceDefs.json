@@ -352,7 +352,7 @@
     {
       "serviceCode": "WaterEnteredHouseRainySeason",
       "name": "Water Entered House Rainy Season",
-      "active": true,
+      "active": false,
       "keywords": "drain, clean, silt, drainage, water, flow, remove, waste, garbage, clear, overflow, canal, fill, stagnate, rain, sanitation, sand, pipe, clog, stuck",
       "department": "DEPT_4",
       "slaHours": 96,
@@ -416,7 +416,7 @@
     {
       "serviceCode": "IllegalRehriesOnRoad",
       "name": "Illegal Rehries On Road",
-      "active": true,
+      "active": false,
       "keywords": "road, damage, hole, surface, repair, patch, broken, maintenance, street, construction, fix",
       "department": "DEPT_17",
       "slaHours": 336,
