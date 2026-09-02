@@ -30331,6 +30331,17 @@
       "serviceCode": "egov-searcher",
       "code": "null",
       "path": ""
-    }
+    },	  
+	{	
+	   "id": 500702,
+	   "name": "Collection Reciept file Update Service",
+	   "url": "/collection-services/payments/_update",
+	   "displayName": "File Store Id Update",
+	   "orderNumber": 0,
+	   "enabled": false,
+	   "serviceCode": "COLLECTION",
+	   "code": "null",
+	   "path": ""
+	}
   ]
 }
