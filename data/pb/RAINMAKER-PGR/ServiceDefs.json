@@ -162,7 +162,7 @@
     {
       "serviceCode": "WaterLoggedRoad",
       "name": "Broken or Cleaning of Roads",
-      "active": true,
+      "active": false,
       "keywords": "road, drainage, water, block, puddle, street, flood, overflow, rain",
       "department": "DEPT_2",
       "slaHours": 336,
@@ -506,7 +506,7 @@
     {
       "serviceCode": "RequestForConstructionOfNewRoadsFootpathsPavements",
       "name": "Request For Construction Of New Roads Footpaths Pavements",
-      "active": true,
+      "active": false,
       "keywords": "road, damage, hole, surface, repair, construction, broken, maintenance, street, construction, fix",
       "department": "DEPT_2",
       "slaHours": 336,
@@ -515,7 +515,7 @@
     {
       "serviceCode": "MaintenanceOfRoadsWithPatchWork",
       "name": "Maintenance Of Roads With Patch Work",
-      "active": true,
+      "active": false,
       "keywords": "road, damage, hole, surface, repair, patch, broken, maintenance, street, construction, fix",
       "department": "DEPT_2",
       "slaHours": 336,
@@ -524,7 +524,7 @@
     {
       "serviceCode": "RepairOfCulvertsCauseWays",
       "name": "Repair Of Culverts CauseWays",
-      "active": true,
+      "active": false,
       "keywords": "road, damage, hole, surface, repair, patch, broken, maintenance, CauseWays, construction, fix",
       "department": "DEPT_2",
       "slaHours": 336,
@@ -830,7 +830,7 @@
     {
       "serviceCode": "SocialImpactDamageOfProperty",
       "name": "Social Impact Damage Of Property",
-      "active": true,
+      "active": false,
       "keywords": "water and sewerage,issues,pay",
       "department": "DEPT_4",
       "slaHours": 336,
@@ -839,7 +839,7 @@
     {
       "serviceCode": "SocialImpactResettlementOrRehabilitation",
       "name": "Social Impact Resettlement Or Rehabilitation",
-      "active": true,
+      "active": false,
       "keywords": "water and sewerage,issues,pay",
       "department": "DEPT_4",
       "slaHours": 336,
@@ -848,7 +848,7 @@
     {
       "serviceCode": "SocialImpactSexualHarrasmentAtWorkSiteEtc",
       "name": "Social Impact Sexual Harrasment At Work Site Etc",
-      "active": true,
+      "active": false,
       "keywords": "water and sewerage,issues,pay",
       "department": "DEPT_4",
       "slaHours": 336,
@@ -857,7 +857,7 @@
     {
       "serviceCode": "SocialImpactLossOfLivelihood",
       "name": "Social Impact Loss Of Livelihood",
-      "active": true,
+      "active": false,
       "keywords": "water and sewerage,issues,pay",
       "department": "DEPT_4",
       "slaHours": 336,
@@ -866,7 +866,7 @@
     {
       "serviceCode": "EnvironmentalImpactUnauthorisedTreeCutting",
       "name": "Environmental Impact Unauthorised Tree Cutting",
-      "active": true,
+      "active": false,
       "keywords": "water and sewerage,issues,pay",
       "department": "DEPT_4",
       "slaHours": 336,
@@ -875,7 +875,7 @@
     {
       "serviceCode": "EnvironmentalImpactSoilErosion",
       "name": "Environmental Impact Soil Erosion",
-      "active": true,
+      "active": false,
       "keywords": "water and sewerage,issues,pay",
       "department": "DEPT_4",
       "slaHours": 336,
@@ -884,7 +884,7 @@
     {
       "serviceCode": "EnvironmentalImpactSoilContamination",
       "name": "Environmental Impact Soil Contamination",
-      "active": true,
+      "active": false,
       "keywords": "water and sewerage,issues,pay",
       "department": "DEPT_4",
       "slaHours": 336,
@@ -893,7 +893,7 @@
     {
       "serviceCode": "EnvironmentalImpactVehiclePollution",
       "name": "Environmental Impact Vehicle Pollution",
-      "active": true,
+      "active": false,
       "keywords": "water and sewerage,issues,pay",
       "department": "DEPT_4",
       "slaHours": 336,
@@ -902,7 +902,7 @@
     {
       "serviceCode": "EnvironmentalImpactNoiseAndAirPollution",
       "name": "Environmental Impact Vehicle Pollution",
-      "active": true,
+      "active": false,
       "keywords": "water and sewerage,issues,pay",
       "department": "DEPT_4",
       "slaHours": 336,
@@ -911,7 +911,7 @@
     {
       "serviceCode": "EnvironmentalImpactHazardousMaterialAtSiteEtc",
       "name": "Environmental Impact Hazardous Material At Site Etc",
-      "active": true,
+      "active": false,
       "keywords": "water and sewerage,issues,pay",
       "department": "DEPT_4",
       "slaHours": 336,
@@ -920,7 +920,7 @@
     {
       "serviceCode": "CivilWorksWaterTreatmentPlant",
       "name": "Civil Works Water Treatment Plant",
-      "active": true,
+      "active": false,
       "keywords": "water and sewerage,issues,pay",
       "department": "DEPT_4",
       "slaHours": 336,
@@ -929,7 +929,7 @@
     {
       "serviceCode": "CivilWorksOverheadReservoirTank",
       "name": "Civil Works Overhead Reservoir Tank",
-      "active": true,
+      "active": false,
       "keywords": "water and sewerage,issues,pay",
       "department": "DEPT_4",
       "slaHours": 336,
@@ -938,7 +938,7 @@
     {
       "serviceCode": "PipelineWorkRoadNotRestored",
       "name": "Pipeline Work Road Not Restored",
-      "active": true,
+      "active": false,
       "keywords": "water and sewerage,issues,pay",
       "department": "DEPT_4",
       "slaHours": 336,
@@ -947,7 +947,7 @@
     {
       "serviceCode": "PipelineWorkHouseConnectionDamaged",
       "name": "Pipeline Work House Connection Damaged",
-      "active": true,
+      "active": false,
       "keywords": "water and sewerage,issues,pay",
       "department": "DEPT_4",
       "slaHours": 336,
@@ -956,7 +956,7 @@
     {
       "serviceCode": "PipelineWorkTrenchpitNotBackfilled",
       "name": "Pipeline Work Trench Pit Not Backfilled",
-      "active": true,
+      "active": false,
       "keywords": "water and sewerage,issues,pay",
       "department": "DEPT_4",
       "slaHours": 336,
@@ -965,7 +965,7 @@
     {
       "serviceCode": "PipelineWorkTrafficJam",
       "name": "Pipeline Work Traffic Jam",
-      "active": true,
+      "active": false,
       "keywords": "water and sewerage,issues,pay",
       "department": "DEPT_4",
       "slaHours": 336,
