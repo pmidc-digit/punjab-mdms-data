@@ -17,7 +17,7 @@
     {
       "code": "pb.shahkot",
       "name": "Shahkot",
-      "iswater": true,
+      "iswater": false,
       "issewerage": false
     },
     {
@@ -233,7 +233,7 @@
     {
       "code": "pb.dharamkot",
       "name": "Dharamkot",
-      "iswater": true,
+      "iswater": false,
       "issewerage": false
     },
     {
@@ -767,8 +767,8 @@
     {
       "code": "pb.mandigobindgarh",
       "name": "Mandigobindgarh",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.mehatpur",
