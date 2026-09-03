@@ -563,7 +563,7 @@
     {
       "code": "pb.mansa",
       "name": "Mansa",
-      "iswater": false,
+      "iswater": true,
       "issewerage": false
     },
     {
@@ -683,8 +683,8 @@
     {
       "code": "pb.bhikhi",
       "name": "Bhikhi",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.bhuchomandi",
@@ -767,8 +767,8 @@
     {
       "code": "pb.mandigobindgarh",
       "name": "Mandigobindgarh",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.mehatpur",
