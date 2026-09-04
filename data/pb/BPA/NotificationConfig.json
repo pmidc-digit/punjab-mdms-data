@@ -60,7 +60,7 @@
 	  ]
 	},
 	{
-	  "state": ["CITIZEN_APPROVAL_PENDING"],
+	  "state": ["CITIZEN_APPROVAL_INPROCESS"],
 	  "action": ["SEND_TO_CITIZEN"],
 	  "messageCode": "bpa.en.apply.sms",
 	  "active": true,
