@@ -138,8 +138,8 @@
 	  ]
 	},
 	{
-	  "state": ["APPROVED"],
-	  "action": ["PAY","ESIGN"],
+	  "state": ["APPROVED","PENDING_SANC_FEE_PAYMENT"],
+	  "action": ["ESIGN"],
 	  "messageCode": "bpa.en.final.approval.sms",
 	  "active": true,
 	  "variables": [
