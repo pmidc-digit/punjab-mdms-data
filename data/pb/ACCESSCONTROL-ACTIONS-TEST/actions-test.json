@@ -30443,28 +30443,19 @@
       "path": ""
     },
     {
-        "id": 2221017,
-        "name": "PT Report",
-        "url": "/report/rainmaker-pt/_get",
-        "displayName": "Property Tax Collections Report",
-        "orderNumber": 1,
-        "parentModule": "rainmaker-pt",
-        "enabled": true,
-        "serviceCode": "PROPERTYREPORTS",
-        "code": "null",
-        "path": "Property Tax.PT Reports.Property Tax Collections Report"
-      },
-      {
-        "id": 221018,
-        "name": "PT Report Metadata",
-        "url": "/report/rainmaker-pt/metadata/_get",
-        "displayName": "Property Tax Collections Report Metadata",
-        "orderNumber": 2,
-        "parentModule": "rainmaker-pt",
-        "enabled": true,
-        "serviceCode": "PROPERTYREPORTS",
-        "code": "null",
-        "path": "Property Tax.PT Reports.Property Tax Collections Report Metadata"
-      }
+      "id": 2221016,
+      "name": "PT Report",
+      "url": "url",
+      "displayName": "Property Tax Collections Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.Property Tax Collections Report",
+      "navigationURL": "report/rainmaker-pt/PropertyTaxCollectionReport_26",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    }
   ]
 }
