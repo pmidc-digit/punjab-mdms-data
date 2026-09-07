@@ -161,8 +161,8 @@
     {
       "code": "pb.batala",
       "name": "Batala",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.bhawanigarh",
@@ -461,7 +461,7 @@
     {
       "code": "pb.baghapurana",
       "name": "Baghapurana",
-      "iswater": false,
+      "iswater": true,
       "issewerage": false
     },
     {
@@ -557,13 +557,13 @@
     {
       "code": "pb.maloud",
       "name": "Maloud",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.mansa",
       "name": "Mansa",
-      "iswater": true,
+      "iswater": false,
       "issewerage": false
     },
     {
@@ -581,8 +581,8 @@
     {
       "code": "pb.morinda",
       "name": "Morinda",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.mukerian",
@@ -683,8 +683,8 @@
     {
       "code": "pb.bhikhi",
       "name": "Bhikhi",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.bhuchomandi",
