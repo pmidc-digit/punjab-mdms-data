@@ -30431,16 +30431,40 @@
       "code": "null",
       "path": ""
     },	  
-	{	
-	   "id": 500703,
-	   "name": "Collection Reciept file Update Service",
-	   "url": "/collection-services/payments/_update",
-	   "displayName": "File Store Id Update",
-	   "orderNumber": 0,
-	   "enabled": false,
-	   "serviceCode": "COLLECTION",
-	   "code": "null",
-	   "path": ""
-	}
+    {	
+      "id": 500703,
+      "name": "Collection Reciept file Update Service",
+      "url": "/collection-services/payments/_update",
+      "displayName": "File Store Id Update",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
+    },
+    {
+        "id": 2221017,
+        "name": "PT Report",
+        "url": "/report/rainmaker-pt/_get",
+        "displayName": "Property Tax Collections Report",
+        "orderNumber": 1,
+        "parentModule": "rainmaker-pt",
+        "enabled": true,
+        "serviceCode": "PROPERTYREPORTS",
+        "code": "null",
+        "path": "Property Tax.PT Reports.Property Tax Collections Report"
+      },
+      {
+        "id": 221018,
+        "name": "PT Report Metadata",
+        "url": "/report/rainmaker-pt/metadata/_get",
+        "displayName": "Property Tax Collections Report Metadata",
+        "orderNumber": 2,
+        "parentModule": "rainmaker-pt",
+        "enabled": true,
+        "serviceCode": "PROPERTYREPORTS",
+        "code": "null",
+        "path": "Property Tax.PT Reports.Property Tax Collections Report Metadata"
+      }
   ]
 }
