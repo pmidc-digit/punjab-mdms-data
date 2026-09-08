@@ -30458,7 +30458,7 @@
       "rightIcon": ""
     },
     {
-      "id": 882581,
+      "id": 88258112,
       "name": "Rent & Lease New Applications Report",
       "url": "url",
       "displayName": "Rent & Lease New Applications Report",
@@ -30466,14 +30466,14 @@
       "queryParams": "",
       "parentModule": "Rent & Lease Reports",
       "enabled": true,
-      "serviceCode": "",
+      "serviceCode": "RLREPORTS",
       "path": "Rent & Lease Reports.Rent & Lease New Applications Report",
       "navigationURL": "report/rainmaker-rl/RentAndLeaseNewApplicationsReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
     {
-      "id": 882582,
+      "id": 882582113,
       "name": "Rent & Lease New Applications Report",
       "url": "/report/rainmaker-rl/RentAndLeaseNewApplicationsReport/metadata/_get",
       "displayName": "Rent & Lease New Applications Report",
@@ -30484,7 +30484,7 @@
       "path": ""
     },
     {
-      "id": 882583,
+      "id": 882583114,
       "name": "Rent & Lease New Applications Report",
       "url": "/report/rainmaker-rl/RentAndLeaseNewApplicationsReport/_get",
       "displayName": "Rent & Lease New Applications Report",
