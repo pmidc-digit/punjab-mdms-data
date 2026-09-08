@@ -5283,6 +5283,25 @@
       "penaltyRate": 25.0,
       "penaltyFlatAmount": 0,
       "areaCode": "JT_INSIDE_BUS_STAND_RENT_COM"
+    },
+       {
+      "propertyId": "PB-RL-JT20260000279",
+      "propertyName": "DCR No.247 - Inside Bus Stand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 520.0,
+      "address": "Inside Bus Stand",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2660",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_PSPCL_OFFICE_RENT_COM"
     }
   ]
 }
