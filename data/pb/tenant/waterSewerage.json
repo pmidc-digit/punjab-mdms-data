@@ -77,8 +77,8 @@
     {
       "code": "pb.hariana",
       "name": "Hariana",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.shamchurasi",
@@ -695,8 +695,8 @@
     {
       "code": "pb.budhlada",
       "name": "Budhlada",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.chamkaursahib",
@@ -743,8 +743,8 @@
     {
       "code": "pb.kapurthala",
       "name": "Kapurthala",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.khemkaran",
@@ -863,7 +863,7 @@
     {
       "code": "pb.nangal",
       "name": "Nangal",
-      "iswater": false,
+      "iswater": true,
       "issewerage": false
     },
     {
