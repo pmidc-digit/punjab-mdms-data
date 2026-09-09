@@ -57,8 +57,15 @@
         },
         {
           "from": 250.01,
-          "to": 1000000000,
+          "to": 500,
           "charge": 840,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1901252691000
+        },
+        {
+          "from": 500.01,
+          "to": 1000000,
+          "charge": 1680,
           "effectiveFrom": 917523271000,
           "effectiveTo": 1901252691000
         }
@@ -119,8 +126,15 @@
         },
         {
           "from": 250.01,
-          "to": 1000000000,
+          "to": 500,
           "charge": 840,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1901252691000
+        },
+        {
+          "from": 500.01,
+          "to": 1000000,
+          "charge": 1680,
           "effectiveFrom": 917523271000,
           "effectiveTo": 1901252691000
         }
