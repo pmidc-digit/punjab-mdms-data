@@ -3718,7 +3718,7 @@
         "longitude": ""
       },
       "propertyImage": "",
-      "baseRent": "327",
+      "baseRent": "227",
       "securityDeposit": 0,
       "feesPeriodCycle": "MONTHLY",
       "penaltyType": "Monthly",
@@ -5284,12 +5284,12 @@
       "penaltyFlatAmount": 0,
       "areaCode": "JT_INSIDE_BUS_STAND_RENT_COM"
     },
-       {
+    {
       "propertyId": "PB-RL-JT20260000279",
       "propertyName": "DCR No.247 - Inside Bus Stand",
       "allotmentType": "rent",
       "propertySizeOrArea": 520.0,
-      "address": "Inside Bus Stand",
+      "address": "Near Gas Agency",
       "geoLocation": {
         "latitude": "",
         "longitude": ""
