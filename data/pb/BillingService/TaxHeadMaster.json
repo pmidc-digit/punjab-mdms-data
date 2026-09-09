@@ -101,6 +101,15 @@
       "order": "2",
       "isRequired": false
     },
+    { "category": "TAX",
+      "service": "PT",
+      "name": "Removal of Applied OTS Penalty Waveoff",
+      "code": "OTS_PENALTY_WAVEOFF_REMOVAL",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false
+    },
     {
       "category": "TAX",
       "service": "PT",
@@ -116,6 +125,16 @@
       "service": "PT",
       "name": "OTS INTEREST WAVEOFF",
       "code": "OTS_INTEREST_WAVEOFF",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+     {
+      "category": "TAX",
+      "service": "PT",
+      "name": "OTS INTEREST WAVEOFF REMOVAL",
+      "code": "OTS_INTEREST_WAVEOFF_REMOVAL",
       "isDebit": false,
       "isActualDemand": true,
       "order": "1",
