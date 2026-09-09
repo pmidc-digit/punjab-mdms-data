@@ -18,7 +18,7 @@
     },
     {
       "isOTSEnabled": true,
-      "OTSEndDate": "31/05/2018",
+      "OTSEndDate": "31/05/2028",
       "interestRatePercent": 67,
       "penaltyRatePercent": 87,
       "financialYearsApplicable": "2018-19"
