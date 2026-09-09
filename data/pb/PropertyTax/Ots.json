@@ -10,7 +10,7 @@
       "financialYearsApplicable": "2024-25"
     },
     {
-      "isOTSEnabled": false,
+      "isOTSEnabled": true,
       "OTSEndDate": "01/10/2027",
       "interestRatePercent": 20,
       "penaltyRatePercent": 30,
