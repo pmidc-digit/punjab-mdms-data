@@ -7131,12 +7131,6 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "CSR",
-      "actionid": 1555,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
       "rolecode": "CITIZEN",
       "actionid": 1556,
       "actioncode": "",
@@ -7181,30 +7175,6 @@
     {
       "rolecode": "PTFEMP",
       "actionid": 1556,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "DGRO",
-      "actionid": 1557,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "DGRO",
-      "actionid": 1557,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1557,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "GRO",
-      "actionid": 1557,
       "actioncode": "",
       "tenantId": "pb"
     },
