@@ -43018,6 +43018,12 @@
       "actionid": 500702,
       "actioncode": "",
       "tenantId": "pb"
-    }
+    },
+	{
+	  "rolecode":"DEV_API_ONLY",
+	  "actionid": 500703,
+	  "actioncode": "",
+	  "tenantId": "pb"
+	}
   ]
 }
