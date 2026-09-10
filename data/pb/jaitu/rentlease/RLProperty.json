@@ -5286,7 +5286,7 @@
     },
     {
       "propertyId": "PB-RL-JT20260000279",
-      "propertyName": "DCR No.247 - Inside Bus Stand",
+      "propertyName": "DCR No.247 - Near Gas Agency",
       "allotmentType": "rent",
       "propertySizeOrArea": 520.0,
       "address": "Near Gas Agency",
@@ -5301,7 +5301,7 @@
       "penaltyType": "Monthly",
       "penaltyRate": 25.0,
       "penaltyFlatAmount": 0,
-      "areaCode": "JT_NEAR_PSPCL_OFFICE_RENT_COM"
+      "areaCode": "JT_NEAR_GAS_AGENCY_RENT_COM"
     }
   ]
 }
