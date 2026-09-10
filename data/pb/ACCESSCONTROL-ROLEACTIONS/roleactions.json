@@ -43018,6 +43018,24 @@
       "actionid": 500702,
       "actioncode": "",
       "tenantId": "pb"
+    },   
+    {
+      "rolecode": "Rent And Lease Reports",
+      "actionid": 882573888,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "Rent And Lease Reports",
+      "actionid": 882574999,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "Rent And Lease Reports",
+      "actionid": 882575777,
+      "actioncode": "",
+      "tenantId": "pb"
     },
 	{
 	  "rolecode":"DEV_API_ONLY",
