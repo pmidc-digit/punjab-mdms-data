@@ -43042,6 +43042,12 @@
 	  "actionid": 500703,
 	  "actioncode": "",
 	  "tenantId": "pb"
-	}
+	},
+  {
+      "rolecode": "EMPLOYEE",
+      "actionid": 500704,
+      "actioncode": "",
+      "tenantId": "pb"
+  }
   ]
 }
