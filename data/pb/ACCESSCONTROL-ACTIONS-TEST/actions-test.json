@@ -25154,6 +25154,22 @@
 	  "serviceCode": "COLLECTION",
 	  "code": "null",
 	  "path": ""
-	}
+	},
+  {
+      "id": 500704,
+      "name": "Create Application",
+      "url": "url",
+      "displayName": "Create New Application",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "rainmaker-hrms",
+      "enabled": true,
+      "serviceCode": "MCollect",
+      "code": "null",
+      "path": "MCollect.MCollect Reports.HRMSEmployee wise Report",
+      "navigationURL": "/digit-ui/employee/mcollect/new-application",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    }
   ]
 }
