@@ -72006,6 +72006,24 @@
 	  "actionid": 89001032,
 	  "actioncode": "",
 	  "tenantid": "pb"
-	}
+	},
+    {
+      "rolecode": "Rent And Lease Reports",
+      "actionid": 89010017,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "Rent And Lease Reports",
+      "actionid": 89010018,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "Rent And Lease Reports",
+      "actionid": 89010019,
+      "actioncode": "",
+      "tenantId": "pb"
+    }
   ]
 }
