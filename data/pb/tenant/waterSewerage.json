@@ -539,8 +539,8 @@
     {
       "code": "pb.kurali",
       "name": "Kurali",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.lohiankhas",
@@ -570,7 +570,7 @@
       "code": "pb.maur",
       "name": "Maur",
       "iswater": false,
-      "issewerage": false
+      "issewerage": true
     },
     {
       "code": "pb.mehraj",
@@ -863,7 +863,7 @@
     {
       "code": "pb.nangal",
       "name": "Nangal",
-      "iswater": true,
+      "iswater": false,
       "issewerage": false
     },
     {
@@ -899,8 +899,8 @@
     {
       "code": "pb.malerkotla",
       "name": "Malerkotla",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.mamdot",
