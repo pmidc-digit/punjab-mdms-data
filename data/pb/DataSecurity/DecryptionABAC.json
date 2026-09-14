@@ -41,110 +41,6 @@
           ]
         }
       ]
-    },    
-    {
-      "key": "STATECHALLANREPORTS",
-      "roleAttributeAccessList": [
-        {
-          "roleCode": "STADMIN",
-          "attributeAccessList": [
-            {
-              "attribute": {
-                "jsonPath": "*/collector_name"
-              },
-              "accessType": "PLAIN"
-            },
-            {
-              "attribute": {
-                "jsonPath": "*/name"
-              },
-              "accessType": "PLAIN"
-            },
-            {
-              "attribute": {
-                "jsonPath": "*/mobilenumber"
-              },
-              "accessType": "PLAIN"
-            },
-            {
-              "attribute": {
-                "jsonPath": "*/assignee_employee"
-              },
-              "accessType": "PLAIN"
-            },
-            {
-              "attribute": {
-                "jsonPath": "*/collectorname"
-              },
-              "accessType": "PLAIN"
-            },
-            {
-              "attribute": {
-                "jsonPath": "*/payername"
-              },
-              "accessType": "PLAIN"
-            },
-            {
-              "attribute": {
-                "jsonPath": "*/ownername1"
-              },
-              "accessType": "PLAIN"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "key": "SWACHAMRITSARSUMMARYREPORT",
-      "roleAttributeAccessList": [
-        {
-          "roleCode": "SWACH_STATE_EMP",
-          "attributeAccessList": [
-            {
-              "attribute": {
-                "jsonPath": "*/name"
-              },
-              "accessType": "PLAIN"
-            },
-            {
-              "attribute": {
-                "jsonPath": "*/mobilenumber"
-              },
-              "accessType": "PLAIN"
-            },
-            {
-              "attribute": {
-                "jsonPath": "*/assignee_employee"
-              },
-              "accessType": "PLAIN"
-            },
-            {
-              "attribute": {
-                "jsonPath": "*/assigned_employee_name"
-              },
-              "accessType": "PLAIN"
-            },
-            {
-              "attribute": {
-                "jsonPath": "*/collectorname"
-              },
-              "accessType": "PLAIN"
-            },
-            {
-              "attribute": {
-                "jsonPath": "*/payername"
-              },
-              "accessType": "PLAIN"
-            },
-            {
-              "attribute": {
-                "jsonPath": "*/ownername1"
-              },
-              "accessType": "PLAIN"
-            }
-          ]
-        }
-      ]
     },
     {
       "key": "CHALLANREPORTS",
@@ -154,12 +50,6 @@
           "attributeAccessList": [
             {
               "attribute": {
-                "jsonPath": "*/collector_name"
-              },
-              "accessType": "PLAIN"
-            },
-            {
-              "attribute": {
                 "jsonPath": "*/name"
               },
               "accessType": "PLAIN"
@@ -191,58 +81,6 @@
             {
               "attribute": {
                 "jsonPath": "*/ownername1"
-              },
-              "accessType": "PLAIN"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "key": "LAYOUTREPORTS",
-      "roleAttributeAccessList": [
-        {
-          "roleCode": "OBPAS REPORTS",
-          "attributeAccessList": [
-            {
-              "attribute": {
-                "jsonPath": "*/name"
-              },
-              "accessType": "PLAIN"
-            },
-            {
-              "attribute": {
-                "jsonPath": "*/mobilenumber"
-              },
-              "accessType": "PLAIN"
-            },
-            {
-              "attribute": {
-                "jsonPath": "*/employee_name"
-              },
-              "accessType": "PLAIN"
-            },
-            {
-              "attribute": {
-                "jsonPath": "*/payername"
-              },
-              "accessType": "PLAIN"
-            },
-            {
-              "attribute": {
-                "jsonPath": "*/ownername1"
-              },
-              "accessType": "PLAIN"
-            },
-            {
-              "attribute": {
-                "jsonPath": "*/collectorname"
-              },
-              "accessType": "PLAIN"
-            },
-            {
-              "attribute": {
-                "jsonPath": "*/user_address"
               },
               "accessType": "PLAIN"
             }
@@ -419,6 +257,58 @@
       ]
     },
     {
+      "key": "LAYOUTREPORTS",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "OBPAS REPORTS",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/mobilenumber"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/employee_name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/payername"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/ownername1"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/collectorname"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/user_address"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "key": "ADVREPORTS",
       "roleAttributeAccessList": [
         {
@@ -438,19 +328,7 @@
             },
             {
               "attribute": {
-                "jsonPath": "*/collectorname"
-              },
-              "accessType": "PLAIN"
-            },
-            {
-              "attribute": {
-                "jsonPath": "*/payername"
-              },
-              "accessType": "PLAIN"
-            },
-            {
-              "attribute": {
-                "jsonPath": "*/ownername1"
+                "jsonPath": "*/applicant_name"
               },
               "accessType": "PLAIN"
             },
@@ -462,34 +340,72 @@
             },
             {
               "attribute": {
-                "jsonPath": "*/applicant_name"
+                "jsonPath": "*/ownername1"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/collectorname"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/payername"
               },
               "accessType": "PLAIN"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "key": "STATEADVREPORTS",
+      "roleAttributeAccessList": [
         {
-          "roleCode": "STADMIN", 
+          "roleCode": "STADMIN",
           "attributeAccessList": [
             {
-              "attribute": { "jsonPath": "*/name" },
+              "attribute": {
+                "jsonPath": "*/name"
+              },
               "accessType": "PLAIN"
             },
             {
-              "attribute": { "jsonPath": "*/mobilenumber" },
-              "accessType": "PLAIN"
-            }
-          ]
-        },
-        {
-          "roleCode": "EMPLOYEE", 
-          "attributeAccessList": [
-            {
-              "attribute": { "jsonPath": "*/name" },
+              "attribute": {
+                "jsonPath": "*/mobilenumber"
+              },
               "accessType": "PLAIN"
             },
             {
-              "attribute": { "jsonPath": "*/mobilenumber" },
+              "attribute": {
+                "jsonPath": "*/applicant_name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/applicant_mobile_no"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/ownername1"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/collectorname"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/payername"
+              },
               "accessType": "PLAIN"
             }
           ]
@@ -660,7 +576,7 @@
     },
     {
       "key": "ALL_ACCESS",
-      "roleAttributeAccessList": [
+      "roleAttributeAccessList": [             
         {
           "roleCode": "CITIZEN",
           "attributeAccessList": [
@@ -1072,7 +988,7 @@
                 "maskingTechnique": "mobile"
               },
               "accessType": "PLAIN"
-            },        
+            },         
             {
               "attribute": {
                 "jsonPath": "*/name"
@@ -2446,9 +2362,9 @@
               },
               "accessType": "MASK"
             }
-          ]
-        }
       ]
     }
   ]
+}
+]
 }
