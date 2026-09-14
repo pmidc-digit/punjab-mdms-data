@@ -2356,5 +2356,46 @@
         }
       ]
     }
+    {
+  "key": "ADVSTATEREPORTS",
+  "roleAttributeAccessList": [
+    {
+      "roleCode": "ADV REPORTS",
+      "attributeAccessList": [
+        { "attribute": { "jsonPath": "*/name" }, "accessType": "PLAIN" },
+        { "attribute": { "jsonPath": "*/mobilenumber" }, "accessType": "PLAIN" },
+        { "attribute": { "jsonPath": "*/applicant_name" }, "accessType": "PLAIN" },
+        { "attribute": { "jsonPath": "*/applicant_mobile_no" }, "accessType": "PLAIN" },
+        { "attribute": { "jsonPath": "*/collectorname" }, "accessType": "PLAIN" },
+        { "attribute": { "jsonPath": "*/payername" }, "accessType": "PLAIN" },
+        { "attribute": { "jsonPath": "*/ownername1" }, "accessType": "PLAIN" }
+      ]
+    },
+    {
+      "roleCode": "STADMIN",
+      "attributeAccessList": [
+        { "attribute": { "jsonPath": "*/name" }, "accessType": "PLAIN" },
+        { "attribute": { "jsonPath": "*/mobilenumber" }, "accessType": "PLAIN" },
+        { "attribute": { "jsonPath": "*/applicant_name" }, "accessType": "PLAIN" },
+        { "attribute": { "jsonPath": "*/applicant_mobile_no" }, "accessType": "PLAIN" },
+        { "attribute": { "jsonPath": "*/collectorname" }, "accessType": "PLAIN" },
+        { "attribute": { "jsonPath": "*/payername" }, "accessType": "PLAIN" },
+        { "attribute": { "jsonPath": "*/ownername1" }, "accessType": "PLAIN" }
+      ]
+    },
+    {
+      "roleCode": "EMPLOYEE",
+      "attributeAccessList": [
+        { "attribute": { "jsonPath": "*/name" }, "accessType": "PLAIN" },
+        { "attribute": { "jsonPath": "*/mobilenumber" }, "accessType": "PLAIN" },
+        { "attribute": { "jsonPath": "*/applicant_name" }, "accessType": "PLAIN" },
+        { "attribute": { "jsonPath": "*/applicant_mobile_no" }, "accessType": "PLAIN" },
+        { "attribute": { "jsonPath": "*/collectorname" }, "accessType": "PLAIN" },
+        { "attribute": { "jsonPath": "*/payername" }, "accessType": "PLAIN" },
+        { "attribute": { "jsonPath": "*/ownername1" }, "accessType": "PLAIN" }
+      ]
+    }
+  ]
+}
   ]
 }
