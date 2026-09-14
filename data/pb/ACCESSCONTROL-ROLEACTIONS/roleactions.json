@@ -43024,28 +43024,22 @@
       "actionid": 500704,
       "actioncode": "",
       "tenantId": "pb"
-    },
+  },
     {
-      "rolecode": "CITIZEN",
-      "actionid": 500705,
+      "rolecode": "Rent And Lease Reports",
+      "actionid": 890100170,
       "actioncode": "",
       "tenantId": "pb"
     },
     {
-      "rolecode": "CITIZEN",
-      "actionid": 500706,
+      "rolecode": "Rent And Lease Reports",
+      "actionid": 890100180,
       "actioncode": "",
       "tenantId": "pb"
     },
     {
-      "rolecode": "CITIZEN",
-      "actionid": 500707,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 500708,
+      "rolecode": "Rent And Lease Reports",
+      "actionid": 890100190,
       "actioncode": "",
       "tenantId": "pb"
     }
