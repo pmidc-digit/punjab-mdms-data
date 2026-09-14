@@ -42080,12 +42080,6 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "CITIZEN",
-      "actionid": 89000933,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
       "rolecode": "WS_CEMP",
       "actionid": 89000933,
       "actioncode": "",
@@ -42129,12 +42123,6 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "CITIZEN",
-      "actionid": 89000934,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
       "rolecode": "WS_CEMP",
       "actionid": 89000934,
       "actioncode": "",
@@ -42173,12 +42161,6 @@
     },
     {
       "rolecode": "PT_CEMP",
-      "actionid": 89000935,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "CITIZEN",
       "actionid": 89000935,
       "actioncode": "",
       "tenantId": "pb"
@@ -42222,12 +42204,6 @@
     },
     {
       "rolecode": "PT_CEMP",
-      "actionid": 89000936,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "CITIZEN",
       "actionid": 89000936,
       "actioncode": "",
       "tenantId": "pb"
@@ -42935,7 +42911,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-     {
+    {
       "rolecode": "CITIZEN",
       "actionid": 1942123,
       "actioncode": "",
@@ -42959,19 +42935,19 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-   {
+    {
       "rolecode": "STATE_PGR_REPORTS",
       "actionid": 1993,
       "actioncode": "",
       "tenantId": "pb"
     },
-     {
+    {
       "rolecode": "STATE_PGR_REPORTS",
       "actionid": 1996,
       "actioncode": "",
       "tenantId": "pb"
     },
-   {
+    {
       "rolecode": "STATE_PGR_REPORTS",
       "actionid": 1997,
       "actioncode": "",
@@ -42983,7 +42959,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-   {
+    {
       "rolecode": "STATE_PGR_REPORTS",
       "actionid": 2509,
       "actioncode": "",
@@ -43018,7 +42994,7 @@
       "actionid": 500702,
       "actioncode": "",
       "tenantId": "pb"
-    },   
+    },
     {
       "rolecode": "Rent And Lease Reports",
       "actionid": 882573888,
@@ -43037,17 +43013,41 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-	{
-	  "rolecode":"DEV_API_ONLY",
-	  "actionid": 500703,
-	  "actioncode": "",
-	  "tenantId": "pb"
-	},
-  {
+    {
+      "rolecode": "DEV_API_ONLY",
+      "actionid": 500703,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "EMPLOYEE",
       "actionid": 500704,
       "actioncode": "",
       "tenantId": "pb"
-  }
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 500705,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 500706,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 500707,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 500708,
+      "actioncode": "",
+      "tenantId": "pb"
+    }
   ]
 }
