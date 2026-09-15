@@ -1715,6 +1715,7 @@
        "connectionType": "Metered",
        "calculationAttribute": "Water consumption",
        "minimumCharge": 300,
+       "ismonthlybillingenabled": true,
        "isminimumchargenotapplied": true,
        "ismeterstatusapplied": ["Working"],
  
@@ -1757,8 +1758,10 @@
        "calculationAttribute": "Water consumption",
        "connectionType": "Metered",
        "minimumCharge": 300,
+       "ismonthlybillingenabled": true,
        "isminimumchargenotapplied": true,
        "ismeterstatusapplied": ["Working"],
+ 
        "slabs": [
          {
            "from": 0,
