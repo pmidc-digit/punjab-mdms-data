@@ -72027,6 +72027,42 @@
     },
     {
       "rolecode": "Rent And Lease Reports",
+      "actionid": 890100200,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 890100200,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "Rent And Lease Reports",
+      "actionid": 890100210,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 890100210,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "Rent And Lease Reports",
+      "actionid": 890100220,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 890100220,
+      "actioncode": "",
+      "tenantId": "pb"
+    }
+    {
+      "rolecode": "Rent And Lease Reports",
       "actionid": 890100230,
       "actioncode": "",
       "tenantId": "pb"

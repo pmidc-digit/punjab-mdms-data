@@ -30820,7 +30820,7 @@
       "parentModule": "Rent & Lease Reports",
       "enabled": true,
       "serviceCode": "RLREPORTS",
-      "path": "Rent & Lease Reports.State Rent & Lease New Applications Report",
+      "path": "State Reports.Rent & Lease Reports.State Rent & Lease New Applications Report",
       "navigationURL": "report/rainmaker-rl/StateRentAndLeaseNewApplicationsReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
