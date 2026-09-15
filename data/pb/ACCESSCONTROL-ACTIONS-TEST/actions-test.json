@@ -30809,6 +30809,43 @@
       "serviceCode": "RLREPORTS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 890100230,
+      "name": "State Rent & Lease New Applications Report",
+      "url": "url",
+      "displayName": "State Rent & Lease New Applications Report",
+      "orderNumber": 4,
+      "queryParams": "",
+      "parentModule": "Rent & Lease Reports",
+      "enabled": true,
+      "serviceCode": "RLREPORTS",
+      "path": "Rent & Lease Reports.State Rent & Lease New Applications Report",
+      "navigationURL": "report/rainmaker-rl/StateRentAndLeaseNewApplicationsReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 890100240,
+      "name": "State Rent & Lease New Applications Report",
+      "url": "/report/rainmaker-rl/StateRentAndLeaseNewApplicationsReport/metadata/_get",
+      "displayName": "State Rent & Lease New Applications Report",
+      "orderNumber": 4,
+      "enabled": true,
+      "serviceCode": "RLREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 890100250,
+      "name": "State Rent & Lease New Applications Report",
+      "url": "/report/rainmaker-rl/StateRentAndLeaseNewApplicationsReport/_get",
+      "displayName": "State Rent & Lease New Applications Report",
+      "orderNumber": 4,
+      "enabled": true,
+      "serviceCode": "RLREPORTS",
+      "code": "null",
+      "path": ""
     }
   ]
 }
