@@ -25279,6 +25279,43 @@
       "quickAction": true,
       "leftIcon": "social:people",
       "rightIcon": ""
+    },
+        {
+      "id": 890100200,
+      "name": "State Rent And Lease Defaulter Report",
+      "url": "url",
+      "displayName": "State Rent And Lease Defaulter Report",
+      "orderNumber": 4,
+      "queryParams": "",
+      "parentModule": "Rent & Lease Reports",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "State Reports.Rent & Lease Reports.State Rent And Lease Defaulter Report",
+      "navigationURL": "report/rainmaker-rl/StateRentAndLeaseDefaulterReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 890100210,
+      "name": "State Rent And Lease Defaulter Report",
+      "url": "/report/rainmaker-rl/StateRentAndLeaseDefaulterReport/metadata/_get",
+      "displayName": "State Rent And Lease Defaulter Report",
+      "orderNumber": 4,
+      "enabled": true,
+      "serviceCode": "RLREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 890100220,
+      "name": "State Rent And Lease Defaulter Report",
+      "url": "/report/rainmaker-rl/StateRentAndLeaseDefaulterReport/_get",
+      "displayName": "State Rent And Lease Defaulter Report",
+      "orderNumber": 4,
+      "enabled": true,
+      "serviceCode": "RLREPORTS",
+      "code": "null",
+      "path": ""
     }
   ]
 }
