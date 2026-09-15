@@ -30783,7 +30783,7 @@
       "parentModule": "Rent & Lease Reports",
       "enabled": true,
       "serviceCode": "",
-      "path": "Rent & Lease Reports.State Rent And Lease Defaulter Report",
+      "path": "State Reports.Rent & Lease Reports.State Rent And Lease Defaulter Report",
       "navigationURL": "report/rainmaker-rl/StateRentAndLeaseDefaulterReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
