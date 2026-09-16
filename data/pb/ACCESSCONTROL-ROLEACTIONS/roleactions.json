@@ -40963,6 +40963,12 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "VIEW_OBPS_KIBANA_DASHBOARD",
+      "actionid": 890099990,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "ULB_ADMINISTRATOR_REPORTS",
       "actionid": 89009100,
       "actioncode": "",
@@ -42911,7 +42917,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-     {
+    {
       "rolecode": "CITIZEN",
       "actionid": 1942123,
       "actioncode": "",
@@ -42935,19 +42941,19 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-   {
+    {
       "rolecode": "STATE_PGR_REPORTS",
       "actionid": 1993,
       "actioncode": "",
       "tenantId": "pb"
     },
-     {
+    {
       "rolecode": "STATE_PGR_REPORTS",
       "actionid": 1996,
       "actioncode": "",
       "tenantId": "pb"
     },
-   {
+    {
       "rolecode": "STATE_PGR_REPORTS",
       "actionid": 1997,
       "actioncode": "",
@@ -42959,7 +42965,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-   {
+    {
       "rolecode": "STATE_PGR_REPORTS",
       "actionid": 2509,
       "actioncode": "",
@@ -42994,7 +43000,7 @@
       "actionid": 500702,
       "actioncode": "",
       "tenantId": "pb"
-    },   
+    },
     {
       "rolecode": "Rent And Lease Reports",
       "actionid": 882573888,
@@ -43013,18 +43019,18 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-	{
-	  "rolecode":"DEV_API_ONLY",
-	  "actionid": 500703,
-	  "actioncode": "",
-	  "tenantId": "pb"
-	},
-  {
+    {
+      "rolecode": "DEV_API_ONLY",
+      "actionid": 500703,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "EMPLOYEE",
       "actionid": 500704,
       "actioncode": "",
       "tenantId": "pb"
-  },
+    },
     {
       "rolecode": "Rent And Lease Reports",
       "actionid": 890100170,
@@ -43103,7 +43109,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-        {
+    {
       "rolecode": "Rent And Lease Reports",
       "actionid": 890100230,
       "actioncode": "",
