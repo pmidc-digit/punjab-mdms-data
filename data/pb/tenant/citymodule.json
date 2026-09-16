@@ -14092,7 +14092,7 @@
     {
       "module": "OBPSKibanaDashboard",
       "code": "OBPSKibanaDashboard",
-      "order": 32,
+      "order": 33,
       "active": true,
       "access": "VIEW_OBPS_KIBANA_DASHBOARD",
       "tenants": [
