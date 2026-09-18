@@ -1,6 +1,6 @@
 {
   "tenantId": "pb.maur",
-  "moduleName": "ws-services-calculation",
+  "moduleName": "sw-services-calculation",
   "CalculationAttribute": [
     {
       "name": "Metered",
