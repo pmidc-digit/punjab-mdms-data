@@ -361,7 +361,7 @@
 					"OccupancyName": "Apartment/Flat",
 					"minPlotArea": 2000,
 					"maxPlotArea": 2147483647,
-					"NormalFAR": 1.2,
+					"NormalFAR": 2.0,
 					"PurchasableFAR": 1.0,
 					"isActive": true,
 					"minRoad": 18,
