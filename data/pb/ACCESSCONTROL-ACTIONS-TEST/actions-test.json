@@ -25369,6 +25369,43 @@
       "serviceCode": "RLREPORTS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 890009400,
+      "name": "State Days Pending Report",
+      "url": "/report/rainmaker-adv/StateDaysPendingReport/_get",
+      "displayName": "State Days Pending Report",
+      "orderNumber": 5,
+      "enabled": true,
+      "serviceCode": "ADVREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 890009500,
+      "name": "State Days Pending Report",
+      "url": "url",
+      "displayName": "State Days Pending Report",
+      "orderNumber": 5,
+      "queryParams": "",
+      "parentModule": "ADV REPORTS",
+      "enabled": true,
+      "serviceCode": "ADVREPORTS",
+      "path": "State Reports.ADV Reports.State Days Pending Report",
+      "navigationURL": "report/rainmaker-adv/StateDaysPendingReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 890009600,
+      "name": "State Days Pending Report",
+      "url": "/report/rainmaker-adv/StateDaysPendingReport/metadata/_get",
+      "displayName": "State Days Pending Report",
+      "orderNumber": 5,
+      "enabled": true,
+      "serviceCode": "ADVREPORTS",
+      "code": "null",
+      "path": ""
     }
   ]
 }
