@@ -1278,6 +1278,12 @@
       "name": "DEV API Only",
       "description": "Default role for DEV API only access",
       "groupId": "030"
+    },
+    {
+      "code": "OBPAS_BPA_STP(Field)",
+      "name": "OBPAS LAYOUT STP(Field)",
+      "description": "OBPAS Layout workflow Approver",
+      "groupId": "025"
     }
   ]
 }

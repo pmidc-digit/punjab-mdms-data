@@ -32775,7 +32775,7 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "EMPLOYEE",
+      "rolecode": "PROFESSIONAL_APPROVER",
       "actionid": 5004,
       "actioncode": "",
       "tenantId": "pb"
@@ -32817,7 +32817,7 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "EMPLOYEE",
+      "rolecode": "PROFESSIONAL_APPROVER",
       "actionid": 5007,
       "actioncode": "",
       "tenantId": "pb"
@@ -33039,7 +33039,55 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "EMPLOYEE",
+      "rolecode": "OBPAS_BPA_STP(Field)",
+      "actionid": 5033,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_BPA_ATP",
+      "actionid": 5033,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_BPA_ATPHQ",
+      "actionid": 5033,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_BPA_DM",
+      "actionid": 5033,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_BPA_JC",
+      "actionid": 5033,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_BPA_MTP",
+      "actionid": 5033,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_BPA_MTPHQ",
+      "actionid": 5033,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_BPA_STP",
+      "actionid": 5033,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_BPA_STPHQ",
       "actionid": 5033,
       "actioncode": "",
       "tenantId": "pb"
@@ -33087,7 +33135,55 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "EMPLOYEE",
+      "rolecode": "OBPAS_BPA_STP(Field)",
+      "actionid": 5034,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_BPA_ATP",
+      "actionid": 5034,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_BPA_ATPHQ",
+      "actionid": 5034,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_BPA_DM",
+      "actionid": 5034,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_BPA_JC",
+      "actionid": 5034,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_BPA_MTP",
+      "actionid": 5034,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_BPA_MTPHQ",
+      "actionid": 5034,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_BPA_STP",
+      "actionid": 5034,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_BPA_STPHQ",
       "actionid": 5034,
       "actioncode": "",
       "tenantId": "pb"
@@ -33165,7 +33261,7 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "EMPLOYEE",
+      "rolecode": "OBPAS_BPA_STP(Field)",
       "actionid": 5020,
       "actioncode": "",
       "tenantId": "pb"
@@ -33267,7 +33363,7 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "EMPLOYEE",
+      "rolecode": "OBPAS_BPA_STP(Field)",
       "actionid": 5021,
       "actioncode": "",
       "tenantId": "pb"
@@ -35343,7 +35439,7 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "EMPLOYEE",
+      "rolecode": "OBPAS_BPA_STP(Field)",
       "actionid": 5009,
       "actioncode": "",
       "tenantId": "pb"
