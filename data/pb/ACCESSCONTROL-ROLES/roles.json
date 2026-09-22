@@ -1282,7 +1282,19 @@
     {
       "code": "OBPAS_BPA_STP(Field)",
       "name": "OBPAS LAYOUT STP(Field)",
-      "description": "OBPAS Layout workflow Approver",
+      "description": "OBPAS BPA stp field",
+      "groupId": "025"
+    },
+    {
+      "code": "OBPAS_ADMIN",
+      "name": "OBPAS ADMIN ROLE",
+      "description": "OBPAS Administrator",
+      "groupId": "025"
+    },
+    {
+      "code": "OBPAS_HELPDESK",
+      "name": "OBPAS Helpdesk ",
+      "description": "OBPAS Helpdesk",
       "groupId": "025"
     }
   ]
