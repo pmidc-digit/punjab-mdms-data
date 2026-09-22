@@ -32673,7 +32673,13 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "EMPLOYEE",
+      "rolecode": "OBPAS_ADMIN",
+      "actionid": 5001,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_HELPDESK",
       "actionid": 5001,
       "actioncode": "",
       "tenantId": "pb"
@@ -32691,7 +32697,13 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "EMPLOYEE",
+      "rolecode": "OBPAS_ADMIN",
+      "actionid": 5002,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_HELPDESK",
       "actionid": 5002,
       "actioncode": "",
       "tenantId": "pb"
@@ -32727,7 +32739,13 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "EMPLOYEE",
+      "rolecode": "OBPAS_ADMIN",
+      "actionid": 5003,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_HELPDESK",
       "actionid": 5003,
       "actioncode": "",
       "tenantId": "pb"
@@ -37816,12 +37834,17 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "EMPLOYEE",
+      "rolecode": "OBPAS_ADMIN",
       "actionid": 111782,
       "actioncode": "",
       "tenantId": "pb"
     },
-
+    {
+      "rolecode": "OBPAS_HELPDESK",
+      "actionid": 111782,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
     {
       "rolecode": "HRMS_ADMIN",
       "actionid": 111781,
@@ -37841,12 +37864,17 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "EMPLOYEE",
+      "rolecode": "OBPAS_ADMIN",
       "actionid": 111781,
       "actioncode": "",
       "tenantId": "pb"
     },
-
+    {
+      "rolecode": "OBPAS_HELPDESK",
+      "actionid": 111781,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
     {
       "rolecode": "HRMS_ADMIN",
       "actionid": 111780,
@@ -37866,7 +37894,13 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "EMPLOYEE",
+      "rolecode": "OBPAS_ADMIN",
+      "actionid": 111780,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_HELPDESK",
       "actionid": 111780,
       "actioncode": "",
       "tenantId": "pb"
