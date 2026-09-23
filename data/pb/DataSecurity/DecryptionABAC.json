@@ -210,6 +210,64 @@
         }
       ]
     },
+        {
+      "key": "STATECHALLANREPORTS",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "STADMIN",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/mobilenumber"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/assignee_employee"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/collectorname"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/payername"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/ownername1"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/createdBy"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute":{
+                "jsonPath":"*/generated_by"
+              },
+              "accessType":"PLAIN"
+            }
+          ]
+        }
+      ]
+    },
     {
       "key": "STATEPETREPORTS",
       "roleAttributeAccessList": [
