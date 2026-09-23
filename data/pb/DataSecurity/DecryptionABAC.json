@@ -46,7 +46,7 @@
       "key": "CHALLANREPORTS",
       "roleAttributeAccessList": [
         {
-          "roleCode": "CHALLANREPORTS",
+          "roleCode": "CHALLAN REPORTS",
           "attributeAccessList": [
             {
               "attribute": {
@@ -89,6 +89,12 @@
                 "jsonPath": "*/createdBy"
               },
               "accessType": "PLAIN"
+            },
+            {
+              "attribute":{
+                "jsonPath":"*/generated_by"
+              },
+              "accessType":"PLAIN"
             }
           ]
         }
