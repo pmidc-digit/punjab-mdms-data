@@ -30930,7 +30930,7 @@
       "queryParams": "",
       "parentModule": "Rent & Lease Reports",
       "enabled": true,
-      "serviceCode": "RLREPORTS",
+      "serviceCode": "",
       "path": "State Reports.Rent & Lease Reports.State Month Wise Billing Generation Report",
       "navigationURL": "report/rainmaker-rl/StateMonthWiseBillingGenerationReport",
       "leftIcon": "action:assignment",
