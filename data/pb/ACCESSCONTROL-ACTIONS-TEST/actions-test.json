@@ -30920,6 +30920,43 @@
       "serviceCode": "RLREPORTS",
       "code": "null",
       "path": ""
+    },
+        {
+      "id": 8901002600,
+      "name": "State Month Wise Billing Generation Report",
+      "url": "url",
+      "displayName": "State Month Wise Billing Generation Report",
+      "orderNumber": 6,
+      "queryParams": "",
+      "parentModule": "Rent & Lease Reports",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "State Reports.Rent & Lease Reports.State Month Wise Billing Generation Report",
+      "navigationURL": "report/rainmaker-rl/StateMonthWiseBillingGenerationReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8901002700,
+      "name": "State Month Wise Billing Generation Report",
+      "url": "/report/rainmaker-rl/StateMonthWiseBillingGenerationReport/metadata/_get",
+      "displayName": "State Month Wise Billing Generation Report",
+      "orderNumber": 6,
+      "enabled": true,
+      "serviceCode": "RLREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8901002800,
+      "name": "State Month Wise Billing Generation Report",
+      "url": "/report/rainmaker-rl/StateMonthWiseBillingGenerationReport/_get",
+      "displayName": "State Month Wise Billing Generation Report",
+      "orderNumber": 6,
+      "enabled": true,
+      "serviceCode": "RLREPORTS",
+      "code": "null",
+      "path": ""
     }
   ]
 }
