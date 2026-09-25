@@ -369,6 +369,12 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "STADMIN",
+      "actionid": 882553,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "Rent And Lease Reports",
       "actionid": 882563,
       "actioncode": "",
