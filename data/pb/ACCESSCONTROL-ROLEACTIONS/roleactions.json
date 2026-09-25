@@ -72320,8 +72320,32 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "Rent And Lease Reports",
+      "actionid": 8901002600,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "STADMIN",
       "actionid": 8901002600,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 8901002600,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 8901002600,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "Rent And Lease Reports",
+      "actionid": 8901002700,
       "actioncode": "",
       "tenantId": "pb"
     },
@@ -72332,10 +72356,40 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "EMPLOYEE",
+      "actionid": 8901002700,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 8901002700,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "Rent And Lease Reports",
+      "actionid": 8901002800,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "STADMIN",
       "actionid": 8901002800,
       "actioncode": "",
       "tenantId": "pb"
-    }   
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 8901002800,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 8901002800,
+      "actioncode": "",
+      "tenantId": "pb"
+    }
   ]
 }
