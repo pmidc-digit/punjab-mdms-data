@@ -61,6 +61,18 @@
             "isCitizen": true,
             "kpis": [],
             "links": [
+                {
+                    "link": "/digit-ui/citizen/noc/new-application",
+                    "i18nKey": "NOC_NEW_APPLICATION"
+                },
+                {
+                    "link": "/digit-ui/citizen/noc/my-application",
+                    "i18nKey": "BPA_MY_APPLICATIONS_LABEL"
+                },
+                {
+                    "link": "/digit-ui/citizen/noc/search-application",
+                    "i18nKey": "BPA_SEARCH_APPLICATIONS_LABEL"
+                }
             ]
         }
     ]
