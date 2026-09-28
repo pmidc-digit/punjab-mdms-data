@@ -485,6 +485,96 @@
               "msevaServiceCode": "BrokenSeweragePipeOrLeakage"
             }
           ]
+        },
+        {
+          "Category_ID": "1631",
+          "Category_Label": "Canal Based Water Supply Project",
+          "Category_Label_Local_Language": "ਨਹਿਰੀ ਆਧਾਰਿਤ ਜਲ ਸਪਲਾਈ ਪ੍ਰੋਜੈਕਟ",
+          "departmentId": "232",
+          "departmentName": "URBAN LOCAL BODIES",
+          "departmentNameLocal": "ਸ਼ਹਿਰੀ ਸਥਾਨਕ ਬੋਡੀਜ਼",
+          "subcategories": [
+            {
+              "id": "3503",
+              "label": "Social Impact Damage Of Property",
+              "msevaServiceCode": "SocialImpactDamageOfProperty"
+            },
+            {
+              "id": "3504",
+              "label": "Social Impact Resettlement Or Rehabilitation",
+              "msevaServiceCode": "SocialImpactResettlementOrRehabilitation"
+            },
+            {
+              "id": "3506",
+              "label": "Social Impact Sexual Harrasment At Work Site Etc",
+              "msevaServiceCode": "SocialImpactSexualHarrasmentAtWorkSiteEtc"
+            },
+            {
+              "id": "3507",
+              "label": "Social Impact Loss Of Livelihood",
+              "msevaServiceCode": "SocialImpactLossOfLivelihood"
+            },
+            {
+              "id": "3508",
+              "label": "Environmental Impact Unauthorised Tree Cutting",
+              "msevaServiceCode": "EnvironmentalImpactUnauthorisedTreeCutting"
+            },
+            {
+              "id": "3509",
+              "label": "Environmental Impact SoilErosion",
+              "msevaServiceCode": "EnvironmentalImpactSoilErosion"
+            },
+            {
+              "id": "3510",
+              "label": "Environmental Impact Soil Contamination",
+              "msevaServiceCode": "EnvironmentalImpactSoilContamination"
+            },
+            {
+              "id": "3511",
+              "label": "Environmental Impact Vehicle Pollution",
+              "msevaServiceCode": "EnvironmentalImpactVehiclePollution"
+            },
+            {
+              "id": "3512",
+              "label": "Environmental Impact Noise And Air Pollution",
+              "msevaServiceCode": "EnvironmentalImpactNoiseAndAirPollution"
+            },
+            {
+              "id": "3513",
+              "label": "Environmental Impact Hazardous Material AtSiteEtc",
+              "msevaServiceCode": "EnvironmentalImpactHazardousMaterialAtSiteEtc"
+            },
+            {
+              "id": "3514",
+              "label": "Civil Works Water Treatment Plant",
+              "msevaServiceCode": "CivilWorksWaterTreatmentPlant"
+            },
+            {
+              "id": "3515",
+              "label": "Civil Works Over head Reservoir Tank",
+              "msevaServiceCode": "CivilWorksOverheadReservoirTank"
+            },
+            {
+              "id": "3516",
+              "label": "Pipeline Work Road Not Restored",
+              "msevaServiceCode": "PipelineWorkRoadNotRestored"
+            },
+            {
+              "id": "3517",
+              "label": "Pipeline Work House Connection Damaged",
+              "msevaServiceCode": "PipelineWorkHouseConnectionDamaged"
+            },
+            {
+              "id": "3518",
+              "label": "Pipeline Work Trenchpit Not Back filled",
+              "msevaServiceCode": "PipelineWorkTrenchpitNotBackfilled"
+            },
+            {
+              "id": "3519",
+              "label": "Pipeline Work Traffic Jam",
+              "msevaServiceCode": "PipelineWorkTrafficJam"
+            }
+          ]
         }
       ]
     }
