@@ -40,8 +40,8 @@
 	  ]
     },
 	{
-	  "state": ["INITIATED"],
-	  "action": ["INITIATE"],
+	  "state": ["CITIZEN_APPROVAL_INPROCESS"],
+	  "action": ["SEND_TO_CITIZEN"],
 	  "messageCode": "bpa.en.save.sms",
 	  "active": true,
 	  "variables": [
@@ -60,8 +60,8 @@
 	  ]
 	},
 	{
-	  "state": ["CITIZEN_APPROVAL_INPROCESS"],
-	  "action": ["SEND_TO_CITIZEN"],
+	  "state": ["PENDING_APPL_FEE"],
+	  "action": ["APPLY","APPROVE_AND_PAY"],
 	  "messageCode": "bpa.en.apply.sms",
 	  "active": true,
 	  "variables": [
