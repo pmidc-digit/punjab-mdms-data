@@ -20,14 +20,14 @@
       "id": 3,
       "name": "Berm Cutting (Katcha)",
       "code": "BERMCUTTINGKATCHA",
-      "unitCost": 15,
+      "unitCost": 21,
       "isActive": true
     },
     {
       "id": 4,
       "name": "Brick Paving",
       "code": "BRICKPAVING",
-      "unitCost": 79,
+      "unitCost": 90,
       "isActive": true
     },
     {
@@ -41,7 +41,7 @@
       "id": 6,
       "name": "Interlocking Paver Block",
       "code": "INTERLOCKINGPAVERBLOCK",
-      "unitCost": 478,
+      "unitCost": 676,
       "isActive": true
     },
     {
