@@ -1166,6 +1166,22 @@
                 "code": "pb.bhulath"  
               }
             ]
-      }
+      },
+     {
+            "code": "FS_AJNALA_01",
+            "baseTenantId": "pb.ajnala",
+            "active": true,
+            "subDistrict": [
+             
+              {
+                "code": "Ajnala"
+              }
+            ],
+            "ulb": [
+              {
+                "code": "pb.ajnala"  
+              }
+            ]
+     }
   ]
 }
