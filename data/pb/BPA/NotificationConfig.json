@@ -48,8 +48,8 @@
 		{
 			"variable": "{1}",
 			"isFixed": false,
-			"value": "$.BPA.additionaldetails.usage",
-			"filter": ""
+			"value": "",
+			"filter": "$.BPA.additionalDetails.usage"
 		},
 		{
 			"variable": "{2}",
@@ -80,8 +80,8 @@
 		{
 			"variable": "{3}",
 			"isFixed": false,
-			"value": "$.BPA.additionaldetails.stakeholderName",
-			"filter": ""
+			"value": "",
+			"filter": "$.BPA.additionalDetails.stakeholderName"
 		}
 	  ]
 	},
