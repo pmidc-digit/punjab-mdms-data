@@ -8911,6 +8911,18 @@
       "IsBillamend": true,
       "order": "0",
       "isRequired": false
+    },
+    {
+      "category": "PENALTY",
+      "service": "rl-services",
+      "name": "RL_ADHOC_PENALTY",
+      "code": "RL_ADHOC_PENALTY",
+      "isDebit": false,
+      "isActualDemand": true,
+      "IsBillamend": true,
+      "order": "1",
+      "isRequired": false
     }
+
   ]
 }
