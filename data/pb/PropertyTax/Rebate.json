@@ -59,11 +59,11 @@
 	  "endingDay": "30/09/2025"
     },
 	  {
-	  "rate": 10,
+	  "rate": 0,
 	  "maxAmount": null,
 	  "flatAmount": null,
 	  "fromFY": "2026-27",
-	  "endingDay": "01/10/2026"
+	  "endingDay": "30/09/2026"
     }
   ]
 }
