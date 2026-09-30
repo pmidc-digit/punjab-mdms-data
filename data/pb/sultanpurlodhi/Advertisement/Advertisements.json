@@ -13,7 +13,7 @@
       "light": "With Light",
       "amount": 6144.0,
       "available": true,
-      "locationCode": "UDHOM_SINGH_CHOWK",
+      "locationCode": "UDHAM_SINGH_CHOWK",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true
     },
@@ -28,7 +28,7 @@
       "light": "With Light",
       "amount": 6144.0,
       "available": true,
-      "locationCode": "UDHOM_SINGH_CHOWK",
+      "locationCode": "UDHAM_SINGH_CHOWK",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true
     },
