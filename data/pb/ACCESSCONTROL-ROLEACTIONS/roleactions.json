@@ -72390,6 +72390,24 @@
       "actionid": 8901002800,
       "actioncode": "",
       "tenantId": "pb"
-    }
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 890009950,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 890009960,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 890009970,
+      "actioncode": "",
+      "tenantId": "pb"
+    },        
   ]
 }
