@@ -15,7 +15,9 @@
       "available": true,
       "locationCode": "UDHAM_SINGH_CHOWK",
       "feeType": "ADV_BOOKING_FEES",
-      "taxApplicable": true
+      "taxApplicable": true,
+      "scheduleType": "MONTHLY",
+      "rentalType": "FIXED"
     },
     {
       "id": 2,
@@ -30,7 +32,9 @@
       "available": true,
       "locationCode": "UDHAM_SINGH_CHOWK",
       "feeType": "ADV_BOOKING_FEES",
-      "taxApplicable": true
+      "taxApplicable": true,
+      "scheduleType": "MONTHLY",
+      "rentalType": "FIXED"
     },
     {
       "id": 3,
@@ -45,7 +49,9 @@
       "available": true,
       "locationCode": "BUS_STAND",
       "feeType": "ADV_BOOKING_FEES",
-      "taxApplicable": true
+      "taxApplicable": true,
+      "scheduleType": "MONTHLY",
+      "rentalType": "FIXED"
     }
   ]
 }
