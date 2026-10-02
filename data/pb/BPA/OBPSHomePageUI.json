@@ -109,7 +109,9 @@
                     "link": "/digit-ui/citizen/noc/search-application",
                     "i18nKey": "BPA_SEARCH_APPLICATIONS_LABEL"
                 }
-            ]
+            ],
+            "isUnderMaintenance": true,
+            "maintenanceMessage": "NOC services will be temporarily unavailable from 2nd Oct, 2026 8pm - 5th Oct, 2026 9am for maintenance purposes."
         }
     ]
 }
