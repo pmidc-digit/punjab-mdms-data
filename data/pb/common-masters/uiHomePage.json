@@ -115,9 +115,7 @@
             "name": "No Objection Cretificate",
             "label": "ACTION_TEST_NOC",
             "enabled": true,
-            "navigationUrl": "/digit-ui/citizen/noc-home",
-            "isUnderMaintenance": true,
-            "maintenanceMessage": "NOC services will be temporarily unavailable from 2nd Oct, 2026 8pm - 5th Oct, 2026 9am for maintenance purposes."
+            "navigationUrl": "/digit-ui/citizen/noc-home"
           },
           {
             "code": "CITIZEN_SERVICE_ADS",
