@@ -815,8 +815,8 @@
     {
       "code": "pb.abohar",
       "name": "Abohar",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.anandpursahib",
