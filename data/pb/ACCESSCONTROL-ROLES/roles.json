@@ -1281,7 +1281,7 @@
     },
     {
       "code": "OBPAS_BPA_STP(Field)",
-      "name": "OBPAS LAYOUT STP(Field)",
+      "name": "OBPAS BPA STP(Field)",
       "description": "OBPAS BPA stp field",
       "groupId": "025"
     },
