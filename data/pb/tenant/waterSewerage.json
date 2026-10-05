@@ -71,7 +71,7 @@
     {
       "code": "pb.bhogpur",
       "name": "Bhogpur",
-      "iswater": true,
+      "iswater": false,
       "issewerage": false
     },
     {
@@ -185,14 +185,14 @@
     {
       "code": "pb.faridkot",
       "name": "Faridkot",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.fazilka",
       "name": "Fazilka",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.garhdiwala",
@@ -257,8 +257,8 @@
     {
       "code": "pb.samana",
       "name": "Samana",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.sahnewal",
@@ -401,8 +401,8 @@
     {
       "code": "pb.nihalsinghwala",
       "name": "Nihalsinghwala",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.rahon",
@@ -419,8 +419,8 @@
     {
       "code": "pb.ropar",
       "name": "Ropar",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.samrala",
@@ -431,8 +431,8 @@
     {
       "code": "pb.sanaur",
       "name": "Sanaur",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.srihargobindpur",
@@ -473,8 +473,8 @@
     {
       "code": "pb.bareta",
       "name": "Bareta",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.bariwala",
@@ -533,8 +533,8 @@
     {
       "code": "pb.kotkapura",
       "name": "Kotkapura",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.kurali",
@@ -593,8 +593,8 @@
     {
       "code": "pb.mullanpur",
       "name": "Mullanpur",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.nayagaon",
@@ -623,8 +623,8 @@
     {
       "code": "pb.raman",
       "name": "Raman",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.sujanpur",
@@ -719,7 +719,7 @@
     {
       "code": "pb.dhilwan",
       "name": "Dhilwan",
-      "iswater": true,
+      "iswater": false,
       "issewerage": false
     },
     {
@@ -731,8 +731,8 @@
     {
       "code": "pb.ferozepur",
       "name": "Ferozepur",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.guruharsahai",
@@ -779,8 +779,8 @@
     {
       "code": "pb.nabha",
       "name": "Nabha",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.nadala",
@@ -791,8 +791,8 @@
     {
       "code": "pb.nakodar",
       "name": "Nakodar",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.nurmahal",
@@ -839,8 +839,8 @@
     {
       "code": "pb.bhulath",
       "name": "Bhulath",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.fatehgarhchurian",
@@ -893,8 +893,8 @@
     {
       "code": "pb.jaitu",
       "name": "Jaitu",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.malerkotla",
@@ -917,8 +917,8 @@
     {
       "code": "pb.moonak",
       "name": "Moonak",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.dhariwal",
@@ -941,8 +941,8 @@
     {
       "code": "pb.moga",
       "name": "Moga",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.jalandhar",
@@ -983,8 +983,8 @@
     {
       "code": "pb.itpatiala",
       "name": "IT Patiala",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.mohali",
