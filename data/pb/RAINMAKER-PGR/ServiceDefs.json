@@ -162,7 +162,7 @@
     {
       "serviceCode": "WaterLoggedRoad",
       "name": "Broken or Cleaning of Roads",
-      "active": false,
+      "active": true,
       "keywords": "road, drainage, water, block, puddle, street, flood, overflow, rain",
       "department": "DEPT_2",
       "slaHours": 336,
@@ -506,7 +506,7 @@
     {
       "serviceCode": "RequestForConstructionOfNewRoadsFootpathsPavements",
       "name": "Request For Construction Of New Roads Footpaths Pavements",
-      "active": false,
+      "active": true,
       "keywords": "road, damage, hole, surface, repair, construction, broken, maintenance, street, construction, fix",
       "department": "DEPT_2",
       "slaHours": 336,
@@ -515,7 +515,7 @@
     {
       "serviceCode": "MaintenanceOfRoadsWithPatchWork",
       "name": "Maintenance Of Roads With Patch Work",
-      "active": false,
+      "active": true,
       "keywords": "road, damage, hole, surface, repair, patch, broken, maintenance, street, construction, fix",
       "department": "DEPT_2",
       "slaHours": 336,
@@ -524,7 +524,7 @@
     {
       "serviceCode": "RepairOfCulvertsCauseWays",
       "name": "Repair Of Culverts CauseWays",
-      "active": false,
+      "active": true,
       "keywords": "road, damage, hole, surface, repair, patch, broken, maintenance, CauseWays, construction, fix",
       "department": "DEPT_2",
       "slaHours": 336,
