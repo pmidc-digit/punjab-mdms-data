@@ -279,6 +279,34 @@
           ]
         },
         {
+          "Category_ID": "265",
+          "Category_Label": "Garbage",
+          "departmentId": "232",
+          "departmentName": "URBAN LOCAL BODIES",
+          "departmentNameLocal": "ਸ਼ਹਿਰੀ ਸਥਾਨਕ ਬੋਡੀਜ਼",
+          "subcategories": [
+            {
+              "id": "993",
+              "label": "Garbage Needs To be Cleared",
+              "msevaServiceCode": "GarbageNeedsTobeCleared"
+            }
+          ]
+        },
+        {
+          "Category_ID": "266",
+          "Category_Label": "Drains",
+          "departmentId": "232",
+          "departmentName": "URBAN LOCAL BODIES",
+          "departmentNameLocal": "ਸ਼ਹਿਰੀ ਸਥਾਨਕ ਬੋਡੀਜ਼",
+          "subcategories": [
+            {
+              "id": "1000",
+              "label": "Water Entered House Rainy Season",
+              "msevaServiceCode": "WaterEnteredHouseRainySeason"
+            }
+          ]
+        },
+        {
           "Category_ID": "1612",
           "Category_Label": "Garbage and Cleanliness",
           "departmentId": "232",
@@ -428,6 +456,11 @@
               "id": "3502",
               "label": "Repair Of Culverts Cause Ways",
               "msevaServiceCode": "RepairOfCulvertsCauseWays"
+            },
+            {
+              "id": "3521",
+              "label": "Illegal Rehries On Road",
+              "msevaServiceCode": "IllegalRehriesOnRoad"
             }
           ]
         },
