@@ -2582,6 +2582,20 @@
       "isVoucherCreationEnabled": true,
       "cancelReceipt": true,
       "isActive": true
+    },
+    {
+      "businessService": "Rents.Use_Of_Land_And_Occupation_Charges",
+      "code": "RT.Use_Of_Land_And_Occupation_Charges",
+      "collectionModesNotAllowed": [
+        ""
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "cancelReceipt": true,
+      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
     }
   ]
 }
