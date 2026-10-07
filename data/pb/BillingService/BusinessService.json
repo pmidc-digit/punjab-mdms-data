@@ -2396,7 +2396,8 @@
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
-      "isActive": true
+      "isActive": true,
+      "cancelReceipt": true
     },
     {
       "businessService": "pet-services",
@@ -2407,7 +2408,8 @@
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
-      "isActive": true
+      "isActive": true,
+      "cancelReceipt": true
     },
     {
       "businessService": "BPARegistration",
@@ -2539,7 +2541,8 @@
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
-      "isActive": true
+      "isActive": true,
+      "cancelReceipt": true
     },
     {
       "businessService": "gc-services-calculation",
