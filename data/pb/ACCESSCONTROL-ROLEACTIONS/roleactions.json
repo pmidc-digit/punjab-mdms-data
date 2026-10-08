@@ -72408,6 +72408,24 @@
       "actionid": 890009970,
       "actioncode": "",
       "tenantId": "pb"
-    }        
+    },
+    {
+      "rolecode": "ULB_ADMINISTRATOR_REPORTS",
+      "actionid": 260812345,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ULB_ADMINISTRATOR_REPORTS",
+      "actionid": 260912345,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ULB_ADMINISTRATOR_REPORTS",
+      "actionid": 261012345,
+      "actioncode": "",
+      "tenantId": "pb"
+    }      
   ]
 }

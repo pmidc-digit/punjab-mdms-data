@@ -30994,6 +30994,43 @@
       "serviceCode": "ADVREPORTS",
       "code": "null",
       "path": ""
-    }
+    },
+    {
+      "id": 260812345,
+      "name": "WS SW CancelledReceiptRegister_V2",
+      "url": "url",
+      "displayName": "WS SW CancelledReceiptRegister_V2",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.Collections.WS SW CancelledReceiptRegister_V2",
+      "navigationURL": "report/rainmaker-ws/WSSWCancelledReceiptRegister_V2",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 260912345,
+      "name": "WS SW CancelledReceiptRegister_V2",
+      "url": "/report/rainmaker-ws/WSSWCancelledReceiptRegister_V2/metadata/_get",
+      "displayName": "WS SW CancelledReceiptRegister_V2",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 261012345,
+      "name": "WS SW CancelledReceiptRegister_V2",
+      "url": "/report/rainmaker-ws/WSSWCancelledReceiptRegister_V2/_get",
+      "displayName": "WS SW CancelledReceiptRegister_V2",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    },
   ]
 }
