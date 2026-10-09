@@ -1283,15 +1283,10 @@
                 "jsonPath": "*/collectorname"
               },
               "accessType": "PLAIN"
-            }
-          ]
-        },
-        {
-          "roleCode":"EMPLOYEE",
-          "attributeAccessList":[
+            },
             {
-              "attribute":{
-                "jsonPath":"*/receiptcancelby"
+              "attribute": {
+                "jsonPath": "*/receiptcancelby"
               },
               "accessType": "PLAIN"
             }
