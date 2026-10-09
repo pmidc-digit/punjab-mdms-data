@@ -1285,6 +1285,17 @@
               "accessType": "PLAIN"
             }
           ]
+        },
+        {
+          "roleCode":"EMPLOYEE",
+          "attributeAccessList":[
+            {
+              "attribute":{
+                "jsonPath":"*/receiptcancelby"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
         }
       ]
     },
