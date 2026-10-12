@@ -8,10 +8,10 @@
       "description": "Non-Metered Connection",
       "active": true
     },
-    {
-      "name": "Non Metered",
-      "code": "Non Metered",
-      "description": "Non-Metered Connection",
+     {
+      "name": "Metered",
+      "code": "Metered",
+      "description": "Water consumption",
       "active": true
     }
   ]
