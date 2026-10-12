@@ -44816,17 +44816,28 @@
     "actioncode": "",
     "tenantId": "pb"
   },
-{
-    "rolecode": "PT_FIELD_INSPECTOR",
-    "actionid": 8900159,
-    "actioncode": "",
-    "tenantId": "pb"
-  },
-{
+  {
     "rolecode": "EMPLOYEE",
     "actionid": 8900159,
     "actioncode": "",
     "tenantId": "pb"
-  }
+  },
+  {
+      "rolecode": "WS_CEMP",
+      "actionid": 89000936,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+  {
+      "rolecode": "SW_CEMP",
+      "actionid": 89000936,
+      "actioncode": "",
+      "tenantId": "pb"
+    },{
+      "rolecode": "SW_CEMP",
+      "actionid": 89000936,
+      "actioncode": "",
+      "tenantId": "pb"
+    }
   ]
 }
