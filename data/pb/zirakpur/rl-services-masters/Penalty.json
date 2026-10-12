@@ -1,0 +1,16 @@
+{
+  "tenantId": "pb.zirakpur",
+  "moduleName": "rl-services-masters",
+  "Penalty": [
+    {
+      "billingCycle": "MONTHLY",
+      "rate": 0,
+      "minAmount": 0,
+      "applicableAfterDays": 0,
+      "flatAmount": null,
+      "maxAmount": null,
+      "fromFY": "2025-26",
+      "startingDay": "1/04/2025"
+    }
+  ]
+}

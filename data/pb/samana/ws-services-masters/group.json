@@ -1,0 +1,41 @@
+{
+  "tenantId": "pb.samana",
+  "moduleName": "ws-services-masters",
+  "groups": [
+    {
+      "name": "BL1",
+      "code": "BL1",
+      "active": true
+    },
+    {
+      "name": "BL2B",
+      "code": "BL2B",
+      "active": true
+    },
+    {
+      "name": "BL4",
+      "code": "BL4",
+      "active": true
+    },
+    {
+      "name": "BL3",
+      "code": "BL3",
+      "active": true
+    },
+    {
+      "name": "BL2",
+      "code": "BL2",
+      "active": true
+    },
+    {
+      "name": "BL5",
+      "code": "BL5",
+      "active": true
+    },
+    {
+      "name": "BL2A",
+      "code": "BL2A",
+      "active": true
+    }
+  ]
+}
