@@ -628,6 +628,21 @@
               "msevaServiceCode": "PipelineWorkTrafficJam"
             }
           ]
+        },
+        {
+          "Category_ID": "1632",
+          "Category_Label": "Single-Use Plastic Violation",
+          "Category_Label_Local_Language": "ਸਿੰਗਲ-ਯੂਜ਼ ਪਲਾਸਟਿਕ ਦੀ ਉਲੰਘਣਾ",
+          "departmentId": "232",
+          "departmentName": "URBAN LOCAL BODIES",
+          "departmentNameLocal": "ਸ਼ਹਿਰੀ ਸਥਾਨਕ ਬੋਡੀਜ਼",
+          "subcategories": [
+            {
+              "id": "3523",
+              "label": "Single-Use Plastic Violation",
+              "msevaServiceCode": "SingleUsePlasticViolation"
+            }
+          ]
         }
       ]
     }

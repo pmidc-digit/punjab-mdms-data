@@ -1069,6 +1069,15 @@
       "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths"
+    },
+    {
+      "serviceCode": "SingleUsePlasticViolation",
+      "name": "Single-Use Plastic Violation",
+      "active": true,
+      "keywords": "single-use, plastic, violation, garbage, waste, ban, polythene",
+      "department": "DEPT_3",
+      "slaHours": 336,
+      "menuPath": "Single-Use Plastic Violation"
     }
   ]
 }
