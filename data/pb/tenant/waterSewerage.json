@@ -485,8 +485,8 @@
     {
       "code": "pb.barnala",
       "name": "Barnala",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.bhadson",
