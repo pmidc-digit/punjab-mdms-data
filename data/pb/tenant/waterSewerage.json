@@ -83,8 +83,8 @@
     {
       "code": "pb.shamchurasi",
       "name": "Shamchurasi",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.sunam",
@@ -143,8 +143,8 @@
     {
       "code": "pb.sangatmandi",
       "name": "Sangatmandi",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.arniwala",
@@ -173,8 +173,8 @@
     {
       "code": "pb.derabassi",
       "name": "Derabassi",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.dhuri",
@@ -221,8 +221,8 @@
     {
       "code": "pb.machhiwara",
       "name": "Machhiwara",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.jagraon",
@@ -269,8 +269,8 @@
     {
       "code": "pb.sangrur",
       "name": "Sangrur",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.sirhind",
@@ -287,8 +287,8 @@
     {
       "code": "pb.zira",
       "name": "Zira",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.ajnala",
@@ -383,8 +383,8 @@
     {
       "code": "pb.kotfatta",
       "name": "Kotfatta",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.kotshamir",
@@ -479,8 +479,8 @@
     {
       "code": "pb.bariwala",
       "name": "Bariwala",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.barnala",
@@ -491,8 +491,8 @@
     {
       "code": "pb.bhadson",
       "name": "Bhadson",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.cheema",
@@ -515,8 +515,8 @@
     {
       "code": "pb.goniana",
       "name": "Goniana",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.kharar",
@@ -557,8 +557,8 @@
     {
       "code": "pb.maloud",
       "name": "Maloud",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.mansa",
@@ -617,8 +617,8 @@
     {
       "code": "pb.raikot",
       "name": "Raikot",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.raman",
@@ -653,8 +653,8 @@
     {
       "code": "pb.jandialaguru",
       "name": "Jandialaguru",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.amargarh",
@@ -677,8 +677,8 @@
     {
       "code": "pb.bhadaur",
       "name": "Bhadaur",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.bhikhi",
@@ -749,8 +749,8 @@
     {
       "code": "pb.khemkaran",
       "name": "Khemkaran",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.kothaguru",
@@ -761,8 +761,8 @@
     {
       "code": "pb.majitha",
       "name": "Majitha",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.mandigobindgarh",
@@ -809,8 +809,8 @@
     {
       "code": "pb.sardulgarh",
       "name": "Sardulgarh",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.abohar",
@@ -977,8 +977,8 @@
     {
       "code": "pb.amritsar",
       "name": "Amritsar",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.itpatiala",
