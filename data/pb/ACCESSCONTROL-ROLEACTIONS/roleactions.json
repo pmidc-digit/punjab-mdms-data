@@ -44838,6 +44838,24 @@
       "actionid": 89000936,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "RECEIPT_SEARCH",
+      "actionid": 883354,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "RECEIPT_SEARCH",
+      "actionid": 883355,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "RECEIPT_SEARCH",
+      "actionid": 883342,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
