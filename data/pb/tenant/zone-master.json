@@ -657,8 +657,16 @@
           "name": "Zone31"
         },
         {
+          "code": "Zone32",
+          "name": "Zone32"
+        },
+        {
           "code": "Zone33",
           "name": "Zone33"
+        },
+        {
+          "code": "Zone34",
+          "name": "Zone34"
         },
         {
           "code": "Zone35",
@@ -7879,6 +7887,22 @@
         {
           "code": "Zone",
           "name": "Zone"
+        },
+        {
+          "code": "ZoneL",
+          "name": "ZoneL"
+        },
+        {
+          "code": "ZoneR",
+          "name": "ZoneR"
+        },
+        {
+          "code": "Area1",
+          "name": "Area1"
+        },
+        {
+          "code": "Area2",
+          "name": "Area2"
         }
       ]
     },
