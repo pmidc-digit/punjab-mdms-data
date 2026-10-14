@@ -1,0 +1,11 @@
+{
+  "tenantId": "pb.amritsar",
+  "moduleName": "rentAndLease",
+  "Area": [
+   {
+  "name": "Amritsar - Baba Deep Singh Shaheed Gurudwara",
+  "code": "ASR_BABA_DEEP_SINGH_SHAHEED_GURUDWARA_RENT_COM",
+  "isActive": true
+   }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "tenantId": "pb.amritsar",
+  "moduleName": "rentAndLease",
+  "RLProperty": [
+    {
+      "propertyId": "ASR-RL-PT2026001051",
+      "propertyName": "Sant Baba Kharak Singh",
+      "allotmentType": "Lease",
+      "propertySizeOrArea": 5675,
+      "address": "Near Opp. Baba Deep Singh Shaheed Gurudwara",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": 5000,
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "areaCode": "ASR_BABA_DEEP_SINGH_SHAHEED_GURUDWARA_RENT_COM"
+    }
+  ]
+}
