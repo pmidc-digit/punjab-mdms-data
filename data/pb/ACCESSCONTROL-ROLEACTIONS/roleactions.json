@@ -44746,12 +44746,6 @@
     "tenantId": "pb"
   },
   {
-    "rolecode": "PT_CEMP",
-    "actionid": 8900159,
-    "actioncode": "",
-    "tenantId": "pb"
-  },
-  {
     "rolecode": "PTCEMP",
     "actionid": 8900159,
     "actioncode": "",
