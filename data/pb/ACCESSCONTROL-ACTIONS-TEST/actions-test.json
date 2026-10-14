@@ -24540,7 +24540,7 @@
     {
       "id": 89010004,
       "name": "Fire NOC Create Application",
-      "url": "quickAction",
+      "url": "url",
       "displayName": "Fire NOC Create Application",
       "orderNumber": 2,
       "queryParams": "",
@@ -24557,7 +24557,7 @@
     {
       "id": 89010005,
       "name": "Fire NOC Search Application",
-      "url": "quickAction",
+      "url": "url",
       "displayName": "Fire NOC Search Application",
       "orderNumber": 3,
       "queryParams": "",
