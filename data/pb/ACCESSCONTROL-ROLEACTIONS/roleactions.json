@@ -72485,6 +72485,54 @@
     "actionid": 883342,
     "actioncode": "",
     "tenantId": "pb"
-  }      
+  },
+  {
+      "rolecode": "NOC_DOC_VERIFIER",
+      "actionid": 8900160,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NOC_FIELD_INSPECTOR",
+      "actionid": 8900160,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NOC_APPROVER",
+      "actionid": 8900160,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NOC_CEMP",
+      "actionid": 8900160,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 8900160,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NOC_FIELD_INSPECTOR",
+      "actionid": 8900160,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NOC_APPROVER",
+      "actionid": 8900160,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "FIRE_NOC_APPROVER",
+      "actionid": 8900160,
+      "actioncode": "",
+      "tenantId": "pb"
+    }    
   ]
 }
