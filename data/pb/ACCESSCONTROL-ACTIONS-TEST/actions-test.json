@@ -24538,23 +24538,6 @@
       "path": ""
     },
     {
-      "id": 89010003,
-      "name": "FireNOC Search Application",
-      "url": "quickAction",
-      "displayName": "FireNOC Search Application",
-      "orderNumber": 1,
-      "queryParams": "",
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "null",
-      "path": "FIRE-NOC.FireNOC Search Application",
-      "navigationURL": "fire-noc/search",
-      "quickAction": true,
-      "leftIcon": "action:assignment",
-      "rightIcon": ""
-    },
-    {
       "id": 89010004,
       "name": "Fire NOC Create Application",
       "url": "quickAction",
@@ -24566,7 +24549,7 @@
       "serviceCode": "",
       "code": "null",
       "path": "Fire NOC Upgrade.Fire NOC Create Application",
-      "navigationURL": "digit-ui/employee/firenoc/new-application",
+      "navigationURL": "/digit-ui/employee/firenoc/new-application",
       "quickAction": true,
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -24583,7 +24566,7 @@
       "serviceCode": "",
       "code": "null",
       "path": "Fire NOC Upgrade.Fire NOC Search Application",
-      "navigationURL": "digit-ui/employee/firenoc/search/application",
+      "navigationURL": "/digit-ui/employee/firenoc/search/application",
       "quickAction": true,
       "leftIcon": "action:assignment",
       "rightIcon": ""
