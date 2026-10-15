@@ -143,8 +143,8 @@
     {
       "code": "pb.sangatmandi",
       "name": "Sangatmandi",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.arniwala",
@@ -209,8 +209,8 @@
     {
       "code": "pb.jalalabad",
       "name": "Jalalabad",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.kartarpur",
@@ -269,8 +269,8 @@
     {
       "code": "pb.sangrur",
       "name": "Sangrur",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.sirhind",
@@ -377,8 +377,8 @@
     {
       "code": "pb.khamano",
       "name": "Khamano",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.kotfatta",
@@ -479,20 +479,20 @@
     {
       "code": "pb.bariwala",
       "name": "Bariwala",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.barnala",
       "name": "Barnala",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.bhadson",
       "name": "Bhadson",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.cheema",
@@ -515,8 +515,8 @@
     {
       "code": "pb.goniana",
       "name": "Goniana",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.kharar",
@@ -677,8 +677,8 @@
     {
       "code": "pb.bhadaur",
       "name": "Bhadaur",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.bhikhi",
@@ -767,8 +767,8 @@
     {
       "code": "pb.mandigobindgarh",
       "name": "Mandigobindgarh",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.mehatpur",
@@ -809,8 +809,8 @@
     {
       "code": "pb.sardulgarh",
       "name": "Sardulgarh",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.abohar",
@@ -863,8 +863,8 @@
     {
       "code": "pb.nangal",
       "name": "Nangal",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.quadian",
