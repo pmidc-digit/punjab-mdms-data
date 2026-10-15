@@ -10,7 +10,7 @@
 				"F"
 			],
 			"subOccupancyTypes": [
-				"F",
+				"F-F",
 				"F-RB",
 				"F-HM",
 				"F-SCC",
@@ -40,7 +40,7 @@
 				"F"
 			],
 			"subOccupancyTypes": [
-				"F",
+				"F-F",
 				"F-RB",
 				"F-HM",
 				"F-SCC",
@@ -173,7 +173,7 @@
 				"F"
 			],
 			"subOccupancyTypes": [
-				"F",
+				"F-F",
 				"F-RB",
 				"F-HM",
 				"F-SCC",
@@ -203,7 +203,7 @@
 				"F"
 			],
 			"subOccupancyTypes": [
-				"F",
+				"F-F",
 				"F-RB",
 				"F-HM",
 				"F-SCC",
