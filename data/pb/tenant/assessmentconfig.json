@@ -1560,7 +1560,7 @@
       "tenant": "pb.talwandibhai",
       "enabled": true,
       "financialyear": "2026-27",
-      "isRented": false
+      "isRented": true
     }
   ]
 }
