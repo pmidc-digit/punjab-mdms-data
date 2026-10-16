@@ -28,7 +28,7 @@
       },
       {
         "id": 5,
-        "code": "DISCONNECT_SEWERAGE_CONNECTION",
+        "code": "DISCONNECT_WATER_CONNECTION",
         "name": "Disconnect Water Connection",
         "businessService":"DisconnectWSConnection"
       },
