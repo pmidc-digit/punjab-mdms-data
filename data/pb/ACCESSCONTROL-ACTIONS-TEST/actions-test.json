@@ -2762,7 +2762,7 @@
       "serviceCode": "PGR",
       "code": "null",
       "path": "Home",
-      "navigationURL": "/",
+      "navigationURL": "/digit-ui/employee/inbox",
       "leftIcon": "action:home",
       "rightIcon": ""
     },
