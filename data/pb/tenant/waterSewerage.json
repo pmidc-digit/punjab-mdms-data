@@ -18,7 +18,7 @@
       "code": "pb.shahkot",
       "name": "Shahkot",
       "iswater": false,
-      "issewerage": true
+      "issewerage": false
     },
     {
       "code": "pb.handiaya",
@@ -119,8 +119,8 @@
     {
       "code": "pb.khanauri",
       "name": "Khanauri",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.mahilpur",
@@ -227,8 +227,8 @@
     {
       "code": "pb.jagraon",
       "name": "Jagraon",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.dharamkot",
@@ -323,8 +323,8 @@
     {
       "code": "pb.tapa",
       "name": "Tapa",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.garhshankar",
@@ -665,8 +665,8 @@
     {
       "code": "pb.banur",
       "name": "Banur",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.begowal",
@@ -803,8 +803,8 @@
     {
       "code": "pb.payal",
       "name": "Payal",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.sardulgarh",
