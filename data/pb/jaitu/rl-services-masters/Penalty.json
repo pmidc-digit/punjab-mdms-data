@@ -1,54 +1,16 @@
 {
   "tenantId": "pb.jaitu",
   "moduleName": "rl-services-masters",
-  "Penalty": [
+  "Penalty":  [
     {
       "billingCycle": "MONTHLY",
-      "penaltyType": "FIXED",
-      "flatAmount": 0,
-      "annualRate": 0,
       "rate": 25,
-      "applicableAfterDays": 0,
       "minAmount": 0,
+      "applicableAfterDays": 7,
+      "flatAmount": null,
       "maxAmount": null,
-      "fromFY": "2026-27",
-      "startingDay": "1/04/2026"
-    },
-    {
-      "billingCycle": "QUATERLY",
-      "penaltyType": "FIXED",
-      "flatAmount": 0,
-      "annualRate": 0,
-      "rate": 0,
-      "applicableAfterDays": 0,
-      "minAmount": 0,
-      "maxAmount": null,
-      "fromFY": "2026-27",
-      "startingDay": "1/04/2026"
-    },
-    {
-      "billingCycle": "BIANNUAL",
-      "penaltyType": "FIXED",
-      "flatAmount": 0,
-      "annualRate": 0,
-      "rate": 0,
-      "applicableAfterDays": 0,
-      "minAmount": 0,
-      "maxAmount": null,
-      "fromFY": "2026-27",
-      "startingDay": "1/04/2026"
-    },
-    {
-      "billingCycle": "ANNUAL",
-      "penaltyType": "FIXED",
-      "flatAmount": 0,
-      "annualRate": 0,
-      "rate": 0,
-      "applicableAfterDays": 0,
-      "minAmount": 0,
-      "maxAmount": null,
-      "fromFY": "2026-27",
-      "startingDay": "1/04/2026"
+      "fromFY": "2025-26",
+      "startingDay": "1/04/2025"
     }
   ]
 }
