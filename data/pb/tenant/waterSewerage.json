@@ -119,8 +119,8 @@
     {
       "code": "pb.khanauri",
       "name": "Khanauri",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.mahilpur",
@@ -203,8 +203,8 @@
     {
       "code": "pb.gurdaspur",
       "name": "Gurdaspur",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.jalalabad",
@@ -257,8 +257,8 @@
     {
       "code": "pb.samana",
       "name": "Samana",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.sahnewal",
@@ -323,8 +323,8 @@
     {
       "code": "pb.tapa",
       "name": "Tapa",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.garhshankar",
@@ -521,8 +521,8 @@
     {
       "code": "pb.kharar",
       "name": "Kharar",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.kotissekhan",
@@ -665,8 +665,8 @@
     {
       "code": "pb.banur",
       "name": "Banur",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.begowal",
@@ -803,8 +803,8 @@
     {
       "code": "pb.payal",
       "name": "Payal",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.sardulgarh",
