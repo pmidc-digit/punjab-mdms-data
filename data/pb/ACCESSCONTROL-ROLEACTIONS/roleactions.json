@@ -44911,6 +44911,36 @@
       "actionid": 8901002800,
       "actioncode": "",
       "tenantId": "pb"
+    },
+	{
+      "rolecode": "UC_EMP",
+      "actionid": 208711,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "MISC_REC_CANCEL",
+      "actionid": 208711,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	{
+      "rolecode": "MISC_REC_CANCEL",
+      "actionid": 208712,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 208712,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "UC_EMP",
+      "actionid": 208712,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
