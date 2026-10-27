@@ -225,7 +225,7 @@
       "waterSubUsageType": "USAGE_DOM_NA",
       "calculationAttribute": "Water consumption",
       "connectionType": "Metered",
-      "minimumCharge": 50,
+      "minimumCharge": 150,
       "slabs": [
         {
           "from": 0,
@@ -243,7 +243,7 @@
       "waterSubUsageType": "USAGE_COMM_NA",
       "calculationAttribute": "Water consumption",
       "connectionType": "Metered",
-      "minimumCharge": 50,
+      "minimumCharge": 150,
       "slabs": [
         {
           "from": 0,
@@ -261,7 +261,7 @@
       "waterSubUsageType": "USAGE_DOM_NA",
       "calculationAttribute": "Water consumption",
       "connectionType": "Metered",
-      "minimumCharge": 50,
+      "minimumCharge": 150,
       "slabs": [
         {
           "from": 0,
@@ -279,7 +279,7 @@
       "waterSubUsageType": "USAGE_COMM_NA",
       "calculationAttribute": "Water consumption",
       "connectionType": "Metered",
-      "minimumCharge": 50,
+      "minimumCharge": 150,
       "slabs": [
         {
           "from": 0,
@@ -297,7 +297,7 @@
       "waterSubUsageType": "USAGE_COMM_NA",
       "calculationAttribute": "Water consumption",
       "connectionType": "Metered",
-      "minimumCharge": 50,
+      "minimumCharge": 150,
       "slabs": [
         {
           "from": 0,
@@ -315,7 +315,7 @@
       "waterSubUsageType": "USAGE_INDUSTRIAL_NA",
       "calculationAttribute": "Water consumption",
       "connectionType": "Metered",
-      "minimumCharge": 50,
+      "minimumCharge": 150,
       "slabs": [
         {
           "from": 0,
@@ -333,7 +333,7 @@
       "waterSubUsageType": "USAGE_INSTITUTIONAL_NA",
       "calculationAttribute": "Water consumption",
       "connectionType": "Metered",
-      "minimumCharge": 50,
+      "minimumCharge": 150,
       "slabs": [
         {
           "from": 0,
