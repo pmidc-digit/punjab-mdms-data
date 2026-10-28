@@ -4,7 +4,7 @@
     "PaymentGateway": [
         {
             "gateway": "RAZORPAY",
-            "active": true,
+            "active": false,
             "businessService": [
             ]
         },
@@ -46,12 +46,12 @@
         },
         {
             "gateway": "CCAVANUE",
-            "active": true,
+            "active": false,
             "businessService": []
         },
         {
             "gateway": "HDFC",
-            "active": true,
+            "active": false,
             "businessService": [
             ]
         }

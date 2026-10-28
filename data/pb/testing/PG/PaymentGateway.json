@@ -4,13 +4,13 @@
     "PaymentGateway": [
         {
             "gateway": "RAZORPAY",
-            "active": true,
+            "active": false,
             "businessService": [
             ]
         },
         {
             "gateway": "PAYU",
-            "active": true,
+            "active": false,
             "businessService": []
         },
         {
@@ -51,7 +51,7 @@
         },
         {
             "gateway": "HDFC",
-            "active": true,
+            "active": false,
             "businessService": [
             ]
         }
