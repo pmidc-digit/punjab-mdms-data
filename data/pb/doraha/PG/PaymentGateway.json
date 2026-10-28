@@ -1,5 +1,5 @@
 {
-    "tenantId": "pb",
+    "tenantId": "pb.doraha",
     "moduleName": "PAYMENT",
     "PaymentGateway": [
         {

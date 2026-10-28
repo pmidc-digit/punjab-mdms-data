@@ -1,5 +1,5 @@
 {
-    "tenantId": "pb",
+    "tenantId": "pb.ropar",
     "moduleName": "PAYMENT",
     "PaymentGateway": [
         {

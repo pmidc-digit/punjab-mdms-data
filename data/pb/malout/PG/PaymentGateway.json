@@ -1,5 +1,5 @@
 {
-    "tenantId": "pb",
+    "tenantId": "pb.malout",
     "moduleName": "PAYMENT",
     "PaymentGateway": [
         {

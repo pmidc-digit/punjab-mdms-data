@@ -1,5 +1,5 @@
 {
-    "tenantId": "pb",
+    "tenantId": "pb.bhawanigarh",
     "moduleName": "PAYMENT",
     "PaymentGateway": [
         {

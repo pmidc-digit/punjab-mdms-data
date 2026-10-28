@@ -1,5 +1,5 @@
 {
-    "tenantId": "pb",
+    "tenantId": "pb.itamritsar",
     "moduleName": "PAYMENT",
     "PaymentGateway": [
         {

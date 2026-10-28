@@ -1,5 +1,5 @@
 {
-    "tenantId": "pb",
+    "tenantId": "pb.kotshamir",
     "moduleName": "PAYMENT",
     "PaymentGateway": [
         {
