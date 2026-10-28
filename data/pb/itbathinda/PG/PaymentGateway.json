@@ -1,5 +1,5 @@
 {
-    "tenantId": "pb",
+    "tenantId": "pb.itbathinda",
     "moduleName": "PAYMENT",
     "PaymentGateway": [
         {

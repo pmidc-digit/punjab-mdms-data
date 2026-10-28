@@ -1,5 +1,5 @@
 {
-    "tenantId": "pb",
+    "tenantId": "pb.dinanagar",
     "moduleName": "PAYMENT",
     "PaymentGateway": [
         {

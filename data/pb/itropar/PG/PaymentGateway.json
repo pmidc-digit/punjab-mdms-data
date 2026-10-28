@@ -1,5 +1,5 @@
 {
-    "tenantId": "pb",
+    "tenantId": "pb.itropar",
     "moduleName": "PAYMENT",
     "PaymentGateway": [
         {

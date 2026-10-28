@@ -1,5 +1,5 @@
 {
-    "tenantId": "pb",
+    "tenantId": "pb.kapurthala",
     "moduleName": "PAYMENT",
     "PaymentGateway": [
         {

@@ -1,5 +1,5 @@
 {
-    "tenantId": "pb",
+    "tenantId": "pb.sujanpur",
     "moduleName": "PAYMENT",
     "PaymentGateway": [
         {

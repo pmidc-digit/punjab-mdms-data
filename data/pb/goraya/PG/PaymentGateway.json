@@ -1,5 +1,5 @@
 {
-    "tenantId": "pb",
+    "tenantId": "pb.goraya",
     "moduleName": "PAYMENT",
     "PaymentGateway": [
         {
