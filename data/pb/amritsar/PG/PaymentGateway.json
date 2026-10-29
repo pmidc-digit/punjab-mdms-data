@@ -3,7 +3,7 @@
     "moduleName": "PAYMENT",
     "PaymentGateway": [
         {
-            "gateway": "CCAVANUE",
+            "gateway": "RAZORPAY",
             "active": true,
             "businessService": [
                 "GC.ONE_TIME_FEE",
@@ -25,13 +25,7 @@
                 "FIRENOC",
                 "MCS",
                 "NDC",
-                "SW_OLD"
-            ]
-        },
-        {
-            "gateway": "OBPASRAZORPAY",
-            "active": true,
-            "businessService": [
+                "SW_OLD",
                 "BPA.NC_APP_FEE",
                 "BPA.NC_OC_APP_FEE",
                 "obpas_noc",
@@ -45,9 +39,20 @@
             ]
         },
         {
-            "gateway": "HDFC",
-            "active": true,
+            "gateway": "PAYU",
+            "active": false,
             "businessService": []
+        },
+        {
+            "gateway": "CCAVANUE",
+            "active": false,
+            "businessService": []
+        },
+        {
+            "gateway": "HDFC",
+            "active": false,
+            "businessService": [
+            ]
         }
     ]
 }
