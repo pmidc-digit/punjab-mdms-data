@@ -44,7 +44,7 @@
         },
         {
             "gateway": "CCAVANUE",
-            "active": false,
+            "active": true,
             "businessService": ["PT"]
         },
         {
