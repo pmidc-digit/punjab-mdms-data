@@ -6,7 +6,7 @@
       "code": "pb.khanna",
       "name": "Khanna",
       "iswater": false,
-      "issewerage": false
+      "issewerage": true
     },
     {
       "code": "pb.devigarh",
@@ -311,8 +311,8 @@
     {
       "code": "pb.patti",
       "name": "Patti",
-      "iswater": true,
-      "issewerage": false
+      "iswater": false,
+      "issewerage": true
     },
     {
       "code": "pb.rayya",
@@ -371,8 +371,8 @@
     {
       "code": "pb.goraya",
       "name": "Goraya",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.khamano",
@@ -641,8 +641,8 @@
     {
       "code": "pb.tarntaran",
       "name": "Tarntaran",
-      "iswater": true,
-      "issewerage": false
+      "iswater": false,
+      "issewerage": true
     },
     {
       "code": "pb.derababananak",
@@ -797,8 +797,8 @@
     {
       "code": "pb.nurmahal",
       "name": "Nurmahal",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.payal",
