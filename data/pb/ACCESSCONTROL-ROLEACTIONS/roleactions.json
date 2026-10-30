@@ -39166,6 +39166,12 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "RL_CEMP",
+      "actionid": 7007,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "ULB_ADMINISTRATOR_REPORTS",
       "actionid": 8900920,
       "actioncode": "",
