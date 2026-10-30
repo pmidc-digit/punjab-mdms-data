@@ -19,7 +19,6 @@
                 "rl-services",
                 "WS.ONE_TIME_FEE_OLD",
                 "WS.ONE_TIME_FEE",
-                "PT",
                 "chb-services",
                 "WS_OLD",
                 "FIRENOC",
@@ -45,13 +44,8 @@
         },
         {
             "gateway": "CCAVANUE",
-<<<<<<< HEAD
             "active": true,
             "businessService": ["PT"]
-=======
-            "active": false,
-            "businessService": []
->>>>>>> parent of 60dce3139 (CCAvenue added for PT as PG in 22 ulbs)
         },
         {
             "gateway": "HDFC",
