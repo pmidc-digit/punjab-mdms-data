@@ -19,6 +19,7 @@
                 "rl-services",
                 "WS.ONE_TIME_FEE_OLD",
                 "WS.ONE_TIME_FEE",
+                "PT",
                 "chb-services",
                 "WS_OLD",
                 "FIRENOC",
@@ -44,10 +45,8 @@
         },
         {
             "gateway": "CCAVANUE",
-            "active": true,
-            "businessService": [
-                "PT"
-            ]
+            "active": false,
+            "businessService": []
         },
         {
             "gateway": "HDFC",
