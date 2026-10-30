@@ -203,8 +203,8 @@
     {
       "code": "pb.gurdaspur",
       "name": "Gurdaspur",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.jalalabad",
@@ -257,8 +257,8 @@
     {
       "code": "pb.samana",
       "name": "Samana",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.sahnewal",
@@ -311,7 +311,7 @@
     {
       "code": "pb.patti",
       "name": "Patti",
-      "iswater": false,
+      "iswater": true,
       "issewerage": false
     },
     {
@@ -521,8 +521,8 @@
     {
       "code": "pb.kharar",
       "name": "Kharar",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.kotissekhan",
@@ -641,7 +641,7 @@
     {
       "code": "pb.tarntaran",
       "name": "Tarntaran",
-      "iswater": false,
+      "iswater": true,
       "issewerage": false
     },
     {
@@ -695,8 +695,8 @@
     {
       "code": "pb.budhlada",
       "name": "Budhlada",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.chamkaursahib",

@@ -45,9 +45,7 @@
         {
             "gateway": "CCAVANUE",
             "active": true,
-            "businessService": [
-                "PT"
-            ]
+            "businessService": ["PT"]
         },
         {
             "gateway": "HDFC",
