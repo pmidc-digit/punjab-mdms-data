@@ -72821,6 +72821,90 @@
       "actionid": 1757,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPAREG_DOC_VERIFIER",
+      "actionid": 111782,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_DOC_VERIFIER",
+      "actionid": 111782,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_ARCHITECT",
+      "actionid": 111782,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_APPROVER",
+      "actionid": 111782,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_DOC_VERIFIER",
+      "actionid": 111782,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_VERIFIER",
+      "actionid": 111782,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_FIELD_INSPECTOR",
+      "actionid": 111782,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_NOC_VERIFIER",
+      "actionid": 111782,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PROFESSIONAL_DOC_VERIFIER",
+      "actionid": 111782,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PROFESSIONAL_VERIFIER",
+      "actionid": 111782,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PROFESSIONAL_APPROVER",
+      "actionid": 111782,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_UPDATE_ZONE",
+      "actionid": 111782,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_BPA_CTP",
+      "actionid": 111782,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_BPA_LOW_RISE_APPROVER",
+      "actionid": 111782,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
