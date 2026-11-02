@@ -72761,6 +72761,66 @@
       "actionid": 89555220003,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_BPA_LOW_RISE_APPROVER",
+      "actionid": 5010,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_BPA_LOW_RISE_APPROVER",
+      "actionid": 5024,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_BPA_LOW_RISE_APPROVER",
+      "actionid": 5009,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_BPA_LOW_RISE_APPROVER",
+      "actionid": 3005,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_BPA_LOW_RISE_APPROVER",
+      "actionid": 1782,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_BPA_LOW_RISE_APPROVER",
+      "actionid": 5020,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_BPA_LOW_RISE_APPROVER",
+      "actionid": 5021,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_BPA_LOW_RISE_APPROVER",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_BPA_LOW_RISE_APPROVER",
+      "actionid": 1756,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_BPA_LOW_RISE_APPROVER",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
