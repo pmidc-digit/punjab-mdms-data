@@ -28,24 +28,7 @@
       "propertyUsage": "NONRESIDENTIAL.COMMERCIAL",
       "category": "F",
       "subCategory": [
-        "F",
-        "F-RB",
-        "F-HM",
-        "F-MIP",
-        "F-MTP",
-        "F-SCC",
-        "F-PO",
-        "F-B",
-        "F-LB",
-        "F-D",
-        "F-CA",
-        "F-VGP",
-        "F-BU",
-        "F-PFSF",
-        "F-PFST",
-        "F-PFSS",
-        "F-PS",
-        "F-CNGS"
+        "F"
       ],
       "active": true
     },
@@ -55,19 +38,7 @@
       "propertyUsage": "NONRESIDENTIAL.INDUSTRIAL",
       "category": "G",
       "subCategory": [
-        "G-G",
-        "G-F",
-        "G-S",
-        "G-HI",
-        "G-WT",
-        "G-RSI",
-        "G-GIP",
-        "G-GIF",
-        "G-ITP",
-        "G-ITF",
-        "G-TI",
-        "G-KI",
-        "G-SI"
+        "G-G"
       ],
       "active": true
     }
