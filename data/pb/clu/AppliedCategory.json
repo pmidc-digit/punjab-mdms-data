@@ -5,56 +5,100 @@
     {
       "name": "Commercial",
       "code": "COMMERCIAL",
+      "category": "F",
+      "subCategory": [
+        "F"
+      ],
       "active": true
     },
     {
       "name": "Hospital / Multimedia Center (Not Multiplex) and Hotels",
       "code": "HOSPITAL_MULTIMEDIA_CENTER_NOT_MULTIPLEX_AND_HOTELS",
+      "category": "F",
+      "subCategory": [
+        "F-HM"
+      ],
       "active": true
     },
     {
       "name": "Industry / Godown / Warehousing / Cold Store",
       "code": "INDUSTRY_GODOWN_WAREHOUSING_COLD_STORE",
+      "category": "G",
+      "subCategory": [
+        "G-WT"
+      ],
       "active": true
     },
     {
       "name": "Institutions",
       "code": "INSTITUTIONS",
+      "category": "L",
+      "subCategory": [
+        "L-ERC"
+      ],
       "active": true
     },
     {
       "name": "Marriage Palaces",
       "code": "MARRIAGE_PALACES",
+      "category": "L",
+      "subCategory": [
+        "L-MP"
+      ],
       "active": true
     },
     {
       "name": "Multiplex / Miniplex",
       "code": "MULTIPLEX_MINIPLEX",
+      "category": "F",
+      "subCategory": [
+        "F-MTP"
+      ],
       "active": true
     },
     {
       "name": "Petrol Pumps",
       "code": "PETROL_PUMPS",
+      "category": "F",
+      "subCategory": [
+        "F-PS"
+      ],
       "active": true
     },
     {
       "name": "Recreational",
       "code": "RECREATIONAL",
+      "category": "L",
+      "subCategory": [
+        "L-GP"
+      ],
       "active": true
     },
     {
       "name": "Residential Group Housing",
       "code": "RESIDENTIAL_GROUP_HOUSING",
+      "category": "A",
+      "subCategory": [
+        "A-AF"
+      ],
       "active": true
     },
     {
       "name": "Residential Plotted",
       "code": "RESIDENTIAL_PLOTTED",
+      "category": "A",
+      "subCategory": [
+        "A-R"
+      ],
       "active": true
     },
     {
       "name": "Sports",
       "code": "SPORTS",
+      "category": "G",
+      "subCategory": [
+        "G-SI"
+      ],
       "active": true
     }
   ]
