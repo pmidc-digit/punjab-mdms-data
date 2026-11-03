@@ -31081,7 +31081,7 @@
     },
     {
       "id": 89009620202,
-      "name": "State Pet Registration Report Metadata",
+      "name": "State Pet Registration Report",
       "url": "/report/rainmaker-ptr/StatePetRegistrationReport/metadata/_get",
       "displayName": "State Pet Registration Report",
       "orderNumber": 7,
@@ -31092,7 +31092,7 @@
     },
     {
       "id": 89009630303,
-      "name": "State Pet Registration Report Get",
+      "name": "State Pet Registration Report",
       "url": "/report/rainmaker-ptr/StatePetRegistrationReport/_get",
       "displayName": "State Pet Registration Report",
       "orderNumber": 7,
