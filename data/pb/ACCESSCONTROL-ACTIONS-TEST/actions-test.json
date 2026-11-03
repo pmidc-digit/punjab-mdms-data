@@ -25721,6 +25721,43 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/obps-home"
+    },
+    {
+      "id": 89009610101,
+      "name": "State Pet Registration Report",
+      "url": "url",
+      "displayName": "State Pet Registration Report",
+      "orderNumber": 7,
+      "queryParams": "",
+      "parentModule": "STATE PET REPORTS",
+      "enabled": true,
+      "serviceCode": "STATEPETREPORTS",
+      "path": "State Pet Reports.State Pet Registration Report",
+      "navigationURL": "report/rainmaker-ptr/StatePetRegistrationReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 89009620202,
+      "name": "State Pet Registration Report",
+      "url": "/report/rainmaker-ptr/StatePetRegistrationReport/metadata/_get",
+      "displayName": "State Pet Registration Report",
+      "orderNumber": 7,
+      "enabled": true,
+      "serviceCode": "STATEPETREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89009630303,
+      "name": "State Pet Registration Report",
+      "url": "/report/rainmaker-ptr/StatePetRegistrationReport/_get",
+      "displayName": "State Pet Registration Report",
+      "orderNumber": 7,
+      "enabled": true,
+      "serviceCode": "STATEPETREPORTS",
+      "code": "null",
+      "path": ""
     }
   ]
 }
