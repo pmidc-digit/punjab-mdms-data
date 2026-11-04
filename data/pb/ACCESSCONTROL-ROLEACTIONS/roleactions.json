@@ -15250,30 +15250,6 @@
     },
     {
       "rolecode": "NOC_CEMP",
-      "actionid": 1896,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "NOC_DOC_VERIFIER",
-      "actionid": 1896,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "NOC_FIELD_INSPECTOR",
-      "actionid": 1896,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "NOC_APPROVER",
-      "actionid": 1896,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "NOC_CEMP",
       "actionid": 1756,
       "actioncode": "",
       "tenantId": "pb"
@@ -15365,30 +15341,6 @@
     {
       "rolecode": "NOC_APPROVER",
       "actionid": 1429,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "NOC_CEMP",
-      "actionid": 1896,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "NOC_FIELD_INSPECTOR",
-      "actionid": 1896,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "NOC_DOC_VERIFIER",
-      "actionid": 1896,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "NOC_APPROVER",
-      "actionid": 1896,
       "actioncode": "",
       "tenantId": "pb"
     },
@@ -33309,12 +33261,6 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "FIRE_NOC_APPROVER",
-      "actionid": 5020,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
       "rolecode": "BPA_ARCHITECT",
       "actionid": 5021,
       "actioncode": "",
@@ -34197,7 +34143,7 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "NOC_APPROVER",
+      "rolecode": "OBPAS_NOC_APPROVER",
       "actionid": 883340,
       "actioncode": "",
       "tenantId": "pb"
@@ -34245,7 +34191,7 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "NOC_APPROVER",
+      "rolecode": "OBPAS_NOC_APPROVER",
       "actionid": 883341,
       "actioncode": "",
       "tenantId": "pb"
@@ -34293,7 +34239,7 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "NOC_APPROVER",
+      "rolecode": "OBPAS_NOC_APPROVER",
       "actionid": 883342,
       "actioncode": "",
       "tenantId": "pb"
@@ -34335,7 +34281,7 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "NOC_APPROVER",
+      "rolecode": "OBPAS_NOC_APPROVER",
       "actionid": 883343,
       "actioncode": "",
       "tenantId": "pb"
@@ -34377,7 +34323,7 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "NOC_APPROVER",
+      "rolecode": "OBPAS_NOC_APPROVER",
       "actionid": 883344,
       "actioncode": "",
       "tenantId": "pb"
@@ -34419,7 +34365,7 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "NOC_APPROVER",
+      "rolecode": "OBPAS_NOC_APPROVER",
       "actionid": 883345,
       "actioncode": "",
       "tenantId": "pb"
@@ -34461,7 +34407,7 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "NOC_APPROVER",
+      "rolecode": "OBPAS_NOC_APPROVER",
       "actionid": 883346,
       "actioncode": "",
       "tenantId": "pb"
@@ -37820,7 +37766,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "HRMS_ADMIN",
       "actionid": 11111782,
@@ -41812,18 +41757,6 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "NOC_FIELD_INSPECTOR",
-      "actionid": 89010004,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "NOC_APPROVER",
-      "actionid": 89010004,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
       "rolecode": "FIRE_NOC_APPROVER",
       "actionid": 89010004,
       "actioncode": "",
@@ -41860,18 +41793,6 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "NOC_FIELD_INSPECTOR",
-      "actionid": 89010005,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "NOC_APPROVER",
-      "actionid": 89010005,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
       "rolecode": "FIRE_NOC_APPROVER",
       "actionid": 89010005,
       "actioncode": "",
@@ -41895,7 +41816,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "MISC_REC_CANCEL",
       "actionid": 237812,
@@ -42220,7 +42140,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "SUPERUSER",
       "actionid": 89000934,
@@ -42263,7 +42182,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "SUPERUSER",
       "actionid": 89000935,
@@ -42306,7 +42224,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "SUPERUSER",
       "actionid": 89000936,
@@ -42349,7 +42266,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "EMPLOYEE",
       "actionid": 89000929,
@@ -42386,7 +42302,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "EMPLOYEE",
       "actionid": 89000930,
@@ -42423,7 +42338,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "EMPLOYEE",
       "actionid": 89000931,
@@ -42460,7 +42374,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "EMPLOYEE",
       "actionid": 89000932,
@@ -42497,14 +42410,12 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "CITIZEN",
       "actionid": 89000937,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "CITIZEN",
       "actionid": 89000938,
@@ -42817,7 +42728,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "PGR_REPORT_VIEWER",
       "actionid": 1553,
@@ -43384,24 +43294,6 @@
     },
     {
       "rolecode": "OBPAS_NOC_ATP",
-      "actionid": 883341,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "OBPAS_NOC_ATP",
-      "actionid": 883346,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "OBPAS_NOC_ATP",
-      "actionid": 7007,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "OBPAS_NOC_ATP",
       "actionid": 1782,
       "actioncode": "",
       "tenantId": "pb"
@@ -43432,24 +43324,6 @@
     },
     {
       "rolecode": "OBPAS_NOC_MTP",
-      "actionid": 883341,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "OBPAS_NOC_MTP",
-      "actionid": 883346,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "OBPAS_NOC_MTP",
-      "actionid": 7007,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "OBPAS_NOC_MTP",
       "actionid": 1782,
       "actioncode": "",
       "tenantId": "pb"
@@ -43509,50 +43383,44 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "NOC_APPROVER",
+      "rolecode": "OBPAS_NOC_APPROVER",
       "actionid": 1757,
       "actioncode": "",
       "tenantId": "pb"
     },
     {
-      "rolecode": "NOC_APPROVER",
+      "rolecode": "OBPAS_NOC_APPROVER",
       "actionid": 5003,
       "actioncode": "",
       "tenantId": "pb"
     },
     {
-      "rolecode": "NOC_APPROVER",
+      "rolecode": "OBPAS_NOC_APPROVER",
       "actionid": 5026,
       "actioncode": "",
       "tenantId": "pb"
     },
     {
-      "rolecode": "NOC_APPROVER",
-      "actionid": 883341,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "NOC_APPROVER",
-      "actionid": 883346,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "NOC_APPROVER",
+      "rolecode": "OBPAS_NOC_APPROVER",
       "actionid": 7007,
       "actioncode": "",
       "tenantId": "pb"
     },
     {
-      "rolecode": "NOC_APPROVER",
+      "rolecode": "OBPAS_NOC_APPROVER",
       "actionid": 1782,
       "actioncode": "",
       "tenantId": "pb"
     },
     {
-      "rolecode": "NOC_APPROVER",
+      "rolecode": "OBPAS_NOC_APPROVER",
       "actionid": 1755,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_NOC_APPROVER",
+      "actionid": 1756,
       "actioncode": "",
       "tenantId": "pb"
     },
@@ -44252,7 +44120,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "OBPAS_BPA_MTP",
       "actionid": 1757,
@@ -44918,7 +44785,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-	{
+    {
       "rolecode": "UC_EMP",
       "actionid": 208711,
       "actioncode": "",
