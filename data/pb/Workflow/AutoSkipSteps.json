@@ -89,7 +89,7 @@
 				"BPA_ENGINEER",
 				"BPA_TOWNPLANNER",
 				"BPA_SUPERVISOR",
-				"NOC_APPROVER",
+				"OBPAS_NOC_APPROVER",
 				"OBPAS_NOC_JE"
             ],
             "hrmsSearchPath": {
