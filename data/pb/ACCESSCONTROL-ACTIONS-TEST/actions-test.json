@@ -25651,6 +25651,30 @@
       "path": ""
     },
     {
+      "id": 208713,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/OM.Water_connection_disconnection_fees/_search",
+      "displayName": "Water Disconnection Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 208714,
+      "name": "DEFAULT Payment workflow",
+      "url": "/collection-services/payments/OM.Water_connection_disconnection_fees/_workflow",
+      "displayName": "Water Disconnection Payment workflow",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
       "id": 8901002801,
       "name": "BPA_CITIZEN_HOME_SAMPLE_INDUSTRIAL_02_DXF",
       "url": "digit-ui-card",
