@@ -10,7 +10,8 @@
       "maxAmount": null,
       "fromFY": "2025-26",
       "startingDay": "1/04/2025",
-      "billingCycle": "MONTHLY"
+      "billingCycle": "MONTHLY",
+      "isPerDayPenaltyApplied": false
     },
     {
       "rate": 12.5,
@@ -20,7 +21,8 @@
       "maxAmount": null,
       "fromFY": "2025-26",
       "startingDay": "1/04/2025",
-      "billingCycle": "QUATERLY"
+      "billingCycle": "QUATERLY",
+      "isPerDayPenaltyApplied": false
     },
     {
       "rate": 12.5,
@@ -30,7 +32,8 @@
       "maxAmount": null,
       "fromFY": "2025-26",
       "startingDay": "1/04/2025",
-      "billingCycle": "BIANNUAL"
+      "billingCycle": "BIANNUAL",
+      "isPerDayPenaltyApplied": false
     },
     {
       "rate": 12.5,
@@ -40,7 +43,8 @@
       "maxAmount": null,
       "fromFY": "2025-26",
       "startingDay": "1/04/2025",
-      "billingCycle": "ANNUAL"
+      "billingCycle": "ANNUAL",
+      "isPerDayPenaltyApplied": false
     }
   ]
 }
