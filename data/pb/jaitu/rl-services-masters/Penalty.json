@@ -6,7 +6,7 @@
       "billingCycle": "MONTHLY",
       "rate": 25,
       "minAmount": 0,
-      "applicableAfterDays": 7,
+      "applicableAfterDays": 0,
       "flatAmount": null,
       "maxAmount": null,
       "fromFY": "2025-26",
