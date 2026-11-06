@@ -1338,6 +1338,12 @@
       "name": "OBPAS NoC Approver",
       "description": "OBPAS NOC Approver",
       "groupId": "004"
+    },
+    {
+      "code": "OBPAS_ALL",
+      "name": "OBPAS ALL",
+      "description": "OBPAS All access",
+      "groupId": "025"
     }
   ]
 }

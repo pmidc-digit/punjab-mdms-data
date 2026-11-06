@@ -44946,6 +44946,132 @@
       "actionid": 89009610103,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_ALL",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_ALL",
+      "actionid": 5003,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_ALL",
+      "actionid": 5026,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_ALL",
+      "actionid": 883361,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_ALL",
+      "actionid": 883364,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_ALL",
+      "actionid": 883358,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_ALL",
+      "actionid": 883341,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_ALL",
+      "actionid": 883346,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_ALL",
+      "actionid": 883341,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_ALL",
+      "actionid": 883353,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_ALL",
+      "actionid": 883350,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_ALL",
+      "actionid": 883347,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_ALL",
+      "actionid": 883369,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_ALL",
+      "actionid": 5009,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_ALL",
+      "actionid": 5024,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_ALL",
+      "actionid": 7007,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_ALL",
+      "actionid": 5020,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_ALL",
+      "actionid": 5021,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_ALL",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_ALL",
+      "actionid": 5033,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_ALL",
+      "actionid": 1782,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
