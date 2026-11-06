@@ -111,11 +111,12 @@
 	    "startSlaState": "LEVEL3_VERIFICATION_PENDING",
 	    "state": "LEVEL3_VERIFICATION_PENDING",
 	    "action": "FORWARD",
-	    "active": "false",
+	    "active": "true",
 	    "stateSLA": 604800000,
 	    "businessSLA": null,
 	    "topic": "bpa-auto-escalation",
-	    "comment": "Auto Jumped."
+	    "comment": "Auto Jumped.",
+		"terminateRoles":["OBPAS_BPA_LOW_RISE_APPROVER"]
 	  },
 	  {
 	    "businessService": "BPA_MC",
@@ -123,11 +124,12 @@
 	    "startSlaState": "LEVEL4_VERIFICATION_PENDING",
 	    "state": "LEVEL4_VERIFICATION_PENDING",
 	    "action": "FORWARD",
-	    "active": "false",
+	    "active": "true",
 	    "stateSLA": 345600000,
 	    "businessSLA": null,
 	    "topic": "bpa-auto-escalation",
-	    "comment": "Auto Jumped."
+	    "comment": "Auto Jumped.",
+		"terminateRoles":["OBPAS_BPA_LOW_RISE_APPROVER"]
 	  },
 	  {
 	    "businessService": "BPA_MC_HIGH",
@@ -171,11 +173,12 @@
 	    "startSlaState": "LEVEL3_VERIFICATION_PENDING",
 	    "state": "LEVEL3_VERIFICATION_PENDING",
 	    "action": "FORWARD",
-	    "active": "false",
+	    "active": "true",
 	    "stateSLA": 604800000,
 	    "businessSLA": null,
 	    "topic": "bpa-auto-escalation",
-	    "comment": "Auto Jumped."
+	    "comment": "Auto Jumped.",
+		"terminateRoles":["OBPAS_BPA_LOW_RISE_APPROVER"]
 	  },
 	  {
 	    "businessService": "BPA_MC_HIGH",
@@ -183,11 +186,12 @@
 	    "startSlaState": "LEVEL4_VERIFICATION_PENDING",
 	    "state": "LEVEL4_VERIFICATION_PENDING",
 	    "action": "FORWARD",
-	    "active": "false",
+	    "active": "true",
 	    "stateSLA": 345600000,
 	    "businessSLA": null,
 	    "topic": "bpa-auto-escalation",
-	    "comment": "Auto Jumped."
+	    "comment": "Auto Jumped.",
+		"terminateRoles":["OBPAS_BPA_LOW_RISE_APPROVER"]
 	  },
 	  {
 	    "businessService": "BPA_MC_OTH",
@@ -231,11 +235,12 @@
 	    "startSlaState": "LEVEL3_VERIFICATION_PENDING",
 	    "state": "LEVEL3_VERIFICATION_PENDING",
 	    "action": "FORWARD",
-	    "active": "false",
+	    "active": "true",
 	    "stateSLA": 604800000,
 	    "businessSLA": null,
 	    "topic": "bpa-auto-escalation",
-	    "comment": "Auto Jumped."
+	    "comment": "Auto Jumped.",
+		"terminateRoles":["OBPAS_BPA_LOW_RISE_APPROVER"]
 	  },
 	  {
 	    "businessService": "BPA_MC_OTH",
@@ -243,11 +248,12 @@
 	    "startSlaState": "LEVEL4_VERIFICATION_PENDING",
 	    "state": "LEVEL4_VERIFICATION_PENDING",
 	    "action": "FORWARD",
-	    "active": "false",
+	    "active": "true",
 	    "stateSLA": 345600000,
 	    "businessSLA": null,
 	    "topic": "bpa-auto-escalation",
-	    "comment": "Auto Jumped."
+	    "comment": "Auto Jumped.",
+		"terminateRoles":["OBPAS_BPA_LOW_RISE_APPROVER"]
 	  },
 	  {
 	    "businessService": "BPA_NP",
@@ -291,11 +297,12 @@
 	    "startSlaState": "LEVEL3_VERIFICATION_PENDING",
 	    "state": "LEVEL3_VERIFICATION_PENDING",
 	    "action": "FORWARD",
-	    "active": "false",
+	    "active": "true",
 	    "stateSLA": 604800000,
 	    "businessSLA": null,
 	    "topic": "bpa-auto-escalation",
-	    "comment": "Auto Jumped."
+	    "comment": "Auto Jumped.",
+		"terminateRoles":["OBPAS_BPA_LOW_RISE_APPROVER"]
 	  },
 	  {
 	    "businessService": "BPA_NP",
@@ -303,11 +310,12 @@
 	    "startSlaState": "LEVEL4_VERIFICATION_PENDING",
 	    "state": "LEVEL4_VERIFICATION_PENDING",
 	    "action": "FORWARD",
-	    "active": "false",
+	    "active": "true",
 	    "stateSLA": 345600000,
 	    "businessSLA": null,
 	    "topic": "bpa-auto-escalation",
-	    "comment": "Auto Jumped."
+	    "comment": "Auto Jumped.",
+		"terminateRoles":["OBPAS_BPA_LOW_RISE_APPROVER"]
 	  },
 	  {
 	    "businessService": "BPA_NP_HIGH",
@@ -351,11 +359,12 @@
 	    "startSlaState": "LEVEL3_VERIFICATION_PENDING",
 	    "state": "LEVEL3_VERIFICATION_PENDING",
 	    "action": "FORWARD",
-	    "active": "false",
+	    "active": "true",
 	    "stateSLA": 604800000,
 	    "businessSLA": null,
 	    "topic": "bpa-auto-escalation",
-	    "comment": "Auto Jumped."
+	    "comment": "Auto Jumped.",
+		"terminateRoles":["OBPAS_BPA_LOW_RISE_APPROVER"]
 	  },
 	  {
 	    "businessService": "BPA_NP_HIGH",
@@ -363,11 +372,12 @@
 	    "startSlaState": "LEVEL4_VERIFICATION_PENDING",
 	    "state": "LEVEL4_VERIFICATION_PENDING",
 	    "action": "FORWARD",
-	    "active": "false",
+	    "active": "true",
 	    "stateSLA": 345600000,
 	    "businessSLA": null,
 	    "topic": "bpa-auto-escalation",
-	    "comment": "Auto Jumped."
+	    "comment": "Auto Jumped.",
+		"terminateRoles":["OBPAS_BPA_LOW_RISE_APPROVER"]
 	  },
 	  {
 	    "businessService": "BPA_NP_OTH",
@@ -411,11 +421,12 @@
 	    "startSlaState": "LEVEL3_VERIFICATION_PENDING",
 	    "state": "LEVEL3_VERIFICATION_PENDING",
 	    "action": "FORWARD",
-	    "active": "false",
+	    "active": "true",
 	    "stateSLA": 604800000,
 	    "businessSLA": null,
 	    "topic": "bpa-auto-escalation",
-	    "comment": "Auto Jumped."
+	    "comment": "Auto Jumped.",
+		"terminateRoles":["OBPAS_BPA_LOW_RISE_APPROVER"]
 	  },
 	  {
 	    "businessService": "BPA_NP_OTH",
@@ -423,11 +434,12 @@
 	    "startSlaState": "LEVEL4_VERIFICATION_PENDING",
 	    "state": "LEVEL4_VERIFICATION_PENDING",
 	    "action": "FORWARD",
-	    "active": "false",
+	    "active": "true",
 	    "stateSLA": 345600000,
 	    "businessSLA": null,
 	    "topic": "bpa-auto-escalation",
-	    "comment": "Auto Jumped."
+	    "comment": "Auto Jumped.",
+		"terminateRoles":["OBPAS_BPA_LOW_RISE_APPROVER"]
 	  }
     ]
   }
