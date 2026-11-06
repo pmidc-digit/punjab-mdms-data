@@ -1,7 +1,7 @@
 {
   "tenantId": "pb.jaitu",
   "moduleName": "rl-services-masters",
-  "Penalty":  [
+  "Penalty": [
     {
       "billingCycle": "MONTHLY",
       "rate": 25,
@@ -10,7 +10,8 @@
       "flatAmount": null,
       "maxAmount": null,
       "fromFY": "2025-26",
-      "startingDay": "1/04/2025"
+      "startingDay": "1/04/2025",
+      "isPerDayPenaltyApplied": false
     }
   ]
 }

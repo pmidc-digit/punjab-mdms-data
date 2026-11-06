@@ -9,7 +9,8 @@
       "flatAmount": null,
       "maxAmount": null,
       "fromFY": "2025-26",
-      "startingDay": "1/04/2025"
+      "startingDay": "1/04/2025",
+      "isPerDayPenaltyApplied": false
     },
     {
       "billingCycle": "QUATERLY",
@@ -19,7 +20,8 @@
       "flatAmount": null,
       "maxAmount": null,
       "fromFY": "2025-26",
-      "startingDay": "1/04/2025"
+      "startingDay": "1/04/2025",
+      "isPerDayPenaltyApplied": false
     },
     {
       "billingCycle": "BIANNUAL",
@@ -29,7 +31,8 @@
       "flatAmount": null,
       "maxAmount": null,
       "fromFY": "2025-26",
-      "startingDay": "1/04/2025"
+      "startingDay": "1/04/2025",
+      "isPerDayPenaltyApplied": false
     },
     {
       "billingCycle": "ANNUAL",
@@ -39,7 +42,8 @@
       "flatAmount": null,
       "maxAmount": null,
       "fromFY": "2025-26",
-      "startingDay": "1/04/2025"
+      "startingDay": "1/04/2025",
+      "isPerDayPenaltyApplied": false
     }
   ]
 }
