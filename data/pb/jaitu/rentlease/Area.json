@@ -101,6 +101,11 @@
       "name": "Jaitu - Park Road",
       "code": "JT_PARK_ROAD_RENT_COM",
       "isActive": true
+    },
+    {
+      "name": "Jaitu - Near Gas Agency",
+      "code": "JT_NEAR_GAS_AGENCY_RENT_COM",
+      "isActive": true
     }
   ]
 }

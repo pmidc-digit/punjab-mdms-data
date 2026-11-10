@@ -4,27 +4,21 @@
   "DueDate": [
     {
       "billingCycle": "MONTHLY",
+      "dueDay": 10,
       "rebatePercentage": 0,
-      "rebateFlatAmount": 0,
-      "dueDay": 29
+      "rebateFlatAmount": 0
     },
     {
       "billingCycle": "QUATERLY",
-      "rebatePercentage": 0,
-      "rebateFlatAmount": 0,
-      "dueDay": 10
+      "dueDay": 30
     },
     {
       "billingCycle": "BIANNUAL",
-      "rebatePercentage": 0,
-      "rebateFlatAmount": 0,
-      "dueDay": 10
+      "dueDay": 45
     },
     {
       "billingCycle": "ANNUAL",
-      "rebatePercentage": 0,
-      "rebateFlatAmount": 0,
-      "dueDay": 10
+      "dueDay": 60
     }
   ]
 }
