@@ -5,7 +5,7 @@
         {
             "moduleName": "bpa-service",
             "comment": "Auto Skip State",
-            "active": true,
+            "active": false,
             "businessService": [
                 "BPA_MC",
                 "BPA_MC_HIGH",
@@ -78,7 +78,7 @@
         {
             "moduleName": "noc-service",
             "comment": "Auto Skip State",
-            "active": true,
+            "active": false,
             "businessService": [
                 "NOC_MC",
                 "NOC_NP"
