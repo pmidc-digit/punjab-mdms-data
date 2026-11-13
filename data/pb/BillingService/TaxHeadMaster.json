@@ -8922,7 +8922,17 @@
       "IsBillamend": true,
       "order": "1",
       "isRequired": false
+    },
+    {
+      "category": "REBATE",
+      "service": "rl-services",
+      "name": "RL_ADHOC_REBATE",
+      "code": "RL_ADHOC_REBATE",
+      "isDebit": true,
+      "isActualDemand": true,
+      "IsBillamend": true,
+      "order": "1",
+      "isRequired": false
     }
-
   ]
 }
