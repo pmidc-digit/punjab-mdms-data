@@ -23,8 +23,8 @@
     {
       "code": "pb.handiaya",
       "name": "Handiaya",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.lalru",
@@ -101,8 +101,8 @@
     {
       "code": "pb.hoshiarpur",
       "name": "Hoshiarpur",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.mudki",
@@ -113,8 +113,8 @@
     {
       "code": "pb.dirba",
       "name": "Dirba",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.khanauri",
@@ -233,8 +233,8 @@
     {
       "code": "pb.dharamkot",
       "name": "Dharamkot",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.muktsar",
@@ -275,8 +275,8 @@
     {
       "code": "pb.sirhind",
       "name": "Sirhind",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.talwara",
@@ -419,8 +419,8 @@
     {
       "code": "pb.ropar",
       "name": "Ropar",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.samrala",
@@ -449,8 +449,8 @@
     {
       "code": "pb.ahmedgarh",
       "name": "Ahmedgarh",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.amloh",
