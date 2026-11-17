@@ -14,49 +14,49 @@
         },
         {
           "fromPlotSize":"125.01",
-          "toPlotSize":"250",
+          "toPlotSize":"250.00",
           "securityDeposit":"1000",
           "usageType":"DOMESTIC"
         },
         {
           "fromPlotSize":"250.01",
-          "toPlotSize":"10000",
+          "toPlotSize":"10000.00",
           "securityDeposit":"1000",
           "usageType":"DOMESTIC"
         },
         {
-          "fromPlotSize":"0",
-          "toPlotSize":"125",
+          "fromPlotSize":"0,01",
+          "toPlotSize":"125.00",
           "securityDeposit":"2000",
           "usageType":"COMMERCIAL"
         },
         {
           "fromPlotSize":"125.01",
-          "toPlotSize":"10000",
+          "toPlotSize":"10000.00",
           "securityDeposit":"2000",
           "usageType":"COMMERCIAL"
         },
         {
-          "fromPlotSize":"0",
-          "toPlotSize":"125",
+          "fromPlotSize":"0.01",
+          "toPlotSize":"125.00",
           "securityDeposit":"2000",
           "usageType":"INSTITUTIONAL"
         },
         {
           "fromPlotSize":"125.01",
-          "toPlotSize":"10000",
+          "toPlotSize":"10000.00",
           "securityDeposit":"2000",
           "usageType":"INSTITUTIONAL"
         },
         {
-          "fromPlotSize":"0",
-          "toPlotSize":"125",
+          "fromPlotSize":"0.01",
+          "toPlotSize":"125.00",
           "securityDeposit":"2000",
           "usageType":"INDUSTRIAL"
         },
         {
           "fromPlotSize":"125.01",
-          "toPlotSize":"10000",
+          "toPlotSize":"10000.00",
           "securityDeposit":"2000",
           "usageType":"INDUSTRIAL"
         }
@@ -73,13 +73,13 @@
         },
         {
           "fromPlotSize":"125.01",
-          "toPlotSize":"250",
+          "toPlotSize":"250.00",
           "connectionFee":"250",
           "usageType":"DOMESTIC"
         },
         {
           "fromPlotSize":"250.01",
-          "toPlotSize":"10000",
+          "toPlotSize":"10000.00",
           "connectionFee":"500",
           "usageType":"DOMESTIC"
         },
@@ -91,7 +91,7 @@
         },
         {
           "fromPlotSize":"125.01",
-          "toPlotSize":"10000",
+          "toPlotSize":"10000.00",
           "connectionFee":"500",
           "usageType":"COMMERCIAL"
         },
@@ -103,7 +103,7 @@
         },
         {
           "fromPlotSize":"125.01",
-          "toPlotSize":"10000",
+          "toPlotSize":"10000.00",
           "connectionFee":"500",
           "usageType":"INSTITUTIONAL"
         },
@@ -115,7 +115,7 @@
         },
         {
           "fromPlotSize":"125.01",
-          "toPlotSize":"10000",
+          "toPlotSize":"10000.00",
           "connectionFee":"500",
           "usageType":"INDUSTRIAL"
         }
