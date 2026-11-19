@@ -1344,6 +1344,12 @@
       "name": "OBPAS ALL",
       "description": "OBPAS All access",
       "groupId": "025"
+    },
+    {
+      "code": "OBPAS",
+      "name": "OBPAS",
+      "description": "OBPAS orphan role",
+      "groupId": "025"
     }
   ]
 }
