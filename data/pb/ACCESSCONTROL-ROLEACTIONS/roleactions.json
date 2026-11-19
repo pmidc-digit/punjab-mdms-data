@@ -72935,6 +72935,18 @@
       "actionid": 8900803,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 8900804,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 8900804,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
