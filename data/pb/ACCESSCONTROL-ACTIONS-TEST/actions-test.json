@@ -31137,6 +31137,43 @@
       "serviceCode": "OBPASBPAREPORTS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 89555230004,
+      "name": "ULB Wise Building Plan Application Status Report",
+      "url": "url",
+      "displayName": "ULB Wise Building Plan Application Status Report",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "BUILDING PLAN REPORTS",
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "path": "BUILDING PLAN REPORTS.ULB Wise Building Plan Application Status Report",
+      "navigationURL": "report/rainmaker-obpas_bpa/ULBWiseBPAApplicationStatusReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 89555240005,
+      "name": "ULB Wise Building Plan Application Status Report",
+      "url": "/report/rainmaker-obpas_bpa/ULBWiseBPAApplicationStatusReport/metadata/_get",
+      "displayName": "ULB Wise Building Plan Application Status Report",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89555250006,
+      "name": "ULB Wise Building Plan Application Status Report",
+      "url": "/report/rainmaker-obpas_bpa/ULBWiseBPAApplicationStatusReport/_get",
+      "displayName": "ULB Wise Building Plan Application Status Report",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "code": "null",
+      "path": ""
     }
   ]
 }
