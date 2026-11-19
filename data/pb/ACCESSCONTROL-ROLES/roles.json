@@ -1688,6 +1688,12 @@
       "name": "OBPAS BPA LOW RISE APPROVER",
       "description": "Low rise approver Building Plan",
       "groupId": "025"
+    },
+    {
+      "code": "OBPAS",
+      "name": "OBPAS",
+      "description": "OBPAS orphan role",
+      "groupId": "025"
     }
   ]
 }
