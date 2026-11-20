@@ -72937,14 +72937,8 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "EMPLOYEE",
-      "actionid": 8900804,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
       "rolecode": "HRMS_ADMIN",
-      "actionid": 8900804,
+      "actionid": 8900805,
       "actioncode": "",
       "tenantId": "pb"
     },
@@ -72957,6 +72951,18 @@
     {
       "rolecode": "OBPAS",
       "actionid": 111782,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPS_ADMIN",
+      "actionid": 8900805,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPS_ADMIN",
+      "actionid": 1782,
       "actioncode": "",
       "tenantId": "pb"
     }
