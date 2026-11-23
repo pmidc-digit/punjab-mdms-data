@@ -80,7 +80,6 @@
       "description": "INTERNAL_MICROSERVICE_ROLE who can call Services internally",
       "groupId": "029"
     },
-
     {
       "code": "EMPLOYEE",
       "name": "Employee",
@@ -302,6 +301,12 @@
       "name": "HRMS ADMIN",
       "description": "HRMS Administrator which can create new employees",
       "groupId": "023"
+    },
+    {
+      "code": "OBPAS_ADMIN",
+      "name": "OBPAS ADMIN",
+      "description": "OBPAS Administrator which can transfer jurisdiction",
+      "groupId": "025"
     },
     {
       "code": "GIS_USER",
@@ -1629,24 +1634,24 @@
       "description": "For Rent and Lease Reports",
       "groupId": "006"
     },
-	{
-	  "code": "API_ONLY",
-	  "name": "API Only",
-	  "description": "Default role for API only access",
-	  "groupId": "030"
-	},
+    {
+      "code": "API_ONLY",
+      "name": "API Only",
+      "description": "Default role for API only access",
+      "groupId": "030"
+    },
     {
       "code": "BPA_Labour_Department",
       "name": "BPA Labour Department",
       "description": "Role to access by Labour Department",
       "groupId": "025"
     },
-	{
-	   "code": "DEV_API_ONLY",
-	   "name": "DEV API Only",
-	   "description": "Default role for DEV API only access",
-	   "groupId": "030"
-	},
+    {
+      "code": "DEV_API_ONLY",
+      "name": "DEV API Only",
+      "description": "Default role for DEV API only access",
+      "groupId": "030"
+    },
     {
       "code": "RL_REC_CANCEL",
       "name": "RL Receipt Cancellation",
