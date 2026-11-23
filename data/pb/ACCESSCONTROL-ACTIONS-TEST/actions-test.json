@@ -31203,7 +31203,7 @@
       "serviceCode": "OBPASADMIN",
       "code": "null",
       "navigationURL": "/digit-ui/employee/transferAppointment/jurisdiction",
-      "path": "Transfer Appointment",
+      "path": "Transfer Appointment.Jurisdiction Management",
       "leftIcon": "social:people"
     }
   ]
