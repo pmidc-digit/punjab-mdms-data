@@ -23437,7 +23437,7 @@
       "code": "null",
       "path": ""
     },
-      {
+    {
       "id": 883349,
       "name": "Advertisement Estimation",
       "url": "/adv-services/booking/v1/_estimate",
@@ -27147,7 +27147,7 @@
       "code": "null",
       "path": ""
     },
-       {
+    {
       "id": 8900155,
       "name": "rl payment search",
       "url": "/collection-services/payments/rl-services/_workflow",
@@ -30430,8 +30430,8 @@
       "serviceCode": "egov-searcher",
       "code": "null",
       "path": ""
-    },	  
-    {	
+    },
+    {
       "id": 500703,
       "name": "Collection Reciept file Update Service",
       "url": "/collection-services/payments/_update",
@@ -31042,12 +31042,13 @@
       "parentModule": "rainmaker-pt",
       "enabled": true,
       "serviceCode": "PT",
-       "code": "null",
+      "code": "null",
       "path": "Property Tax Mseva.Property Search Mseva",
       "navigationURL": "pt-mutation/propertySearch",
       "leftIcon": "social:people",
       "rightIcon": ""
-    },{
+    },
+    {
       "id": 8900160,
       "name": "Fire NOC Create Application",
       "url": "quickAction",
@@ -31190,6 +31191,20 @@
       "navigationURL": "/digit-ui/employee/hrms/empJurisSearch",
       "leftIcon": "social:people",
       "rightIcon": ""
+    },
+    {
+      "id": 8900806,
+      "name": "OBPASADMIN",
+      "url": "url",
+      "displayName": "Transfer Appointment",
+      "orderNumber": 99,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "OBPASADMIN",
+      "code": "null",
+      "navigationURL": "/digit-ui/employee/transferAppointment/jurisdiction",
+      "path": "",
+      "leftIcon": "social:people"
     }
   ]
 }
