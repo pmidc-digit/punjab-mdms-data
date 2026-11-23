@@ -65,7 +65,7 @@
     {
       "6": [
         {
-          "flatAmount": 5000,
+          "flatAmount": 10000,
           "fromFY": "2026-27",
           "applicableAfterDays": "0",
           "active": true,
@@ -77,7 +77,7 @@
     {
       "7": [
         {
-          "flatAmount": 5000,
+          "flatAmount": 10000,
           "fromFY": "2026-27",
           "applicableAfterDays": "0",
           "active": true,
