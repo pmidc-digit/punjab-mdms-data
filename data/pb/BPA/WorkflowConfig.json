@@ -240,7 +240,8 @@
 				"L-PO",
 				"L-RB",
 				"L-CC",
-				"L-MICE"
+				"L-MICE",
+				"L-MP"
 			],
 			"minArea": 0.0,
 			"maxArea": 9999999.0,
@@ -263,7 +264,8 @@
 				"L-PO",
 				"L-RB",
 				"L-CC",
-				"L-MICE"
+				"L-MICE",
+				"L-MP"
 			],
 			"minArea": 0.0,
 			"maxArea": 9999999.0,
@@ -275,12 +277,14 @@
 			],
 			"occupancyTypes": [
 				"F",
-				"A"
+				"A",
+				"L"
 			],
 			"subOccupancyTypes": [
 				"F-MIP",
 				"F-MTP",
-				"A-AF"
+				"A-AF",
+				"L-MP"
 			],
 			"minArea": 0.0,
 			"maxArea": 9999999.0,
@@ -293,12 +297,14 @@
 			],
 			"occupancyTypes": [
 				"F",
-				"A"
+				"A",
+				"L"
 			],
 			"subOccupancyTypes": [
 				"F-MIP",
 				"F-MTP",
-				"A-AF"
+				"A-AF",
+				"L-MP"
 			],
 			"minArea": 0.0,
 			"maxArea": 9999999.0,
