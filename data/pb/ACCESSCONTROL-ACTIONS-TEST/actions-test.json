@@ -31205,6 +31205,17 @@
       "navigationURL": "/digit-ui/employee/transferAppointment/jurisdiction",
       "path": "Transfer Appointment.Jurisdiction Management",
       "leftIcon": "social:people"
+    },
+    {
+      "id": 216561,
+      "name": "ReceiptRegisterReport",
+      "url": "/report/pt-reports/PTReceiptRegister/metadata/_get",
+      "displayName": "Receipt Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "PTREPORTMETADATA",
+      "code": "null",
+      "path": "Employee Report"
     }
   ]
 }
