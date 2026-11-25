@@ -161,7 +161,7 @@
     {
       "code": "pb.batala",
       "name": "Batala",
-      "iswater": false,
+      "iswater": true,
       "issewerage": false
     },
     {
@@ -990,7 +990,7 @@
       "code": "pb.mohali",
       "name": "Mohali",
       "iswater": false,
-      "issewerage": false
+      "issewerage": true
     },
     {
       "code": "pb.patiala",
