@@ -31290,6 +31290,43 @@
       "serviceCode": "OBPASNOCREPORTS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 8900114,
+      "name": "Sewerage Dump Report",
+      "url": "url",
+      "displayName": "Sewerage Dump Report",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "State Reports.WS.StateSewerage_Dump_report",
+      "navigationURL": "report/rainmaker-ws/StateSewerage_Dump_report",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900115,
+      "name": "Sewerage Dump Report",
+      "url": "/report/rainmaker-ws/StateSewerage_Dump_report/metadata/_get",
+      "displayName": "Sewerage Dump Report",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900116,
+      "name": "Sewerage Dump Report",
+      "url": "/report/rainmaker-ws/StateSewerage_Dump_report/_get",
+      "displayName": "Sewerage Dump Report",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
     }
   ]
 }
