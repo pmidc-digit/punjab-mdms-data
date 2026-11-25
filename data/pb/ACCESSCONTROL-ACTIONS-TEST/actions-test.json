@@ -31174,6 +31174,43 @@
       "serviceCode": "OBPASBPAREPORTS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 89008047,
+      "name": "ULB Wise CLU Application Status Report",
+      "url": "url",
+      "displayName": "ULB Wise CLU Application Status Report",
+      "orderNumber": 5,
+      "queryParams": "",
+      "parentModule": "OBPAS CLU REPORTS",
+      "enabled": true,
+      "serviceCode": "OBPASCLUREPORTS",
+      "path": "OBPAS CLU REPORTS.ULB Wise CLU Application Status Report",
+      "navigationURL": "report/rainmaker-obpas_clu/ULBWiseCLUApplicationStatusReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 89008058,
+      "name": "ULB Wise CLU Application Status Report",
+      "url": "/report/rainmaker-obpas_clu/ULBWiseCLUApplicationStatusReport/metadata/_get",
+      "displayName": "ULB Wise CLU Application Status Report",
+      "orderNumber": 5,
+      "enabled": true,
+      "serviceCode": "OBPASCLUREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89008069,
+      "name": "ULB Wise CLU Application Status Report",
+      "url": "/report/rainmaker-obpas_clu/ULBWiseCLUApplicationStatusReport/_get",
+      "displayName": "ULB Wise CLU Application Status Report",
+      "orderNumber": 5,
+      "enabled": true,
+      "serviceCode": "OBPASCLUREPORTS",
+      "code": "null",
+      "path": ""
     }
   ]
 }
