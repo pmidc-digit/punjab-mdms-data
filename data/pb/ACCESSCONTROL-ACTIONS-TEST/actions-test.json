@@ -31187,7 +31187,7 @@
       "enabled": true,
       "serviceCode": "HRMS",
       "code": "null",
-      "path": "HRMS.Search",
+      "path": "Transfer Appointment.Search employee By Jurisdiction",
       "navigationURL": "/digit-ui/employee/hrms/empJurisSearch",
       "leftIcon": "social:people",
       "rightIcon": ""
