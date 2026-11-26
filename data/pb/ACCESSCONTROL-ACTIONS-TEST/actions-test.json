@@ -31327,6 +31327,65 @@
       "serviceCode": "WSREPORTS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 89009211,
+      "name": "LAYOUT REPORTS",
+      "url": "/report/rainmaker-obpas_layout/_get",
+      "displayName": "LAYOUT REPORTS",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "LAYOUTREPORTS",
+      "code": "null",
+      "path": "LAYOUT REPORTS"
+    },
+    {
+      "id": 89009221,
+      "name": "LAYOUT REPORTS",
+      "url": "/report/rainmaker-obpas_layout/metadata/_get",
+      "displayName": "LAYOUT REPORTS",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "LAYOUTREPORTS",
+      "code": "null",
+      "path": "LAYOUT REPORTS"
+    },
+    {
+      "id": 89009235,
+      "name": "Layout Recent Applications Report",
+      "url": "url",
+      "displayName": "Recent Applications Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "LAYOUT REPORTS",
+      "enabled": true,
+      "serviceCode": "LAYOUTREPORTS",
+      "path": "LAYOUT REPORTS.Recent Applications Report",
+      "navigationURL": "report/rainmaker-obpas_layout/LayoutApplicationRecentReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 89009246,
+      "name": "Layout Recent Applications Report",
+      "url": "/report/rainmaker-obpas_layout/LayoutApplicationRecentReport/metadata/_get",
+      "displayName": "Recent Applications Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "LAYOUTREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89009257,
+      "name": "Layout Recent Applications Report",
+      "url": "/report/rainmaker-obpas_layout/LayoutApplicationRecentReport/_get",
+      "displayName": "Recent Applications Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "LAYOUTREPORTS",
+      "code": "null",
+      "path": ""
     }
   ]
 }
